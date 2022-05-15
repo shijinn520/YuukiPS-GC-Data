@@ -1,0 +1,14 @@
+{
+  "t": "{{SYSTEM_TIME}}",
+  "list": [
+    {
+      "ann_id": 1,
+      "title": "{{ANNOUNCEMENT_TITLE}}",
+      "subtitle": "{{ANNOUNCEMENT_SUBTITLE}}",
+      "banner": "{{DISPATCH_PUBLIC}}/hk4e/announcement/assets/banner/1.jpg",
+      "content": "{{ANNOUNCEMENT_CONTENT}}",
+      "lang": "en-US"
+    }
+  ],
+  "total": 2
+}
