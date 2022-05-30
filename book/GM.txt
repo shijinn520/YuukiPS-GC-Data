@@ -1,52 +1,53 @@
 // Grasscutter 2.6.0 GM Handbook
-// Created 2022/05/14 15:28:12
+// Created 2022/05/28 03:57:19
 
 
 // Commands
              say : Sends a message to a player as the server
   setfetterlevel : Sets your fetter level for your current active character
    setworldlevel : Sets your world level (Relog to see proper effects)
-        setstats : Set fight property for your current active character
+        setstats : Sets fight property for your current active character
             give : Gives an item to you or the specified player
-        language : display or change current language
+        language : Display or change current language
          giveall : Gives all items
            quest : Add or finish quests
      unlocktower : Unlock all levels of tower
          killall : Kill all entities
      changescene : Changes your scene
-        setstats : Set fight property for your current active character
+        setstats : Sets fight property for your current active character
           talent : Set talent level for your current active character
-         weather : Changes the weather.
+         weather : Changes the weather
      unlocktower : Unlock all levels of tower
+         giveall : Gives all items
             give : Gives an item to you or the specified player
             give : Gives an item to you or the specified player
             list : List online players
    killcharacter : Kills the players current character
      changescene : Changes your scene
             list : List online players
-         giveall : Gives all items
          giveart : Gives the player a specified artifact
         givechar : Gives the player a specified character
            tpall : Teleports all players in your world to your position
             stop : Stops the server
-        position : Get coordinates.
-      resetconst : Resets the constellation level on your current active character, will need to relog after using the command to see any changes.
-      resetconst : Resets the constellation level on your current active character, will need to relog after using the command to see any changes.
+        position : Get coordinates
+      resetconst : Resets the constellation level on your current active character, you will need to relog after using the command to see any changes
+      resetconst : Resets the constellation level on your current active character, you will need to relog after using the command to see any changes
        broadcast : Sends a message to all the players
             drop : Drops an item near you
+           quest : Add or finish quests
             drop : Drops an item near you
              say : Sends a message to a player as the server
         givechar : Gives the player a specified character
-        teleport : Change the player's position.
+        teleport : Change the player's position
          giveart : Gives the player a specified artifact
   setfetterlevel : Sets your fetter level for your current active character
    setworldlevel : Sets your world level (Relog to see proper effects)
           reload : Reload server config
-        position : Get coordinates.
+        position : Get coordinates
             heal : Heal all characters in your current team.
    killcharacter : Kills the players current character
-        sendmail : Sends mail to the specified user. The usage of this command changes based on it's composition state.
-        language : display or change current language
+        sendmail : Sends mail to the specified user. The usage of this command changes based on its composition state
+        language : Display or change current language
     enterdungeon : Enter a dungeon
          godmode : Prevents you from taking damage. Defaults to toggle.
        broadcast : Sends a message to all the players
@@ -59,15 +60,19 @@
            clear : Deletes unequipped unlocked items, including yellow rarity ones from your inventory
              say : Sends a message to a player as the server
       permission : Grants or removes a permission for a user
-       resetshop : reset shop
+       resetshop : Reset target player's shop refresh time
+            team : Modify your team manually.
    killcharacter : Kills the players current character
     enterdungeon : Enter a dungeon
+           quest : Add or finish quests
             help : Sends the help message or shows information about a specified command
+           spawn : Spawns an entity near you
            spawn : Spawns an entity near you
             kick : Kicks the specified player from the server (WIP)
              say : Sends a message to a player as the server
-         weather : Changes the weather.
-        teleport : Change the player's position.
+         weather : Changes the weather
+        teleport : Change the player's position
+       nostamina : Keep your endurance to the maximum.
          account : Modify user accounts
 
 // Avatars
@@ -117,9 +122,11 @@
 10000056 : Kujou Sara
 10000057 : Arataki Itto
 10000058 : Yae Miko
+10000060 : Yelan
 10000062 : Aloy
 10000063 : Shenhe
 10000064 : Yun Jin
+10000065 : Kuki Shinobu
 10000066 : Kamisato Ayato
 11000008 : Party Test #4
 11000009 : Background Test
@@ -190,6 +197,8 @@
 137 : Affluence Talisman
 138 : Immaculate Talisman
 139 : Conquest Talisman
+140 : Moonlit Cragstone
+142 : Stratagem Shard
 201 : Primogem
 202 : Mora
 203 : Genesis Crystal
@@ -262,9 +271,11 @@
 1056 : Kujou Sara
 1057 : Arataki Itto
 1058 : Yae Miko
+1060 : Yelan
 1062 : Aloy
 1063 : Shenhe
 1064 : Yun Jin
+1065 : Kuki Shinobu
 1066 : Kamisato Ayato
 1102 : Kamisato Ayaka's Stella Fortuna
 1103 : Jean's Stella Fortuna
@@ -311,9 +322,11 @@
 1156 : Kujou Sara's Stella Fortuna
 1157 : Arataki Itto's Stella Fortuna
 1158 : Yae Miko's Stella Fortuna
+1160 : Yelan's Stella Fortuna
 1162 : Aloy's Stella Fortuna
 1163 : Shenhe's Stella Fortuna
 1164 : Yun Jin's Stella Fortuna
+1165 : Kuki Shinobu's Stella Fortuna
 1166 : Kamisato Ayato's Stella Fortuna
 1201 : Gnostic Hymn - Old Notes
 1202 : Blessing of the Welkin Moon - New Moon
@@ -506,7 +519,7 @@
 15408 : Blackcliff Warbow
 15409 : The Viridescent Hunt
 15410 : Alley Hunter
-15411 : 
+15411 : Fading Twilight
 15412 : Mitternachts Waltz
 15413 : Windblume Ode
 15414 : Hamayumi
@@ -519,7 +532,7 @@
 15505 : Primordial Jade Vista
 15506 : Mirror Breaker
 15507 : Polar Star
-15508 : 
+15508 : Aqua Simulacra
 15509 : Thundering Pulse
 20001 : 
 20002 : Initiate's Feather
@@ -633,12 +646,12 @@
 23419 : Gladiator's Nostalgia
 23420 : Gladiator's Longing
 23421 : Maiden's Fleeting Leisure
-23422 : Maiden's Heart-stricken Infatuation
+23422 : Maiden's Heart-Stricken Infatuation
 23423 : Maiden's Fading Beauty
 23424 : Maiden's Distant Love
 23425 : Maiden's Passing Youth
 23426 : Maiden's Fleeting Leisure
-23427 : Maiden's Heart-stricken Infatuation
+23427 : Maiden's Heart-Stricken Infatuation
 23428 : Maiden's Fading Beauty
 23429 : Maiden's Distant Love
 23430 : Maiden's Passing Youth
@@ -673,22 +686,22 @@
 23459 : Snowswept Memory
 23460 : Frozen Homeland's Demise
 23461 : Maiden's Fleeting Leisure
-23462 : Maiden's Heart-stricken Infatuation
+23462 : Maiden's Heart-Stricken Infatuation
 23463 : Maiden's Fading Beauty
 23464 : Maiden's Distant Love
 23465 : Maiden's Passing Youth
 23466 : Maiden's Fleeting Leisure
-23467 : Maiden's Heart-stricken Infatuation
+23467 : Maiden's Heart-Stricken Infatuation
 23468 : Maiden's Fading Beauty
 23469 : Maiden's Distant Love
 23470 : Maiden's Passing Youth
 23471 : Maiden's Fleeting Leisure
-23472 : Maiden's Heart-stricken Infatuation
+23472 : Maiden's Heart-Stricken Infatuation
 23473 : Maiden's Fading Beauty
 23474 : Maiden's Distant Love
 23475 : Maiden's Passing Youth
 23476 : Maiden's Fleeting Leisure
-23477 : Maiden's Heart-stricken Infatuation
+23477 : Maiden's Heart-Stricken Infatuation
 23478 : Maiden's Fading Beauty
 23479 : Maiden's Distant Love
 23480 : Maiden's Passing Youth
@@ -2838,10 +2851,10 @@
 74313 : Maiden's Fleeting Leisure
 74314 : Maiden's Fleeting Leisure
 74320 : Maiden's Heart-stricken Infatuation
-74321 : Maiden's Heart-stricken Infatuation
-74322 : Maiden's Heart-stricken Infatuation
-74323 : Maiden's Heart-stricken Infatuation
-74324 : Maiden's Heart-stricken Infatuation
+74321 : Maiden's Heart-Stricken Infatuation
+74322 : Maiden's Heart-Stricken Infatuation
+74323 : Maiden's Heart-Stricken Infatuation
+74324 : Maiden's Heart-Stricken Infatuation
 74330 : Maiden's Fading Beauty
 74331 : Maiden's Fading Beauty
 74332 : Maiden's Fading Beauty
@@ -2862,11 +2875,11 @@
 74412 : Maiden's Fleeting Leisure
 74413 : Maiden's Fleeting Leisure
 74414 : Maiden's Fleeting Leisure
-74420 : Maiden's Heart-stricken Infatuation
-74421 : Maiden's Heart-stricken Infatuation
-74422 : Maiden's Heart-stricken Infatuation
-74423 : Maiden's Heart-stricken Infatuation
-74424 : Maiden's Heart-stricken Infatuation
+74420 : Maiden's Heart-Stricken Infatuation
+74421 : Maiden's Heart-Stricken Infatuation
+74422 : Maiden's Heart-Stricken Infatuation
+74423 : Maiden's Heart-Stricken Infatuation
+74424 : Maiden's Heart-Stricken Infatuation
 74430 : Maiden's Fading Beauty
 74431 : Maiden's Fading Beauty
 74432 : Maiden's Fading Beauty
@@ -2887,11 +2900,11 @@
 74512 : Maiden's Fleeting Leisure
 74513 : Maiden's Fleeting Leisure
 74514 : Maiden's Fleeting Leisure
-74520 : Maiden's Heart-stricken Infatuation
-74521 : Maiden's Heart-stricken Infatuation
-74522 : Maiden's Heart-stricken Infatuation
-74523 : Maiden's Heart-stricken Infatuation
-74524 : Maiden's Heart-stricken Infatuation
+74520 : Maiden's Heart-Stricken Infatuation
+74521 : Maiden's Heart-Stricken Infatuation
+74522 : Maiden's Heart-Stricken Infatuation
+74523 : Maiden's Heart-Stricken Infatuation
+74524 : Maiden's Heart-Stricken Infatuation
 74530 : Maiden's Fading Beauty
 74531 : Maiden's Fading Beauty
 74532 : Maiden's Fading Beauty
@@ -4936,7 +4949,7 @@
 100892 : Vahid's Kneaded Onigiri
 100893 : Naganohara Fireworks Note
 100894 : Spirit Pearl
-100895 : Key of the Moon-bathed Deep
+100895 : Key of the Moon-Bathed Deep
 100896 : Strange Bottle
 100897 : Water Welling With "Wishes"
 100898 : Spiritherb Water
@@ -5291,6 +5304,8 @@
 101713 : 
 101714 : Fragrant Seasoning
 101715 : Fragrant Vegetarian Abalone
+101716 : The Almighty Arataki Great and Glorious Drumalong Festival!
+101717 : Worksite Records
 101719 : Fragrant Mint Salad
 101720 : Fragrant Triple-Layered Consommé
 101724 : Zhiqiong's Letter
@@ -5325,6 +5340,7 @@
 101755 : Statue of Her Excellency, the Almighty Narukami Ogosho, God of Thunder
 101756 : Kokomi's Shopping List
 101757 : Toy Fox
+101758 : Salary Bag
 101766 : A Legend of Sword (VI)
 101767 : Shogun Almighty: Reborn as Raiden With Unlimited Power
 101768 : Pretty Please, Kitsune Guuji?
@@ -5344,6 +5360,32 @@
 101794 : 
 101795 : Bag of Ornaments
 101797 : Let's Go, Dodoco!
+101862 : Note of Unknown Origin: I
+101863 : Note of Unknown Origin: II
+101864 : Note of Unknown Origin: III
+101865 : Note of Unknown Origin: IV
+101867 : Redemption Voucher 1
+101868 : Redemption Voucher 2
+101869 : Redemption Voucher 3
+101870 : Redemption Voucher 4
+101871 : Redemption Voucher 5
+101872 : Redemption Voucher 6
+101873 : Redemption Voucher 7
+101874 : Redemption Voucher 8
+101875 : Redemption Voucher 9
+101876 : Redemption Voucher 10
+101877 : Redemption Voucher 11
+101878 : Redemption Voucher 12
+101879 : Redemption Voucher 13
+101880 : Redemption Voucher 14
+101881 : Redemption Voucher 15
+101882 : Redemption Voucher 16
+101883 : Redemption Voucher 17
+101884 : Redemption Voucher 18
+101885 : Redemption Voucher 19
+101886 : Redemption Voucher 20
+101894 : Note of Unknown Origin
+101909 : Dragonspine Supplies: Ham
 102001 : Pyro Shard
 102002 : Hydro Shard
 102003 : Dendro Shard
@@ -5837,6 +5879,8 @@
 108385 : Rainbow Aster
 108386 : Delicious Rainbow Aster
 108387 : Quiet Elegance
+108388 : Omurice Waltz
+108389 : Dew-Dipped Shrimp
 109000 : Recipe Item
 109101 : Recipe: Chicken-Mushroom Skewer
 109102 : Recipe: Fisherman's Toast
@@ -6313,6 +6357,7 @@
 200107 : Ako's Sake Vessel
 200108 : Alkahest
 200109 : Ointment of Sight
+200110 : Glowing Gem
 200201 : Falcon's Dance
 200202 : Steelwing
 200203 : Galespring
@@ -6494,6 +6539,9 @@
 210116 : Achievement: Thunderclap
 210117 : Achievement: Chasm
 210118 : Travel Notes: Irodori
+210119 : Yelan: Throw
+210120 : Kuki Shinobu: Net
+210121 : Travel Notes: Divine Will
 220001 : Anemoculus Resonance Stone
 220002 : Geoculus Resonance Stone
 220003 : Geo Treasure Compass
@@ -6541,6 +6589,9 @@
 220048 : Lumenstone Adjuvant
 220049 : Bokuso Box
 220050 : 
+220051 : Arataki's Great and Glorious Drum
+220052 : Material Collector
+220054 : 
 221001 : Instructions: Anemoculus Resonance Stone
 221002 : Instructions: Geoculus Resonance Stone
 221003 : Diagram: Geo Treasure Compass
@@ -6668,6 +6719,7 @@
 380414 : Maple Wood Chandelier: Illume
 380415 : Blooming Candle: Pure as a Lotus
 380416 : Rainbow Lights: At Dawn We Celebrate
+380418 : Stoneworks Lamp: Deeping-Gloom Candle
 381101 : Northern Birch Folding Counter
 381102 : Open-Top Fir Shelf
 381103 : Fir Case Shelf Combination
@@ -6799,6 +6851,7 @@
 390113 : Aralia "Fusen" Cupboard
 390114 : Yumemiru "Dewcover" Wardrobe
 390115 : Yumemiru "Decorum" Kimono Rack
+390116 : Pear Orchard Stage: Yun-Han Style
 390201 : Multi-Arched Mondstadt Building
 390202 : Mondstadt House With Overhanging Attic
 390203 : Warm and Dry Mondstadt Apartment
@@ -6878,6 +6931,8 @@
 391116 : Whitestone Hot Spring: Diffusing Warmth
 391117 : Of Fields Green: Clear Spring Fountain
 391118 : Sub-Space Cabochon: In Soaring Flight
+391119 : Stoneworks Crane: Mountain Mover
+391120 : Stoneworks Crane: Hill Tamer
 391201 : Adeptus Gate
 391202 : Birch Main Courtyard Gate
 391203 : Carved Courtyard Fence Ending
@@ -6986,6 +7041,8 @@
 393339 : Gold-Inscribed Evil-Cleansing Banner
 393343 : Tanuki Hugs Photo Board
 393344 : "Kitsune Guuji" Exclusive Painted Flag Banner
+393346 : Pear Orchard Screen: Dexterous
+393347 : Pear Orchard Screen: Deft
 393401 : Wrought Iron Carved Street Light
 393402 : Pine Street Light
 393403 : Evil-Repelling Lantern: All-Around Lighting
@@ -7019,6 +7076,7 @@
 394203 : Googol Chair
 394204 : Square Yumemiru Stool
 394205 : Otogi "Rakushi" Square Stool
+394207 : Pear Orchard Seat: Gathered in Joy
 394301 : Two-Story Hilichurl Sentry Tower
 394302 : Doorless Pine Cupboard
 394303 : Heavy Fir Forging Table
@@ -7032,6 +7090,8 @@
 394311 : Googol Table
 394312 : Long Yumemiru Table
 394313 : Otogi "Rakushi" Square Table
+394315 : Pear Orchard Seat: Of Tunes and Fragrant Tea
+394316 : Pear Orchard Accessory: Attend and Listen
 394401 : Wine Shop Display Counter: To Your Heart's Content
 394402 : Crude Double-Decker Pallet
 394403 : "Cradle of Flowers"
@@ -7040,6 +7100,7 @@
 394502 : Foundations of Stone: Timely Arrival
 394503 : Foundations of Stone: Double-Time
 394504 : Of Fields Green: Cookie Road
+394505 : Foundations of Stone: Grand Design
 
 // Scenes
 1 : BigWorld_LevelStreaming
@@ -7090,6 +7151,7 @@
 1065 : Level_TenryuBugyo01
 1066 : IndoorScene_Dq_Uyutei
 1068 : IndoorScene_Md_AngelShare_Bartender01
+1069 : IndoorScene_Ly_CyRoom
 1070 : Level_Tower_Moon_01
 2001 : Homeworld_Exterior_Above
 2002 : Homeworld_Exterior_Karst
@@ -7154,6 +7216,11 @@
 20124 : Level_Eldritch_Minor01
 20125 : Level_WeekDungeon_Baal
 20126 : Level_QuestRongcai_Dungeon01
+20127 : Level_CYDungeon_Activy01
+20128 : Level_CYDungeon_Activy02
+20129 : Level_CYDungeon_Activy03
+20130 : IndoorScene_Ly_CyRoom
+20131 : Level_FCdungeon_Yelan
 30001 : LevelTest_CurseMaze
 30100 : Level_Tower_Morning_01
 30101 : Level_Tower_Morning_01
@@ -7306,6 +7373,8 @@
 33730 : Level_Tower_Universe_01
 33731 : Level_Tower_Moon_01
 33732 : Level_Tower_Universe_01
+33733 : Level_Tower_Moon_01
+33734 : Level_Tower_Universe_01
 34100 : Level_Tower_Morning_01
 34101 : Level_Tower_01_Water
 34102 : Level_Tower_01_Open
@@ -7347,6 +7416,8 @@
 34730 : Level_Tower_Universe_01
 34731 : Level_Tower_Moon_01
 34732 : Level_Tower_Universe_01
+34733 : Level_Tower_Moon_01
+34734 : Level_Tower_Universe_01
 35100 : Level_Tower_Morning_01
 35101 : Level_Tower_Morning_01
 35102 : Level_Tower_Morning_01
@@ -7388,6 +7459,8 @@
 35730 : Level_Tower_Universe_01
 35731 : Level_Tower_Moon_01
 35732 : Level_Tower_Universe_01
+35733 : Level_Tower_Moon_01
+35734 : Level_Tower_Universe_01
 35800 : Level_CycleDungeon_WindFlower
 35801 : Level_ContestBattle01
 35802 : Level_ContestBattle01
@@ -7602,6 +7675,8 @@
 41045 : Level_Tower_01_Open
 41046 : Level_Tower_01_Open
 41047 : Level_Tower_01_Open
+41048 : Level_Tower_01_Open
+41049 : Level_Tower_01_Open
 42001 : Level_PFDungeon02_Active01
 42002 : Level_PFDungeon02_Active02
 42003 : Level_PFDungeon02_Active07
@@ -7672,6 +7747,9 @@
 45059 : Level_CustomLevel_A_05
 46001 : Level_Tower_Universe_01
 46101 : Level_HFDungeon_Prison01
+46201 : Level_CYDungeon_ActivityRouge01
+46202 : Level_CYDungeon_Activy02
+46203 : Level_CYDungeon_Activy03
 47001 : Level_OnmyoMaze_01
 47002 : Level_OnmyoMaze_05
 47003 : Level_OnmyoMaze_03
@@ -7707,7 +7785,7 @@
 50014 : Monster_StrategyTest_LTJ
 50015 : LevelTestRooms
 50016 : Level_CharactersPattern_Test
-50017 : Level_Tower_Night_01
+50017 : Level_Tower_Moon_01
 50018 : TestLevel_Protect_MC
 50019 : TestLevel_Protect_MC
 50020 : ClimbTest1
@@ -7995,12 +8073,12 @@
 38302 : Crystal Tears - Talk to Jean
 38303 : Crystal Tears - Use Dvalin's Tear on the Holy Lyre
 38304 : Crystal Tears - 
-38401 : Reunion with the Dragon - 
-38402 : Reunion with the Dragon - Go to Starsnatch Cliff
-38403 : Reunion with the Dragon - Talk to Venti
-38404 : Reunion with the Dragon - 
-38405 : Reunion with the Dragon - 
-38406 : Reunion with the Dragon - 
+38401 : Reunion With the Dragon - 
+38402 : Reunion With the Dragon - Go to Starsnatch Cliff
+38403 : Reunion With the Dragon - Talk to Venti
+38404 : Reunion With the Dragon - 
+38405 : Reunion With the Dragon - 
+38406 : Reunion With the Dragon - 
 38801 : Hurdle - 
 38802 : Hurdle - Defeat the assailants
 38803 : Hurdle - Disperse the wind barrier
@@ -8271,12 +8349,12 @@
 48003 : License to Glide - Follow Amber's instructions and take the exam again
 48004 : License to Glide - Talk to Amber
 48005 : License to Glide - Go to the exam point
-48101 : Glide with the Wind - Talk to Amber
-48102 : Glide with the Wind - Read Amber's Gliding Guide (Hidden)
-48103 : Glide with the Wind - Leave Area (Hidden)
-48104 : Glide with the Wind - Talk to Paimon
-48105 : Glide with the Wind - Play - Fable
-48106 : Glide with the Wind - Paimon's Doubts
+48101 : Glide With the Wind - Talk to Amber
+48102 : Glide With the Wind - Read Amber's Gliding Guide (Hidden)
+48103 : Glide With the Wind - Leave Area (Hidden)
+48104 : Glide With the Wind - Talk to Paimon
+48105 : Glide With the Wind - Play - Fable
+48106 : Glide With the Wind - Paimon's Doubts
 48201 : Gliding Training at Windrise - Go to the training spot
 48202 : Gliding Training at Windrise - Talk to Amber
 48203 : Gliding Training at Windrise - Gliding Training at Windrise - Teleportation Ring
@@ -8995,6 +9073,13 @@
 101704 :  - 
 101705 :  - 
 101801 : Dust to Dust - Return to Liyue Harbor and find Childe
+101901 : The Unexpected Guest - Go to the lower levels of The Chasm
+101902 : The Unexpected Guest - Talk to Yanfei
+101903 : The Unexpected Guest - Go deeper within The Chasm
+101904 : The Unexpected Guest - Discuss matters with everyone
+101905 : The Unexpected Guest - Go to where Yelan is
+101906 : The Unexpected Guest - 
+101907 : The Unexpected Guest - Go to the lower levels of The Chasm
 102001 : The Floating Palace - Go to Mt. Tianheng
 102002 : The Floating Palace - Search for a way up to the Jade Chamber
 102003 : The Floating Palace - Try using the mechanism
@@ -9063,6 +9148,90 @@
 102602 :  - 
 102603 :  - 
 102604 :  - 
+102701 :  - 
+ : Chasmic Maze - Enter the Domain
+102802 : Chasmic Maze - Talk to everyone
+102803 : Chasmic Maze - Leave the Domain
+102804 : Chasmic Maze - Talk to everyone
+102805 : Chasmic Maze - Talk to everyone
+102806 : Chasmic Maze - Talk to everyone
+102807 : Chasmic Maze - 
+102808 : Chasmic Maze - Ascertain if the Domain leads outside
+102809 : Chasmic Maze - 
+102901 : Danger All Around - Wait till the next day
+102902 : Danger All Around - Continue exploring
+102903 : Danger All Around - Confirm the situation inside the Domain
+102904 : Danger All Around - Go to the breach on the platform
+102905 : Danger All Around - Jump into the breach
+102906 : Danger All Around - Examine the mysterious door in front of you
+102907 : Danger All Around - 
+102908 : Danger All Around - Enter the door
+102909 : Danger All Around - Escape from here
+102910 : Danger All Around - Talk to everyone
+102911 : Danger All Around - Talk to everyone
+102912 : Danger All Around - Head to the place Yanfei mentioned
+102913 : Danger All Around - Try to make contact with Xiao
+102914 : Danger All Around - Talk to Xiao
+102915 : Danger All Around - Talk to Yelan
+102916 : Danger All Around - Talk to everyone
+102917 : Danger All Around - Talk to everyone
+102918 : Danger All Around - Talk to Yanfei
+102919 : Danger All Around - Talk to everyone
+102920 : Danger All Around - Talk to everyone
+102921 : Danger All Around - Talk to everyone
+102922 : Danger All Around - Talk to everyone
+102923 : Danger All Around - 
+102924 : Danger All Around - 
+102925 : Danger All Around - 
+102926 : Danger All Around - 
+102927 : Danger All Around - 
+102928 : Danger All Around - 
+102929 : Danger All Around - 
+102930 : Danger All Around - 
+102931 : Danger All Around - 
+102932 : Danger All Around - 
+102933 : Danger All Around - 
+102934 : Danger All Around - 
+102935 : Danger All Around - Talk to everyone
+102936 : Danger All Around - Return to camp
+103001 : End of the Line - Talk to Paimon
+103002 : End of the Line - Talk to Kuki Shinobu
+103003 : End of the Line - Enter the new Domain
+103004 : End of the Line - 
+103005 : End of the Line - Enter the new space
+103006 : End of the Line - Talk to everyone
+103007 : End of the Line - Talk to Yanfei
+103008 : End of the Line - Defeat opponents
+103009 : End of the Line - Talk to Yanfei
+103010 : End of the Line - 
+103011 : End of the Line - Find more clues in the space
+103012 : End of the Line - Talk to Yelan
+103013 : End of the Line - Defeat opponents
+103014 : End of the Line - Talk to Yelan
+103015 : End of the Line - 
+103016 : End of the Line - Enter the new space
+103017 : End of the Line - Talk to Xiao
+103018 : End of the Line - Defeat opponents
+103019 : End of the Line - Talk to Xiao
+103020 : End of the Line - Enter the new space
+103021 : End of the Line - Talk to everyone
+103022 : End of the Line - Travel through the Abyss
+103023 : End of the Line - Keep up with "the one to find"
+103024 : End of the Line - Discarded
+103025 : End of the Line - #Catch up with "{F#him}{M#her}"
+103026 : End of the Line - Talk to everyone
+103027 : End of the Line - Leave the place you are in
+103101 : At Tunnel's End, Light - Talk to Yelan
+103102 : At Tunnel's End, Light - Go back and meet up with the ones left behind
+103103 : At Tunnel's End, Light - Play CS
+103104 : At Tunnel's End, Light - Talk to everyone
+103105 : At Tunnel's End, Light - Go to the place Xiao mentioned
+103106 : At Tunnel's End, Light - Talk to Xiao
+103107 : At Tunnel's End, Light - 
+103108 : At Tunnel's End, Light - 
+103109 : At Tunnel's End, Light - 
+103201 :  - 
+103301 :  - 
 200001 : A Path Through the Storm - Take in the view outside of Liyue Harbor to collect your thoughts
 200002 : A Path Through the Storm - Talk to Paimon
 200003 : A Path Through the Storm - Ask Atsuko about how to travel to Inazuma
@@ -9236,14 +9405,14 @@
 201310 : Ritou Escape Plan - Say farewell to Hiiragi Chisato
 201311 : Ritou Escape Plan - Go to the Kanjou Commissioner's Office to ask about a way to leave Ritou
 201312 : Ritou Escape Plan - 
-201401 : Those Who Yearn For the Gods' Gaze - Go and investigate the ancient ruins
-201402 : Those Who Yearn For the Gods' Gaze - 
-201403 : Those Who Yearn For the Gods' Gaze - Investigate the ancient ruins
-201404 : Those Who Yearn For the Gods' Gaze - Defeat the attacking monsters
-201405 : Those Who Yearn For the Gods' Gaze - Chat with Paimon
-201406 : Those Who Yearn For the Gods' Gaze - Return to headquarters and talk to Sangonomiya Kokomi
-201407 : Those Who Yearn For the Gods' Gaze - Look for Teppei
-201408 : Those Who Yearn For the Gods' Gaze - Talk to Teppei
+201401 : Those Who Yearn for the Gods' Gaze - Go and investigate the ancient ruins
+201402 : Those Who Yearn for the Gods' Gaze - 
+201403 : Those Who Yearn for the Gods' Gaze - Investigate the ancient ruins
+201404 : Those Who Yearn for the Gods' Gaze - Defeat the attacking monsters
+201405 : Those Who Yearn for the Gods' Gaze - Chat with Paimon
+201406 : Those Who Yearn for the Gods' Gaze - Return to headquarters and talk to Sangonomiya Kokomi
+201407 : Those Who Yearn for the Gods' Gaze - Look for Teppei
+201408 : Those Who Yearn for the Gods' Gaze - Talk to Teppei
 201501 : Delusion - Talk to Sangonomiya Kokomi
 201502 : Delusion - Search for the place where the Delusions are being made
 201503 : Delusion - Enter the Delusion Factory
@@ -9498,8 +9667,8 @@
 1011207 : Lionfang's Legacy - 
 1011208 : Lionfang's Legacy - 
 1011209 : Lionfang's Legacy - Defeat the attacking hilichurl
-1011210 : Lionfang's Legacy - 
-1011211 : Lionfang's Legacy - 
+1011210 : Lionfang's Legacy - Talk to the hilichurl
+1011211 : Lionfang's Legacy - Talk to Venti
 1011212 : Lionfang's Legacy - 
 1011213 : Lionfang's Legacy - 
 1011300 : Should You Be Trapped in a Windless Land - Wait for night to fall (18:00 – 23:00)
@@ -9557,22 +9726,22 @@
 1012216 : Through the Motions, to the Heart - Go deeper within and retrieve the diagram of the city's defenses
 1012217 : Through the Motions, to the Heart - 
 1012218 : Through the Motions, to the Heart - 
-1020001 : Who is Mondstadt's Strongest Fighter? - Wait until night
-1020002 : Who is Mondstadt's Strongest Fighter? - Paimon Patton Dialog
-1020003 : Who is Mondstadt's Strongest Fighter? - Enter Tavern
-1020004 : Who is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
-1020005 : Who is Mondstadt's Strongest Fighter? - Discuss your findings with Paimon
-1020006 : Who is Mondstadt's Strongest Fighter? - Go to the Knights of Favonius Headquarters
-1020007 : Who is Mondstadt's Strongest Fighter? - Ask Jean about the strongest fighter in Mondstadt
-1020008 : Who is Mondstadt's Strongest Fighter? - Leave the Knights of Favonius office
-1020009 : Who is Mondstadt's Strongest Fighter? - 
-1020010 : Who is Mondstadt's Strongest Fighter? - Ask about the girl
-1020011 : Who is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
-1020012 : Who is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
-1020013 : Who is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
-1020014 : Who is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
-1020015 : Who is Mondstadt's Strongest Fighter? - Talk to Patton about recent conversation topics
-1020016 : Who is Mondstadt's Strongest Fighter? - 
+1020001 : Who Is Mondstadt's Strongest Fighter? - Wait until night
+1020002 : Who Is Mondstadt's Strongest Fighter? - Paimon Patton Dialog
+1020003 : Who Is Mondstadt's Strongest Fighter? - Enter Tavern
+1020004 : Who Is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
+1020005 : Who Is Mondstadt's Strongest Fighter? - Discuss your findings with Paimon
+1020006 : Who Is Mondstadt's Strongest Fighter? - Go to the Knights of Favonius Headquarters
+1020007 : Who Is Mondstadt's Strongest Fighter? - Ask Jean about the strongest fighter in Mondstadt
+1020008 : Who Is Mondstadt's Strongest Fighter? - Leave the Knights of Favonius office
+1020009 : Who Is Mondstadt's Strongest Fighter? - 
+1020010 : Who Is Mondstadt's Strongest Fighter? - Ask about the girl
+1020011 : Who Is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
+1020012 : Who Is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
+1020013 : Who Is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
+1020014 : Who Is Mondstadt's Strongest Fighter? - Ask tavern patrons about the strongest fighter in Mondstadt
+1020015 : Who Is Mondstadt's Strongest Fighter? - Talk to Patton about recent conversation topics
+1020016 : Who Is Mondstadt's Strongest Fighter? - 
 1020101 : The Mystery of the Girl in Red's Treasure - Find the treasure trove in the Whispering Woods
 1020102 : The Mystery of the Girl in Red's Treasure - Chase down the Abyss Mage with Klee (If the Abyss Mage gets more than 50m away, the quest will be failed)
 1020103 : The Mystery of the Girl in Red's Treasure - Pursuit I
@@ -9653,11 +9822,11 @@
 1100302 : Lucky Find - Talk to Xiangling and the shivering man
 1100303 : Lucky Find - Make a Delicious Radish Veggie Soup
 1100304 : Lucky Find - Give the hunter the soup you prepared
-1100401 : Present from the Past - Catch up to Xiangling in the ruins
-1100402 : Present from the Past - Go into the depths of the ruins in search of ingredients
-1100403 : Present from the Past - Talk to Xiangling
-1100498 : Present from the Past - (Dialog after encountering giant mist flower)
-1100499 : Present from the Past - (Dialog after defeating enemies in first combat zone of dungeon)
+1100401 : Present From the Past - Catch up to Xiangling in the ruins
+1100402 : Present From the Past - Go into the depths of the ruins in search of ingredients
+1100403 : Present From the Past - Talk to Xiangling
+1100498 : Present From the Past - (Dialog after encountering giant mist flower)
+1100499 : Present From the Past - (Dialog after defeating enemies in first combat zone of dungeon)
 1100501 : Cooking Showdown - Return to Springvale for the cooking showdown
 1100502 : Cooking Showdown - Talk to Xiangling at the Cooking Showdown
 1100503 : Cooking Showdown - Help Xiangling during the cooking showdown
@@ -9836,6 +10005,48 @@
 1101511 : Where the Heart Finds Rest - 
 1101601 :  - 
 1101701 :  - 
+1101801 : Seven-Star Selection - Walk around in Liyue Harbor
+1101802 : Seven-Star Selection - Go to the 2nd floor of Yanshang Teahouse
+1101803 : Seven-Star Selection - Talk to Uncle Tian
+1101804 : Seven-Star Selection - Go to Yuehai Pavilion to perform your inspection
+1101805 : Seven-Star Selection - 
+1101806 : Seven-Star Selection - Report the outcome of your inspection to Uncle Tian
+1101807 : Seven-Star Selection - Check the candidate's manifesto
+1101808 : Seven-Star Selection - Check the candidate's manifesto
+1101809 : Seven-Star Selection - Check the candidate's manifesto
+1101810 : Seven-Star Selection - Check on the three people with Yelan
+1101901 : Candidature Analysis - Go to the North Wharf to look for Bolai
+1101902 : Candidature Analysis - Talk to Bolai
+1101903 : Candidature Analysis - Listen to Zhiyi and Linlang chat
+1101904 : Candidature Analysis - Talk to Yelan
+1101905 : Candidature Analysis - Follow Zhiyi
+1101906 : Candidature Analysis - Go and check the South Wharf
+1101907 : Candidature Analysis - Talk to Uncle Sun
+1101908 : Candidature Analysis - Continue looking for clues at the wharf (0/2)
+1101909 : Candidature Analysis - Continue looking for clues at the wharf (1/2)
+1101910 : Candidature Analysis - Go back to Yanshang Teahouse and check the manifesto
+1101911 : Candidature Analysis - Check the manifesto carefully
+1101912 : Candidature Analysis - Speak to Shanghua
+1101913 : Candidature Analysis - Go to Blackcliff Forge to investigate
+1101914 : Candidature Analysis - Go to Blackcliff Forge to search for clues
+1101915 : Candidature Analysis - Talk to Iron Shoulder about the newcomers at the forge
+1101916 : Candidature Analysis - Investigate the logs
+1101918 : Candidature Analysis - Follow the footprints
+1101919 : Candidature Analysis - Follow the footprints
+1101920 : Candidature Analysis - Follow the footprints
+1101921 : Candidature Analysis - Follow the footprints
+1101922 : Candidature Analysis - Follow the footprints
+1101923 : Candidature Analysis - 
+1101924 : Candidature Analysis - Talk to Yelan
+1101925 : Candidature Analysis - 
+1101926 : Candidature Analysis - 
+1101927 : Candidature Analysis - 
+1101928 : Candidature Analysis - 
+1101929 : Candidature Analysis - Investigate the abandoned camp
+1101930 : Candidature Analysis - 
+1101931 : Candidature Analysis - 
+1101932 : Candidature Analysis - 
+1101933 : Candidature Analysis - 
 1102001 : Shadow of Yore - Go to the Pearl Galley
 1102002 : Shadow of Yore - Meet Zhongli at the tableside
 1102003 : Shadow of Yore - Head to the stern and ask Wanyan about her problem
@@ -9875,6 +10086,32 @@
 1102402 : A Record of All Things - Consign the relics to the ocean
 1102501 :  - 
 1102502 :  - 
+1102601 : Foregone Conclusion - Wait until 09:00 – 11:00 the following day
+1102602 : Foregone Conclusion - Go to Yuehai Pavilion to announce the results
+1102603 : Foregone Conclusion - 
+1102604 : Foregone Conclusion - Go to Feiyun Slope and follow Zhiyi
+1102605 : Foregone Conclusion - Go to Xinyue Kiosk to investigate
+1102606 : Foregone Conclusion - Go to Xigu Antiques to investigate
+1102607 : Foregone Conclusion - Go to Yanshang Teahouse after 20:00
+1102608 : Foregone Conclusion - Go to Yanshang Teahouse to meet Yelan
+1102609 : Foregone Conclusion - Go to Qingxu Pool
+1102610 : Foregone Conclusion - Go to the place Yelan pointed out
+1102611 : Foregone Conclusion - Enter the underground ruins
+1102612 : Foregone Conclusion - Investigate the area ahead
+1102613 : Foregone Conclusion - Catch up with the suspicious ambassador
+1102614 : Foregone Conclusion - Listen to Zhiyi and Yusupov talk
+1102615 : Foregone Conclusion - Follow Yelan
+1102616 : Foregone Conclusion - Leave the underground ruins
+1102617 : Foregone Conclusion - Wait until after 08:00 the following day
+1102618 : Foregone Conclusion - Go to Yanshang Teahouse
+1102619 : Foregone Conclusion - Catch up with the suspicious ambassador
+1102620 : Foregone Conclusion - Investigate the underwater entrance
+1102621 : Foregone Conclusion - 
+1102622 : Foregone Conclusion - Move the statue to solve the puzzle
+1102623 : Foregone Conclusion - Continue deeper within
+1102624 : Foregone Conclusion - 
+1102625 : Foregone Conclusion - 
+1102626 : Foregone Conclusion - 
 1103001 : The Illuminated Beast of the Sea of Clouds - Talk to the Jade Chamber secretaries
 1103002 : The Illuminated Beast of the Sea of Clouds - Head near Mt. Aocang to look for Ganyu
 1103003 : The Illuminated Beast of the Sea of Clouds - Find and talk to Ganyu
@@ -11350,6 +11587,61 @@
 1913801 : Time Off! - Talk to Ningguang
 1913802 : Time Off! - Wait until the following day (07:00 – 08:00)
 1913803 : Time Off! - Wake Ningguang up
+1914101 : Ways and Means - Go to the Police Station and talk to Uesugi
+1914102 : Ways and Means - Talk to Kuki Shinobu
+1914201 : To the Shrine - Go to the Grand Narukami Shrine and apologize to Yae Miko
+1914301 : Gang Bylaws - Track Mamoru and the others down
+1914302 : Gang Bylaws - Go to Aisa Bathhouse to search
+1914303 : Gang Bylaws - 
+1914304 : Gang Bylaws - Track Genta and whoever else is with him down
+1914305 : Gang Bylaws - Go under the bridge to check
+1914306 : Gang Bylaws - 
+1914307 : Gang Bylaws - Go outside Inazuma City
+1914308 : Gang Bylaws - 
+1914309 : Gang Bylaws - Search further north
+1914401 : Key Decision - Talk to Mamoru and the others
+1914402 : Key Decision - Go to the second floor of Uyuu Restaurant
+1914403 : Key Decision - Talk to Arataki Itto
+1914404 : Key Decision - Return to Uyuu Restaurant
+1914405 : Key Decision - Talk to the merchants near the street
+1914406 : Key Decision - Talk to Aoi, owner of Tsukumomono Groceries
+1914407 : Key Decision - Go to the next person you need to apologize to
+1914408 : Key Decision - Talk to the Arataki Gang Members
+1914409 : Key Decision - 
+1914501 : Shrine Maiden for a Day - Receive guests at the shrine
+1914502 : Shrine Maiden for a Day - Continue receiving guests
+1914503 : Shrine Maiden for a Day - Go to the entrance to receive guests
+1914504 : Shrine Maiden for a Day - 
+1914505 : Shrine Maiden for a Day - Collect materials required to make omamori
+1914506 : Shrine Maiden for a Day - Collect materials required to make omamori
+1914507 : Shrine Maiden for a Day - Collect materials required to make omamori
+1914508 : Shrine Maiden for a Day - 
+1914509 : Shrine Maiden for a Day - Talk to Granny Asami
+1914510 : Shrine Maiden for a Day - 
+1914511 : Shrine Maiden for a Day - Talk to Yae Miko
+1914512 : Shrine Maiden for a Day - Leave the shrine
+1914601 : In the Aftermath - Talk to Miyuki on the mountain path
+1914602 : In the Aftermath - Use Anemo or Hydro to help clean the flyers up
+1914603 : In the Aftermath - Use Anemo or Hydro to help clean the flyers up
+1914604 : In the Aftermath - Use Anemo or Hydro to help clean the flyers up
+1914605 : In the Aftermath - 
+1914606 : In the Aftermath - 
+1914607 : In the Aftermath - 
+1914608 : In the Aftermath - 
+1914609 : In the Aftermath - Continue cleaning your way down the mountain
+1914610 : In the Aftermath - 
+1914611 : In the Aftermath - 
+1914612 : In the Aftermath - 
+1914613 : In the Aftermath - 
+1914701 : That'll Learn Them! - Go back to Hanamizaka to check the situation
+1914801 : Temporary Escape - Check on Kuki Shinobu
+1914802 : Temporary Escape - Go back to where Akira is hidden
+1914803 : Temporary Escape - Follow Akira's footprints
+1914804 : Temporary Escape - Follow the flyers to find Akira
+1914805 : Temporary Escape - Talk to the Kairagi
+1914806 : Temporary Escape - Defeat all opponents
+1914807 : Temporary Escape - Talk to Kuki Shinobu
+1914808 : Temporary Escape - 
 2000001 : Qingce Village Time Trial Challenge - 
 2000002 : Qingce Village Time Trial Challenge - 
 2000003 : Qingce Village Time Trial Challenge - 
@@ -11636,11 +11928,11 @@
 2003925 : Timaeus' Alchemy Tutorial - Check your bag for the required item - Black Copper Horn
 2003926 : Timaeus' Alchemy Tutorial - Check your bag for the required item - Dirty Mask
 2003927 : Timaeus' Alchemy Tutorial - Check your bag for the required item - Slime Secretions
-2004001 : A New Storm is Brewing - Talk to Vind
-2004002 : A New Storm is Brewing - Clear out the monsters on the watchtower
-2004003 : A New Storm is Brewing - Talk to Vind
-2004004 : A New Storm is Brewing - Climb the watchtower
-2004007 : A New Storm is Brewing - Talk to Vind
+2004001 : A New Storm Is Brewing - Talk to Vind
+2004002 : A New Storm Is Brewing - Clear out the monsters on the watchtower
+2004003 : A New Storm Is Brewing - Talk to Vind
+2004004 : A New Storm Is Brewing - Climb the watchtower
+2004007 : A New Storm Is Brewing - Talk to Vind
 2004101 : Adventure Takes Courage! - Talk to Patchi
 2004102 : Adventure Takes Courage! - Clear out the monster camp
 2004103 : Adventure Takes Courage! - Talk to Patchi
@@ -12105,16 +12397,16 @@
 2051741 : A Surprise Gift - Check on Jilliana's mood
 2051742 : A Surprise Gift - Talk to Rudolf
 2051743 : A Surprise Gift - 
-2051801 : A Commission from "That Guy" - Talk to Vile
-2051802 : A Commission from "That Guy" - Head to the designated location
-2051803 : A Commission from "That Guy" - Fend off the Treasure Hoarders
-2051804 : A Commission from "That Guy" - Report back to Vile
-2051805 : A Commission from "That Guy" - 
-2051806 : A Commission from "That Guy" - Report back to Vile
-2051901 : A Commission from "That Guy" - Talk to Vile
-2051902 : A Commission from "That Guy" - Head to the designated location
-2051903 : A Commission from "That Guy" - Fend off the Treasure Hoarders
-2051904 : A Commission from "That Guy" - Report back to Vile
+2051801 : A Commission From "That Guy" - Talk to Vile
+2051802 : A Commission From "That Guy" - Head to the designated location
+2051803 : A Commission From "That Guy" - Fend off the Treasure Hoarders
+2051804 : A Commission From "That Guy" - Report back to Vile
+2051805 : A Commission From "That Guy" - 
+2051806 : A Commission From "That Guy" - Report back to Vile
+2051901 : A Commission From "That Guy" - Talk to Vile
+2051902 : A Commission From "That Guy" - Head to the designated location
+2051903 : A Commission From "That Guy" - Fend off the Treasure Hoarders
+2051904 : A Commission From "That Guy" - Report back to Vile
 2052001 : Only Half-Frozen - Talk to Tommy
 2052002 : Only Half-Frozen - 
 2052003 : Only Half-Frozen - 
@@ -13414,18 +13706,18 @@
 4002116 : Pushing On - Enter The Brutal Divergence
 4002117 : Pushing On - Enter The Brutal Divergence
 4002118 : Pushing On - 
-4002201 : Away with Obsessions and Falsehood - Meet up with Xinyan
-4002202 : Away with Obsessions and Falsehood - Enter The Vengeful Wood
-4002203 : Away with Obsessions and Falsehood - Talk to Shiki Taishou
-4002204 : Away with Obsessions and Falsehood - Go deeper into The Vengeful Wood
-4002205 : Away with Obsessions and Falsehood - Retrieve a replica of Shiki Taishou
-4002206 : Away with Obsessions and Falsehood - Talk to Shiki Taishou
-4002207 : Away with Obsessions and Falsehood - Enter The Vengeful Wood
-4002208 : Away with Obsessions and Falsehood - Leave The Vengeful Wood
-4002209 : Away with Obsessions and Falsehood - Wait till 08:00 – 12:00 the next day
-4002210 : Away with Obsessions and Falsehood - Enter The Vengeful Wood
-4002211 : Away with Obsessions and Falsehood - Talk to Shiki Taishou
-4002212 : Away with Obsessions and Falsehood - Enter The Vengeful Wood
+4002201 : Away With Obsessions and Falsehood - Meet up with Xinyan
+4002202 : Away With Obsessions and Falsehood - Enter The Vengeful Wood
+4002203 : Away With Obsessions and Falsehood - Talk to Shiki Taishou
+4002204 : Away With Obsessions and Falsehood - Go deeper into The Vengeful Wood
+4002205 : Away With Obsessions and Falsehood - Retrieve a replica of Shiki Taishou
+4002206 : Away With Obsessions and Falsehood - Talk to Shiki Taishou
+4002207 : Away With Obsessions and Falsehood - Enter The Vengeful Wood
+4002208 : Away With Obsessions and Falsehood - Leave The Vengeful Wood
+4002209 : Away With Obsessions and Falsehood - Wait till 08:00 – 12:00 the next day
+4002210 : Away With Obsessions and Falsehood - Enter The Vengeful Wood
+4002211 : Away With Obsessions and Falsehood - Talk to Shiki Taishou
+4002212 : Away With Obsessions and Falsehood - Enter The Vengeful Wood
 4002301 : Path of the Taishou - Pay Shiki Taishou a visit
 4002302 : Path of the Taishou - 
 4002401 :  - 
@@ -13592,7 +13884,7 @@
 4003704 : The Stars Inscribe the Year's Wishes - Defeat the Treasure Hoarders
 4003705 : The Stars Inscribe the Year's Wishes - Talk to the Treasure Hoarders
 4003706 : The Stars Inscribe the Year's Wishes - Return to Qingce Village
-4003707 : The Stars Inscribe the Year's Wishes - Follow the voice to its source
+4003707 : The Stars Inscribe the Year's Wishes - Follow the sound to its source
 4003708 : The Stars Inscribe the Year's Wishes - Talk to Keqing
 4003709 : The Stars Inscribe the Year's Wishes - Head to Third-Round Knockout
 4003710 : The Stars Inscribe the Year's Wishes - Talk to Keqing
@@ -13745,7 +14037,7 @@
 4005604 : What the Blue Flowers Left Behind - Meet Albedo at The Five Kasen Plaza
 4005605 : What the Blue Flowers Left Behind - Go to Uyuu Restaurant
 4005606 : What the Blue Flowers Left Behind - Talk to Xingqiu
-4005607 : What the Blue Flowers Left Behind - Go to the editorial house
+4005607 : What the Blue Flowers Left Behind - Go to the editor's house
 4005608 : What the Blue Flowers Left Behind - Talk to Kujou Sara
 4005609 : What the Blue Flowers Left Behind - 
 4005610 : What the Blue Flowers Left Behind - Talk to Paimon at The Five Kasen Plaza
@@ -13825,11 +14117,11 @@
 4006305 :  - 
 4006306 :  - 
 4006307 :  - 
-4091101 : One Giant Step For Alchemy? - Meet Timaeus in Mondstadt
-4091102 : One Giant Step For Alchemy? - Go to the Thousand Winds Temple
-4091103 : One Giant Step For Alchemy? - Talk to Timaeus
-4091104 : One Giant Step For Alchemy? - Meet Timaeus in Mondstadt
-4091105 : One Giant Step For Alchemy? - 
+4091101 : One Giant Step for Alchemy? - Meet Timaeus in Mondstadt
+4091102 : One Giant Step for Alchemy? - Go to the Thousand Winds Temple
+4091103 : One Giant Step for Alchemy? - Talk to Timaeus
+4091104 : One Giant Step for Alchemy? - Meet Timaeus in Mondstadt
+4091105 : One Giant Step for Alchemy? - 
 4100101 :  - 
 4100102 :  - 
 4100103 :  - 
@@ -15760,7 +16052,7 @@
 7104431 : Surreptitious Seven-Star Seal Sundering - 
 7104432 : Surreptitious Seven-Star Seal Sundering - 
 7104433 : Surreptitious Seven-Star Seal Sundering - Look for the final Bedrock Key
-7104501 : Wherefore Did the Spiritstone Descend? - Talk to the Zhiqiong up ahead
+7104501 : Wherefore Did the Spiritstone Descend? - Talk to Zhiqiong up ahead
 7104502 : Wherefore Did the Spiritstone Descend? - Go to the camp with Zhiqiong
 7104503 : Wherefore Did the Spiritstone Descend? - Talk to Zhiqiong
 7104504 : Wherefore Did the Spiritstone Descend? - Go to the gate that Zhiqiong mentioned
@@ -16062,6 +16354,28 @@
 7109602 :  - 
 7109701 :  - 
 7109702 :  - 
+7109801 : Garcia's Paean - 
+7109802 : Garcia's Paean - 
+7109803 : Garcia's Paean - Talk to Garcia
+7109804 : Garcia's Paean - Go to the kitchen
+7109805 : Garcia's Paean - Light a fire
+7109806 : Garcia's Paean - Make Delicious Radish Veggie Soup
+7109807 : Garcia's Paean - Hand Over Delicious Radish Veggie Soup
+7109808 : Garcia's Paean - Talk to Garcia
+7109809 : Garcia's Paean - 
+7109810 : Garcia's Paean - 
+7109901 : On the Stage, Behind the Stage - Talk to Liu Su
+7109902 : On the Stage, Behind the Stage - Head to Qingce Village and look for Master Lu
+7109903 : On the Stage, Behind the Stage - Talk to Master Lu
+7109904 : On the Stage, Behind the Stage - Collect furniture materials
+7109905 : On the Stage, Behind the Stage - Talk to Dayu
+7109906 : On the Stage, Behind the Stage - Wait until the following day (18:00 – 21:00)
+7109907 : On the Stage, Behind the Stage - Head to Heyu Tea House
+7109908 : On the Stage, Behind the Stage - Brew tea with Yunjin
+7109909 : On the Stage, Behind the Stage - Talk to Fan Er'ye
+7109910 : On the Stage, Behind the Stage - Go to the warehouse at the dock and obtain the wooden planks
+7109911 : On the Stage, Behind the Stage - Give the planks to Dayu
+7110101 : The Tales Behind the Fan - Walk around Liyue Harbor
 7150001 : Contraption-Contrived Cooking Course: Part I - Talk to Cloud Retainer
 7150002 : Contraption-Contrived Cooking Course: Part I - Follow the aura trail and find the ingredients
 7150003 : Contraption-Contrived Cooking Course: Part I - Get the ingredients
@@ -16074,6 +16388,28 @@
 7150010 : Contraption-Contrived Cooking Course: Part I - Report back to Cloud Retainer
 7150011 : Contraption-Contrived Cooking Course: Part I - Report back to Cloud Retainer
 7150012 : Contraption-Contrived Cooking Course: Part I - 
+7150101 : A Muddy Bizarre Adventure - Go to the Liyue Adventurers' Guild and talk to Katheryne
+7150102 : A Muddy Bizarre Adventure - Go to the mining camp to look for the Sumeru researcher
+7150103 : A Muddy Bizarre Adventure - Activate the Pursina's Spike
+7150104 : A Muddy Bizarre Adventure - Talk to Hosseini
+7150201 : Spike Self-Circulation Report: Abstract - Talk to Hosseini
+7150202 : Spike Self-Circulation Report: Abstract - Activate the Pursina's Spike
+7150203 : Spike Self-Circulation Report: Abstract - Wait till the next day
+7150301 : Spike Self-Circulation Report: Environs Log - Talk to Hosseini
+7150302 : Spike Self-Circulation Report: Environs Log - Activate the Pursina's Spike
+7150303 : Spike Self-Circulation Report: Environs Log - Wait till the next day
+7150401 : Spike Self-Circulation Report: Experimental Procedure - Talk to Hosseini
+7150402 : Spike Self-Circulation Report: Experimental Procedure - Talk to Tu
+7150403 : Spike Self-Circulation Report: Experimental Procedure - Activate the hot air balloon and transport the Spike
+7150404 : Spike Self-Circulation Report: Experimental Procedure - Wait till the next day
+7150501 : Spike Self-Circulation Report: Conclusion - Talk to Hosseini
+7150502 : Spike Self-Circulation Report: Conclusion - Activate the Pursina's Spike and close the Ley Line rupture
+7150503 : Spike Self-Circulation Report: Conclusion - Wait till the next day
+7150601 : A Muddy Bizarre Adventure - Talk to Hosseini
+7150701 : Spike Self-Circulation Report: Abstract - Report back to Hosseini
+7150801 : Spike Self-Circulation Report: Environs Log - Report back to Hosseini
+7150901 : Spike Self-Circulation Report: Experimental Procedure - Talk to Hosseini
+7151001 : Spike Self-Circulation Report: Conclusion - Report back to Hosseini
 7155500 : And This Treasure Goes To... - 
 7155501 : And This Treasure Goes To... - 
 7155502 : And This Treasure Goes To... - Investigate the strange camp
@@ -16633,11 +16969,11 @@
 7210436 :  - 
 7210437 :  - 
 7210501 : Yougou Cleansing - 
-7210502 : Yougou Cleansing - Report back to Kazari
-7210503 : Yougou Cleansing - Head to the opening at Mt. Yougou: The Depths and talk to Kazari
+7210502 : Yougou Cleansing - Report back to Hanachirusato
+7210503 : Yougou Cleansing - Head to the opening at Mt. Yougou: The Depths and talk to Hanachirusato
 7210504 : Yougou Cleansing - Jump in
 7210505 : Yougou Cleansing - Defeat Miasmic Tumor
-7210506 : Yougou Cleansing - Talk to Kazari
+7210506 : Yougou Cleansing - Talk to Hanachirusato
 7210507 : Yougou Cleansing - Pick up the mask
 7210508 : Yougou Cleansing - 
 7210509 : Yougou Cleansing - 
@@ -16672,7 +17008,7 @@
 7210627 : A Strange Story in Konda - Explore the bottom of the well
 7210628 : A Strange Story in Konda - Look for clues
 7210629 : A Strange Story in Konda - 
-7210630 : A Strange Story in Konda - Talk to Kazari
+7210630 : A Strange Story in Konda - Talk to Hanachirusato
 7210631 : A Strange Story in Konda - 
 7210632 : A Strange Story in Konda - 
 7210701 : Sacrificial Offering - 
@@ -16697,7 +17033,7 @@
 7210720 : Sacrificial Offering - 
 7210721 : Sacrificial Offering - Find the barrier
 7210722 : Sacrificial Offering - Destroy the barrier
-7210723 : Sacrificial Offering - Talk to Kazari
+7210723 : Sacrificial Offering - Talk to Hanachirusato
 7210724 : Sacrificial Offering - 
 7210725 : Sacrificial Offering - 
 7210726 : Sacrificial Offering - 
@@ -16726,7 +17062,7 @@
 7210815 : Tanuki-Bayashi in the Forest - Report back to Ioroi
 7210816 : Tanuki-Bayashi in the Forest - 
 7210817 : Tanuki-Bayashi in the Forest - Destroy the barrier
-7210818 : Tanuki-Bayashi in the Forest - Talk to Kazari
+7210818 : Tanuki-Bayashi in the Forest - Talk to Hanachirusato
 7210819 : Tanuki-Bayashi in the Forest - Search for the source of the strange voice
 7210820 : Tanuki-Bayashi in the Forest - 
 7210821 : Tanuki-Bayashi in the Forest - 
@@ -18461,6 +18797,7 @@
 7228402 : null - 
 7228403 : null - 
 7228801 :  - 
+7250001 : Festival Afterword - Talk to Mamoru
 7265001 : Phantom Flow: Phantasmal Blade - Talk to Shousen
 7265101 : The Path of the Treasure-Seeker... Part II? - 
 7265102 : The Path of the Treasure-Seeker... Part II? - Talk to Ulman
@@ -18586,7 +18923,7 @@
 7267808 : Eight Locales Over Mountains and Seas: Wanderer's Appraisal - Head deeper into Stormterror's Lair
 7267809 : Eight Locales Over Mountains and Seas: Wanderer's Appraisal - Head deeper into Stormterror's Lair
 7267810 : Eight Locales Over Mountains and Seas: Wanderer's Appraisal - 
-7267811 : Eight Locales Over Mountains and Seas: Wanderer's Appraisal - Return to Chinju forest to visit Ioroi
+7267811 : Eight Locales Over Mountains and Seas: Wanderer's Appraisal - Return to Chinju Forest to visit Ioroi
 7267901 : null - 
 7267902 : null - 
 7268001 :  - 
@@ -18595,6 +18932,13 @@
 7268202 : Hyakunin Ikki: Golden Whirlwind - Talk to Kayabuki
 7268301 : Outside the Canvas, Inside the Lens - Go look at the person drawing
 7268302 : Outside the Canvas, Inside the Lens - Talk to Asagiri
+7268401 : The Almighty Arataki Great and Glorious Drumalong Festival - 
+7268402 : The Almighty Arataki Great and Glorious Drumalong Festival - Go to Ritou
+7268403 : The Almighty Arataki Great and Glorious Drumalong Festival - Talk to the Tenryou Commission Doushin Kimura
+7268404 : The Almighty Arataki Great and Glorious Drumalong Festival - Go to Amakane Island and look for the Arataki Gang
+7268405 : The Almighty Arataki Great and Glorious Drumalong Festival - Talk to Hirohiko, the Yashiro Commission Representative
+7268406 : The Almighty Arataki Great and Glorious Drumalong Festival - Go to the tidal flats on northwest Amakane Island
+7268407 : The Almighty Arataki Great and Glorious Drumalong Festival - Drum along with Genta
 7268501 : Theater Mechanicus: Stage of Brilliance - Talk to Komakata
 7268601 : Go Forth, Golden Whirlwind! - Talk to Yasuhiko Tarou
 7268701 : The Floral Courtyard: Part I - Talk to Fushizome
@@ -18626,6 +18970,25 @@
 7269304 : Irodori Poetry: Part III - Report back to Ootomo
 7269305 : Irodori Poetry: Part III - Talk to Lenne
 7269306 : Irodori Poetry: Part III - Wait till the next morning (08:00 – 12:00) and talk to Ootomo
+7269401 : A-Toymaking We Shall Go - Go to the Adventurers' Guild in Inazuma
+7269402 : A-Toymaking We Shall Go - Go to Ritou and look for Bertrand
+7269403 : A-Toymaking We Shall Go - Collect 3 ores in the wild
+7269404 : A-Toymaking We Shall Go - Return the Material Collector to Bertrand
+7269405 : A-Toymaking We Shall Go - Collect 3 flowers in the wild
+7269406 : A-Toymaking We Shall Go - Collect 6 fruits in the wild
+7269501 : A-Toymaking We Shall Go: Energy Storage - Go to Ritou and look for Bertrand
+7269502 : A-Toymaking We Shall Go: Energy Storage - Go near the marked location and have Pyro applied to you for 15s
+7269503 : A-Toymaking We Shall Go: Energy Storage - Return the Material Collector to Bertrand
+7269504 : A-Toymaking We Shall Go: Energy Storage - Go near the marked location and have Hydro applied to you for 15s
+7269505 : A-Toymaking We Shall Go: Energy Storage - Go near the marked location and have Electro applied to you for 15s
+7269601 : A-Toymaking We Shall Go: Core Propulsion - Go to Ritou and look for Bertrand
+7269602 : A-Toymaking We Shall Go: Core Propulsion - Collect 3 portions of Core Propulsion by defeating 3 Slimes
+7269603 : A-Toymaking We Shall Go: Core Propulsion - Return the Material Collector to Bertrand
+7269604 : A-Toymaking We Shall Go: Core Propulsion - Initiate toy production once
+7269605 : A-Toymaking We Shall Go: Core Propulsion - Talk to Bertrand
+7269606 : A-Toymaking We Shall Go: Core Propulsion - Collect 4 portions of Core Propulsion by defeating 2 Specters
+7269607 : A-Toymaking We Shall Go: Core Propulsion - Collect 4 portions of Core Propulsion by defeating 1 Hypostasis
+7269701 : A-Toymaking We Shall Go: Mass Production - Go to Ritou and look for Bertrand
 7269801 : Versus Ookubo Sanzaemon - Talk to Ookubo Sanzaemon
 7269901 : Versus Yasuhiko Tarou - Talk to Yasuhiko Tarou
 7270101 : Hilichurl Hullabaloo - Defeat the hilichurls
@@ -18660,6 +19023,7 @@
 7272301 :  - 
 7272401 : Snapshots - Talk to Xu
 7272501 :  - 
+7272601 : null - 
 7280001 : The Gourmet Supremos: On the Road - Talk to Xudong
 7280002 : The Gourmet Supremos: On the Road - Go to the designated location to find cooking ingredients
 7280003 : The Gourmet Supremos: On the Road - Explore further and find cooking ingredients
@@ -19078,6 +19442,7 @@
 22070301 : null
 22070302 : null
 22080101 : null
+22090101 : null
 23010101 : 
 23010201 : 
 23010301 : 
