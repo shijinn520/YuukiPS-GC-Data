@@ -128,52 +128,6 @@
 		"rateUpItems2": [1027, 1032, 1014]
 	},
 	{
-		"gachaType": 406,
-		"scheduleId": 903,
-		"bannerType": "EVENT",
-		"prefabPath": "GachaShowPanel_A033",
-		"previewPrefabPath": "UI_Tab_GachaShowPanel_A033",
-		"titlePath": "UI_GACHA_SHOW_PANEL_A033_TITLE",
-		"costItem": 223,
-		"beginTime": 0,
-		"endTime": 1924992000,
-		"sortId": 9998,
-		"maxItemType": 1,
-		"rateUpItems1": [1046],
-		"rateUpItems2": [1025, 1036, 1023]
-	},
-
-	{
-		"gachaType": 407,
-		"scheduleId": 913,
-		"bannerType": "EVENT",
-		"prefabPath": "GachaShowPanel_A036",
-		"previewPrefabPath": "UI_Tab_GachaShowPanel_A036",
-		"titlePath": "UI_GACHA_SHOW_PANEL_A036_TITLE",
-		"costItem": 223,
-		"beginTime": 0,
-		"endTime": 1924992000,
-		"sortId": 9998,
-		"maxItemType": 1,
-		"rateUpItems1": [1022],
-		"rateUpItems2": [1043, 1020, 1034]
-	},
-	{
-		"gachaType": 408,
-		"scheduleId": 923,
-		"bannerType": "EVENT",
-		"prefabPath": "GachaShowPanel_A037",
-		"previewPrefabPath": "UI_Tab_GachaShowPanel_A037",
-		"titlePath": "UI_GACHA_SHOW_PANEL_A037_TITLE",
-		"costItem": 223,
-		"beginTime": 0,
-		"endTime": 1924992000,
-		"sortId": 9998,
-		"maxItemType": 1,
-		"rateUpItems1": [1033],
-		"rateUpItems2": [1045, 1014, 1031]
-	},
-	{
 		"gachaType": 409,
 		"scheduleId": 933,
 		"bannerType": "EVENT",
