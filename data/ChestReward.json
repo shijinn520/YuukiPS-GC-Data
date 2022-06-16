@@ -13,7 +13,7 @@
     "resin" : 1,
     "mora" : 150,
     "sigil" : 1,
-    "primogem": 1,
+    "primogem": 10,
     "content" : [
       {
         "itemId" : 104011,
@@ -79,7 +79,7 @@
     "resin" : 2,
     "mora" : 400,
     "sigil" : 2,
-    "primogem": 2,
+    "primogem": 20,
     "content" : [
       {
         "itemId" : 104012,
@@ -145,7 +145,7 @@
     "resin" : 3,
     "mora" : 500,
     "sigil" : 3,
-    "primogem": 3,
+    "primogem": 30,
     "content" : [
       {
         "itemId" : 104012,
@@ -211,7 +211,7 @@
     "resin" : 4,
     "mora" : 700,
     "sigil" : 4,
-    "primogem": 4,
+    "primogem": 40,
     "content" : [
       {
         "itemId" : 104012,
@@ -277,7 +277,7 @@
     "resin" : 5,
     "mora" : 900,
     "sigil" : 5,
-    "primogem": 5,
+    "primogem": 50,
     "content" : [
       {
         "itemId" : 104012,
