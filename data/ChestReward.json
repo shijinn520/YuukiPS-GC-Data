@@ -9,9 +9,9 @@
       "SceneObj_EssenceChest_Default_Lv1",
       "SceneObj_EssenceChest_Locked_Lv1"
     ],
-    "advExp" : 10,
-    "resin" : 0,
-    "mora" : 257,
+    "advExp" : 1000,
+    "resin" : 1,
+    "mora" : 3000,
     "sigil" : 1,
     "content" : [
       {
@@ -74,10 +74,205 @@
       "SceneObj_Chest_Bramble_Lv2",
       "SceneObj_Chest_Frozen_Lv2"
     ],
-    "advExp" : 20,
+    "advExp" : 2000,
     "resin" : 2,
-    "mora" : 756,
+    "mora" : 6000,
     "sigil" : 2,
+    "content" : [
+      {
+        "itemId" : 104012,
+        "count": 3
+      },
+      {
+        "itemId" : 104002,
+        "count": 1
+      }
+    ],
+    "randomCount": 4,
+    "randomContent": [
+      {
+        "itemId" : 11201,
+        "count": 1
+      },
+      {
+        "itemId" : 11301,
+        "count": 1
+      },
+      {
+        "itemId" : 12201,
+        "count": 1
+      },
+      {
+        "itemId" : 12301,
+        "count": 1
+      },
+      {
+        "itemId" : 13201,
+        "count": 1
+      },
+      {
+        "itemId" : 13301,
+        "count": 1
+      },
+      {
+        "itemId" : 14201,
+        "count": 1
+      },
+      {
+        "itemId" : 14301,
+        "count": 1
+      },
+      {
+        "itemId" : 15201,
+        "count": 1
+      },
+      {
+        "itemId" : 15301,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "objNames" : [
+      "SceneObj_Chest_Default_Lv3",
+      "SceneObj_Chest_Locked_Lv3",
+      "SceneObj_Chest_Bramble_Lv3",
+      "SceneObj_Chest_Frozen_Lv3"
+    ],
+    "advExp" : 6000,
+    "resin" : 4,
+    "mora" : 6000,
+    "sigil" : 6,
+    "content" : [
+      {
+        "itemId" : 104012,
+        "count": 3
+      },
+      {
+        "itemId" : 104002,
+        "count": 1
+      }
+    ],
+    "randomCount": 4,
+    "randomContent": [
+      {
+        "itemId" : 11201,
+        "count": 1
+      },
+      {
+        "itemId" : 11301,
+        "count": 1
+      },
+      {
+        "itemId" : 12201,
+        "count": 1
+      },
+      {
+        "itemId" : 12301,
+        "count": 1
+      },
+      {
+        "itemId" : 13201,
+        "count": 1
+      },
+      {
+        "itemId" : 13301,
+        "count": 1
+      },
+      {
+        "itemId" : 14201,
+        "count": 1
+      },
+      {
+        "itemId" : 14301,
+        "count": 1
+      },
+      {
+        "itemId" : 15201,
+        "count": 1
+      },
+      {
+        "itemId" : 15301,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "objNames" : [
+      "SceneObj_Chest_Default_Lv4",
+      "SceneObj_Chest_Locked_Lv4",
+      "SceneObj_Chest_Bramble_Lv4",
+      "SceneObj_Chest_Frozen_Lv4"
+    ],
+    "advExp" : 8000,
+    "resin" : 6,
+    "mora" : 8000,
+    "sigil" : 6,
+    "content" : [
+      {
+        "itemId" : 104012,
+        "count": 3
+      },
+      {
+        "itemId" : 104002,
+        "count": 1
+      }
+    ],
+    "randomCount": 4,
+    "randomContent": [
+      {
+        "itemId" : 11201,
+        "count": 1
+      },
+      {
+        "itemId" : 11301,
+        "count": 1
+      },
+      {
+        "itemId" : 12201,
+        "count": 1
+      },
+      {
+        "itemId" : 12301,
+        "count": 1
+      },
+      {
+        "itemId" : 13201,
+        "count": 1
+      },
+      {
+        "itemId" : 13301,
+        "count": 1
+      },
+      {
+        "itemId" : 14201,
+        "count": 1
+      },
+      {
+        "itemId" : 14301,
+        "count": 1
+      },
+      {
+        "itemId" : 15201,
+        "count": 1
+      },
+      {
+        "itemId" : 15301,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "objNames" : [
+      "SceneObj_Chest_Default_Lv5",
+      "SceneObj_Chest_Locked_Lv5",
+      "SceneObj_Chest_Bramble_Lv5",
+      "SceneObj_Chest_Frozen_Lv5"
+    ],
+    "advExp" : 10000,
+    "resin" : 10,
+    "mora" : 90000,
+    "sigil" : 10,
     "content" : [
       {
         "itemId" : 104012,
