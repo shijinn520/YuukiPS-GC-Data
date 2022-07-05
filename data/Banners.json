@@ -1,6 +1,6 @@
 [
 	/*
-      Banner STANDARD
+      Standard banner default
     */
 	{
 		"gachaType": 200,
@@ -18,6 +18,25 @@
 		"hardPity": 1,
 		"rateUpItems1": [1022],
 		"rateUpItems2": [1029, 1022, 1033, 1030, 1038, 1037, 1026, 1042, 1046, 1051, 1047, 1002, 1049, 1052, 1054, 1057, 1063, 1058, 1066]
+	},
+	/*
+      Beginner banner default
+    */
+	{
+		"gachaType": 100,
+		"scheduleId": 803,
+		"bannerType": "EVENT",
+		"prefabPath": "GachaShowPanel_A016",
+		"previewPrefabPath": "UI_Tab_GachaShowPanel_A016",
+		"titlePath": "UI_GACHA_SHOW_PANEL_A016_TITLE",
+		"costItemId": 224,
+		"costItemAmount10": 8,
+		"gachaTimesLimit": 20,
+		"beginTime": 0,
+		"endTime": 1924992000,
+		"sortId": 9999,
+		"rateUpItems5": [],
+		"rateUpItems4": [1034]
 	},
 	/*
       START EDIT
