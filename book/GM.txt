@@ -1,79 +1,77 @@
 // Grasscutter 2.8 GM Handbook
-// Created 2022/07/13 07:55:23
+// Created 2022/07/15 10:06:06
 
 
 // Commands
-     sendmessage : Sends a message to a player as the server. If used with no target, sends to all players on the server.
-  setfetterlevel : Sets your fetter level for your current active character
+     sendmessage : Mengirim pesan ke pemain sebagai server. Jika digunakan tanpa target, kirim ke semua pemain di server.
+  setfetterlevel : Tetapkan level teman mu untuk karakter aktif anda saat ini
         setstats : Sets fight property for your current active character
-           equip : (WIP) You can replace current character weapon with a weapon that cannot be used by current character due to different types of weapons.
-            give : Gives an item to you or the specified player. Can also give all weapons, avatars and/or materials, and can construct custom artifacts.
-        language : Display or change current language
-           quest : Add or finish quests
-             ban : Ban a player
-         killall : Kill all entities
-   switchelement : Switch to a different element
-            enka : (NEW) Copy your character data from official server to private server using Enka.Network service (data taken only from Showcase)
+           equip : (WIP) Kamu dapat mengganti senjata karakter saat ini dengan senjata yang tidak dapat digunakan oleh karakter saat ini karena berbeda jenis senjata.
+            give : Memberikan item kepada kamu atau pemain yang ditentukan. Dapat juga memberikan semua senjata, avatar, dan/atau material, dan dapat membuat artefak khusus.
+        language : menampilkan atau mengubah bahasa saat ini
+           quest : Tambahkan atau selesaikan misi
+             ban : Larangan seorang pemain
+         killall : Bunuh semua monster
+   switchelement : Beralih ke elemen yang berbeda
+            enka : (NEW) Salin data karakter mu dari server resmi ke server pribadi menggunakan layanan Enka.Network (data diambil hanya dari Showcase)
         setstats : Sets fight property for your current active character
-          talent : Set talent level for your current active character
-         setprop : Sets accountwide properties. Things like godmode can be enabled this way, as well as changing things like unlocked abyss floor and battle pass progress.
-         weather : Changes weather ID and climate type. Weather IDs can be found in WeatherExcelConfigData.json.
-Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
-            give : Gives an item to you or the specified player. Can also give all weapons, avatars and/or materials, and can construct custom artifacts.
-            give : Gives an item to you or the specified player. Can also give all weapons, avatars and/or materials, and can construct custom artifacts.
-            list : List online players
-   killcharacter : Kills the players current character
-            list : List online players
-        announce : Send announcement to all online players, or manage server's announcement
-           tpall : Teleports all players in your world to your position
-            stop : Stops the server
-        position : Get coordinates
-      resetconst : Resets the constellation level on your current active character, you will need to relog after using the command to see any changes
-      resetconst : Resets the constellation level on your current active character, you will need to relog after using the command to see any changes
-           spawn : Spawns an entity near you
-     sendmessage : Sends a message to a player as the server. If used with no target, sends to all players on the server.
-           quest : Add or finish quests
-     sendmessage : Sends a message to a player as the server. If used with no target, sends to all players on the server.
-        teleport : Change the player's position
+          talent : Tetapkan level bakat untuk karakter aktif Anda saat ini
+         setprop : Menetapkan properti seluruh akun. Hal-hal seperti mode dewa dapat diaktifkan dengan cara ini, serta mengubah hal-hal seperti lantai jurang yang tidak terkunci dan kemajuan pertempuran.
+         weather : Ubah cuaca
+            give : Memberikan item kepada kamu atau pemain yang ditentukan. Dapat juga memberikan semua senjata, avatar, dan/atau material, dan dapat membuat artefak khusus.
+            give : Memberikan item kepada kamu atau pemain yang ditentukan. Dapat juga memberikan semua senjata, avatar, dan/atau material, dan dapat membuat artefak khusus.
+            list : Daftar pemain online
+   killcharacter : Membunuh karakter pemain saat ini
+            list : Daftar pemain online
+        announce : Kirim pengumuman ke semua pemain online, atau kelola pengumuman server.
+           tpall : Teleport semua pemain di dunia Anda ke posisi Anda
+            stop : Menghentikan server
+        position : Dapatkan koordinat.
+      resetconst : Mengatur ulang tingkat konstelasi pada karakter aktif Anda saat ini, perlu melakukan relog setelah menggunakan perintah untuk melihat perubahan apa pun.
+      resetconst : Mengatur ulang tingkat konstelasi pada karakter aktif Anda saat ini, perlu melakukan relog setelah menggunakan perintah untuk melihat perubahan apa pun.
+           spawn : Memunculkan entitas di dekat mu
+     sendmessage : Mengirim pesan ke pemain sebagai server. Jika digunakan tanpa target, kirim ke semua pemain di server.
+           quest : Tambahkan atau selesaikan misi
+     sendmessage : Mengirim pesan ke pemain sebagai server. Jika digunakan tanpa target, kirim ke semua pemain di server.
+        teleport : Ubah posisi pemain.
            windy : This value does not exist. Please report this to the Discord: Executes a Lua script on sender.
-  setfetterlevel : Sets your fetter level for your current active character
-   switchelement : Switch to a different element
-          reload : Reload server config
-        position : Get coordinates
-         setprop : Sets accountwide properties. Things like godmode can be enabled this way, as well as changing things like unlocked abyss floor and battle pass progress.
-            heal : Heal all characters in your current team.
-   killcharacter : Kills the players current character
-        sendmail : Sends mail to the specified user. The usage of this command changes based on its composition state
-            enka : (NEW) Copy your character data from official server to private server using Enka.Network service (data taken only from Showcase)
-        language : Display or change current language
-    enterdungeon : Enter a dungeon
-        announce : Send announcement to all online players, or manage server's announcement
-     sendmessage : Sends a message to a player as the server. If used with no target, sends to all players on the server.
-            coop : Forces someone to join the world of others. If no one is targeted, it sends you into co-op mode anyway.
-            kick : Kicks the specified player from the server (WIP)
-            give : Gives an item to you or the specified player. Can also give all weapons, avatars and/or materials, and can construct custom artifacts.
-  setfetterlevel : Sets your fetter level for your current active character
-            heal : Heal all characters in your current team.
-           clear : Deletes unequipped unlocked items, including yellow rarity ones from your inventory
-     sendmessage : Sends a message to a player as the server. If used with no target, sends to all players on the server.
-      permission : Grants or removes a permission for a user
-       resetshop : Reset target player's shop refresh time
-            team : Modify your team manually.
-   killcharacter : Kills the players current character
-    enterdungeon : Enter a dungeon
-           quest : Add or finish quests
-            help : Sends the help message or shows information about a specified command
-           unban : Unban a player
-           spawn : Spawns an entity near you
-           spawn : Spawns an entity near you
-            kick : Kicks the specified player from the server (WIP)
-           equip : (WIP) You can replace current character weapon with a weapon that cannot be used by current character due to different types of weapons.
-     sendmessage : Sends a message to a player as the server. If used with no target, sends to all players on the server.
-         weather : Changes weather ID and climate type. Weather IDs can be found in WeatherExcelConfigData.json.
-Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
+  setfetterlevel : Tetapkan level teman mu untuk karakter aktif anda saat ini
+   switchelement : Beralih ke elemen yang berbeda
+          reload : Muat ulang konfigurasi server
+        position : Dapatkan koordinat.
+         setprop : Menetapkan properti seluruh akun. Hal-hal seperti mode dewa dapat diaktifkan dengan cara ini, serta mengubah hal-hal seperti lantai jurang yang tidak terkunci dan kemajuan pertempuran.
+            heal : Sembuhkan semua karakter di tim Anda saat ini.
+   killcharacter : Membunuh karakter pemain saat ini
+        sendmail : Sends mail to the specified user. The usage of this command changes based on it's composition state.
+            enka : (NEW) Salin data karakter mu dari server resmi ke server pribadi menggunakan layanan Enka.Network (data diambil hanya dari Showcase)
+        language : menampilkan atau mengubah bahasa saat ini
+    enterdungeon : Masuk ke dungeon
+        announce : Kirim pengumuman ke semua pemain online, atau kelola pengumuman server.
+     sendmessage : Mengirim pesan ke pemain sebagai server. Jika digunakan tanpa target, kirim ke semua pemain di server.
+            coop : Memaksa seseorang untuk bergabung dengan dunia orang lain
+            kick : Menendang pemain tertentu dari server (WIP)
+            give : Memberikan item kepada kamu atau pemain yang ditentukan. Dapat juga memberikan semua senjata, avatar, dan/atau material, dan dapat membuat artefak khusus.
+  setfetterlevel : Tetapkan level teman mu untuk karakter aktif anda saat ini
+            heal : Sembuhkan semua karakter di tim Anda saat ini.
+           clear : Menghapus item yang tidak terkunci, termasuk item langka berwarna kuning dari inventaris Anda
+     sendmessage : Mengirim pesan ke pemain sebagai server. Jika digunakan tanpa target, kirim ke semua pemain di server.
+      permission : Memberikan atau menghapus izin untuk pengguna
+       resetshop : Setel ulang waktu penyegaran toko pemain.
+            team : Ubah tim Anda secara manual.
+   killcharacter : Membunuh karakter pemain saat ini
+    enterdungeon : Masuk ke dungeon
+           quest : Tambahkan atau selesaikan misi
+            help : Mengirim pesan bantuan atau menampilkan informasi tentang perintah tertentu
+           unban : Batalkan larangan pemain
+           spawn : Memunculkan entitas di dekat mu
+           spawn : Memunculkan entitas di dekat mu
+            kick : Menendang pemain tertentu dari server (WIP)
+           equip : (WIP) Kamu dapat mengganti senjata karakter saat ini dengan senjata yang tidak dapat digunakan oleh karakter saat ini karena berbeda jenis senjata.
+     sendmessage : Mengirim pesan ke pemain sebagai server. Jika digunakan tanpa target, kirim ke semua pemain di server.
+         weather : Ubah cuaca
            windy : This value does not exist. Please report this to the Discord: Executes a Lua script on sender.
-        teleport : Change the player's position
-         account : Modify user accounts
+        teleport : Ubah posisi pemain.
+         account : Ubah akun pengguna
 
 // Avatars
 10000001 : Kate
@@ -129,6 +127,9 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 10000064 : Yun Jin
 10000065 : Kuki Shinobu
 10000066 : Kamisato Ayato
+10000067 : Kamisato Ayato
+10000068 : Kamisato Ayato
+10000069 : Kamisato Ayato
 11000008 : Party Test #4
 11000009 : Background Test
 11000010 : Naked Model #1
@@ -332,6 +333,9 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 1164 : Yun Jin's Stella Fortuna
 1165 : Kuki Shinobu's Stella Fortuna
 1166 : Kamisato Ayato's Stella Fortuna
+1167 : Kamisato Ayato's Stella Fortuna
+1168 : Kamisato Ayato's Stella Fortuna
+1169 : Kamisato Ayato's Stella Fortuna
 1201 : Gnostic Hymn - Old Notes
 1202 : Blessing of the Welkin Moon - New Moon
 2001 : Energy Orb (Pyro)
@@ -408,6 +412,7 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 11414 : Amenoma Kageuchi
 11415 : Cinnabar Spindle
 11416 : Kagotsurube Isshin
+11417 : Kagotsurube Isshin
 11419 : Prized Isshin Blade
 11420 : Prized Isshin Blade
 11421 : Prized Isshin Blade
@@ -443,6 +448,7 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 12412 : Luxurious Sea-Lord
 12414 : Katsuragikiri Nagamasa
 12416 : Akuoumaru
+12417 : Akuoumaru
 12501 : Skyward Pride
 12502 : Wolf's Gravestone
 12503 : Song of Broken Pines
@@ -470,6 +476,7 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 13414 : Kitain Cross Spear
 13415 : "The Catch"
 13416 : Wavebreaker's Fin
+13417 : Wavebreaker's Fin
 13501 : Staff of Homa
 13502 : Skyward Spine
 13503 : null
@@ -501,6 +508,7 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 14413 : Dodoco Tales
 14414 : Hakushin Ring
 14415 : Oathsworn Eye
+14417 : Oathsworn Eye
 14501 : Skyward Atlas
 14502 : Lost Prayer to the Sacred Winds
 14503 : Lost Ballade
@@ -533,6 +541,8 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 15414 : Hamayumi
 15415 : Predator
 15416 : Mouun's Moon
+15417 : Mouun's Moon
+15418 : Mouun's Moon
 15501 : Skyward Harp
 15502 : Amos' Bow
 15503 : Elegy for the End
@@ -542,9 +552,50 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 15507 : Polar Star
 15508 : Aqua Simulacra
 15509 : Thundering Pulse
+15511 : Aqua Simulacra
 20001 : null
 20002 : Initiate's Feather
 20004 : Initiate's Flower
+20412 : null
+20413 : null
+20422 : null
+20423 : null
+20432 : null
+20433 : null
+20442 : null
+20443 : null
+20452 : null
+20453 : null
+20513 : null
+20514 : null
+20523 : null
+20524 : null
+20533 : null
+20534 : null
+20543 : null
+20544 : null
+20553 : null
+20554 : null
+21412 : null
+21413 : null
+21422 : null
+21423 : null
+21432 : null
+21433 : null
+21442 : null
+21443 : null
+21452 : null
+21453 : null
+21513 : null
+21514 : null
+21523 : null
+21524 : null
+21533 : null
+21534 : null
+21543 : null
+21544 : null
+21553 : null
+21554 : null
 23300 : null
 23301 : null
 23302 : null
@@ -853,6 +904,26 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 23618 : Flowing Rings
 23619 : Soulscent Bloom
 23620 : Symbol of Felicitation
+23621 : null
+23622 : null
+23623 : null
+23624 : null
+23625 : null
+23626 : null
+23627 : null
+23628 : null
+23629 : null
+23630 : null
+23631 : null
+23632 : null
+23633 : null
+23634 : null
+23635 : null
+23636 : null
+23637 : null
+23638 : null
+23639 : null
+23640 : null
 24101 : Gladiator's Intoxication
 24102 : Gladiator's Destiny
 24103 : Ornate Kabuto
@@ -8126,6 +8197,10 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 1069 : IndoorScene_Ly_CyRoom
 1070 : Level_Tower_Moon_01
 1071 : Level_FCdungeon_Shougun01_Kazuha
+1072 : IndoorScene_Md_AngelShare_Bartender01
+1073 : Knight_Inside_Test
+1074 : IndoorScene_Dq_Teahouse
+1075 : Knight_Inside_Test
 2001 : Homeworld_Exterior_Above
 2002 : Homeworld_Exterior_Karst
 2003 : Homeworld_Exterior_Uncharted
@@ -8206,6 +8281,12 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 20142 : Level_DreamIsland_Kazuha01
 20143 : Level_DreamIsland_Fischlroom
 20144 : Level_DreamIsland_Fischlcorridor
+20145 : Knight_Inside_Test
+20146 : Knight_Inside_Test
+20147 : Knight_Inside_Test
+20148 : Knight_Inside_Test
+20149 : Knight_Inside_Test
+20150 : Knight_Inside_Test
 30001 : LevelTest_CurseMaze
 30100 : Level_Tower_Morning_01
 30101 : Level_Tower_Morning_01
@@ -8540,6 +8621,10 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 40048 : Level_HFDungeon01
 40049 : Level_HFDungeon02
 40050 : Level_HFDungeon_wq
+40051 : Level_HFDungeon_wq
+40052 : Level_HFDungeon_wq
+40053 : Level_HFDungeon_wq
+40054 : Level_HFDungeon_wq
 40100 : Level_CycleDungeon01_Fire
 40101 : Level_CycleDungeon01_Fire
 40102 : Level_CycleDungeon01_Fire
@@ -21096,6 +21181,7 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 20060401 : null
 20060501 : null
 20060601 : null
+20060701 : null
 20070101 : Thunder Manifestation
 21010101 : Hilichurl
 21010102 : Hilichurl (Mechanicus)
@@ -21235,6 +21321,8 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 24020403 : Ruin Scout (Enhanced)
 24021101 : Perpetual Mechanical Array
 24021102 : Perpetual Mechanical Array (Inazuma Event-Only)
+24030101 : Ruin Guard
+24030201 : Ruin Guard
 25010101 : Liuliu
 25010102 : Mystery Man
 25010103 : null
@@ -21299,6 +21387,14 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 25100301 : Thunderwraith Kairagi
 25100302 : null
 25100401 : Flameghoul Kairagi
+25210101 : Amateur Weasel Thief
+25210201 : Amateur Weasel Thief
+25210301 : Amateur Weasel Thief
+25210401 : Amateur Weasel Thief
+25210501 : Amateur Weasel Thief
+25310101 : Amateur Weasel Thief
+25310201 : Amateur Weasel Thief
+25310301 : Amateur Weasel Thief
 26010101 : Cryo Whopperflower
 26010102 : Cryo Whopperflower (Dragonspine Event)
 26010103 : Giant Cryo Whopperflower (2.3 Dragonspine Event)
@@ -21308,6 +21404,7 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 26020101 : Cryo Regisvine
 26020102 : Cryo Regisvine (Dragonspine Event)
 26020201 : Pyro Regisvine
+26020301 : Pyro Regisvine
 26030101 : Geovishap Hatchling
 26040101 : Geovishap: Hydro
 26040102 : Geovishap: Pyro
@@ -21332,6 +21429,16 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 26060301 : Cryo Cicin
 26080101 : null
 26090101 : null
+26090201 : null
+26090401 : null
+26090501 : null
+26090701 : null
+26090801 : null
+26090901 : null
+26110101 : Pyro Regisvine
+26120101 : null
+26120201 : null
+26120301 : null
 28010101 : Golden Crab
 28010102 : Sun Crab
 28010103 : Ocean Crab
@@ -21345,9 +21452,11 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 28010205 : Golden Loach
 28010206 : Sunny Loach
 28010207 : Pith Lizard
+28010208 : Pith Lizard
 28010301 : Frog
 28010302 : Mud Frog
 28010303 : Blue Frog
+28010304 : Blue Frog
 28010401 : null
 28010402 : null
 28010403 : null
@@ -21367,6 +21476,8 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 28020307 : null
 28020308 : null
 28020309 : null
+28020313 : Amateur Weasel Thief
+28020314 : Amateur Weasel Thief
 28020401 : Northland Hound
 28020402 : Forest-Patrol Hound
 28020403 : Shiba
@@ -21421,6 +21532,7 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 28030309 : Graywing Pigeon
 28030310 : Crimsonflank Pigeon
 28030311 : Black King Pigeon
+28030313 : null
 28030401 : Crimson Finch
 28030402 : Golden Finch
 28030403 : Snow Finch
@@ -21471,6 +21583,7 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 28050103 : Cryo Crystalfly
 28050104 : Electro Crystalfly
 28050105 : null
+28050106 : Electro Crystalfly
 28050201 : Amateur Weasel Thief
 28050202 : Hoarder Weasel Thief
 28050203 : Golden Weasel Thief
@@ -21482,6 +21595,9 @@ Climate types: sunny, cloudy, rain, thunderstorm, snow, mist
 28050222 : null
 28050223 : null
 28050301 : null
+28060101 : Amateur Weasel Thief
+28060201 : Amateur Weasel Thief
+28060601 : Amateur Weasel Thief
 28210101 : Domestic Golden Crab
 28210102 : Domestic Sun Crab
 28210103 : Domestic Ocean Crab
