@@ -1,8 +1,9 @@
 [
 	/*
-      Standard banner default (Pity 1)
+      Standard banner default
     */
 	{
+		"comment": "Standard",
 		"gachaType": 200,
 		"scheduleId": 1,
 		"bannerType": "STANDARD",
@@ -13,11 +14,6 @@
 		"beginTime": 0,
 		"endTime": 1924992000,
 		"sortId": 1000,
-		"eventChance": 1,
-		"softPity": 1,
-		"hardPity": 1,
-		"costItemAmount10": 100,
-		"costItemAmount": 10,
 		"fallbackItems4Pool1": [1006, 1014, 1015, 1020, 1021, 1023, 1024, 1025, 1027, 1031, 1032, 1034, 1036, 1039, 1043, 1044, 1045, 1048, 1053, 1055, 1056, 1064],
 		"weights5": [[1,75], [73,150], [90,10000]]
 	},
@@ -25,6 +21,8 @@
       Beginner banner default (Normal)
     */
 	{
+		"comment": "Beginner's Banner. Do not change for no reason.",
+		"comment4": "4 stars: Noelle",
 		"gachaType": 100,
 		"scheduleId": 2,
 		"bannerType": "EVENT",
@@ -658,9 +656,12 @@
 		"eventChance5": 75
 	},
 	/*
-      Banner 2.8 #1
+      Banner 2.8
     */
 	{
+		"comment": "Character Event Banner 1",
+		"comment5": "5 stars: Kaedehara Kazuha",
+		"comment4": "4 stars: Thoma, Ningguang and Shinakonin Heizou",
 		"gachaType": 301,
 		"scheduleId": 139,
 		"bannerType": "EVENT",
@@ -670,13 +671,16 @@
 		"costItemId": 223,
 		"beginTime": 0,
 		"endTime": 1924992000,
-		"sortId": 9999,
+		"sortId": 9998,
 		"rateUpItems4": [1059, 1050, 1027],
 		"rateUpItems5": [1047],
 		"weights5": [[1,80], [73,80], [90,10000]]
 	},
 	{
-		"gachaType": 301,
+		"comment": "Character Event Banner 2",
+		"comment5": "5 stars: Klee",
+		"comment4": "4 stars: Thoma, Ningguang and Shinakonin Heizou",
+		"gachaType": 400,
 		"scheduleId": 140,
 		"bannerType": "EVENT",
 		"prefabPath": "GachaShowPanel_A087",
@@ -685,13 +689,16 @@
 		"costItemId": 223,
 		"beginTime": 0,
 		"endTime": 1924992000,
-		"sortId": 9999,
+		"sortId": 9998,
 		"rateUpItems4": [1059, 1050, 1027],
 		"rateUpItems5": [1029],
 		"fallbackItems5Pool2": [],
 		"weights5": [[1,80], [73,80], [90,10000]]
 	},
 	{
+		"comment": "Weapon Event Banner",
+		"comment5": "5 stars: Freedom-Sworn, Lost Prayer to the Sacred Winds",
+		"comment4": "4 stars: The Alley Flash, Rainslasher, Favonius Lance, The Widsith, Mitternachts Waltz",
 		"gachaType": 302,
 		"scheduleId": 141,
 		"bannerType": "WEAPON",
@@ -701,7 +708,7 @@
 		"costItemId": 223,
 		"beginTime": 0,
 		"endTime": 1924992000,
-		"sortId": 9998,
+		"sortId": 9997,
 		"rateUpItems4":[11410, 12405, 13407, 14402, 15412],
 		"rateUpItems5": [11503, 14502],
 		"fallbackItems5Pool1": [],
