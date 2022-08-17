@@ -3,12 +3,12 @@
   "list": [
     {
       "ann_id": 1,
-      "title": "{{ANNOUNCEMENT_TITLE}}",
-      "subtitle": "{{ANNOUNCEMENT_SUBTITLE}}",
-      "banner": "{{DISPATCH_PUBLIC}}/hk4e/announcement/assets/banner/1.jpg",
-      "content": "{{ANNOUNCEMENT_CONTENT}}",
+      "title": "Welcome to YuukiPS",
+      "subtitle": "Welcome",
+      "banner": "{{DISPATCH_PUBLIC}}/hk4e/announcement/image/banner1.jpg",
+      "content": "For more info, please visit discord.yuuki.me",
       "lang": "en-US"
     }
   ],
-  "total": 2
+  "total": 1
 }
