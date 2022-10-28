@@ -1,133 +1,758 @@
 [
   {
-    "dropId": 22010010,
-    "dropList": [{ "ballId": 2024, "count": 1 }]
-  },
-  {
-    "dropId": 22010030,
-    "dropList": [{ "ballId": 2008, "count": 1 }]
-  },
-  {
-    "dropId": 22010050,
+    "dropId": 22000000,
     "dropList": [
-      { "ballId": 2024, "count": 3 },
-      { "ballId": 2008, "count": 1 }
+      { "ballId": 100061, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22000100,
+    "dropList": [
+      { "ballId": 100061, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22000200,
+    "dropList": [
+      { "ballId": 100061, "count": 3 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22000300,
+    "dropList": [
+      { "ballId": 100061, "count": 4 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22001000,
+    "dropList": [
+      { "ballId": 100064, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22001100,
+    "dropList": [
+      { "ballId": 100064, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22001200,
+    "dropList": [
+      { "ballId": 100064, "count": 3 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22001300,
+    "dropList": [
+      { "ballId": 100064, "count": 4 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22002000,
+    "dropList": [
+      { "ballId": 100084, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22002100,
+    "dropList": [
+      { "ballId": 100084, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22002200,
+    "dropList": [
+      { "ballId": 100084, "count": 3 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22002300,
+    "dropList": [
+      { "ballId": 100084, "count": 4 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22003000,
+    "dropList": [
+      { "ballId": 100094, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22003100,
+    "dropList": [
+      { "ballId": 100094, "count": 6 },
+      { "ballId": 100094, "count": 2 }
+    ]
+  },
+  {
+    "dropId": 22003200,
+    "dropList": [
+      { "ballId": 100061, "count": 1 },
+      { "ballId": 22003400, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22003300,
+    "dropList": [
+      { "ballId": 100061, "count": 2 },
+      { "ballId": 22003400, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22003400,
+    "dropList": [
+      { "ballId": 100011, "count": 1 },
+      { "ballId": 100063, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010000,
+    "dropList": [
+      { "ballId": 2008, "count": 1 },
+      { "ballId": 0, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010010,
+    "dropList": [
+      { "ballId": 2024, "count": 1 },
+      { "ballId": 0, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010011,
+    "dropList": [
+      { "ballId": 2017, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010012,
+    "dropList": [
+      { "ballId": 2018, "count": 1 },
+      { "ballId": 1, "count": 1 }
     ]
   },
   {
     "dropId": 22010013,
-    "dropList": [{ "ballId": 2019, "count": 1 }]
+    "dropList": [
+      { "ballId": 2019, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
-    "dropId": 22010033,
-    "dropList": [{ "ballId": 2003, "count": 1 }]
+    "dropId": 22010014,
+    "dropList": [
+      { "ballId": 2020, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
     "dropId": 22010015,
-    "dropList": [{ "ballId": 2021, "count": 1 }]
-  },
-  {
-    "dropId": 22010035,
-    "dropList": [{ "ballId": 2005, "count": 1 }]
-  },
-  {
-    "dropId": 22010034,
-    "dropList": [{ "ballId": 2004, "count": 1 }]
-  },
-  {
-    "dropId": 22010037,
-    "dropList": [{ "ballId": 2007, "count": 1 }]
-  },
-  {
-    "dropId": 22010032,
-    "dropList": [{ "ballId": 2002, "count": 1 }]
-  },
-  {
-    "dropId": 22010022,
-    "dropList": [{ "ballId": 2018, "count": 1 }]
-  },
-  {
-    "dropId": 22010036,
-    "dropList": [{ "ballId": 2006, "count": 1 }]
-  },
-  {
-    "dropId": 22010026,
-    "dropList": [{ "ballId": 2022, "count": 1 }]
-  },
-  {
-    "dropId": 22010031,
-    "dropList": [{ "ballId": 2001, "count": 1 }]
-  },
-
-  {
-    "dropId": 22010014,
-    "dropList": [{ "ballId": 2020, "count": 1 }]
+    "dropList": [
+      { "ballId": 2021, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
     "dropId": 22010016,
-    "dropList": [{ "ballId": 2022, "count": 1 }]
-  },
-  {
-    "dropId": 22010012,
-    "dropList": [{ "ballId": 2018, "count": 1 }]
-  },
-  {
-    "dropId": 22010024,
-    "dropList": [{ "ballId": 2004, "count": 1 }]
-  },
-  {
-    "dropId": 22010011,
-    "dropList": [{ "ballId": 2017, "count": 1 }]
+    "dropList": [
+      { "ballId": 2022, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
     "dropId": 22010017,
-    "dropList": [{ "ballId": 2023, "count": 1 }]
+    "dropList": [
+      { "ballId": 2023, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010020,
+    "dropList": [
+      { "ballId": 2024, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
     "dropId": 22010021,
-    "dropList": [{ "ballId": 2017, "count": 1 }]
-  },
-  {
-    "dropId": 22010027,
-    "dropList": [{ "ballId": 2007, "count": 1 }]
-  },
-  {
-    "dropId": 22010040,
     "dropList": [
-      { "ballId": 2024, "count": 1 },
-      { "ballId": 2008, "count": 1 }
+      { "ballId": 2017, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010022,
+    "dropList": [
+      { "ballId": 2018, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010023,
+    "dropList": [
+      { "ballId": 2019, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010024,
+    "dropList": [
+      { "ballId": 2020, "count": 2 },
+      { "ballId": 1, "count": 1 }
     ]
   },
   {
     "dropId": 22010025,
-    "dropList": [{ "ballId": 2021, "count": 2 }]
+    "dropList": [
+      { "ballId": 2021, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
-    "dropId": 22010020,
-    "dropList": [{ "ballId": 2024, "count": 1 }]
+    "dropId": 22010026,
+    "dropList": [
+      { "ballId": 2022, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
-    "dropId": 22003100,
-    "dropList": []
+    "dropId": 22010027,
+    "dropList": [
+      { "ballId": 2023, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
-    "dropId": 22001000,
-    "dropList": []
+    "dropId": 22010030,
+    "dropList": [
+      { "ballId": 2008, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
-    "dropId": 22000100,
-    "dropList": []
+    "dropId": 22010031,
+    "dropList": [
+      { "ballId": 2001, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
-    "dropId": 22003000,
-    "dropList": []
+    "dropId": 22010032,
+    "dropList": [
+      { "ballId": 2002, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
-    "dropId": 22001100,
-    "dropList": []
+    "dropId": 22010033,
+    "dropList": [
+      { "ballId": 2003, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
   },
   {
-    "dropId": 22000000,
-    "dropList": []
+    "dropId": 22010034,
+    "dropList": [
+      { "ballId": 2004, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010035,
+    "dropList": [
+      { "ballId": 2005, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010036,
+    "dropList": [
+      { "ballId": 2006, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010037,
+    "dropList": [
+      { "ballId": 2007, "count": 1 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010040,
+    "dropList": [
+      { "ballId": 2008, "count": 1 },
+      { "ballId": 2024, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010041,
+    "dropList": [
+      { "ballId": 2001, "count": 1 },
+      { "ballId": 2017, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010042,
+    "dropList": [
+      { "ballId": 2002, "count": 1 },
+      { "ballId": 2018, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010043,
+    "dropList": [
+      { "ballId": 2003, "count": 1 },
+      { "ballId": 2019, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010044,
+    "dropList": [
+      { "ballId": 2004, "count": 1 },
+      { "ballId": 2020, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010045,
+    "dropList": [
+      { "ballId": 2005, "count": 1 },
+      { "ballId": 2021, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010046,
+    "dropList": [
+      { "ballId": 2006, "count": 1 },
+      { "ballId": 2022, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010047,
+    "dropList": [
+      { "ballId": 2007, "count": 1 },
+      { "ballId": 2023, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010050,
+    "dropList": [
+      { "ballId": 2008, "count": 1 },
+      { "ballId": 2024, "count": 3 }
+    ]
+  },
+  {
+    "dropId": 22010051,
+    "dropList": [
+      { "ballId": 2001, "count": 1 },
+      { "ballId": 2017, "count": 3 }
+    ]
+  },
+  {
+    "dropId": 22010052,
+    "dropList": [
+      { "ballId": 2002, "count": 1 },
+      { "ballId": 2018, "count": 3 }
+    ]
+  },
+  {
+    "dropId": 22010053,
+    "dropList": [
+      { "ballId": 2003, "count": 1 },
+      { "ballId": 2019, "count": 3 }
+    ]
+  },
+  {
+    "dropId": 22010054,
+    "dropList": [
+      { "ballId": 2004, "count": 1 },
+      { "ballId": 2020, "count": 3 }
+    ]
+  },
+  {
+    "dropId": 22010055,
+    "dropList": [
+      { "ballId": 2005, "count": 1 },
+      { "ballId": 2021, "count": 3 }
+    ]
+  },
+  {
+    "dropId": 22010056,
+    "dropList": [
+      { "ballId": 2006, "count": 1 },
+      { "ballId": 2022, "count": 3 }
+    ]
+  },
+  {
+    "dropId": 22010057,
+    "dropList": [
+      { "ballId": 2007, "count": 1 },
+      { "ballId": 2023, "count": 3 }
+    ]
+  },
+  {
+    "dropId": 22010100,
+    "dropList": [
+      { "ballId": 2017, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010200,
+    "dropList": [
+      { "ballId": 2018, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010300,
+    "dropList": [
+      { "ballId": 2019, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010400,
+    "dropList": [
+      { "ballId": 2020, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010500,
+    "dropList": [
+      { "ballId": 2021, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010600,
+    "dropList": [
+      { "ballId": 2022, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010700,
+    "dropList": [
+      { "ballId": 2023, "count": 2 },
+      { "ballId": 1, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010800,
+    "dropList": [
+      { "ballId": 2008, "count": 1 },
+      { "ballId": 0, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22010900,
+    "dropList": [
+      { "ballId": 2001, "count": 1 },
+      { "ballId": 2017, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011000,
+    "dropList": [
+      { "ballId": 2002, "count": 1 },
+      { "ballId": 2018, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011100,
+    "dropList": [
+      { "ballId": 2003, "count": 1 },
+      { "ballId": 2019, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011200,
+    "dropList": [
+      { "ballId": 2004, "count": 1 },
+      { "ballId": 2020, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011300,
+    "dropList": [
+      { "ballId": 2005, "count": 1 },
+      { "ballId": 2021, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011400,
+    "dropList": [
+      { "ballId": 2006, "count": 1 },
+      { "ballId": 2022, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011500,
+    "dropList": [
+      { "ballId": 2007, "count": 1 },
+      { "ballId": 2023, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011600,
+    "dropList": [
+      { "ballId": 2008, "count": 2 },
+      { "ballId": 2008, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011610,
+    "dropList": [
+      { "ballId": 2008, "count": 1 },
+      { "ballId": 2024, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011700,
+    "dropList": [
+      { "ballId": 2024, "count": 1 },
+      { "ballId": 0, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011800,
+    "dropList": [
+      { "ballId": 2017, "count": 1 },
+      { "ballId": 2017, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22011900,
+    "dropList": [
+      { "ballId": 2018, "count": 1 },
+      { "ballId": 2018, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012000,
+    "dropList": [
+      { "ballId": 2019, "count": 1 },
+      { "ballId": 2019, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012100,
+    "dropList": [
+      { "ballId": 2020, "count": 1 },
+      { "ballId": 2020, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012200,
+    "dropList": [
+      { "ballId": 2021, "count": 1 },
+      { "ballId": 2021, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012300,
+    "dropList": [
+      { "ballId": 2022, "count": 1 },
+      { "ballId": 2022, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012400,
+    "dropList": [
+      { "ballId": 2023, "count": 1 },
+      { "ballId": 2023, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012500,
+    "dropList": [
+      { "ballId": 2024, "count": 2 },
+      { "ballId": 0, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012600,
+    "dropList": [
+      { "ballId": 2017, "count": 2 },
+      { "ballId": 2017, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012700,
+    "dropList": [
+      { "ballId": 2018, "count": 2 },
+      { "ballId": 2018, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012800,
+    "dropList": [
+      { "ballId": 2019, "count": 2 },
+      { "ballId": 2019, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22012900,
+    "dropList": [
+      { "ballId": 2020, "count": 2 },
+      { "ballId": 2020, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013000,
+    "dropList": [
+      { "ballId": 2021, "count": 2 },
+      { "ballId": 2021, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013100,
+    "dropList": [
+      { "ballId": 2022, "count": 2 },
+      { "ballId": 2022, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013200,
+    "dropList": [
+      { "ballId": 2023, "count": 2 },
+      { "ballId": 2023, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013300,
+    "dropList": [
+      { "ballId": 2008, "count": 2 },
+      { "ballId": 2008, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013310,
+    "dropList": [
+      { "ballId": 2008, "count": 1 },
+      { "ballId": 2024, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013400,
+    "dropList": [
+      { "ballId": 2001, "count": 1 },
+      { "ballId": 2001, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013500,
+    "dropList": [
+      { "ballId": 2002, "count": 1 },
+      { "ballId": 2002, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013600,
+    "dropList": [
+      { "ballId": 2003, "count": 1 },
+      { "ballId": 2003, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013700,
+    "dropList": [
+      { "ballId": 2004, "count": 1 },
+      { "ballId": 2004, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013800,
+    "dropList": [
+      { "ballId": 2005, "count": 1 },
+      { "ballId": 2005, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22013900,
+    "dropList": [
+      { "ballId": 2006, "count": 1 },
+      { "ballId": 2006, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014000,
+    "dropList": [
+      { "ballId": 2007, "count": 1 },
+      { "ballId": 2007, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014100,
+    "dropList": [
+      { "ballId": 2024, "count": 4 },
+      { "ballId": 2008, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014200,
+    "dropList": [
+      { "ballId": 2017, "count": 4 },
+      { "ballId": 2001, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014300,
+    "dropList": [
+      { "ballId": 2018, "count": 4 },
+      { "ballId": 2002, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014400,
+    "dropList": [
+      { "ballId": 2019, "count": 4 },
+      { "ballId": 2003, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014500,
+    "dropList": [
+      { "ballId": 2020, "count": 4 },
+      { "ballId": 2004, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014600,
+    "dropList": [
+      { "ballId": 2021, "count": 4 },
+      { "ballId": 2005, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014700,
+    "dropList": [
+      { "ballId": 2022, "count": 4 },
+      { "ballId": 2006, "count": 1 }
+    ]
+  },
+  {
+    "dropId": 22014800,
+    "dropList": [
+      { "ballId": 2023, "count": 4 },
+      { "ballId": 2007, "count": 1 }
+    ]
   }
 ]
