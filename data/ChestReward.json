@@ -397,6 +397,7 @@
 			}
 		]
 	},
+	// Random stuff?
 	{
 		"objNames": [
 			"SceneObj_Area_Dq_Property_Ani_Prop_JunkChest_01",
@@ -404,16 +405,22 @@
 			"SearchPoint",
 			"SearchPoint_OnWater"
 		],
-		"advExp": 1,
-		"resin": 2,
-		"mora": 1,
-		"sigil": 2,
-		"primogem": 2,
-		"content": [
-			{
-				"itemId": 201,
-				"count": 114
-			}
-		]
+		"advExp": 10,
+		"resin": 0,
+		"mora": 0,
+		"sigil": 0,
+		"primogem": 10,
+		"content": []
+	},
+	{
+		"objNames": [
+			"SceneObj_Area_Xm_Property_Prop_SumeruCrudeChest_01"
+		],
+		"advExp": 10,
+		"resin": 0,
+		"mora": 100000,
+		"sigil": 0,
+		"primogem": 0,
+		"content": []
 	}
 ]
