@@ -1,5 +1,5 @@
 // Grasscutter 3.2.0 GM Handbook
-// Created 2022/11/01 08:41:30
+// Created 2022/11/01 17:21:20
 
 
 // Commands
@@ -16838,8 +16838,6 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
  368155 : Nilou
  368156 : Cyno
  368157 : Candace
- 368158 : Nahida
- 368159 : Laila
  369101 : Gato de ojos de jade
  369102 : Sabueso del Norte
  369103 : Jabalí del bosque
@@ -20920,6 +20918,11 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
   80029 : [CHS] - (TEST)玩法判断任务封装一$UNRELEASED - [CHS] - (test)任务领取条件，玩家是男是女$UNRELEASED
   80030 : [CHS] - (TEST)玩法判断任务封装一$UNRELEASED - [CHS] - (test)任务领取，玩家是男$UNRELEASED
   80031 : [CHS] - (TEST)玩法判断任务封装一$UNRELEASED - [CHS] - (test)任务领取，玩家是女$UNRELEASED
+  80032 : [N/A] 0 - ???
+  80033 : [N/A] 0 - ???
+  80034 : [N/A] 0 - ???
+  80035 : [N/A] 0 - ???
+  80036 : [N/A] 0 - ???
   99001 : [CHS] - (test)对话编辑器测试任务$UNRELEASED - [CHS] - (test)普通的对话测试任务$UNRELEASED
   99002 : [CHS] - (test)对话编辑器测试任务$UNRELEASED - [CHS] - (test)坐着的对话测试任务$UNRELEASED
   99003 : [CHS] - (test)对话编辑器测试任务$UNRELEASED - [CHS] - (test)镜头相关的对话测试任务$UNRELEASED
@@ -21869,7 +21872,134 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
  302114 : Secretos del desierto ardiente - #Espera hasta la mañana siguiente (06-08{NON_BREAK_SPACE}h)
  302115 : Secretos del desierto ardiente - [CHS] - 播放CS$HIDDEN
  302116 : Secretos del desierto ardiente - Sigue adentrándote en las ruinas
+ 302201 : [N/A] 0 - ???
+ 302202 : [N/A] 0 - ???
+ 302203 : [N/A] 0 - ???
+ 302204 : [N/A] 0 - ???
+ 302205 : [N/A] 0 - ???
+ 302206 : [N/A] 0 - ???
+ 302207 : [N/A] 0 - ???
+ 302208 : [N/A] 0 - ???
+ 302209 : [N/A] 0 - ???
+ 302210 : [N/A] 0 - ???
+ 302211 : [N/A] 0 - ???
+ 302212 : [N/A] 0 - ???
+ 302213 : [N/A] 0 - ???
+ 302214 : [N/A] 0 - ???
+ 302215 : [N/A] 0 - ???
+ 302216 : [N/A] 0 - ???
+ 302217 : [N/A] 0 - ???
+ 302218 : [N/A] 0 - ???
+ 302219 : [N/A] 0 - ???
+ 302220 : [N/A] 0 - ???
+ 302221 : [N/A] 0 - ???
+ 302222 : [N/A] 0 - ???
+ 302223 : [N/A] 0 - ???
+ 302224 : [N/A] 0 - ???
+ 302225 : [N/A] 0 - ???
+ 302226 : [N/A] 0 - ???
+ 302227 : [N/A] 0 - ???
+ 302228 : [N/A] 0 - ???
+ 302229 : [N/A] 0 - ???
+ 302230 : [N/A] 0 - ???
+ 302231 : [N/A] 0 - ???
+ 302232 : [N/A] 0 - ???
+ 302233 : [N/A] 0 - ???
+ 302234 : [N/A] 0 - ???
+ 302235 : [N/A] 0 - ???
+ 302236 : [N/A] 0 - ???
+ 302237 : [N/A] 0 - ???
+ 302238 : [N/A] 0 - ???
+ 302239 : [N/A] 0 - ???
+ 302240 : [N/A] 0 - ???
+ 302241 : [N/A] 0 - ???
+ 302242 : [N/A] 0 - ???
+ 302243 : [N/A] 0 - ???
+ 302244 : [N/A] 0 - ???
+ 302245 : [N/A] 0 - ???
+ 302246 : [N/A] 0 - ???
+ 302247 : [N/A] 0 - ???
+ 302248 : [N/A] 0 - ???
+ 302249 : [N/A] 0 - ???
  302301 : [N/A] 0 - [CHS] - （test）隐藏子任务带闲置对话$HIDDEN
+ 302401 : [N/A] 0 - ???
+ 302402 : [N/A] 0 - ???
+ 302403 : [N/A] 0 - ???
+ 302404 : [N/A] 0 - ???
+ 302405 : [N/A] 0 - ???
+ 302406 : [N/A] 0 - ???
+ 302407 : [N/A] 0 - ???
+ 302408 : [N/A] 0 - ???
+ 302409 : [N/A] 0 - ???
+ 302410 : [N/A] 0 - ???
+ 302411 : [N/A] 0 - ???
+ 302412 : [N/A] 0 - ???
+ 302413 : [N/A] 0 - ???
+ 302414 : [N/A] 0 - ???
+ 302501 : [N/A] 0 - ???
+ 302502 : [N/A] 0 - ???
+ 302503 : [N/A] 0 - ???
+ 302504 : [N/A] 0 - ???
+ 302505 : [N/A] 0 - ???
+ 302506 : [N/A] 0 - ???
+ 302507 : [N/A] 0 - ???
+ 302508 : [N/A] 0 - ???
+ 302509 : [N/A] 0 - ???
+ 302510 : [N/A] 0 - ???
+ 302511 : [N/A] 0 - ???
+ 302512 : [N/A] 0 - ???
+ 302513 : [N/A] 0 - ???
+ 302514 : [N/A] 0 - ???
+ 302515 : [N/A] 0 - ???
+ 302516 : [N/A] 0 - ???
+ 302517 : [N/A] 0 - ???
+ 302601 : [N/A] 0 - ???
+ 302602 : [N/A] 0 - ???
+ 302603 : [N/A] 0 - ???
+ 302604 : [N/A] 0 - ???
+ 302605 : [N/A] 0 - ???
+ 302606 : [N/A] 0 - ???
+ 302607 : [N/A] 0 - ???
+ 302608 : [N/A] 0 - ???
+ 302611 : [N/A] 0 - ???
+ 302612 : [N/A] 0 - ???
+ 302613 : [N/A] 0 - ???
+ 302614 : [N/A] 0 - ???
+ 302615 : [N/A] 0 - ???
+ 302616 : [N/A] 0 - ???
+ 302617 : [N/A] 0 - ???
+ 302618 : [N/A] 0 - ???
+ 302619 : [N/A] 0 - ???
+ 302620 : [N/A] 0 - ???
+ 302621 : [N/A] 0 - ???
+ 302701 : [N/A] 0 - ???
+ 302702 : [N/A] 0 - ???
+ 302703 : [N/A] 0 - ???
+ 302801 : [N/A] 0 - ???
+ 302802 : [N/A] 0 - ???
+ 302803 : [N/A] 0 - ???
+ 302804 : [N/A] 0 - ???
+ 302805 : [N/A] 0 - ???
+ 302806 : [N/A] 0 - ???
+ 302807 : [N/A] 0 - ???
+ 302808 : [N/A] 0 - ???
+ 302809 : [N/A] 0 - ???
+ 302810 : [N/A] 0 - ???
+ 302811 : [N/A] 0 - ???
+ 302812 : [N/A] 0 - ???
+ 302813 : [N/A] 0 - ???
+ 302814 : [N/A] 0 - ???
+ 302815 : [N/A] 0 - ???
+ 302816 : [N/A] 0 - ???
+ 302817 : [N/A] 0 - ???
+ 302818 : [N/A] 0 - ???
+ 302819 : [N/A] 0 - ???
+ 302820 : [N/A] 0 - ???
+ 302821 : [N/A] 0 - ???
+ 302822 : [N/A] 0 - ???
+ 302823 : [N/A] 0 - ???
+ 302824 : [N/A] 0 - ???
+ 302825 : [N/A] 0 - ???
  800001 : Sacrificio involuntario - Acércate al tablón de anuncios del Gremio
  800002 : Sacrificio involuntario - Dirígete a las ruinas
  800003 : Sacrificio involuntario - Persigue al Ladrón de Tesoros
@@ -23415,6 +23545,51 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 1301126 : Silencio final - [N/A] 687600612
 1301201 : [N/A] 0 - [N/A] 1140216572
 1301202 : [N/A] 0 - [N/A] 4027530148
+1301301 : [N/A] 0 - ???
+1301302 : [N/A] 0 - ???
+1301303 : [N/A] 0 - ???
+1301304 : [N/A] 0 - ???
+1301305 : [N/A] 0 - ???
+1301306 : [N/A] 0 - ???
+1301307 : [N/A] 0 - ???
+1301308 : [N/A] 0 - ???
+1301309 : [N/A] 0 - ???
+1301310 : [N/A] 0 - ???
+1301311 : [N/A] 0 - ???
+1301401 : [N/A] 0 - ???
+1301402 : [N/A] 0 - ???
+1301403 : [N/A] 0 - ???
+1301404 : [N/A] 0 - ???
+1301405 : [N/A] 0 - ???
+1301406 : [N/A] 0 - ???
+1301407 : [N/A] 0 - ???
+1301408 : [N/A] 0 - ???
+1301409 : [N/A] 0 - ???
+1301410 : [N/A] 0 - ???
+1301411 : [N/A] 0 - ???
+1301412 : [N/A] 0 - ???
+1301413 : [N/A] 0 - ???
+1301414 : [N/A] 0 - ???
+1301415 : [N/A] 0 - ???
+1301416 : [N/A] 0 - ???
+1301417 : [N/A] 0 - ???
+1301418 : [N/A] 0 - ???
+1301419 : [N/A] 0 - ???
+1301420 : [N/A] 0 - ???
+1301421 : [N/A] 0 - ???
+1301422 : [N/A] 0 - ???
+1301423 : [N/A] 0 - ???
+1301424 : [N/A] 0 - ???
+1301425 : [N/A] 0 - ???
+1301426 : [N/A] 0 - ???
+1301427 : [N/A] 0 - ???
+1301428 : [N/A] 0 - ???
+1301429 : [N/A] 0 - ???
+1301430 : [N/A] 0 - ???
+1301501 : [N/A] 0 - ???
+1301502 : [N/A] 0 - ???
+1301503 : [N/A] 0 - ???
+1301504 : [N/A] 0 - ???
 1301601 : [N/A] 0 - [N/A] 4263295804
 1301602 : [N/A] 0 - [N/A] 1241222732
 1301701 : [N/A] 0 - [N/A] 3381485820
@@ -26394,6 +26569,12 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 2303309 : «El rey invocador» - Ve al lugar de la imagen y posa
 2303310 : «El rey invocador» - Habla con Fukumoto
 2303311 : «El rey invocador» - [N/A] 841740308
+2303501 : [N/A] 0 - ???
+2303502 : [N/A] 0 - ???
+2303503 : [N/A] 0 - ???
+2303504 : [N/A] 0 - ???
+2303505 : [N/A] 0 - ???
+2303506 : [N/A] 0 - ???
 2303601 : Aventuras fantásticas de un anzuelo - Habla con Kayvan y Helbet
 2303602 : Aventuras fantásticas de un anzuelo - Dale a Kayvan los materiales para el cebo
 2303603 : Aventuras fantásticas de un anzuelo - Habla con Kayvan y Helbet
@@ -27460,7 +27641,131 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 4008006 : Aroma de vino reminiscente - Asiste a la ceremonia del brindis
 4008007 : Aroma de vino reminiscente - [N/A] 2389188100
 4008008 : Aroma de vino reminiscente - [N/A] 1661525596
+4008101 : [N/A] 0 - ???
+4008102 : [N/A] 0 - ???
+4008103 : [N/A] 0 - ???
+4008104 : [N/A] 0 - ???
+4008105 : [N/A] 0 - ???
+4008106 : [N/A] 0 - ???
+4008107 : [N/A] 0 - ???
+4008108 : [N/A] 0 - ???
+4008109 : [N/A] 0 - ???
+4008110 : [N/A] 0 - ???
+4008111 : [N/A] 0 - ???
+4008112 : [N/A] 0 - ???
+4008113 : [N/A] 0 - ???
+4008114 : [N/A] 0 - ???
+4008115 : [N/A] 0 - ???
+4008116 : [N/A] 0 - ???
+4008117 : [N/A] 0 - ???
+4008118 : [N/A] 0 - ???
+4008119 : [N/A] 0 - ???
+4008120 : [N/A] 0 - ???
+4008121 : [N/A] 0 - ???
+4008122 : [N/A] 0 - ???
+4008123 : [N/A] 0 - ???
+4008201 : [N/A] 0 - ???
+4008202 : [N/A] 0 - ???
+4008203 : [N/A] 0 - ???
+4008204 : [N/A] 0 - ???
+4008205 : [N/A] 0 - ???
+4008206 : [N/A] 0 - ???
+4008207 : [N/A] 0 - ???
+4008208 : [N/A] 0 - ???
+4008209 : [N/A] 0 - ???
+4008210 : [N/A] 0 - ???
+4008211 : [N/A] 0 - ???
+4008212 : [N/A] 0 - ???
+4008213 : [N/A] 0 - ???
+4008214 : [N/A] 0 - ???
+4008215 : [N/A] 0 - ???
+4008301 : [N/A] 0 - ???
+4008302 : [N/A] 0 - ???
+4008303 : [N/A] 0 - ???
+4008304 : [N/A] 0 - ???
+4008305 : [N/A] 0 - ???
+4008306 : [N/A] 0 - ???
+4008307 : [N/A] 0 - ???
+4008308 : [N/A] 0 - ???
+4008309 : [N/A] 0 - ???
+4008310 : [N/A] 0 - ???
+4008311 : [N/A] 0 - ???
+4008312 : [N/A] 0 - ???
+4008313 : [N/A] 0 - ???
+4008314 : [N/A] 0 - ???
+4008315 : [N/A] 0 - ???
+4008316 : [N/A] 0 - ???
+4008317 : [N/A] 0 - ???
+4008318 : [N/A] 0 - ???
+4008319 : [N/A] 0 - ???
+4008320 : [N/A] 0 - ???
+4008321 : [N/A] 0 - ???
+4008322 : [N/A] 0 - ???
+4008323 : [N/A] 0 - ???
+4008401 : [N/A] 0 - ???
+4008402 : [N/A] 0 - ???
+4008403 : [N/A] 0 - ???
+4008404 : [N/A] 0 - ???
+4008405 : [N/A] 0 - ???
+4008406 : [N/A] 0 - ???
+4008407 : [N/A] 0 - ???
+4008408 : [N/A] 0 - ???
+4008409 : [N/A] 0 - ???
+4008410 : [N/A] 0 - ???
+4008411 : [N/A] 0 - ???
+4008412 : [N/A] 0 - ???
+4008413 : [N/A] 0 - ???
+4008414 : [N/A] 0 - ???
+4008415 : [N/A] 0 - ???
+4008416 : [N/A] 0 - ???
+4008417 : [N/A] 0 - ???
+4008418 : [N/A] 0 - ???
+4008419 : [N/A] 0 - ???
+4008420 : [N/A] 0 - ???
+4008501 : [N/A] 0 - ???
+4008502 : [N/A] 0 - ???
+4008503 : [N/A] 0 - ???
+4008504 : [N/A] 0 - ???
+4008505 : [N/A] 0 - ???
+4008506 : [N/A] 0 - ???
+4008507 : [N/A] 0 - ???
+4008508 : [N/A] 0 - ???
+4008509 : [N/A] 0 - ???
+4008510 : [N/A] 0 - ???
+4008511 : [N/A] 0 - ???
+4008512 : [N/A] 0 - ???
+4008513 : [N/A] 0 - ???
+4008514 : [N/A] 0 - ???
+4008515 : [N/A] 0 - ???
+4008516 : [N/A] 0 - ???
+4008517 : [N/A] 0 - ???
+4008518 : [N/A] 0 - ???
+4008519 : [N/A] 0 - ???
+4008520 : [N/A] 0 - ???
+4008521 : [N/A] 0 - ???
+4008601 : [N/A] 0 - ???
+4008602 : [N/A] 0 - ???
+4008603 : [N/A] 0 - ???
+4008604 : [N/A] 0 - ???
+4008701 : [N/A] 0 - ???
+4008702 : [N/A] 0 - ???
+4008703 : [N/A] 0 - ???
 4008801 : [CHS] - （test）佳酿节天气控制$HIDDEN - [N/A] 1510477380
+4009401 : [N/A] 0 - ???
+4009501 : [N/A] 0 - ???
+4009502 : [N/A] 0 - ???
+4009503 : [N/A] 0 - ???
+4009504 : [N/A] 0 - ???
+4009505 : [N/A] 0 - ???
+4009506 : [N/A] 0 - ???
+4009507 : [N/A] 0 - ???
+4009508 : [N/A] 0 - ???
+4009509 : [N/A] 0 - ???
+4009510 : [N/A] 0 - ???
+4009511 : [N/A] 0 - ???
+4009512 : [N/A] 0 - ???
+4009513 : [N/A] 0 - ???
+4009514 : [N/A] 0 - ???
 4091101 : ¿Un gran paso para la alquimia? - Encuentra a Timaeus en Mondstadt
 4091102 : ¿Un gran paso para la alquimia? - Ve hacia el Templo de los Mil Vientos
 4091103 : ¿Un gran paso para la alquimia? - Habla con Timaeus
@@ -28410,6 +28715,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 7003701 : [CHS] - (test)音游活动六阶段$HIDDEN - [CHS] - (test)前往第六个点观察$HIDDEN
 7003801 : [CHS] - (test)音游活动七阶段$HIDDEN - [CHS] - (test)前往第七个点观察$HIDDEN
 7003901 : [CHS] - （test）隐藏任务判定等量交换是否完成$HIDDEN - [N/A] 2635445084
+7004001 : [N/A] 0 - ???
 7010101 : [CHS] - (test)古代王国之皇室没落$HIDDEN - [N/A] 2813283756
 7010102 : [CHS] - (test)古代王国之皇室没落$HIDDEN - [N/A] 3874605588
 7010103 : [CHS] - (test)古代王国之皇室没落$HIDDEN - [N/A] 3521255740
@@ -28749,6 +29055,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 7066109 : Boom acuático - Habla con Nantuck
 7066110 : Boom acuático - [CHS] - (test)检测是否获取观赏鱼$HIDDEN
 7066201 : [CHS] - (test)钓鱼引导任务$HIDDEN - [CHS] - (test)发鱼竿的隐藏任务$HIDDEN
+7066301 : [N/A] 0 - ???
 7066401 : Dominio huracanado - Habla con Honglang
 7070001 : Té especial de Helen - Entrégale 10 flores dulces a Helen
 7070002 : Té especial de Helen - Habla con Helen
@@ -29856,6 +30163,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 7165412 : Tetera, dulce tetera (II) - [CHS] - 判断进入壶4$HIDDEN
 7165413 : Tetera, dulce tetera (II) - Habla con Paimon
 7165414 : Tetera, dulce tetera (II) - Explora el área
+7165415 : [N/A] 0 - ???
+7165416 : [N/A] 0 - ???
+7165417 : [N/A] 0 - ???
 7165501 : Los chismes de la tetera - Habla con Gordi
 7165601 : Espectros flotantes: Comienza la investigación - Habla con Katheryne de Inazuma
 7165701 : Espectros flotantes: Investigación completa - Habla con Katheryne de Inazuma
@@ -32246,6 +32556,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 7228729 : «Mushounin» - [N/A] 3695273012
 7228801 : [CHS] - (test)2.6隐藏任务，用于雷电将军2完成后刷出海祇岛特产店$HIDDEN - [CHS] - （test）2.6隐藏任务，用于雷电将军2完成后刷出海祇岛特产店$HIDDEN
 7250001 : Conversaciones tras el festival - Habla con Mamoru
+7250101 : [N/A] 0 - ???
+7250102 : [N/A] 0 - ???
 7265001 : Flujo fantasmal: el filo ilusorio - Habla con Shousen
 7265101 : El arte de buscar tesoros... ¿De nuevo? - [N/A] 3410789972
 7265102 : El arte de buscar tesoros... ¿De nuevo? - Habla con Ulman
@@ -34820,6 +35132,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 7330301 : [CHS] - (test)沙漠苗圃后续玩法3第2天$HIDDEN - [CHS] - (test)计时完成$HIDDEN
 7330302 : [CHS] - (test)沙漠苗圃后续玩法3第2天$HIDDEN - [CHS] - (test)给幼苗施肥$HIDDEN
 7330401 : [CHS] - (test)赤王陵顶竞争用$HIDDEN - [N/A] 933225524
+7330601 : [N/A] 0 - ???
 7350001 : La figura de madera menospreciada - Habla con los artesanos consternados
 7350002 : La figura de madera menospreciada - Busca a Tánger en la Villa Gandharva
 7350003 : La figura de madera menospreciada - Habla con Collei
@@ -34966,6 +35279,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 7380306 : La odisea del Sr. García: Un regalo de compatibilidad - [N/A] 3691751556
 7380307 : La odisea del Sr. García: Un regalo de compatibilidad - [N/A] 1726415284
 7380401 : [CHS] - 沙中花隐藏彩蛋判断$HIDDEN - Completa una vez las tres ramificaciones de «Florescencia desértica»
+7380501 : [N/A] 0 - ???
 7390001 : [CHS] - 阿什帕齐NPC送礼任务$HIDDEN - [N/A] 202789548
 7390101 : [CHS] - 阿米尔NPC送礼任务$HIDDEN - [N/A] 797248828
 7390201 : [CHS] - 法伯德NPC送礼任务$HIDDEN - [N/A] 21868276
@@ -35032,6 +35346,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual
 7396301 : [CHS] - 加斯顿NPC送礼任务$HIDDEN - [N/A] 4160304364
 7396401 : [CHS] - 希琳NPC送礼任务$HIDDEN - [N/A] 1891149692
 7396501 : [CHS] - 阿布丁NPC送礼任务$HIDDEN - [N/A] 4124511484
+7396601 : [N/A] 0 - ???
+7396701 : [N/A] 0 - ???
 7396801 : [CHS] - 安普叔NPC送礼任务$HIDDEN - [N/A] 738410116
 7396901 : [CHS] - 伊萨克送礼任务$HIDDEN - [N/A] 1160731060
 7397201 : [CHS] - 杰巴里送礼任务$HIDDEN - [N/A] 3929673204
