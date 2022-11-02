@@ -1,5 +1,5 @@
 // Grasscutter 3.2.0 GM Handbook
-// Created 2022/11/01 17:21:20
+// Created 2022/11/02 08:43:21
 
 
 // Commands
@@ -16838,6 +16838,8 @@ setFetterLevel : Sets your fetter level for your current active character
  368155 : Nilou
  368156 : Cyno
  368157 : Candace
+ 368158 : Nahida
+ 368159 : Layla
  369101 : Gato de Olhos de Jade
  369102 : Cão de Caça do Norte
  369103 : Javali do Bosque
@@ -20918,11 +20920,11 @@ setFetterLevel : Sets your fetter level for your current active character
   80029 : [CHS] - (TEST)玩法判断任务封装一$UNRELEASED - [CHS] - (test)任务领取条件，玩家是男是女$UNRELEASED
   80030 : [CHS] - (TEST)玩法判断任务封装一$UNRELEASED - [CHS] - (test)任务领取，玩家是男$UNRELEASED
   80031 : [CHS] - (TEST)玩法判断任务封装一$UNRELEASED - [CHS] - (test)任务领取，玩家是女$UNRELEASED
-  80032 : [N/A] 0 - ???
-  80033 : [N/A] 0 - ???
-  80034 : [N/A] 0 - ???
-  80035 : [N/A] 0 - ???
-  80036 : [N/A] 0 - ???
+  80032 : [N/A] 0 - [CHS] - (test)黑屏文字和自动对话$UNRELEASED
+  80033 : [N/A] 0 - [CHS] - (test)任务变量随机$UNRELEASED
+  80034 : [N/A] 0 - [CHS] - (test)NPC开关神之眼$UNRELEASED
+  80035 : [N/A] 0 - [CHS] - (test)NPC开关神之眼$UNRELEASED
+  80036 : [N/A] 0 - [CHS] - (test)NPC坐下站起$UNRELEASED
   99001 : [CHS] - (test)对话编辑器测试任务$UNRELEASED - [CHS] - (test)普通的对话测试任务$UNRELEASED
   99002 : [CHS] - (test)对话编辑器测试任务$UNRELEASED - [CHS] - (test)坐着的对话测试任务$UNRELEASED
   99003 : [CHS] - (test)对话编辑器测试任务$UNRELEASED - [CHS] - (test)镜头相关的对话测试任务$UNRELEASED
@@ -21872,134 +21874,134 @@ setFetterLevel : Sets your fetter level for your current active character
  302114 : Segredos do Deserto Ardente - Espere até a manhã seguinte (06:00 - 08:00)
  302115 : Segredos do Deserto Ardente - [CHS] - 播放CS$HIDDEN
  302116 : Segredos do Deserto Ardente - Explore as profundezas das ruínas
- 302201 : [N/A] 0 - ???
- 302202 : [N/A] 0 - ???
- 302203 : [N/A] 0 - ???
- 302204 : [N/A] 0 - ???
- 302205 : [N/A] 0 - ???
- 302206 : [N/A] 0 - ???
- 302207 : [N/A] 0 - ???
- 302208 : [N/A] 0 - ???
- 302209 : [N/A] 0 - ???
- 302210 : [N/A] 0 - ???
- 302211 : [N/A] 0 - ???
- 302212 : [N/A] 0 - ???
- 302213 : [N/A] 0 - ???
- 302214 : [N/A] 0 - ???
- 302215 : [N/A] 0 - ???
- 302216 : [N/A] 0 - ???
- 302217 : [N/A] 0 - ???
- 302218 : [N/A] 0 - ???
- 302219 : [N/A] 0 - ???
- 302220 : [N/A] 0 - ???
- 302221 : [N/A] 0 - ???
- 302222 : [N/A] 0 - ???
- 302223 : [N/A] 0 - ???
- 302224 : [N/A] 0 - ???
- 302225 : [N/A] 0 - ???
- 302226 : [N/A] 0 - ???
- 302227 : [N/A] 0 - ???
- 302228 : [N/A] 0 - ???
- 302229 : [N/A] 0 - ???
- 302230 : [N/A] 0 - ???
- 302231 : [N/A] 0 - ???
- 302232 : [N/A] 0 - ???
- 302233 : [N/A] 0 - ???
- 302234 : [N/A] 0 - ???
- 302235 : [N/A] 0 - ???
- 302236 : [N/A] 0 - ???
- 302237 : [N/A] 0 - ???
- 302238 : [N/A] 0 - ???
- 302239 : [N/A] 0 - ???
- 302240 : [N/A] 0 - ???
- 302241 : [N/A] 0 - ???
- 302242 : [N/A] 0 - ???
- 302243 : [N/A] 0 - ???
- 302244 : [N/A] 0 - ???
- 302245 : [N/A] 0 - ???
- 302246 : [N/A] 0 - ???
- 302247 : [N/A] 0 - ???
- 302248 : [N/A] 0 - ???
- 302249 : [N/A] 0 - ???
+ 302201 : [N/A] 0 - Espere até 8:00 - 12:00 do dia seguinte
+ 302202 : [N/A] 0 - Vá para fora da Academia e encontre-se com Alhaitham
+ 302203 : [N/A] 0 - Entre na Academia com Alhaitham
+ 302204 : [N/A] 0 - Entre na Casa de Daena
+ 302205 : [N/A] 0 - Fale com Alhaitham
+ 302206 : [N/A] 0 - Esconda-se temporariamente e aguarde por uma chance
+ 302207 : [N/A] 0 - [N/A] 3442967412
+ 302208 : [N/A] 0 - Fale com Paimon
+ 302209 : [N/A] 0 - Tente se conectar com a consciência de Nahida
+ 302210 : [N/A] 0 - Fale com a consciência de Nahida
+ 302211 : [N/A] 0 - Fale com Sheikh Zubayr
+ 302212 : [N/A] 0 - Vá para perto da Academia
+ 302213 : [N/A] 0 - Vá para perto da Academia
+ 302214 : [N/A] 0 - [N/A] 1732046580
+ 302215 : [N/A] 0 - Fale com Paimon
+ 302216 : [N/A] 0 - Interlúdio: Diálogo de Dehya e Rahman
+ 302217 : [N/A] 0 - Atraia os guardas da Academia para a emboscada
+ 302218 : [N/A] 0 - Interlúdio: O Grande Sábio Azar vai para o Santuário de Surasthana
+ 302219 : [N/A] 0 - Interlúdio: Hesitação do Grande Sábio Azar
+ 302220 : [N/A] 0 - Interlúdio: O Grande Sábio Azar vai para o Santuário de Surasthana
+ 302221 : [N/A] 0 - Fale com Paimon
+ 302222 : [N/A] 0 - Vá para o Santuário de Surasthana
+ 302223 : [N/A] 0 - Fale com Nahida
+ 302224 : [N/A] 0 - Atraia os guardas da Academia para a emboscada
+ 302225 : [N/A] 0 - [N/A] 1295878188
+ 302226 : [N/A] 0 - Fale com Sheikh Zubayr
+ 302227 : [N/A] 0 - Fale com Paimon
+ 302228 : [N/A] 0 - Interlúdio: Diálogo de Dehya e Rahman
+ 302229 : [N/A] 0 - Interlúdio: Hesitação do Grande Sábio Azar
+ 302230 : [N/A] 0 - Fale com Paimon
+ 302231 : [N/A] 0 - [CHS] - 设法与纳西妲的意识进行连接$HIDDEN
+ 302232 : [N/A] 0 - [CHS] - 设法与纳西妲的意识进行连接$HIDDEN
+ 302233 : [N/A] 0 - Fale com Paimon
+ 302234 : [N/A] 0 - [N/A] 403262332
+ 302235 : [N/A] 0 - [N/A] 3258363788
+ 302236 : [N/A] 0 - [N/A] 2830775676
+ 302237 : [N/A] 0 - [N/A] 33960564
+ 302238 : [N/A] 0 - [N/A] 3034910092
+ 302239 : [N/A] 0 - [N/A] 1042508412
+ 302240 : [N/A] 0 - [N/A] 2334919076
+ 302241 : [N/A] 0 - Sair do Santuário de Surasthana
+ 302242 : [N/A] 0 - [N/A] 2103971276
+ 302243 : [N/A] 0 - [N/A] 2524469860
+ 302244 : [N/A] 0 - [N/A] 3247687540
+ 302245 : [N/A] 0 - [N/A] 4115109332
+ 302246 : [N/A] 0 - [N/A] 2898922556
+ 302247 : [N/A] 0 - [N/A] 1634110884
+ 302248 : [N/A] 0 - [N/A] 1799067076
+ 302249 : [N/A] 0 - [CHS] - 设法与纳西妲的意识进行连接$HIDDEN
  302301 : [N/A] 0 - [CHS] - （test）隐藏子任务带闲置对话$HIDDEN
- 302401 : [N/A] 0 - ???
- 302402 : [N/A] 0 - ???
- 302403 : [N/A] 0 - ???
- 302404 : [N/A] 0 - ???
- 302405 : [N/A] 0 - ???
- 302406 : [N/A] 0 - ???
- 302407 : [N/A] 0 - ???
- 302408 : [N/A] 0 - ???
- 302409 : [N/A] 0 - ???
- 302410 : [N/A] 0 - ???
- 302411 : [N/A] 0 - ???
- 302412 : [N/A] 0 - ???
- 302413 : [N/A] 0 - ???
- 302414 : [N/A] 0 - ???
- 302501 : [N/A] 0 - ???
- 302502 : [N/A] 0 - ???
- 302503 : [N/A] 0 - ???
- 302504 : [N/A] 0 - ???
- 302505 : [N/A] 0 - ???
- 302506 : [N/A] 0 - ???
- 302507 : [N/A] 0 - ???
- 302508 : [N/A] 0 - ???
- 302509 : [N/A] 0 - ???
- 302510 : [N/A] 0 - ???
- 302511 : [N/A] 0 - ???
- 302512 : [N/A] 0 - ???
- 302513 : [N/A] 0 - ???
- 302514 : [N/A] 0 - ???
- 302515 : [N/A] 0 - ???
- 302516 : [N/A] 0 - ???
- 302517 : [N/A] 0 - ???
- 302601 : [N/A] 0 - ???
- 302602 : [N/A] 0 - ???
- 302603 : [N/A] 0 - ???
- 302604 : [N/A] 0 - ???
- 302605 : [N/A] 0 - ???
- 302606 : [N/A] 0 - ???
- 302607 : [N/A] 0 - ???
- 302608 : [N/A] 0 - ???
- 302611 : [N/A] 0 - ???
- 302612 : [N/A] 0 - ???
- 302613 : [N/A] 0 - ???
- 302614 : [N/A] 0 - ???
- 302615 : [N/A] 0 - ???
- 302616 : [N/A] 0 - ???
- 302617 : [N/A] 0 - ???
- 302618 : [N/A] 0 - ???
- 302619 : [N/A] 0 - ???
- 302620 : [N/A] 0 - ???
- 302621 : [N/A] 0 - ???
- 302701 : [N/A] 0 - ???
- 302702 : [N/A] 0 - ???
- 302703 : [N/A] 0 - ???
- 302801 : [N/A] 0 - ???
- 302802 : [N/A] 0 - ???
- 302803 : [N/A] 0 - ???
- 302804 : [N/A] 0 - ???
- 302805 : [N/A] 0 - ???
- 302806 : [N/A] 0 - ???
- 302807 : [N/A] 0 - ???
- 302808 : [N/A] 0 - ???
- 302809 : [N/A] 0 - ???
- 302810 : [N/A] 0 - ???
- 302811 : [N/A] 0 - ???
- 302812 : [N/A] 0 - ???
- 302813 : [N/A] 0 - ???
- 302814 : [N/A] 0 - ???
- 302815 : [N/A] 0 - ???
- 302816 : [N/A] 0 - ???
- 302817 : [N/A] 0 - ???
- 302818 : [N/A] 0 - ???
- 302819 : [N/A] 0 - ???
- 302820 : [N/A] 0 - ???
- 302821 : [N/A] 0 - ???
- 302822 : [N/A] 0 - ???
- 302823 : [N/A] 0 - ???
- 302824 : [N/A] 0 - ???
- 302825 : [N/A] 0 - ???
+ 302401 : [N/A] 0 - Fale com Candace
+ 302402 : [N/A] 0 - Encontre-se com Alhaitham
+ 302403 : [N/A] 0 - Vá até à base Eremita
+ 302404 : [N/A] 0 - Vá ao Ribat de Caravanas e encontre-se com Cyno
+ 302405 : [N/A] 0 - Fale com os soldados posicionados no Ribat de Caravanas
+ 302406 : [N/A] 0 - Aguarde até a hora marcada (dois dias depois)
+ 302407 : [N/A] 0 - Vá para o lado leste do deserto
+ 302408 : [N/A] 0 - Ajude Cyno a prender os Eremitas
+ 302409 : [N/A] 0 - Fale com Cyno
+ 302410 : [N/A] 0 - Espere até o dia seguinte
+ 302411 : [N/A] 0 - Entre na casa do chefe da vila
+ 302412 : [N/A] 0 - Fale com Candace
+ 302413 : [N/A] 0 - Entre na casa do chefe da vila
+ 302414 : [N/A] 0 - Deixe a casa do chefe da vila
+ 302501 : [N/A] 0 - Vá para o Ribat de Caravanas encontrar com Dehya
+ 302502 : [N/A] 0 - Procure por Tighnari no Pardis Dhyai
+ 302503 : [N/A] 0 - Vá para o Porto Ormos
+ 302504 : [N/A] 0 - Siga os soldados Fatui
+ 302505 : [N/A] 0 - Fale com Dehya
+ 302506 : [N/A] 0 - Retorne logo para o Pardis Dhyai
+ 302507 : [N/A] 0 - Repila os Fatui
+ 302508 : [N/A] 0 - Fale com Tighnari
+ 302509 : [N/A] 0 - Confirme a situação de Tighnari e Dehya
+ 302510 : [N/A] 0 - Vá para onde Haypasia está
+ 302511 : [N/A] 0 - Espere até a hora da reunião (19:00 - 21:00)
+ 302512 : [N/A] 0 - Vá até o Grande Bazar
+ 302513 : [N/A] 0 - Esconda-se em Wikala Funduq
+ 302514 : [N/A] 0 - Siga Dehya para perseguirem Dottore
+ 302515 : [N/A] 0 - Fale com Dehya
+ 302516 : [N/A] 0 - Fale com Dehya depois de sair do Pardis Dhyai
+ 302517 : [N/A] 0 - [CHS] - (test)(hide)删除船只$HIDDEN
+ 302601 : [N/A] 0 - [CHS] - (test)(hide)刷柯莱的早餐$HIDDEN
+ 302602 : [N/A] 0 - Fale com Collei
+ 302603 : [N/A] 0 - Vá até o Grande Bazar
+ 302604 : [N/A] 0 - Entre na Casa de Daena e encontre Alhaitham
+ 302605 : [N/A] 0 - Vá para o Porto Ormos
+ 302606 : [N/A] 0 - Vá para a Vila Aaru
+ 302607 : [N/A] 0 - Espere pelo banquete começar (19:00 - 24:00 dois dias depois)
+ 302608 : [N/A] 0 - Vá para o Grande Bazar e compareça ao banquete
+ 302611 : [N/A] 0 - Fale com todos no banquete
+ 302612 : [N/A] 0 - Fale com todos no banquete
+ 302613 : [N/A] 0 - Fale com todos no banquete
+ 302614 : [N/A] 0 - Fale com todos no banquete
+ 302615 : [N/A] 0 - Fale com Paimon
+ 302616 : [N/A] 0 - Fale com Paimon
+ 302617 : [N/A] 0 - Vá para o Santuário de Surasthana
+ 302618 : [N/A] 0 - Fale com Tighnari
+ 302619 : [N/A] 0 - Pergunte sobre o paradeiro de Alhaitham na Academia
+ 302620 : [N/A] 0 - Fale com Alhaitham
+ 302621 : [N/A] 0 - [CHS] - (test)(hide)离开智慧宫刷新npc$HIDDEN
+ 302701 : [N/A] 0 - [CHS] - (test)刷纳西妲闲置$HIDDEN
+ 302702 : [N/A] 0 - [CHS] - (test)刷海芭夏睡觉$HIDDEN
+ 302703 : [N/A] 0 - [CHS] - (test)中位回滚任务$HIDDEN
+ 302801 : [N/A] 0 - Espere até 16:00 e encontre Nahida no Santuário de Surasthana
+ 302802 : [N/A] 0 - Passe pela passagem e alcance Scaramouche
+ 302803 : [N/A] 0 - Passe pela passagem e alcance Scaramouche
+ 302804 : [N/A] 0 - Fale com Nahida
+ 302805 : [N/A] 0 - Fale com Nahida
+ 302806 : [N/A] 0 - Vá até o local onde Scaramouche está
+ 302807 : [N/A] 0 - Fale com Scaramouche
+ 302808 : [N/A] 0 - Derrote o Mestre Eterno da Sabedoria Arcana
+ 302809 : [N/A] 0 - [N/A] 2846762036
+ 302810 : [N/A] 0 - Derrote o Mestre Eterno da Sabedoria Arcana
+ 302811 : [N/A] 0 - [N/A] 1008751788
+ 302812 : [N/A] 0 - Fale com Paimon
+ 302813 : [N/A] 0 - Fale com Nahida
+ 302814 : [N/A] 0 - Entre na memória final da Lorde Maior Rukkhadevata
+ 302815 : [N/A] 0 - Deixe este lugar usando o Barco da Consciência
+ 302816 : [N/A] 0 - Fale com Nahida
+ 302817 : [N/A] 0 - Alcance a Irminsul do passado
+ 302818 : [N/A] 0 - Encontre a consciência remanescente da Lorde Maior Rukkhadevata
+ 302819 : [N/A] 0 - [N/A] 1316718732
+ 302820 : [N/A] 0 - Fale com Nahida
+ 302821 : [N/A] 0 - Fale com Nahida
+ 302822 : [N/A] 0 - Fale com Nahida quando tiver feito suas preparações
+ 302823 : [N/A] 0 - [N/A] 1028323556
+ 302824 : [N/A] 0 - [N/A] 2969884492
+ 302825 : [N/A] 0 - [N/A] 3431895716
  800001 : Sacrifício Involuntário - Vá até o Quadro de Avisos da Guilda de Aventureiros
  800002 : Sacrifício Involuntário - Vá investigar as ruínas
  800003 : Sacrifício Involuntário - Persiga os Ladrões de Tesouros
@@ -23545,51 +23547,51 @@ setFetterLevel : Sets your fetter level for your current active character
 1301126 : Silêncio Final - [N/A] 687600612
 1301201 : [N/A] 0 - [N/A] 1140216572
 1301202 : [N/A] 0 - [N/A] 4027530148
-1301301 : [N/A] 0 - ???
-1301302 : [N/A] 0 - ???
-1301303 : [N/A] 0 - ???
-1301304 : [N/A] 0 - ???
-1301305 : [N/A] 0 - ???
-1301306 : [N/A] 0 - ???
-1301307 : [N/A] 0 - ???
-1301308 : [N/A] 0 - ???
-1301309 : [N/A] 0 - ???
-1301310 : [N/A] 0 - ???
-1301311 : [N/A] 0 - ???
-1301401 : [N/A] 0 - ???
-1301402 : [N/A] 0 - ???
-1301403 : [N/A] 0 - ???
-1301404 : [N/A] 0 - ???
-1301405 : [N/A] 0 - ???
-1301406 : [N/A] 0 - ???
-1301407 : [N/A] 0 - ???
-1301408 : [N/A] 0 - ???
-1301409 : [N/A] 0 - ???
-1301410 : [N/A] 0 - ???
-1301411 : [N/A] 0 - ???
-1301412 : [N/A] 0 - ???
-1301413 : [N/A] 0 - ???
-1301414 : [N/A] 0 - ???
-1301415 : [N/A] 0 - ???
-1301416 : [N/A] 0 - ???
-1301417 : [N/A] 0 - ???
-1301418 : [N/A] 0 - ???
-1301419 : [N/A] 0 - ???
-1301420 : [N/A] 0 - ???
-1301421 : [N/A] 0 - ???
-1301422 : [N/A] 0 - ???
-1301423 : [N/A] 0 - ???
-1301424 : [N/A] 0 - ???
-1301425 : [N/A] 0 - ???
-1301426 : [N/A] 0 - ???
-1301427 : [N/A] 0 - ???
-1301428 : [N/A] 0 - ???
-1301429 : [N/A] 0 - ???
-1301430 : [N/A] 0 - ???
-1301501 : [N/A] 0 - ???
-1301502 : [N/A] 0 - ???
-1301503 : [N/A] 0 - ???
-1301504 : [N/A] 0 - ???
+1301301 : [N/A] 0 - Vá até a Cidade de Sumeru
+1301302 : [N/A] 0 - Fale com Pedrush
+1301303 : [N/A] 0 - Siga Pedrush para "Momentos de Sonhos"
+1301304 : [N/A] 0 - Vá para o local mencionado por Ilman
+1301305 : [N/A] 0 - Derrote os monstros que estão atacando
+1301306 : [N/A] 0 - Fale com Ilman
+1301307 : [N/A] 0 - Retorne para "Momentos de Sonhos" para confirmar a situação
+1301308 : [N/A] 0 - Veja como o deprimido Ilman está
+1301309 : [N/A] 0 - Fale com Ilman
+1301310 : [N/A] 0 - Escale até o topo
+1301311 : [N/A] 0 - [CHS] - (test)隐藏刷怪物Group$HIDDEN
+1301401 : [N/A] 0 - Vá para a Caverna Chatrakam
+1301402 : [N/A] 0 - Derrote os monstros que estão atacando
+1301403 : [N/A] 0 - Fale com Kathya
+1301404 : [N/A] 0 - Retorne para o "Momentos de Sonhos"
+1301405 : [N/A] 0 - Entre no Sonho
+1301406 : [N/A] 0 - Fale com Nahida para entender a situação
+1301407 : [N/A] 0 - Entre nas profundezas dos sonhos
+1301408 : [N/A] 0 - Fale com Nahida
+1301409 : [N/A] 0 - Procure por pistas no Café
+1301410 : [N/A] 0 - Continue entrando nas profundezas do sonho
+1301411 : [N/A] 0 - Fale novamente com Nahida
+1301412 : [N/A] 0 - Encontre pistas perto do precipício
+1301413 : [N/A] 0 - Entre no local mais profundo do sonho
+1301414 : [N/A] 0 - Procure por pistas na cidade
+1301415 : [N/A] 0 - Derrote os monstros que estão atacando
+1301416 : [N/A] 0 - O sonho está fora de controle
+1301417 : [N/A] 0 - Derrote Emira
+1301418 : [N/A] 0 - Fale com Moseis
+1301419 : [N/A] 0 - Desperte do sonho
+1301420 : [N/A] 0 - Fale novamente com Nahida
+1301421 : [N/A] 0 - Fale novamente com Nahida
+1301422 : [N/A] 0 - Fale com Nahida
+1301423 : [N/A] 0 - Siga Pedrush para ver a situação das pessoas que estavam no sonho
+1301424 : [N/A] 0 - Veja a situação de Debbi
+1301425 : [N/A] 0 - Procure por pistas no Café
+1301426 : [N/A] 0 - Fale com Moseis
+1301427 : [N/A] 0 - [CHS] - (test)隐藏刷新对话中怪物$HIDDEN
+1301428 : [N/A] 0 - Entre em um local mais profundo do sonho
+1301429 : [N/A] 0 - Continue entrando nas profundezas do sonho
+1301430 : [N/A] 0 - [CHS] - (test)【隐藏】教程$HIDDEN
+1301501 : [N/A] 0 - Informe aos participantes dos "Momentos de Sonhos" da situação
+1301502 : [N/A] 0 - Entregue a cápsula de conhecimento contendo a consciência de Moseis a Academia
+1301503 : [N/A] 0 - Retorne ao "Momentos de Sonhos"
+1301504 : [N/A] 0 - Encontre Nahida na praça
 1301601 : [N/A] 0 - [N/A] 4263295804
 1301602 : [N/A] 0 - [N/A] 1241222732
 1301701 : [N/A] 0 - [N/A] 3381485820
@@ -26569,12 +26571,12 @@ setFetterLevel : Sets your fetter level for your current active character
 2303309 : Rei do Chamado Sagrado dos Sete - Vá até o local e faça uma bela pose
 2303310 : Rei do Chamado Sagrado dos Sete - Fale com Fukumoto
 2303311 : Rei do Chamado Sagrado dos Sete - [N/A] 841740308
-2303501 : [N/A] 0 - ???
-2303502 : [N/A] 0 - ???
-2303503 : [N/A] 0 - ???
-2303504 : [N/A] 0 - ???
-2303505 : [N/A] 0 - ???
-2303506 : [N/A] 0 - ???
+2303501 : [N/A] 0 - Fale com Fukumoto
+2303502 : [N/A] 0 - Vá ao Café Puspa
+2303503 : [N/A] 0 - Vá ao Café Puspa e encontre-se com Fukumoto
+2303504 : [N/A] 0 - Fale com Cyno
+2303505 : [N/A] 0 - Tire algumas fotos de Cyno
+2303506 : [N/A] 0 - Fale com Fukumoto
 2303601 : As Aventuras Surpreendentes do Anzol - Fale com Helbet e Kayvan
 2303602 : As Aventuras Surpreendentes do Anzol - Entregue os materiais da isca para Kayvan
 2303603 : As Aventuras Surpreendentes do Anzol - Fale com Helbet e Kayvan
@@ -27641,131 +27643,131 @@ setFetterLevel : Sets your fetter level for your current active character
 4008006 : Aroma do Passado - Vá para o local principal para participar da cerimônia de brinde
 4008007 : Aroma do Passado - [N/A] 2389188100
 4008008 : Aroma do Passado - [N/A] 1661525596
-4008101 : [N/A] 0 - ???
-4008102 : [N/A] 0 - ???
-4008103 : [N/A] 0 - ???
-4008104 : [N/A] 0 - ???
-4008105 : [N/A] 0 - ???
-4008106 : [N/A] 0 - ???
-4008107 : [N/A] 0 - ???
-4008108 : [N/A] 0 - ???
-4008109 : [N/A] 0 - ???
-4008110 : [N/A] 0 - ???
-4008111 : [N/A] 0 - ???
-4008112 : [N/A] 0 - ???
-4008113 : [N/A] 0 - ???
-4008114 : [N/A] 0 - ???
-4008115 : [N/A] 0 - ???
-4008116 : [N/A] 0 - ???
-4008117 : [N/A] 0 - ???
-4008118 : [N/A] 0 - ???
-4008119 : [N/A] 0 - ???
-4008120 : [N/A] 0 - ???
-4008121 : [N/A] 0 - ???
-4008122 : [N/A] 0 - ???
-4008123 : [N/A] 0 - ???
-4008201 : [N/A] 0 - ???
-4008202 : [N/A] 0 - ???
-4008203 : [N/A] 0 - ???
-4008204 : [N/A] 0 - ???
-4008205 : [N/A] 0 - ???
-4008206 : [N/A] 0 - ???
-4008207 : [N/A] 0 - ???
-4008208 : [N/A] 0 - ???
-4008209 : [N/A] 0 - ???
-4008210 : [N/A] 0 - ???
-4008211 : [N/A] 0 - ???
-4008212 : [N/A] 0 - ???
-4008213 : [N/A] 0 - ???
-4008214 : [N/A] 0 - ???
-4008215 : [N/A] 0 - ???
-4008301 : [N/A] 0 - ???
-4008302 : [N/A] 0 - ???
-4008303 : [N/A] 0 - ???
-4008304 : [N/A] 0 - ???
-4008305 : [N/A] 0 - ???
-4008306 : [N/A] 0 - ???
-4008307 : [N/A] 0 - ???
-4008308 : [N/A] 0 - ???
-4008309 : [N/A] 0 - ???
-4008310 : [N/A] 0 - ???
-4008311 : [N/A] 0 - ???
-4008312 : [N/A] 0 - ???
-4008313 : [N/A] 0 - ???
-4008314 : [N/A] 0 - ???
-4008315 : [N/A] 0 - ???
-4008316 : [N/A] 0 - ???
-4008317 : [N/A] 0 - ???
-4008318 : [N/A] 0 - ???
-4008319 : [N/A] 0 - ???
-4008320 : [N/A] 0 - ???
-4008321 : [N/A] 0 - ???
-4008322 : [N/A] 0 - ???
-4008323 : [N/A] 0 - ???
-4008401 : [N/A] 0 - ???
-4008402 : [N/A] 0 - ???
-4008403 : [N/A] 0 - ???
-4008404 : [N/A] 0 - ???
-4008405 : [N/A] 0 - ???
-4008406 : [N/A] 0 - ???
-4008407 : [N/A] 0 - ???
-4008408 : [N/A] 0 - ???
-4008409 : [N/A] 0 - ???
-4008410 : [N/A] 0 - ???
-4008411 : [N/A] 0 - ???
-4008412 : [N/A] 0 - ???
-4008413 : [N/A] 0 - ???
-4008414 : [N/A] 0 - ???
-4008415 : [N/A] 0 - ???
-4008416 : [N/A] 0 - ???
-4008417 : [N/A] 0 - ???
-4008418 : [N/A] 0 - ???
-4008419 : [N/A] 0 - ???
-4008420 : [N/A] 0 - ???
-4008501 : [N/A] 0 - ???
-4008502 : [N/A] 0 - ???
-4008503 : [N/A] 0 - ???
-4008504 : [N/A] 0 - ???
-4008505 : [N/A] 0 - ???
-4008506 : [N/A] 0 - ???
-4008507 : [N/A] 0 - ???
-4008508 : [N/A] 0 - ???
-4008509 : [N/A] 0 - ???
-4008510 : [N/A] 0 - ???
-4008511 : [N/A] 0 - ???
-4008512 : [N/A] 0 - ???
-4008513 : [N/A] 0 - ???
-4008514 : [N/A] 0 - ???
-4008515 : [N/A] 0 - ???
-4008516 : [N/A] 0 - ???
-4008517 : [N/A] 0 - ???
-4008518 : [N/A] 0 - ???
-4008519 : [N/A] 0 - ???
-4008520 : [N/A] 0 - ???
-4008521 : [N/A] 0 - ???
-4008601 : [N/A] 0 - ???
-4008602 : [N/A] 0 - ???
-4008603 : [N/A] 0 - ???
-4008604 : [N/A] 0 - ???
-4008701 : [N/A] 0 - ???
-4008702 : [N/A] 0 - ???
-4008703 : [N/A] 0 - ???
+4008101 : [N/A] 0 - Caminhe pela Cidade de Sumeru
+4008102 : [N/A] 0 - [N/A] 3992314004
+4008103 : [N/A] 0 - Vá para a arena da Copa Nilotpala
+4008104 : [N/A] 0 - [N/A] 1281293388
+4008105 : [N/A] 0 - Vá para a zona de captura
+4008106 : [N/A] 0 - Capture Cogumelos
+4008107 : [N/A] 0 - Vá para a próxima zona de captura
+4008108 : [N/A] 0 - Capture Cogumelos
+4008109 : [N/A] 0 - Fale com Haniyyah
+4008110 : [N/A] 0 - Ajude a garota que você encontrou por acidente
+4008111 : [N/A] 0 - Retorne para a arena da Copa Nilotpala
+4008112 : [N/A] 0 - Fale com Yae Miko
+4008113 : [N/A] 0 - Vá para o estande de Geleia Floral
+4008114 : [N/A] 0 - Escolha o nome do Cogumelo
+4008115 : [N/A] 0 - Recolha seu Orbe da Sabedoria
+4008116 : [N/A] 0 - Ative o Potencial do Cogumelo
+4008117 : [N/A] 0 - Ative o Potencial do Cogumelo
+4008118 : [N/A] 0 - Ative o Potencial do Cogumelo
+4008119 : [N/A] 0 - Ative o Potencial do Cogumelo
+4008120 : [N/A] 0 - [N/A] 1853168108
+4008121 : [N/A] 0 - [N/A] 3952051172
+4008122 : [N/A] 0 - Vá para o Campo de Treinamento Especial
+4008123 : [N/A] 0 - [N/A] 2379212236
+4008201 : [N/A] 0 - Espere até a manhã do dia seguinte (08:00 — 10:00)
+4008202 : [N/A] 0 - Vá para a arena da Copa Nilotpala
+4008203 : [N/A] 0 - Derrote seus oponentes
+4008204 : [N/A] 0 - [N/A] 4210983868
+4008205 : [N/A] 0 - Participe da competição
+4008206 : [N/A] 0 - Derrote seus oponentes
+4008207 : [N/A] 0 - Fale com seus oponentes
+4008208 : [N/A] 0 - Fale com Yae Miko
+4008209 : [N/A] 0 - Procure pela origem do grito por ajuda
+4008210 : [N/A] 0 - Fale com Haniyyah
+4008211 : [N/A] 0 - Retorne para a arena da Copa Nilotpala
+4008212 : [N/A] 0 - Fale com Yae Miko
+4008213 : [N/A] 0 - Saia da arena
+4008214 : [N/A] 0 - [CHS] - 参加比赛$HIDDEN
+4008215 : [N/A] 0 - Participe da competição
+4008301 : [N/A] 0 - Espere até a manhã do dia seguinte (08:00 — 10:00)
+4008302 : [N/A] 0 - Derrote seus oponentes
+4008303 : [N/A] 0 - Participe da competição
+4008304 : [N/A] 0 - Derrote seus oponentes
+4008305 : [N/A] 0 - Fale com Yae Miko
+4008306 : [N/A] 0 - Espere até a madrugada do dia seguinte (03:00 - 05:00)
+4008307 : [N/A] 0 - Vá para o estande de Geleia Floral
+4008308 : [N/A] 0 - [N/A] 646947668
+4008309 : [N/A] 0 - Encontre a Comerciante Poderosa
+4008310 : [N/A] 0 - Derrote seus oponentes
+4008311 : [N/A] 0 - Participe da competição
+4008312 : [N/A] 0 - Derrote seus oponentes
+4008313 : [N/A] 0 - Fale com Layla
+4008314 : [N/A] 0 - Saia da arena
+4008315 : [N/A] 0 - Saia da arena
+4008316 : [N/A] 0 - Fale com seus oponentes
+4008317 : [N/A] 0 - Fale com seus oponentes
+4008318 : [N/A] 0 - Tire uma foto da loja como prova
+4008319 : [N/A] 0 - Fale com Haniyyah
+4008320 : [N/A] 0 - [CHS] - 参加比赛$HIDDEN
+4008321 : [N/A] 0 - [CHS] - 参加比赛$HIDDEN
+4008322 : [N/A] 0 - Derrote seus oponentes
+4008323 : [N/A] 0 - Derrote seus oponentes
+4008401 : [N/A] 0 - Espere até a manhã do dia seguinte (08:00 — 10:00)
+4008402 : [N/A] 0 - Saia da arena
+4008403 : [N/A] 0 - Participe da competição
+4008404 : [N/A] 0 - Derrote seus oponentes
+4008405 : [N/A] 0 - Derrote seus oponentes
+4008406 : [N/A] 0 - Fale com Layla
+4008407 : [N/A] 0 - Participe das semifinais
+4008408 : [N/A] 0 - Lute contra Layla
+4008409 : [N/A] 0 - Lute contra Layla
+4008410 : [N/A] 0 - Fale com Yae Miko
+4008411 : [N/A] 0 - Use a Visão Elemental para encontrar Haniyyah
+4008412 : [N/A] 0 - Saia da arena
+4008413 : [N/A] 0 - Fale com Layla
+4008414 : [N/A] 0 - Fale com seus oponentes
+4008415 : [N/A] 0 - Discuta com Paimon
+4008416 : [N/A] 0 - Vá para o local mencionado na conversa
+4008417 : [N/A] 0 - [CHS] - 参加比赛$HIDDEN
+4008418 : [N/A] 0 - [CHS] - 参加半决赛$HIDDEN
+4008419 : [N/A] 0 - Derrote seus oponentes
+4008420 : [N/A] 0 - Participe das semifinais
+4008501 : [N/A] 0 - Espere até a manhã do dia seguinte (08:00 — 10:00)
+4008502 : [N/A] 0 - Derrote Haniyyah
+4008503 : [N/A] 0 - Participe da final
+4008504 : [N/A] 0 - Fale com Haniyyah
+4008505 : [N/A] 0 - Fale com Haniyyah
+4008506 : [N/A] 0 - Saia da arena
+4008507 : [N/A] 0 - [N/A] 1113430444
+4008508 : [N/A] 0 - Fale com Elchingen
+4008509 : [N/A] 0 - Fale com Yae Miko
+4008510 : [N/A] 0 - Alcance e derrote Elchingen
+4008511 : [N/A] 0 - Derrote os Fatui
+4008512 : [N/A] 0 - Fale com o mercenário da Tropa dos Trinta
+4008513 : [N/A] 0 - [N/A] 1985450772
+4008514 : [N/A] 0 - Defenda-se contra os ataques do seu oponente
+4008515 : [N/A] 0 - Derrote Haniyyah
+4008516 : [N/A] 0 - Derrote Haniyyah
+4008517 : [N/A] 0 - Vá para a arena
+4008518 : [N/A] 0 - [CHS] - 参加决赛$HIDDEN
+4008519 : [N/A] 0 - Derrote Haniyyah
+4008520 : [N/A] 0 - Derrote Haniyyah
+4008521 : [N/A] 0 - Defenda-se contra os ataques do seu oponente
+4008601 : [N/A] 0 - Encontre-se com Layla
+4008602 : [N/A] 0 - Encontre-se com Yae Miko
+4008603 : [N/A] 0 - Encontre-se com Haniyyah
+4008604 : [N/A] 0 - Espere dois dias
+4008701 : [N/A] 0 - [N/A] 1897258644
+4008702 : [N/A] 0 - [N/A] 2777659172
+4008703 : [N/A] 0 - [N/A] 755737748
 4008801 : [CHS] - （test）佳酿节天气控制$HIDDEN - [N/A] 1510477380
-4009401 : [N/A] 0 - ???
-4009501 : [N/A] 0 - ???
-4009502 : [N/A] 0 - ???
-4009503 : [N/A] 0 - ???
-4009504 : [N/A] 0 - ???
-4009505 : [N/A] 0 - ???
-4009506 : [N/A] 0 - ???
-4009507 : [N/A] 0 - ???
-4009508 : [N/A] 0 - ???
-4009509 : [N/A] 0 - ???
-4009510 : [N/A] 0 - ???
-4009511 : [N/A] 0 - ???
-4009512 : [N/A] 0 - ???
-4009513 : [N/A] 0 - ???
-4009514 : [N/A] 0 - ???
+4009401 : [N/A] 0 - [N/A] 1229811324
+4009501 : [N/A] 0 - Vá para a zona de captura
+4009502 : [N/A] 0 - Capture Cogumelos
+4009503 : [N/A] 0 - Vá para a próxima zona de captura
+4009504 : [N/A] 0 - Capture Cogumelos
+4009505 : [N/A] 0 - Ative o Potencial do Cogumelo
+4009506 : [N/A] 0 - Ative o Potencial do Cogumelo
+4009507 : [N/A] 0 - Ative o Potencial do Cogumelo
+4009508 : [N/A] 0 - Ative o Potencial do Cogumelo
+4009509 : [N/A] 0 - [N/A] 1570088916
+4009510 : [N/A] 0 - [N/A] 1712096380
+4009511 : [N/A] 0 - [N/A] 620906732
+4009512 : [N/A] 0 - [CHS] - (test)完成蕈兽培养4$HIDDEN
+4009513 : [N/A] 0 - Vá para o Campo de Treinamento Especial
+4009514 : [N/A] 0 - Vá para o estande de Geleia Floral
 4091101 : Um Grande Passo para Alquimia? - Encontre Timaeus em Mondstadt.
 4091102 : Um Grande Passo para Alquimia? - Vá até o Templo do Vento Milenar
 4091103 : Um Grande Passo para Alquimia? - Falar com Timaeus
@@ -28715,7 +28717,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7003701 : [CHS] - (test)音游活动六阶段$HIDDEN - [CHS] - (test)前往第六个点观察$HIDDEN
 7003801 : [CHS] - (test)音游活动七阶段$HIDDEN - [CHS] - (test)前往第七个点观察$HIDDEN
 7003901 : [CHS] - （test）隐藏任务判定等量交换是否完成$HIDDEN - [N/A] 2635445084
-7004001 : [N/A] 0 - ???
+7004001 : [N/A] 0 - [N/A] 418896980
 7010101 : [CHS] - (test)古代王国之皇室没落$HIDDEN - [N/A] 2813283756
 7010102 : [CHS] - (test)古代王国之皇室没落$HIDDEN - [N/A] 3874605588
 7010103 : [CHS] - (test)古代王国之皇室没落$HIDDEN - [N/A] 3521255740
@@ -29055,7 +29057,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7066109 : Grande Surto de Peixes - Fale com Nantuk
 7066110 : Grande Surto de Peixes - [CHS] - (test)检测是否获取观赏鱼$HIDDEN
 7066201 : [CHS] - (test)钓鱼引导任务$HIDDEN - [CHS] - (test)发鱼竿的隐藏任务$HIDDEN
-7066301 : [N/A] 0 - ???
+7066301 : [N/A] 0 - [CHS] - （test）测试任务$UNRELEASED
 7066401 : Ventos do Domínio - Fale com Honglang
 7070001 : Mistura Especial de Helen - Dê 10 Flores Doce para Helen
 7070002 : Mistura Especial de Helen - Fale com Helen
@@ -30163,9 +30165,9 @@ setFetterLevel : Sets your fetter level for your current active character
 7165412 : Bule, Doce Bule - II - [CHS] - 判断进入壶4$HIDDEN
 7165413 : Bule, Doce Bule - II - Fale com Paimon
 7165414 : Bule, Doce Bule - II - Investigue os arredores
-7165415 : [N/A] 0 - ???
-7165416 : [N/A] 0 - ???
-7165417 : [N/A] 0 - ???
+7165415 : [N/A] 0 - [CHS] - 判断进入壶5$HIDDEN
+7165416 : [N/A] 0 - Fale com Paimon
+7165417 : [N/A] 0 - Investigue os arredores
 7165501 : Assuntos do Bule - Fale com Tubby
 7165601 : Espíritos Flutuantes, iniciar investigação - Fale com Katheryne da Cidade de Inazuma
 7165701 : Espíritos Flutuantes, final da investigação - Fale com Katheryne da Cidade de Inazuma
@@ -32556,8 +32558,8 @@ setFetterLevel : Sets your fetter level for your current active character
 7228729 : Mushounin - [N/A] 3695273012
 7228801 : [CHS] - (test)2.6隐藏任务，用于雷电将军2完成后刷出海祇岛特产店$HIDDEN - [CHS] - （test）2.6隐藏任务，用于雷电将军2完成后刷出海祇岛特产店$HIDDEN
 7250001 : Após o Festival - Fale com Mamoru
-7250101 : [N/A] 0 - ???
-7250102 : [N/A] 0 - ???
+7250101 : [N/A] 0 - Fale com Asagiri
+7250102 : [N/A] 0 - Fale com Asagiri
 7265001 : Técnica Geneishin: Lâmina Fantasmagórica - Fale com Shousen
 7265101 : O Caminho do Caçador de Tesouros... Parte II? - [N/A] 3410789972
 7265102 : O Caminho do Caçador de Tesouros... Parte II? - Fale com Ulman
@@ -35132,7 +35134,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7330301 : [CHS] - (test)沙漠苗圃后续玩法3第2天$HIDDEN - [CHS] - (test)计时完成$HIDDEN
 7330302 : [CHS] - (test)沙漠苗圃后续玩法3第2天$HIDDEN - [CHS] - (test)给幼苗施肥$HIDDEN
 7330401 : [CHS] - (test)赤王陵顶竞争用$HIDDEN - [N/A] 933225524
-7330601 : [N/A] 0 - ???
+7330601 : [N/A] 0 - [N/A] 847313044
 7350001 : A Escultura Não Apreciada - Fale com o artesão problemático
 7350002 : A Escultura Não Apreciada - Vá para Vila Gandharva para encontrar Tanger
 7350003 : A Escultura Não Apreciada - Fale com Collei
@@ -35279,7 +35281,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7380306 : Peã de Garcia: Presente de Compatibilidade - [N/A] 3691751556
 7380307 : Peã de Garcia: Presente de Compatibilidade - [N/A] 1726415284
 7380401 : [CHS] - 沙中花隐藏彩蛋判断$HIDDEN - Conclua cada um dos três galhos da Flor do Deserto uma vez
-7380501 : [N/A] 0 - ???
+7380501 : [N/A] 0 - Fale com Maryam
 7390001 : [CHS] - 阿什帕齐NPC送礼任务$HIDDEN - [N/A] 202789548
 7390101 : [CHS] - 阿米尔NPC送礼任务$HIDDEN - [N/A] 797248828
 7390201 : [CHS] - 法伯德NPC送礼任务$HIDDEN - [N/A] 21868276
@@ -35346,8 +35348,8 @@ setFetterLevel : Sets your fetter level for your current active character
 7396301 : [CHS] - 加斯顿NPC送礼任务$HIDDEN - [N/A] 4160304364
 7396401 : [CHS] - 希琳NPC送礼任务$HIDDEN - [N/A] 1891149692
 7396501 : [CHS] - 阿布丁NPC送礼任务$HIDDEN - [N/A] 4124511484
-7396601 : [N/A] 0 - ???
-7396701 : [N/A] 0 - ???
+7396601 : [N/A] 0 - [N/A] 2611283444
+7396701 : [N/A] 0 - [N/A] 2329058460
 7396801 : [CHS] - 安普叔NPC送礼任务$HIDDEN - [N/A] 738410116
 7396901 : [CHS] - 伊萨克送礼任务$HIDDEN - [N/A] 1160731060
 7397201 : [CHS] - 杰巴里送礼任务$HIDDEN - [N/A] 3929673204
