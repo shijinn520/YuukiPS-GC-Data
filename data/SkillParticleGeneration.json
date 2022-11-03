@@ -535,7 +535,7 @@
 		"avatarId": 10000068,
 		"amountList": [
 			{
-				"value": 2,
+				"value": 3,
 				"chance": 100
 			}
 		]
@@ -557,7 +557,7 @@
 		"avatarId": 10000070,
 		"amountList": [
 			{
-				"value": 2,
+				"value": 3,
 				"chance": 100
 			}
 		]
@@ -566,7 +566,7 @@
 		"avatarId": 10000071,
 		"amountList": [
 			{
-				"value": 2,
+				"value": 3,
 				"chance": 100
 			}
 		]
@@ -575,8 +575,26 @@
 		"avatarId": 10000072,
 		"amountList": [
 			{
-				"value": 2,
+				"value": 3,
 				"chance": 100
+			}
+		]
+	},
+	{
+		"avatarId": 10000073,
+		"amountList": [
+			{
+				"value": 4,
+				"chance": 100
+			}
+		]
+	},
+	{
+		"avatarId": 10000074,
+		"amountList": [
+			{
+				"value": 7,
+				"chance": 50
 			}
 		]
 	}
