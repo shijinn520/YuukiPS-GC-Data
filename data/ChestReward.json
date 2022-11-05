@@ -402,7 +402,9 @@
 		"objNames": [
 			"SceneObj_Area_Dq_Property_Ani_Prop_JunkChest_01",
 			"SceneObj_Area_Common_Property_Ani_Prop_JunkChest_02",
+			"SceneObj_Area_Common_Property_Ani_Prop_BGM_01",
 			"SearchPoint",
+			"SearchPoint_Big",
 			"SearchPoint_OnWater"
 		],
 		"advExp": 10,
