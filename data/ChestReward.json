@@ -403,6 +403,7 @@
 			"SceneObj_Area_Dq_Property_Ani_Prop_JunkChest_01",
 			"SceneObj_Area_Common_Property_Ani_Prop_JunkChest_02",
 			"SceneObj_Area_Common_Property_Ani_Prop_BGM_01",
+			"SceneObj_Area_Dq_Property_Prop_BookPage_01", // maybe quest
 			"SearchPoint",
 			"SearchPoint_Big",
 			"SearchPoint_OnWater"
