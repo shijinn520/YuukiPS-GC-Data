@@ -597,5 +597,18 @@
 				"chance": 50
 			}
 		]
+	},
+	{
+		"avatarId": 10000059,
+		"amountList": [
+			{
+				"value": 2,
+				"chance": 100
+			},
+			{
+				"value": 6,
+				"chance": 30
+			}
+		]
 	}
 ]

@@ -403,7 +403,10 @@
 			"SceneObj_Area_Dq_Property_Ani_Prop_JunkChest_01",
 			"SceneObj_Area_Common_Property_Ani_Prop_JunkChest_02",
 			"SceneObj_Area_Common_Property_Ani_Prop_BGM_01",
-			"SceneObj_Area_Dq_Property_Prop_BookPage_01", // maybe quest
+			"SceneObj_Area_Dq_Property_Prop_BookPage_01", // book for pick item read book
+			"SceneObj_Chest_Hero_01", // event?
+			"SceneObj_Chest_Hero_02",
+			"SceneObj_Chest_Hero_03",
 			"SearchPoint",
 			"SearchPoint_Big",
 			"SearchPoint_OnWater"
