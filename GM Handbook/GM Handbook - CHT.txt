@@ -1,5 +1,5 @@
-// Grasscutter 3.3.0 GM Handbook
-// Created 2022/12/07 22:14:49
+// Grasscutter 3.3.54 GM Handbook
+// Created 2023/01/24 10:05:08
 
 
 // Commands
@@ -585,6 +585,28 @@ setFetterLevel : 設定當前角色的好感度等級。
  41076013 : Faruzan_Constellation6_Bullet - [N/A] 1903046925
  41076014 : Faruzan_Constellation6_Bullet_Trigger - [N/A] 1339949197
  41076015 : Faruzan_SkillObj_WindZone_Hit - [N/A] 3244892205
+ 41077001 : Yaoyao_ExtraAttack_Bullet - [N/A] 1175812701
+ 41077002 : Yaoyao_ElementalArt_Rabbit - [N/A] 486672549
+ 41077003 : Avatar_Yaoyao_Turnip_Bullet - [N/A] 358099181
+ 41077004 : Avatar_Yaoyao_Turnip - [N/A] 3130731581
+ 41077005 : Yaoyao_ElementalArt_Rabbit_Throw - [N/A] 4187909685
+ 41077006 : Yaoyao_ElementalBurst_Rabbit_Throw - [N/A] 371097277
+ 41077007 : Yaoyao_ElementalBurst_Rabbit - [N/A] 3384056949
+ 41077008 : Avatar_Yaoyao_Turnip_Bullet_Parabola - [N/A] 3536110237
+ 41077009 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre - [N/A] 1584764237
+ 41077010 : Yaoyao_ElementalArt_Rabbit_Throw_Short - [N/A] 502899525
+ 41077011 : Avatar_Yaoyao_Golden_Turnip_Bullet - [N/A] 3865826597
+ 41077012 : Avatar_Yaoyao_Golden_Turnip - [N/A] 1158403509
+ 41077013 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre_BulletTrigger - [N/A] 3263422261
+ 41078001 : Alhatham_ElementalArt_Bullet - [N/A] 1364000445
+ 41078002 : Alhatham_ElementalArt_CoAttack03_Bullet - [N/A] 64191325
+ 41078003 : Alhatham_ElementalArt_CoAttack01 - [N/A] 470585117
+ 41078004 : Alhatham_ElementalArt_CoAttack02 - [N/A] 3787294741
+ 41078005 : Alhatham_ElementalArt_CoAttack03 - [N/A] 1744412269
+ 41078006 : Alhatham_ElementalArt_CoAttack01_Constellation_1 - [N/A] 2252179381
+ 41078007 : Alhatham_ElementalArt_CoAttack02_Constellation_1 - [N/A] 1560682061
+ 41078008 : Alhatham_ElementalArt_CoAttack03_Constellation_1 - [N/A] 4103662077
+ 41078011 : Alhatham_ElementalBurst_Dummy - [N/A] 2022817589
  42000001 : Fishing_Aim_Bullet - [N/A] 948791589
  42000002 : Fishing_Cork - [N/A] 3201528309
  42001001 : Slime_IceCone_AimPoint - [N/A] 4070709791
@@ -1192,6 +1214,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  42509016 : Samurai_Ningyo_MaskCloseLock_ToPlace - [N/A] 2596145183
  42509017 : Samurai_Ningyo_BornObject - [N/A] 3018148159
  42509018 : Samurai_Ningyo_LockTarget - [N/A] 712038119
+ 42509019 : Samurai_Ningyo_WindBladeAir_BladeMaster - [N/A] 865564191
  42510001 : Samurai_Kairagi_FireArea - [N/A] 2013216071
  42510002 : Kairagi_RushAtk_Bullet - [N/A] 4186423367
  42510003 : Kairagi_RushAtk_Bullet_Thunder - [N/A] 321225383
@@ -1219,6 +1242,21 @@ setFetterLevel : 設定當前角色的好感度等級。
  42550006 : Eremite_Vulture_WindArea - [N/A] 3706864199
  42550007 : Eremite_Longbows_MoveShot_Damage - [N/A] 687002071
  42550008 : Eremite_Longbows_AirShoot_WindArea - [N/A] 1292916871
+ 42560001 : Eremite_Dancer_Boomerang - [N/A] 3548492375
+ 42560002 : Eremite_Dancer_WheelSurround - [N/A] 3787607703
+ 42560003 : Eremite_Dancer_Trap - [N/A] 2195108999
+ 42560004 : Eremite_Chrysopelea_ShaderCut_Gadget - [N/A] 2831645047
+ 42560005 : Eremite_Chrysopelea_ComboAttack_Gadget - [N/A] 678410903
+ 42560006 : Eremite_Chrysopelea_RangeAttack_Bullet - [N/A] 2679176639
+ 42570001 : Eremite_Oracle_Stingers_Bullet - [N/A] 2445929463
+ 42570002 : Eremite_Oracle_LaserAttack_Bullet - [N/A] 3113180095
+ 42570003 : Eremite_Oracle_FunnelAttack_Bullet - [N/A] 4060731967
+ 42570004 : Eremite_Oracle_FunnelAttack_Gadget - [N/A] 3884020815
+ 42570005 : Eremite_Scorpion_ShaderCut_Gadget - [N/A] 2308962959
+ 42570006 : Eremite_Scorpion_RangeAttack_Bullet - [N/A] 2162733327
+ 42570007 : Eremite_Scorpion_MeleeAttack_Bullet - [N/A] 1655028663
+ 42570008 : Eremite_Scorpion_ComboAttack_Gadget - [N/A] 1971621423
+ 42570009 : Eremite_Scorpion_RangeAttack_RayBullet - [N/A] 1740862423
  42601001 : Mimik_Ice_ForwardBullet - [N/A] 1887752319
  42601002 : Mimik_Ice_ForwardCannon - [N/A] 239623631
  42601003 : Mimik_Ice_UpperMissile - [N/A] 2883953935
@@ -1413,6 +1451,33 @@ setFetterLevel : 設定當前角色的好感度等級。
  42609024 : Fungus_Un_Water_Bubble - [N/A] 4040866999
  42609025 : Fungus_Deux_Wind_OverdoseBullet - [N/A] 1900741015
  42609026 : Fungus_Un_Dendro_Bullet_UB - [N/A] 437828143
+ 42610001 : Scorpion_Sacred_SacredAttack03_Bullet - [N/A] 157394007
+ 42610002 : Scorpion_Sacred_SacredAttack05_Bullet - [N/A] 1362906215
+ 42610003 : Scorpion_Sacred_SacredEnergy_Gadget - [N/A] 4201293127
+ 42610004 : Scorpion_Sacred_SacredEnergy_Bullet - [N/A] 426087711
+ 42610005 : Scorpion_Sacred_SacredEnergy_Accum - [N/A] 1086890671
+ 42610006 : Scorpion_Sacred_SacredAttack05_Bullet2 - [N/A] 3394513775
+ 42610007 : Scorpion_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 2396345631
+ 42610017 : Vulture_Sacred_SacredAttack04_Bullet - [N/A] 1931426559
+ 42610018 : Vulture_Sacred_SacredAttack05_Bullet - [N/A] 3313926135
+ 42610019 : Vulture_Sacred_SacredEnergy_Gadget - [N/A] 4274054415
+ 42610020 : Vulture_Sacred_SacredEnergy_Bullet - [N/A] 3474544455
+ 42610021 : Vulture_Sacred_SacredEnergy_Detect - [N/A] 3571112831
+ 42610022 : Vulture_Sacred_SacredEnergy_Accum - [N/A] 205944767
+ 42610023 : Vulture_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3491967647
+ 42610024 : Chrysopelea_Sacred_Attack01_Bullet - [N/A] 3919499911
+ 42610025 : Chrysopelea_Sacred_Attack01_WindZone - [N/A] 27701559
+ 42610026 : Chrysopelea_Sacred_SacredEnergy_Gadget - [N/A] 1669444215
+ 42610027 : Chrysopelea_Sacred_SacredEnergy_Bullet - [N/A] 2668002983
+ 42610028 : Chrysopelea_Sacred_Attack02_WindBlade - [N/A] 2268598063
+ 42610029 : Chrysopelea_Sacred_Attack04_WindZone - [N/A] 3244977807
+ 42610030 : Chrysopelea_Sacred_Attack05_Bullet - [N/A] 3994716847
+ 42610031 : Chrysopelea_Sacred_SacredEnergy_Detect - [N/A] 1576521079
+ 42610032 : Chrysopelea_Sacred_SacredEnergy_Accum - [N/A] 1749515879
+ 42610033 : Chrysopelea_Sacred_Attack05_WindBlade - [N/A] 2250065735
+ 42610034 : Chrysopelea_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3603489927
+ 42610035 : Chrysopelea_Sacred_Attack02_WindBlade02 - [N/A] 475343279
+ 42610036 : Chrysopelea_Sacred_Attack02_WindBlade03 - [N/A] 3164834151
  42611001 : Fungus_Raptor_01_ShootAttackBullet - [N/A] 1247474583
  42611002 : Fungus_Raptor_01_PowerAttackBullet - [N/A] 1981485391
  42611003 : Fungus_Raptor_01_SummonAttackBullet - [N/A] 3692441343
@@ -1431,6 +1496,17 @@ setFetterLevel : 設定當前角色的好感度等級。
  42611016 : Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay - [N/A] 1382661615
  42611017 : Fungus_Raptor_01_SummonAttackBullet_OnGround - [N/A] 1912276719
  42611018 : Fungus_Un_Delta_Grass_BulletDecayedRaptorSummon - [N/A] 1152419447
+ 42613001 : Bullet_Sandworm_Stage01_ShootAttackBullet - [N/A] 2932985583
+ 42613002 : Bullet_Sandworm_Stage02_TailVerticalShootAttack_BulletOnGround - [N/A] 1481911263
+ 42613003 : Monster_Sandworm_Stage02_FlyingAttackBall - [N/A] 2615035231
+ 42613004 : Bullet_Sandworm_Stage02_FlyingAttackBullet - [N/A] 3970307391
+ 42613005 : Bullet_Sandworm_Stage02_DrillRushAttackBullet - [N/A] 3607401655
+ 42613006 : Bullet_Sandworm_Stage02_UnderGroundMoveTrail_Bullet - [N/A] 1325797263
+ 42613007 : Monster_Sandworm_Stage02_FlyingAttackBall02 - [N/A] 2062639847
+ 42613008 : Monster_Sandworm_Stage02_FlyingAttackBall03 - [N/A] 2977250319
+ 42613009 : Monster_Sandworm_Stage02_FlyingAttackBall04 - [N/A] 242312639
+ 42613010 : Monster_Sandworm_Stage02_FlyingAttackBall05 - [N/A] 2026021447
+ 42613011 : Monster_Sandworm_Stage02_FlyingAttackBall06 - [N/A] 3250352215
  42690001 : DendroTornado_Hunting - [N/A] 1490735319
  42802001 : Boar_RushAtk - [N/A] 3897733399
  42802002 : Boar_BigSnowBall - [N/A] 946776663
@@ -1438,6 +1514,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  42802004 : Boar_SnowDrop - [N/A] 2073418471
  42802005 : Boar_03_RushAtk - [N/A] 3801980575
  42805001 : Boltbug_Scarab_Ball - [N/A] 1464668799
+ 42806001 : Chrysopelea_Attack01_Bullet - [N/A] 2582222311
  42901001 : Dvalin_Trigger01 - [N/A] 2857760847
  42901002 : Dvalin_AirFlowGlobal01 - [N/A] 878162351
  42901003 : Dvalin_WindRing01 - [N/A] 3054154647
@@ -1460,7 +1537,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  42901029 : Dvalin_S04_Platform01 - [N/A] 753154527
  42901041 : Dvalin_S04_AbyssTrigger - [N/A] 1169221039
  42901042 : Dvalin_S01_WindSlime - [N/A] 2927902063
- 42901043 : Dvalin_S01_FireAbyss - [N/A] 904992831
+ 42901043 : Dvalin_S01_FireAbyss - [N/A] 1636076615
  42901044 : Dvalin_S01_FireAbyss_Cyclone - [N/A] 48205711
  42901045 : Dvalin_S01_FireAbyss_Totem - [N/A] 2034797783
  42901046 : Dvalin_S01_Missile_01 - [N/A] 2551641095
@@ -1774,6 +1851,15 @@ setFetterLevel : 設定當前角色的好感度等級。
  42907910 : Gagana_EnergyCube_Small - [N/A] 4263390975
  42907911 : Gagana_EnergyCubeSpecial - [N/A] 3132457399
  42907912 : Gagana_AutoShootBullet_Powerful - [N/A] 2271855919
+ 43805001 : Partner_Animal_Electrohercules_JumpAttack - [N/A] 1817545303
+ 43805002 : Partner_Animal_Electrohercules_JumpAttack_CriticalTrigger - [N/A] 688400959
+ 43805003 : Animal_Electrohercules_RangedAttack01_Attack - [N/A] 3968051159
+ 43805004 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 2126377159
+ 43805005 : Bullet_Animal_Electrohercules_ElectricBall_OnGround - [N/A] 789377079
+ 43805006 : Bullet_Animal_Electrohercules_ElectricBall_Kicked - [N/A] 3009696383
+ 43805007 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 3225701015
+ 43805008 : Animal_Electrohercules_06_CameraTarget - [N/A] 1933183503
+ 43805009 : Partner_Animal_Electrohercules_JumpBack - [N/A] 628752167
  44000001 : SkillObj_LevelEntity_TowerBuff_SprintAreaAttack - [N/A] 2478743371
  44000002 : SkillObj_GlidingChallenge_AirDash_Forward - [N/A] 4055901779
  44000003 : SkillObj_GlidingChallenge_AirDash_Upward1 - [N/A] 4039659491
@@ -1998,8 +2084,12 @@ setFetterLevel : 設定當前角色的好感度等級。
  44000547 :  - [N/A] 1160347275
  44000548 :  - [N/A] 1443849811
  44000549 : CoinCollect_WindField - [N/A] 1061538187
+ 44000551 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainChooseMonster - [N/A] 1424403123
+ 44000552 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainExplodeCreatorV3.4 - [N/A] 3771975235
+ 44000553 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainMasterExplodeV3.4 - [N/A] 102652931
  45001001 : Skiff_Normal_01 - [N/A] 1971263784
  45001002 : Skiff_Normal_Beidou - [N/A] 4127622224
+ 45001003 : Skiff_Normal_LanV3BoatGame - [N/A] 1002409352
  49001001 : GeneralSkill_IceDamage_Prison_Center - [N/A] 3689397839
  49001002 : GeneralSkill_WindDamage_Vortex_Center - [N/A] 3989476855
  49001003 : GeneralSkill_RockDamage_LowWave_Emitter - [N/A] 1638573951
@@ -2021,6 +2111,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  49001020 : MonsterAffix_Drop_Rock_CenterGadget - [N/A] 2838867671
  49001021 : MonsterAffix_Drop_Rock_Bullet_Stage1 - [N/A] 2780804615
  49001022 : MonsterAffix_Drop_Rock_Bullet_Stage2 - [N/A] 3950134471
+ 49001023 : MonsterAffix_Activity_Deathrattle_Gadget_DoomLogic - [N/A] 1656916927
  50004001 : MonEquip_WoodenClub_01 - [N/A] 2276690274
  50004002 : MonEquip_Shield_01 - [N/A] 385102474
  50004003 : MonEquip_WoodenClub_Fire_01 - [N/A] 2366820018
@@ -2157,6 +2248,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  50011509 : Weapon_Sword_Metal - [N/A] 2049132762
  50011510 : Weapon_Sword_Metal - [N/A] 1767000186
  50011511 : Weapon_Sword_Metal - [N/A] 678116498
+ 50011512 : Weapon_Sword_Metal - [N/A] 2148878538
  50012101 : Weapon_Claymore_Metal - [N/A] 3190308418
  50012201 : Weapon_Claymore_Metal - [N/A] 3652942962
  50012301 : Weapon_Claymore_Metal - [N/A] 2236465170
@@ -2337,6 +2429,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  70120007 : SceneObj_Resident_DungeonEntry_Temp_3d - [N/A] 2071956017
  70120008 : SceneObj_Resident_DungeonEntry_MengDe03 - [N/A] 2185414225
  70120009 : SceneObj_Resident_DungeonEntry_MakotoTorii - [N/A] 2887094801
+ 70120011 : SceneObj_Resident_DungeonEntry_Desert01 - [N/A] 3773079265
  70130001 : Windmill - [N/A] 1253491753
  70130002 : Windmill - [N/A] 138536801
  70130003 : Windmill - [N/A] 1190443273
@@ -2476,6 +2569,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  70217018 : SceneObj_Chest_Relic02 - [N/A] 4118874809
  70217019 : SceneObj_Chest_Relic02 - [N/A] 249981361
  70217020 : SceneObj_Area_Xm_Property_Prop_SumeruCrudeChest_01 - [N/A] 3499701441
+ 70217021 : SceneObj_Area_Xm_Property_Prop_Qzft_Chest_01 - [N/A] 1255863673
  70220001 : SceneObj_Environment_GrassMaterial_LeaveStacks - [N/A] 2131907393
  70220002 : SceneObj_Environment_GrassMaterial_LeafBlanket - [N/A] 3400770321
  70220003 : SceneObj_Environment_WoodenMaterial_BrambleWall01 - [N/A] 940992233
@@ -3166,8 +3260,10 @@ setFetterLevel : 設定當前角色的好感度等級。
  70290432 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2610296801
  70290433 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2293893953
  70290434 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2074184041
+ 70290435 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_01 - [N/A] 2036496833
  70290436 : SceneObj_Area_Xm_Property_Prop_RootPot_01 - [N/A] 763381017
  70290437 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruBubble_01 - [N/A] 2077054049
+ 70290438 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Bullet_01 - [N/A] 2755426545
  70290439 :  - [N/A] 529036153
  70290440 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part_NoDither - [N/A] 2255502849
  70290441 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part - [N/A] 3174113273
@@ -3182,6 +3278,17 @@ setFetterLevel : 設定當前角色的好感度等級。
  70290450 : SceneObj_Area_Common_Property_Prop_Excavate_01 - [N/A] 631751737
  70290451 : SceneObj_Area_Xm_Property_Prop_SeelieFarAway_01 - [N/A] 2563897945
  70290452 : SceneObj_Area_Common_Property_Prop_ExplorationRing_01 - [N/A] 158715585
+ 70290453 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_01 - [N/A] 988585289
+ 70290454 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_02 - [N/A] 1189602505
+ 70290455 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3116403553
+ 70290456 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3434048849
+ 70290457 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_01 - [N/A] 1679508649
+ 70290458 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Balance_01 - [N/A] 2251884753
+ 70290459 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Transparency_01 - [N/A] 1446169785
+ 70290460 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_DeadZone_01 - [N/A] 1166772305
+ 70290461 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_02 - [N/A] 2342499809
+ 70290462 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_01 - [N/A] 4207694721
+ 70290463 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 713757273
  70290464 :  - [N/A] 1503227049
  70290465 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_01 - [N/A] 3551710265
  70290466 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_02 - [N/A] 241714481
@@ -3313,7 +3420,55 @@ setFetterLevel : 設定當前角色的好感度等級。
  70290597 : SceneObj_Area_Xm_Property_Water_CaveNoRPR120 - [N/A] 1115917249
  70290598 : SceneObj_Gear_Platform_WaterPlatform - [N/A] 2712802545
  70290599 : SceneObj_Area_Xm_Property_Prop_ChorusMusicGadget - [N/A] 2147750849
+ 70290600 : SceneObj_Area_Xm_Property_Ani_Prop_SpiritEnergyGear_01 - [N/A] 2049723257
+ 70290601 : SceneObj_Area_Xm_Property_Prop_SandTornado_01 - [N/A] 41434961
+ 70290602 : SceneObj_Area_Xm_Property_Prop_SandTornado_02 - [N/A] 1326509065
+ 70290603 : SceneObj_Area_Xm_Property_Prop_Lzsg_01 - [N/A] 3240334449
+ 70290604 : SceneObj_Area_Xm_Property_Prop_Hssz_01 - [N/A] 3745118673
+ 70290605 : SceneObj_Area_Xm_Property_Prop_Lzpb_01 - [N/A] 2274278689
+ 70290606 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_01 - [N/A] 2157025297
+ 70290607 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_02 - [N/A] 2214960881
  70290608 : SceneObj_Activity_Brick_Breaker - [N/A] 2580652217
+ 70290609 : SceneObj_Area_Xm_Property_Prop_OasisController_01 - [N/A] 78050633
+ 70290610 : SceneObj_Area_Common_Property_Ani_Prop_PipeGear_01 - [N/A] 828154569
+ 70290611 : SceneObj_Area_Common_Property_Ani_Prop_BrokenGear_01 - [N/A] 4140570817
+ 70290612 : SceneObj_Area_Common_Property_Ani_Prop_MaranaGear_01 - [N/A] 1410562897
+ 70290613 : SceneObj_Area_Xm_Property_Prop_SandFall_01 - [N/A] 50458873
+ 70290614 : SceneObj_Area_Xm_Property_Ani_Prop_SandContainerWall_01 - [N/A] 1421177553
+ 70290615 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 4252347825
+ 70290616 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 2510245593
+ 70290617 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 529665777
+ 70290618 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 1767819281
+ 70290619 : SceneObj_Area_Xm_Property_Ani_Prop_ChangeableStone_01 - [N/A] 829317745
+ 70290620 : SceneObj_Area_Common_Property_Prop_LaserWall_01 - [N/A] 18549409
+ 70290621 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3734889289
+ 70290622 : SceneObj_Area_Xm_Property_Ani_Prop_BrokenSlabStone_05 - [N/A] 339468329
+ 70290623 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 409823921
+ 70290624 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Normal_01 - [N/A] 1815794993
+ 70290625 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Hard_01 - [N/A] 3883894849
+ 70290626 : SceneObj_Area_Xm_Property_Prop_SandFall_02 - [N/A] 744073057
+ 70290627 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_01 - [N/A] 3822609169
+ 70290628 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Direct_01 - [N/A] 2685721425
+ 70290629 : SceneObj_Area_Xm_Property_Prop_Cwcfz_01 - [N/A] 1953317377
+ 70290630 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 3215638145
+ 70290631 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_Movable - [N/A] 2768729457
+ 70290632 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_NoMove - [N/A] 2386538745
+ 70290633 : SceneObj_Area_Xm_Property_Prop_Cwcfz_02 - [N/A] 1988180561
+ 70290634 : SceneObj_Area_Xm_Property_Prop_Cwcfz_03 - [N/A] 1969550393
+ 70290635 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 2518409809
+ 70290636 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 1779814105
+ 70290637 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 3807423753
+ 70290638 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_01 - [N/A] 2076167945
+ 70290639 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_01 - [N/A] 2773464097
+ 70290640 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_01 - [N/A] 3034438033
+ 70290641 : SceneObj_Desert_DeshretObelisk - [N/A] 1879846817
+ 70290642 : SceneObj_Desert_DeshretObelisk - [N/A] 4276804769
+ 70290643 : SceneObj_Desert_DeshretObelisk - [N/A] 2083341033
+ 70290644 : SceneObj_Desert_DeshretObelisk - [N/A] 3302552593
+ 70290645 : SceneObj_Desert_DeshretObelisk - [N/A] 364667705
+ 70290646 : SceneObj_Desert_DeshretObelisk - [N/A] 3624640993
+ 70290647 : SceneObj_Desert_DeshretObelisk - [N/A] 858805217
+ 70290648 : SceneObj_Desert_DeshretObelisk - [N/A] 3056909833
  70290650 : SceneObj_Level_Common_Property_Prop_CallEntity_01 - [N/A] 1160269489
  70290651 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_01 - [N/A] 4182368257
  70290652 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_02 - [N/A] 4018773201
@@ -3331,6 +3486,40 @@ setFetterLevel : 設定當前角色的好感度等級。
  70290664 : Quest_VoidSearching_Target - [N/A] 3397138529
  70290665 : BrickBreaker_Env_Candle - [N/A] 3199094937
  70290666 : SceneObj__BrickBreaker_LampController_01 - [N/A] 1541852665
+ 70290670 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 2065884305
+ 70290671 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_01 - [N/A] 3621829921
+ 70290672 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_01 - [N/A] 3666126313
+ 70290673 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_02 - [N/A] 3199666065
+ 70290674 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3967556113
+ 70290675 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 4176026001
+ 70290676 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1021316729
+ 70290677 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3698166481
+ 70290678 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1061070529
+ 70290679 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1472762657
+ 70290680 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 577811889
+ 70290681 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 2579409233
+ 70290682 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3336319465
+ 70290683 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 1663416393
+ 70290684 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3562583497
+ 70290685 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2803790033
+ 70290686 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2806710817
+ 70290687 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2528805641
+ 70290688 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3311007569
+ 70290689 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3226777585
+ 70290690 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3352686545
+ 70290691 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3605855513
+ 70290692 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_01 - [N/A] 1512358633
+ 70290693 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Hint - [N/A] 1994277409
+ 70290694 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_02 - [N/A] 3258169521
+ 70290695 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment - [N/A] 1832319705
+ 70290696 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment_Controller - [N/A] 3695160057
+ 70290697 : SceneObj_Area_Xm_Property_Prop_Cwfs_01 - [N/A] 3679600321
+ 70290698 : SceneObj_Area_Xm_Property_Prop_Cwfs_02 - [N/A] 2406359121
+ 70290699 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 3428859385
+ 70290700 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 1730450033
+ 70290701 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_02 - [N/A] 1868891241
+ 70290702 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_03 - [N/A] 749032825
+ 70290703 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_04 - [N/A] 1081186537
  70290704 : SceneObj_Activity_Brick_Breaker_Boss_Samurai - [N/A] 4141117945
  70290705 : SceneObj_Activity_Brick_Breaker_Boss_MirrorGirl - [N/A] 1843539049
  70290706 : SceneObj_Activity_Brick_Breaker_Boss_Elec_Mage - [N/A] 3437297697
@@ -3378,17 +3567,108 @@ setFetterLevel : 設定當前角色的好感度等級。
  70290753 :  - [N/A] 1622761993
  70290754 : SceneObj_Area_Dq_Property_Ani_Prop_AkebiaGroup_01 - [N/A] 706612529
  70290755 : SceneObj_Area_Dq_Property_Ani_Prop_Catstatue_01 - [N/A] 1353183857
+ 70290756 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_01 - [N/A] 3910653121
+ 70290757 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_02 - [N/A] 1436925217
+ 70290758 : SceneObj_Area_Xm_Property_Prop_Lzsg_02 - [N/A] 2514548601
+ 70290759 : SceneObj_AnimalObj_Ani_Level_Pigeon_Beak_01 - [N/A] 3662799673
+ 70290760 : SceneObj_AnimalObj_Ani_Level_Crane_Lbis_01 - [N/A] 82317961
+ 70290761 : SceneObj_AnimalObj_Ani_Level_Apsva_01 - [N/A] 375359489
+ 70290762 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Platform_01 - [N/A] 421179601
+ 70290763 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 495312385
+ 70290764 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Attack_01 - [N/A] 2912098969
+ 70290765 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Board - [N/A] 1571075993
+ 70290766 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 1933523545
+ 70290767 : SceneObj_Area_Xm_Property_Prop_ChessClockworkGiving_01 - [N/A] 963474121
+ 70290768 : SceneObj_Area_Xm_Property_Prop_ChessEmptyGiving_01 - [N/A] 2832043705
+ 70290769 : SceneObj_Area_Xm_Property_Ani_Prop_JamshidCupGear_01 - [N/A] 1587810321
+ 70290770 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_01 - [N/A] 2301408537
+ 70290772 : SceneObj_Area_Dq_Property_Prop_ElectroherculesBattlefield_01 - [N/A] 566775753
+ 70290773 : SceneObj_Area_Dq_Property_Ani_Prop_ElectroherculesBattlePosterBoard_01 - [N/A] 974868377
+ 70290777 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBall_01 - [N/A] 116298593
+ 70290778 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoin_01 - [N/A] 1873600001
+ 70290779 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoinLarge_01 - [N/A] 1015078889
+ 70290780 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBoundary_01 - [N/A] 2255335753
+ 70290781 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPMaelstrom_01 - [N/A] 2856177153
+ 70290782 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_01 - [N/A] 1583439265
+ 70290783 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPAirdrop_01 - [N/A] 3375289777
+ 70290784 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoin_01 - [N/A] 4070373073
+ 70290785 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBomb_01 - [N/A] 2271280649
+ 70290786 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodenBox_01 - [N/A] 4271170785
+ 70290787 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPNightLamp_01 - [N/A] 2036980585
+ 70290788 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropLamp_01 - [N/A] 606742473
+ 70290789 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1368822425
+ 70290790 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1950693041
+ 70290791 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 4014783241
+ 70290792 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleFirework_01 - [N/A] 818296505
+ 70290793 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPGhostMark_01 - [N/A] 1838099145
+ 70290794 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_02 - [N/A] 3043482305
+ 70290795 : SceneObj_Level_Common_Property_Ani_Prop_DoorLocker_01 - [N/A] 4192419281
+ 70290796 : SceneObj_Level_Common_Property_Ani_Prop_TransparentElevator_01 - [N/A] 4179799089
+ 70290797 : SceneObj_Level_Common_Property_Ani_Prop_Door_Blocker_01 - [N/A] 993553561
+ 70290798 : SceneObj_Level_Common_Property_Ani_Prop_DoorKeycard_01 - [N/A] 1956293185
+ 70290799 :  - [N/A] 1782289217
+ 70290800 :  - [N/A] 2763753593
+ 70290819 :  - [N/A] 2673719841
+ 70290820 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_01 - [N/A] 4131157633
+ 70290821 : SceneObj_Area_Xm_Property_Prop_Szqparc_01 - [N/A] 4002794665
+ 70290822 : SceneObj_Area_Xm_Property_Prop_Szqpcwl_01 - [N/A] 1835805609
+ 70290823 : SceneObj_Area_Xm_Property_Prop_Szqpcwzb_01 - [N/A] 1158346377
+ 70290824 : SceneObj_Area_Xm_Property_Prop_Szqpcwzx_01 - [N/A] 2306618513
+ 70290825 : SceneObj_Area_Xm_Property_Prop_Szqpjrc_01 - [N/A] 3976695529
+ 70290826 : SceneObj_Area_Xm_Property_Prop_Szqplsyj_01 - [N/A] 856255729
+ 70290827 : SceneObj_Area_Xm_Property_Prop_Szqptyc_01 - [N/A] 3062240561
+ 70290828 : SceneObj_Area_Xm_Property_Prop_Szqpxst_01 - [N/A] 516606289
+ 70290829 : SceneObj_Area_Xm_Property_Prop_Qzft_01 - [N/A] 1971884617
+ 70290830 : SceneObj_Area_Xm_Property_Prop_Szqpdz_01 - [N/A] 3199107193
+ 70290831 : SceneObj_Area_Xm_Property_Prop_Szqpdz_02 - [N/A] 613322265
  70290832 : SceneObj_Level_Xm_Property_Ani_Prop_InformationPiece_01 - [N/A] 1830205377
  70290833 : SceneObj_Level_Xm_Property_Prop_ScaramouchePortal_01 - [N/A] 2987652529
  70290834 : SceneObj_Area_Xm_Property_Ani_Build_BazarDoor_01 - [N/A] 941331121
+ 70290860 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_02 - [N/A] 2251160953
+ 70290861 : SceneObj_Area_Common_Property_Prop_LaserWall_02 - [N/A] 308414369
+ 70290862 : SceneObj_Area_Xm_Property_Ani_Build_JYQB_01 - [N/A] 1454494345
+ 70290863 : SceneObj_Area_Xm_Property_Ani_Stone_SHSQ_01 - [N/A] 1185067017
+ 70290864 : SceneObj_Area_Xm_Property_Ecloth_Dujinposun_01 - [N/A] 157865001
+ 70290865 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3300277345
+ 70290866 : SceneObj_Area_Xm_Property_Prop_LaserGear_02 - [N/A] 2574218145
+ 70290867 : SceneObj_Area_Xm_Property_Prop_LaserGear_03 - [N/A] 2327111601
  70290868 : Sanbin_Music - [N/A] 2459687353
  70290869 :  - [N/A] 3064282769
  70290870 : SceneObj_Area_Dq_Property_Ani_Prop_Scarecrow_03 - [N/A] 4260314561
  70290871 : SceneObj_Area_Xm_Property_Ani_Prop_TrainerCompetitionBead_02 - [N/A] 182187985
  70290872 :  - [N/A] 3557107129
  70290873 :  - [N/A] 203217313
+ 70290881 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_NoFunction - [N/A] 2335447033
+ 70290882 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_02 - [N/A] 1545799841
+ 70290884 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_02 - [N/A] 3775078857
  70290885 : SceneObj_Activity_Brick_Breaker_Preloader - [N/A] 3592606657
+ 70290889 :  - [N/A] 2330750329
+ 70290890 :  - [N/A] 2561942945
+ 70290891 :  - [N/A] 3625638817
+ 70290892 : SceneObj_Area_Xm_Property_Prop_ReadingSlabStone_01 - [N/A] 2829260473
+ 70290893 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_01 - [N/A] 3785512081
+ 70290894 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_02 - [N/A] 993246521
+ 70290895 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_03 - [N/A] 3732501441
+ 70290896 :  - [N/A] 2506758329
+ 70290897 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_02 - [N/A] 2916990417
+ 70290898 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_03 - [N/A] 3872647737
+ 70290899 : SceneObj_Area_Xm_Property_Prop_ScarletKing_Airwall_01 - [N/A] 2000506001
+ 70290900 :  - [N/A] 3602909649
+ 70290901 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_02 - [N/A] 2738632729
+ 70290902 : SceneObj_Area_Xm_Property_Prop_Hssz_02 - [N/A] 55393673
+ 70290903 : SceneObj_Area_Xm_Property_Prop_Lzpb_02 - [N/A] 3018163905
+ 70290904 : SceneObj_Area_Xm_Property_Prop_JamshidCup_Airwall_01 - [N/A] 136141633
+ 70290905 : SceneObj_Area_Xm_Property_Ani_Prop_TransparentWall_01 - [N/A] 3239300161
+ 70290906 : SceneObj_Area_Xm_Property_Prop_MoveSand_03 - [N/A] 3172474817
+ 70290907 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_03 - [N/A] 1279688073
+ 70290908 : SceneObj_Area_Common_Property_Prop_LaserWall_03 - [N/A] 2020225473
  70290909 : SceneObj_Indoor_Common_Property_Ani_Prop_Teathingsindoor_03 - [N/A] 1362053921
+ 70290922 : SceneObj_Area_Xm_Property_Prop_LaserGear_04 - [N/A] 3460494409
+ 70291001 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_03 - [N/A] 1447249545
+ 70291002 : SceneObj_Gear_Other_InvisibleUploader04 - [N/A] 2095888905
+ 70291003 : SceneObj_Area_Xm_Property_Prop_CenterTorAirWall - [N/A] 988895089
+ 70291004 :  - [N/A] 671624161
+ 70291005 : SceneObj_Area_Xm_Property_Prop_SandwormChallengeAirwall - [N/A] 1258112281
  70300001 : SceneObj_Gather_Default_Gather - [N/A] 2463077793
  70300002 : SceneObj_Gather_Default_Gather - [N/A] 435938641
  70300003 : SceneObj_Quest_Flying_Get_Coin_Effect - [N/A] 1909103967
@@ -5572,6 +5852,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  70540046 : SceneObj_Gather_Small - [N/A] 1580873673
  70540047 : SceneObj_Gather_DatePlam - [N/A] 1381569401
  70540048 :  - [N/A] 388710929
+ 70540049 : SceneObj_Gather_Small - [N/A] 2589556881
  70560001 : SceneObj_Gather_Small - [N/A] 1155995105
  70560002 : SceneObj_Gather_Small_Ore - [N/A] 2803859553
  70560003 : SceneObj_Gather_Small_Ore - [N/A] 1202487865
@@ -5650,6 +5931,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  70590070 : SceneObj_Area_Hd_Property_Prop_PaperStar_03 - [N/A] 80470761
  70590071 : SceneObj_Level_Common_Property_Prop_CityRotateAixs_02 - [N/A] 1671906865
  70590072 : SceneObj_Common_CityRotateAixs - [N/A] 2121690545
+ 70590073 : SceneObj_Gather_Small - [N/A] 1168502889
  70600001 :  - [N/A] 4043639353
  70600002 :  - [N/A] 1991417585
  70600003 :  - [N/A] 1523077529
@@ -6655,6 +6937,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  70710889 :  - [N/A] 1176318735
  70710890 : SceneObj_Quest_ElementBreath_Electric_Element - [N/A] 3969268143
  70710891 :  - [N/A] 1681877263
+ 70710892 : SceneObj_Quest_AchivementInvestigation - [N/A] 1738903079
+ 70710893 : SceneObj_Quest_AchivementInvestigation - [N/A] 2092769335
+ 70710894 : SceneObj_Quest_AchivementInvestigation - [N/A] 780413271
  70710895 :  - [N/A] 1907407839
  70710896 :  - [N/A] 1294335647
  70710908 :  - [N/A] 780216575
@@ -6663,6 +6948,11 @@ setFetterLevel : 設定當前角色的好感度等級。
  70710911 :  - [N/A] 2167946623
  70710912 :  - [N/A] 1374780487
  70710913 : SearchPoint - [N/A] 142390399
+ 70710914 :  - [N/A] 3252891423
+ 70710915 :  - [N/A] 2481710271
+ 70710916 :  - [N/A] 4132842759
+ 70710917 :  - [N/A] 1247294631
+ 70710918 :  - [N/A] 520979471
  70710919 :  - [N/A] 2270250551
  70710920 :  - [N/A] 2047865855
  70710921 :  - [N/A] 2284767495
@@ -6671,13 +6961,27 @@ setFetterLevel : 設定當前角色的好感度等級。
  70710924 :  - [N/A] 3206899887
  70710925 :  - [N/A] 2352741247
  70710926 :  - [N/A] 2460280967
+ 70710927 : SceneObj_Quest_AchivementInvestigation - [N/A] 824323791
  70710928 :  - [N/A] 3631908879
  70710929 :  - [N/A] 969754951
+ 70710930 :  - [N/A] 438293127
+ 70710931 :  - [N/A] 3655199319
+ 70710932 :  - [N/A] 3675843807
+ 70710933 :  - [N/A] 2105317511
+ 70710934 :  - [N/A] 1156205239
+ 70710935 :  - [N/A] 168294031
+ 70710936 :  - [N/A] 1739784919
+ 70710937 :  - [N/A] 3068865303
  70710938 :  - [N/A] 3920354559
+ 70710939 :  - [N/A] 488885071
  70710940 :  - [N/A] 388520151
  70710941 :  - [N/A] 2363334071
  70710953 : SceneObj_Quest_Interact_Point_07 - [N/A] 2407080071
  70710962 : SceneObj_Quest_OniBull - [N/A] 4090643455
+ 70710973 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 3013658623
+ 70710974 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 1551449919
+ 70710975 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 2083509431
+ 70710981 :  - [N/A] 497156767
  70720214 : SceneObj_Gear_Platform_FireSeelie - [N/A] 700269681
  70720215 : SceneObj_Area_Common_Property_Prop_FireSeeliaLamp_01 - [N/A] 3100115025
  70720216 : FireElfTrack - [N/A] 880334585
@@ -7006,6 +7310,27 @@ setFetterLevel : 設定當前角色的好感度等級。
  70800441 :  - [N/A] 631449489
  70800442 :  - [N/A] 646587945
  70800443 :  - [N/A] 606302529
+ 70800444 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_01 - [N/A] 3932973265
+ 70800445 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_02 - [N/A] 3794137025
+ 70800446 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainOperator_01 - [N/A] 1986253921
+ 70800447 : SceneObj_Area_Common_Property_Ani_Prop_Confetti_Balloon_01 - [N/A] 362013905
+ 70800448 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruOpenWorldPlatform_01 - [N/A] 702704337
+ 70800449 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_01 - [N/A] 908786097
+ 70800450 : SceneObj_Area_Ly_Property_Ani_Prop_ShadowScreen_01 - [N/A] 3396030433
+ 70800451 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_01 - [N/A] 1475809809
+ 70800452 : SceneObj_Area_Xm_Property_Ani_Prop_VoidProjector_01 - [N/A] 699273961
+ 70800453 : SceneObj_Area_Ljxs_Property_Prop_HeroTreasure_02 - [N/A] 407816561
+ 70800454 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_02 - [N/A] 4216218921
+ 70800455 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCamera_01 - [N/A] 3044675081
+ 70800456 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBomb_01 - [N/A] 3199149169
+ 70800457 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPSwirl_01 - [N/A] 2486123929
+ 70800458 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodfence_01 - [N/A] 3142808417
+ 70800459 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoinWarning_01 - [N/A] 195920961
+ 70800460 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBombWarning_01 - [N/A] 3452714417
+ 70800461 :  - [N/A] 2039290481
+ 70800462 :  - [N/A] 450272193
+ 70800463 :  - [N/A] 3369323937
+ 70800464 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_02 - [N/A] 3713189969
  70800606 :  - [N/A] 3682329881
  70800607 :  - [N/A] 2482289473
  70800608 :  - [N/A] 167831129
@@ -7453,8 +7778,16 @@ setFetterLevel : 設定當前角色的好感度等級。
  70950160 : AuthTest02 - [N/A] 663172785
  70950161 : SceneObj_Gear_MushRoom_Catch - [N/A] 1796075385
  70950162 :  - [N/A] 2320574633
+ 70950163 : SceneObj_Stages_Property_Prop_UnstableSprayDungeonAirWall_01 - [N/A] 1062739665
  70950164 :  - [N/A] 4005710289
+ 70950165 : SceneObj_Gear_Fungus_Tower_Water - [N/A] 3258235065
+ 70950166 : SceneObj_Gear_Fungus_Tower_Fire - [N/A] 360753353
+ 70950167 : SceneObj_Gear_Fungus_Tower_Ice - [N/A] 2575487569
+ 70950168 : SceneObj_Gear_Fungus_Tower_Wind - [N/A] 3783300113
+ 70950169 : SceneObj_Gear_Fungus_Tower_Electric - [N/A] 3750317545
  70950170 :  - [N/A] 1504874193
+ 70950171 :  - [N/A] 3077198361
+ 70950177 :  - [N/A] 3897053113
  71000004 : SceneObj_Amber_RockAmber - [N/A] 2485577729
  71000005 : SceneObj_Task_Rock_Pierce - [N/A] 2140993833
  71000006 : SceneObj_Task_Rock_Pierce - [N/A] 901713497
@@ -7501,7 +7834,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  71700040 : SceneObj_Gather_Default_Gather - [N/A] 3560208711
  71700041 :  - [N/A] 3950935687
  71700042 : SceneObj_Gather_Default_Gather - [N/A] 323372687
- 71700043 : SceneObj_Gather_Default_Gather - [N/A] 1211019199
+ 71700043 : SceneObj_Gather_Default_Gather - [N/A] 901760187
  71700044 : SceneObj_Gather_Default_Gather - [N/A] 625468279
  71700045 : SceneObj_Gather_Default_Gather - [N/A] 1682840319
  71700046 : SceneObj_Gather_Default_Gather - [N/A] 1897303103
@@ -7993,6 +8326,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  71700533 : SearchPoint - [N/A] 1182362455
  71700534 :  - [N/A] 1826784983
  71700535 : SceneObj_Gather_Default_Gather - [N/A] 3763672775
+ 71700536 : SceneObj_Gather_Default_Gather - [N/A] 3835825727
  71700537 : SceneObj_Environment_Obelisk01 - [N/A] 3874829191
  71700538 : SceneObj_Environment_Obelisk02 - [N/A] 2015357591
  71700539 : SceneObj_Environment_Obelisk03 - [N/A] 3119143583
@@ -8011,13 +8345,76 @@ setFetterLevel : 設定當前角色的好感度等級。
  71700552 :  - [N/A] 2523597903
  71700553 :  - [N/A] 3869879999
  71700554 : Nahida_Quest_Hitbox_02 - [N/A] 202070175
+ 71700555 : SceneObj_Environment_Bulletin14 - [N/A] 1441876823
+ 71700556 : SceneObj_Environment_Bulletin13 - [N/A] 3536146543
+ 71700557 : SceneObj_Environment_Bulletin12 - [N/A] 1475692095
+ 71700558 : SceneObj_Environment_Bulletin11 - [N/A] 2961980335
+ 71700559 : SceneObj_Environment_Bulletin10 - [N/A] 886816615
+ 71700560 : SceneObj_Environment_Bulletin9 - [N/A] 2920796151
+ 71700561 : SceneObj_Environment_Secret_letter01 - [N/A] 1878976943
  71700562 : SceneObj_Level_Common_Property_Prop_Worldtreegate_01 - [N/A] 3799131767
  71700563 : SceneObj_Area_Xm_Property_Prop_MemoryInterface_01 - [N/A] 3529432279
  71700564 :  - [N/A] 937193167
  71700565 : SceneObj_Level_Common_Property_Ani_Prop_Memorypiece_01 - [N/A] 534626895
  71700566 : SceneObj_Quest_Hdj_FireworkLauncher_01 - [N/A] 1331020143
+ 71700567 :  - [N/A] 19555559
+ 71700568 : SceneObj_Environment_Bulletin15 - [N/A] 3507925799
+ 71700569 : SceneObj_Environment_Bulletin16 - [N/A] 2872563743
+ 71700570 : SceneObj_Environment_Bulletin17 - [N/A] 166606919
+ 71700571 : SceneObj_Environment_Bulletin18 - [N/A] 899554975
+ 71700572 : SceneObj_Environment_Bulletin19 - [N/A] 3977871391
+ 71700573 : SceneObj_Environment_Bulletin20 - [N/A] 744843375
+ 71700574 : SceneObj_Environment_Bulletin21 - [N/A] 2613345079
+ 71700575 : SceneObj_Environment_Bulletin22 - [N/A] 3075106991
+ 71700576 : SceneObj_Environment_Bulletin23 - [N/A] 808435919
+ 71700577 : SceneObj_Environment_Bulletin24 - [N/A] 3452389415
+ 71700578 : SceneObj_Environment_Bulletin25 - [N/A] 1324277319
+ 71700579 : SceneObj_Environment_Bulletin26 - [N/A] 1686395023
+ 71700580 : SceneObj_Environment_Bulletin27 - [N/A] 2910681255
+ 71700581 : SceneObj_Environment_Bulletin28 - [N/A] 209489335
+ 71700582 : SceneObj_Environment_Bulletin29 - [N/A] 1230168871
+ 71700583 : SceneObj_Environment_Bulletin30 - [N/A] 2048216551
+ 71700584 : SceneObj_Environment_Bulletin31 - [N/A] 686354935
+ 71700585 : SceneObj_Environment_Bulletin32 - [N/A] 2036636215
+ 71700586 : SceneObj_Environment_Bulletin33 - [N/A] 2378404583
+ 71700587 : SceneObj_Environment_Bulletin34 - [N/A] 1442908399
+ 71700588 : SceneObj_Environment_Bulletin35 - [N/A] 280066079
+ 71700589 : SceneObj_Environment_Bulletin36 - [N/A] 598662767
+ 71700590 : SceneObj_Environment_Bulletin37 - [N/A] 554201255
+ 71700591 : SceneObj_Environment_Bulletin38 - [N/A] 680850319
+ 71700592 : SceneObj_Environment_Bulletin39 - [N/A] 3466151359
+ 71700593 : SceneObj_Environment_Bulletin40 - [N/A] 74773375
+ 71700594 : SceneObj_Environment_Bulletin41 - [N/A] 3643259735
+ 71700595 : SceneObj_Environment_Bulletin42 - [N/A] 2825451471
+ 71700596 : SceneObj_Environment_Bulletin43 - [N/A] 3664471575
+ 71700597 : SceneObj_Environment_Bulletin44 - [N/A] 123280319
+ 71700598 : SceneObj_Environment_Bulletin45 - [N/A] 1545371135
+ 71700599 : SceneObj_Environment_Bulletin46 - [N/A] 2075308375
+ 71700600 : SceneObj_Environment_Bulletin47 - [N/A] 296683287
  71700601 : SceneObj_Quest_SpecialDisappear_01 - [N/A] 2734585703
+ 71700602 : SceneObj_Environment_Obelisk011 - [N/A] 1091054103
+ 71700603 : SceneObj_Environment_Obelisk012 - [N/A] 2542275471
+ 71700604 : SceneObj_Environment_Obelisk013 - [N/A] 466975391
+ 71700605 : SceneObj_Environment_Obelisk014 - [N/A] 636087703
+ 71700606 : SceneObj_Environment_Obelisk015 - [N/A] 4260185879
+ 71700607 : SceneObj_Environment_Obelisk016 - [N/A] 2362402303
+ 71700608 : SceneObj_Environment_Obelisk017 - [N/A] 1976124887
+ 71700609 : SceneObj_Environment_Obelisk018 - [N/A] 465514831
  71700610 : SceneObj_Quest_Oldmemoryshield_01 - [N/A] 1893535255
+ 71700611 :  - [N/A] 3864370255
+ 71700612 :  - [N/A] 3163176215
+ 71700613 : SceneObj_Environment_Bulletin48 - [N/A] 3760480527
+ 71700614 : SceneObj_Environment_Bulletin49 - [N/A] 1326518607
+ 71700615 : SceneObj_Environment_Bulletin50 - [N/A] 202779519
+ 71700616 : SceneObj_Environment_Bulletin51 - [N/A] 3315865431
+ 71700617 : SceneObj_Environment_Bulletin52 - [N/A] 3687612527
+ 71700618 : SceneObj_Environment_Bulletin53 - [N/A] 4193800599
+ 71700619 : SceneObj_Environment_Bulletin54 - [N/A] 823363959
+ 71700620 : SceneObj_Environment_Bulletin55 - [N/A] 1103687415
+ 71700621 : SceneObj_Environment_Bulletin56 - [N/A] 452609343
+ 71700622 : SceneObj_Environment_Bulletin57 - [N/A] 2823890575
+ 71700623 : SceneObj_Environment_Bulletin58 - [N/A] 1891116159
+ 71700641 :  - [N/A] 3946621759
  72000001 : SceneObj_Monster_Eldritch_Tentacle_PA - [N/A] 1757493721
  72000002 : SceneObj_Monster_Eldritch_Tentacle_PB - [N/A] 3578727505
  72000003 : SceneObj_Monster_Eldritch_Tentacle_PC - [N/A] 3981382369
@@ -8389,6 +8786,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  77104050 :  - [N/A] 3094375328
  77104051 :  - [N/A] 1343262880
  77104052 :  - [N/A] 3574160280
+ 77104053 :  - [N/A] 3795679784
+ 77104054 :  - [N/A] 876221064
+ 77104055 :  - [N/A] 4212064976
  77105001 :  - [N/A] 3485751656
  77105002 :  - [N/A] 1472766168
  77105003 :  - [N/A] 2206130568
@@ -8400,6 +8800,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  77105009 :  - [N/A] 16284976
  77105010 :  - [N/A] 1706871936
  77105011 :  - [N/A] 477183760
+ 77105012 :  - [N/A] 2500393944
  77108001 :  - [N/A] 2266381520
  77108002 :  - [N/A] 1929928056
  77108003 :  - [N/A] 3054820440
@@ -8426,6 +8827,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  77108024 :  - [N/A] 3031564432
  77108025 :  - [N/A] 3267282984
  77108026 :  - [N/A] 1847797128
+ 77108027 :  - [N/A] 495153384
+ 77108028 :  - [N/A] 1246212024
+ 77108029 :  - [N/A] 2469330496
  77109001 :  - [N/A] 798556888
  77109002 :  - [N/A] 3659840272
  77109003 :  - [N/A] 366764720
@@ -8460,6 +8864,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  77110027 :  - [N/A] 3214101888
  77110028 :  - [N/A] 3906403312
  77110029 :  - [N/A] 2446238600
+ 77110030 :  - [N/A] 1869262568
+ 77110031 :  - [N/A] 4090145368
  77111001 :  - [N/A] 2256116496
  77111002 :  - [N/A] 1975461568
  77111003 :  - [N/A] 3406130712
@@ -8469,6 +8875,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  77111007 :  - [N/A] 3716526392
  77111008 :  - [N/A] 1711744224
  77111009 :  - [N/A] 2682289512
+ 77111010 :  - [N/A] 2815547960
  77112001 :  - [N/A] 3160712096
  77112002 :  - [N/A] 2498256864
  77112003 :  - [N/A] 1382129296
@@ -8498,6 +8905,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  77112027 :  - [N/A] 2361951000
  77112028 :  - [N/A] 707043656
  77112029 :  - [N/A] 2514012088
+ 77112030 :  - [N/A] 3449637320
  77115001 :  - [N/A] 158953176
  77115002 :  - [N/A] 1940050656
  77115003 :  - [N/A] 170974208
@@ -8535,6 +8943,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  77115035 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_SumeruStove_01 - [N/A] 3883540800
  77115036 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_01 - [N/A] 1258995064
  77115037 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_02 - [N/A] 3519428888
+ 77115038 :  - [N/A] 3541934328
+ 77115039 :  - [N/A] 710696400
+ 77115040 :  - [N/A] 788315152
  77190001 : SceneObj_Homeworld_Interior_Common_Decoration_TestPainting_01 - [N/A] 1283794648
  77200001 :  - [N/A] 3538751048
  77200002 :  - [N/A] 413522952
@@ -8719,6 +9130,11 @@ setFetterLevel : 設定當前角色的好感度等級。
  77200181 :  - [N/A] 1364960616
  77200182 :  - [N/A] 2900333000
  77200183 :  - [N/A] 1123266112
+ 77200184 :  - [N/A] 3154946776
+ 77200185 :  - [N/A] 1302261768
+ 77200186 :  - [N/A] 2894679976
+ 77200187 :  - [N/A] 4166033664
+ 77200188 :  - [N/A] 695294824
  77203001 :  - [N/A] 2280998064
  77203002 : SceneObj_Homeworld_Standard_Forging - [N/A] 3742314960
  77203003 :  - [N/A] 813933432
@@ -8841,6 +9257,23 @@ setFetterLevel : 設定當前角色的好感度等級。
  77204108 :  - [N/A] 3642961904
  77204109 :  - [N/A] 4220523384
  77204110 :  - [N/A] 868443832
+ 77204112 :  - [N/A] 358432200
+ 77204113 :  - [N/A] 3678145832
+ 77204114 :  - [N/A] 1683232408
+ 77204115 :  - [N/A] 1978006288
+ 77204116 :  - [N/A] 968122808
+ 77204117 :  - [N/A] 2786078376
+ 77204118 :  - [N/A] 279737200
+ 77204119 :  - [N/A] 1620500128
+ 77204120 :  - [N/A] 2421025728
+ 77204121 :  - [N/A] 74558600
+ 77204122 :  - [N/A] 1957110904
+ 77204123 :  - [N/A] 1945688928
+ 77204124 :  - [N/A] 2620113752
+ 77204125 :  - [N/A] 2129844984
+ 77204126 :  - [N/A] 2044718688
+ 77204127 :  - [N/A] 3387967640
+ 77204128 : SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_01 - [N/A] 1791728264
  77205001 :  - [N/A] 2955098952
  77205002 :  - [N/A] 2620876744
  77205003 :  - [N/A] 3428034016
@@ -8890,6 +9323,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  77208023 :  - [N/A] 1534713336
  77208024 :  - [N/A] 1262870744
  77208025 :  - [N/A] 1663148112
+ 77208026 :  - [N/A] 2525886104
+ 77208027 :  - [N/A] 2509260976
+ 77208028 :  - [N/A] 1492169160
  77210001 :  - [N/A] 2847554728
  77213001 :  - [N/A] 1652471176
  77213002 :  - [N/A] 4355656
@@ -9006,6 +9442,14 @@ setFetterLevel : 設定當前角色的好感度等級。
  77213113 :  - [N/A] 3080244064
  77213114 :  - [N/A] 3650489240
  77213115 :  - [N/A] 3707736288
+ 77213116 :  - [N/A] 1745596776
+ 77213117 :  - [N/A] 1221829160
+ 77213118 :  - [N/A] 3219107176
+ 77213119 :  - [N/A] 370244816
+ 77213120 :  - [N/A] 2696872992
+ 77213121 :  - [N/A] 2290389424
+ 77213122 :  - [N/A] 1722188024
+ 77213123 :  - [N/A] 1678362968
  77214001 :  - [N/A] 204668312
  77214002 :  - [N/A] 1223454080
  77214003 :  - [N/A] 2630076072
@@ -9104,6 +9548,10 @@ setFetterLevel : 設定當前角色的好感度等級。
  77215071 : SceneObj_Homeworld_Exterior_Common_Decoration_Prop_WoodAranaraBody - [N/A] 2301662240
  77215072 : SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Claypot_01 - [N/A] 2262767336
  77215073 :  - [N/A] 25869504
+ 77215074 :  - [N/A] 1823232128
+ 77215075 :  - [N/A] 2958027960
+ 77215076 :  - [N/A] 3776964728
+ 77215077 :  - [N/A] 2499651336
  77216001 :  - [N/A] 1178267624
  77216002 :  - [N/A] 74296056
  77216003 :  - [N/A] 2492338736
@@ -9451,6 +9899,12 @@ setFetterLevel : 設定當前角色的好感度等級。
 420000022 : ActivityAbility_HideSeek_Investigate_Bullet_Short - [N/A] 249212301
 420000023 : ActivityAbility_HideSeek_Investigate_Bullet_Long - [N/A] 3514114301
 420000024 : Activity_Gadget_CatchMushroomMonster_Aim_Driver - [N/A] 856686709
+420000025 : LanV3Race_Rush_Bullet - [N/A] 4206644109
+420000026 : ActivityAbility_SkillObj_Skiff_Vortex - [N/A] 667407821
+420000027 : ActivityAbility_SkillObj_Skiff_Mire - [N/A] 2479125677
+420000028 : ActivityAbility_Avatar_Blocking_Blade_V2 - [N/A] 121823421
+420000029 : ActivityAbility_Avatar_Blocking_Blade_Burst - [N/A] 1033111477
+420000030 : SkillObj_Skiff_SprintTrigger_LanV3 - [N/A] 2996961293
 420001000 : Activity_Endora - [N/A] 781761405
 420001001 : Activity_Endora_Bubble_Bullet_01 - [N/A] 550764733
 420001002 : Activity_Endora_Bubble_Bullet_01_Short - [N/A] 2055909461
@@ -9523,6 +9977,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 10000074 : 萊依拉
 10000075 : 流浪者
 10000076 : 琺露珊
+10000077 : 瑤瑤
+10000078 : 艾爾海森
 11000008 : 隊伍測試4號
 11000009 : 場景測試
 11000010 : 裸模1号
@@ -9532,7 +9988,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 11000018 : 成女体型测试
 11000019 : 少女体型测试
 11000025 : 阿葵麗雅
-11000026 : 瑤瑤
+11000026 : 瑤瑤(測試)
 11000027 : 少女体型测试-二号机
 11000028 : 白盒少女
 11000030 : 大劍少女
@@ -9608,6 +10064,7 @@ setFetterLevel : 設定當前角色的好感度等級。
     152 : 靈蕈獎章
     153 : 綺碎斑晶
     155 : 試膽會的票券
+    156 : 節慶熱度
     201 : 原石
     202 : 摩拉
     203 : 創世結晶
@@ -9699,6 +10156,8 @@ setFetterLevel : 設定當前角色的好感度等級。
    1074 : 萊依拉
    1075 : 流浪者
    1076 : 琺露珊
+   1077 : 瑤瑤
+   1078 : 艾爾海森
    1102 : 神里綾華的命星
    1103 : 琴的命星
    1105 : 旅行者（男）的命星
@@ -9761,6 +10220,8 @@ setFetterLevel : 設定當前角色的好感度等級。
    1174 : 萊依拉的命星
    1175 : 流浪者的命星
    1176 : 琺露珊的命星
+   1177 : 瑤瑤的命星
+   1178 : 艾爾海森的命星
    1201 : 珍珠紀行·初稿
    1202 : 空月祝福·新月
    1301 : 新名撰聿
@@ -9855,6 +10316,7 @@ setFetterLevel : 設定當前角色的好感度等級。
   11509 : 霧切之回光
   11510 : 波亂月白經津
   11511 : 聖顯之鑰
+  11512 : 裁葉萃光
   12101 : 訓練大劍
   12201 : 傭兵重劍
   12301 : 鐵影闊劍
@@ -10050,6 +10512,8 @@ setFetterLevel : 設定當前角色的好感度等級。
   23316 : [CHS] - 物理抗性
   23317 : [CHS] - 伤害增加
   23318 : [CHS] - 伤害减免
+  23329 : [CHS] - 暴击率
+  23330 : [CHS] - 精通
   23331 : [CHS] - 负防御
   23332 : [CHS] - 负精通
   23334 : [CHS] - 测试之沙2
@@ -13809,6 +14273,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  100094 : 「冷鮮肉」
  100095 : 鰻肉
  100096 : 禿禿豆
+ 100097 : 神秘的肉
  100101 : 琴的文件包裹
  100102 : 《極限逃生》
  100103 : 殘缺樂譜（上半章）
@@ -14674,6 +15139,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  101219 : 須彌薔薇
  101220 : 赤念果
  101221 : 棗椰
+ 101222 : 沙脂蛹
  101225 : 聖金蟲
  101226 : 活化的星蕈
  101227 : 枯焦的星蕈
@@ -15781,6 +16247,15 @@ setFetterLevel : 設定當前角色的好感度等級。
  108477 : 美味的薩巴桑炸角
  108478 : 古法秘製椰炭餅
  108479 : 真味茶泡飯
+ 108480 : 奇怪的薩布茲燉肉
+ 108481 : 薩布茲燉肉
+ 108482 : 美味的薩布茲燉肉
+ 108483 : 奇怪的秘香肉團
+ 108484 : 秘香肉團
+ 108485 : 美味的秘香肉團
+ 108486 : 「理想情況」
+ 108487 : 輕策家常菜
+ 108488 : 鱷魚肉乾
  109000 : 食譜道具
  109101 : 食譜：野菇雞肉串
  109102 : 食譜：漁人吐司
@@ -15917,6 +16392,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  109516 : 食譜：假日果釀
  109517 : 食譜：薔薇奶糊
  109518 : 食譜：薩巴桑炸角
+ 109519 : 食譜：薩布茲燉肉
+ 109520 : 食譜：秘香肉團
  110000 : 合成產物
  110001 : 麵粉
  110002 : 鮮奶油
@@ -16027,6 +16504,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  112071 : 破缺稜晶
  112072 : 混濁稜晶
  112073 : 輝光稜晶
+ 112074 : 殘毀的橫脊
+ 112075 : 密固的橫脊
+ 112076 : 鍥紋的橫脊
  113001 : 颶風之種
  113002 : 雷光稜鏡
  113003 : 東風之翎
@@ -16070,6 +16550,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  113041 : 傀儡的懸絲
  113042 : 無心的淵鏡
  113043 : 空行的虛鈴
+ 113044 : 蒼礫蕊羽
  114001 : 高塔孤王的破瓦
  114002 : 高塔孤王的殘垣
  114003 : 高塔孤王的斷片
@@ -16250,6 +16731,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  120061 : 內爾敏製作的「薄荷豆湯」
  120062 : [CHS] - （test）内尔敏做的香水
  120063 : 未來星
+ 120064 : 充能轉化容器
  120065 : 里夫的包裹
  120066 : 內爾敏的香料
  120067 : 鎖鑰之石·其一
@@ -16270,6 +16752,34 @@ setFetterLevel : 設定當前角色的好感度等級。
  120082 : 沙瓦瑪的訂貨單據
  120083 : 曲清的訂貨單據
  120084 : 關垂的訂貨單據
+ 120085 : [CHS] - （test）鳄鱼肉干（废弃）
+ 120086 : 「渡魂之舟」
+ 120087 : 「聖顯廳」
+ 120088 : 「邊境堡壘」
+ 120089 : 「赤王之柱」
+ 120090 : [CHS] - （test）居尔城棋子
+ 120091 : 「居爾城神殿」
+ 120092 : 啟動器件·「赤王陵」
+ 120093 : 啟動器件·「赤王的水晶杯」
+ 120094 : 啟動器件·「渡魂之舟」
+ 120095 : 啟動器件·「聖顯廳」
+ 120096 : 啟動器件·「邊境堡壘」
+ 120097 : 啟動器件·「赤王之柱」
+ 120098 : [CHS] - （test）居尔城发条
+ 120099 : 啟動器件·「居爾城神殿」
+ 120100 : 永恆綠洲的記憶·一
+ 120101 : 永恆綠洲的記憶·二
+ 120102 : 永恆綠洲的記憶·三
+ 120103 : 塔德菈的翎羽
+ 120104 : 愚人眾據點鑰匙
+ 120105 : 聖章石·峭崖
+ 120106 : 聖章石·巨門
+ 120107 : 神秘的石板·一
+ 120108 : 神秘的石板·二
+ 120109 : 神秘的石板·三
+ 120110 : 神秘的石板·四
+ 120111 : 神秘的石板·五
+ 120112 : 神秘的石板·六
  120113 : 賽諾的介紹信
  120114 : 古舊地圖
  120115 : 拍賣會資料
@@ -16281,6 +16791,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  120121 : 朱特的收貨單
  120122 : 賈漢吉爾的收貨單
  120123 : 「限定款沙漠特別旅行包」
+ 120124 : 萌櫱的竹筍
  120125 : [CHS] - （test）赛芭的蔷薇
  120126 : 一封短信
  120127 : 初生白枝
@@ -16298,6 +16809,16 @@ setFetterLevel : 設定當前角色的好感度等級。
  120139 : 贊迪克的筆記
  120140 : 不知何人的日記
  120141 : 殘破的紀錄
+ 120142 : 內部撤離行動公文
+ 120143 : 關於實驗用個體的初步偵測
+ 120144 : 轉移通知文件
+ 120145 : 遠途勘探者留書·其一
+ 120146 : 遠途勘探者留書·其二
+ 120147 : 遠途勘探者留書·其三
+ 120148 : 遠途勘探者留書·其四
+ 120149 : 遠途勘探者留書·其五
+ 120150 : 遠途勘探者留書·其六
+ 120151 : 關於貨物交易的回函
  120152 : 活動公告
  120153 : 海妮耶的筆記 第一段
  120154 : 海妮耶的筆記 第二段
@@ -16313,10 +16834,82 @@ setFetterLevel : 設定當前角色的好感度等級。
  120164 : 《黯雲之島》
  120165 : 《有關稻妻踏鞴砂地區可能存在的重大歷史事件簡析》
  120166 : 《黯雲之島》
+ 120167 : [CHS] - (test)棋子流沙遗迹
+ 120168 : [CHS] - (test)棋子赤王之心
+ 120169 : [CHS] - (test)棋子显圣厅
+ 120170 : [CHS] - (test)棋子太阳船
+ 120171 : [CHS] - (test)棋子阿如村
+ 120172 : [CHS] - (test)棋子发条赤王之杯
+ 120173 : [CHS] - (test)棋子发条赤王陵
+ 120174 : [CHS] - (test)棋子发条流沙遗迹
+ 120175 : [CHS] - (test)棋子发条赤王之心
+ 120176 : [CHS] - (test)棋子发条显圣厅
+ 120177 : [CHS] - (test)棋子发条太阳船
+ 120178 : [CHS] - (test)棋子发条阿如村
  120179 : 一盒「鄉土」
  120180 : 解讀出的內容
  120181 : 旭東的信
+ 120182 : 居爾城記事·其一
+ 120183 : 居爾城記事·其二
+ 120184 : 居爾城記事·其三
+ 120185 : 居爾城記事·其四
+ 120186 : 居爾城記事·其五
+ 120187 : 破損的石板
+ 120188 : 達馬山記事·其一
+ 120189 : 達馬山記事·其二
+ 120190 : 達馬山記事·其三
+ 120191 : 「黃銅面具」的教導·其一
+ 120192 : 「黃銅面具」的教導·其二
+ 120193 : 「黃銅面具」的教導·其三
+ 120194 : 古綠洲記事·其一
+ 120195 : 古綠洲記事·其二
+ 120196 : 古綠洲記事·其三
+ 120197 : 古綠洲記事·其四
+ 120198 : 古綠洲記事·其五
+ 120199 : 古綠洲記事·其六
+ 120200 : 徵發令石板
+ 120201 : 赤鷲翎羽
+ 120202 : 毒蠍尾部
+ 120203 : 飛蛇之角
+ 120204 : 佐婭·雪奈茨芙娜大尉的行動報告·其一
+ 120205 : 佐婭·雪奈茨芙娜大尉的行動報告·其二
+ 120206 : 佐婭·雪奈茨芙娜大尉的行動報告·其三
+ 120207 : 殘損的紀錄·其一
+ 120208 : 殘損的紀錄·其二
+ 120209 : 印有塔尼特徽記的紀錄
+ 120210 : 愚人眾信件
+ 120211 : 一封遺留的書信
+ 120212 : 贊迪克的筆記
+ 120213 : 印有教令院徽記的約契
+ 120214 : 巨大機械的能源系統復原圖
+ 120215 : 給阿德菲的密信
  120216 : 某種武器的「碎片」
+ 120217 : 歸屬不明的拉麵優惠券
+ 120218 : 整潔的字條
+ 120219 : 婕德的信
+ 120220 : 優菲的筆記
+ 120221 : 古老的石製鑰匙
+ 120226 : 依稀可以辨認的銘文
+ 120227 : 依稀可以辨認的銘文
+ 120228 : 依稀可以辨認的銘文
+ 120229 : 依稀可以辨認的銘文
+ 120230 : 依稀可以辨認的銘文
+ 120231 : 依稀可以辨認的銘文
+ 120232 : 依稀可以辨認的銘文
+ 120233 : 依稀可以辨認的銘文
+ 120235 : 被揉皺的名單
+ 120236 : 倉庫物資訂單
+ 120237 : 古綠洲記事·其七
+ 120238 : 古綠洲記事·其八
+ 120239 : 古綠洲記事·其九
+ 120240 : 古綠洲記事·其十
+ 120241 : 雇傭守則石板
+ 120242 : 印有教令院徽記的約契
+ 120243 : 印有教令院徽記的約契
+ 120248 : 部族行商的信件
+ 120249 : 婕德的便條
+ 120250 : 熱騰騰的醃篤鮮
+ 120251 : 「演武傳心」大賽入場券
  130001 : 「霓裳花」的種子
  130002 : 「甜甜花」的種子
  130003 : 「塞西莉亞花」的種子
@@ -16382,93 +16975,99 @@ setFetterLevel : 設定當前角色的好感度等級。
  140008 : 雷騰雲奔之翼
  140009 : 星漢燦爛之翼
  140010 : 森鬱花繁之翼
- 141001 : 旋曜玉帛·其一
- 141002 : 旋曜玉帛·其二
- 141003 : 旋曜玉帛·其三
- 141004 : 旋曜玉帛·其四
- 141005 : 旋曜玉帛·其五
- 141006 : 旋曜玉帛·其六
- 141007 : 旋曜玉帛·其七
- 141008 : 旋曜玉帛·其八
- 141009 : 旋曜玉帛·其九
- 141010 : 旋曜玉帛·其十
- 141011 : 旋曜玉帛·其十一
- 141012 : 旋曜玉帛·其十二
- 141013 : 旋曜玉帛·其十三
- 141014 : 旋曜玉帛·其十四
- 141015 : 旋曜玉帛·其十五
- 141016 : 旋曜玉帛·其十六
- 141017 : 旋曜玉帛·其十七
- 141018 : 旋曜玉帛·其十八
- 141019 : 旋曜玉帛·其十九
- 141020 : 旋曜玉帛·其二十
- 141021 : 旋曜玉帛·其二十一
- 141022 : 旋曜玉帛·其二十二
- 141023 : 旋曜玉帛·其二十三
- 141024 : 旋曜玉帛·其二十四
- 141025 : 旋曜玉帛·其二十五
- 141026 : 旋曜玉帛·其二十六
- 141027 : 旋曜玉帛·其二十七
- 141028 : 旋曜玉帛·其二十八
- 141029 : 旋曜玉帛·其二十九
- 141030 : 旋曜玉帛·其三十
- 141031 : 旋曜玉帛·其三十一
- 141032 : 旋曜玉帛·其三十二
- 141033 : 旋曜玉帛·其三十三
- 141034 : 旋曜玉帛·其三十四
- 141035 : 旋曜玉帛·其三十五
- 141036 : 旋曜玉帛·其三十六
- 141037 : 旋曜玉帛·其三十七
- 141038 : 旋曜玉帛·其三十八
- 141039 : 旋曜玉帛·其三十九
- 141040 : 旋曜玉帛·其四十
- 141041 : 旋曜玉帛·其四十一
- 141042 : 旋曜玉帛·其四十二
- 141043 : 旋曜玉帛·其四十三
- 141044 : 旋曜玉帛·其四十四
- 141045 : 旋曜玉帛·其四十五
- 141046 : 旋曜玉帛·其四十六
- 141047 : 旋曜玉帛·其四十七
- 141048 : 旋曜玉帛·其四十八
- 141049 : 旋曜玉帛·其四十九
- 141050 : 旋曜玉帛·其五十
- 141051 : 旋曜玉帛·其五十一
- 141052 : 旋曜玉帛·其五十二
- 141053 : 旋曜玉帛·其五十三
- 141054 : 旋曜玉帛·其五十四
- 141055 : 旋曜玉帛·其五十五
- 141056 : 旋曜玉帛·其五十六
- 141057 : 旋曜玉帛·其五十七
- 141058 : 旋曜玉帛·其五十八
- 141059 : 旋曜玉帛·其五十九
- 141060 : 旋曜玉帛·其六十
- 141061 : 旋曜玉帛·其六十一
- 141062 : 旋曜玉帛·其六十二
- 141063 : 旋曜玉帛·其六十三
- 141064 : 旋曜玉帛·其六十四
- 141065 : 旋曜玉帛·其六十五
- 141066 : 旋曜玉帛·其六十六
- 141067 : 旋曜玉帛·其六十七
- 141068 : 旋曜玉帛·其六十八
- 141069 : 旋曜玉帛·其六十九
- 141070 : 旋曜玉帛·其七十
- 141071 : 旋曜玉帛·其七十一
- 141072 : 旋曜玉帛·其七十二
- 141073 : 旋曜玉帛·其七十三
- 141074 : 旋曜玉帛·其七十四
- 141075 : 旋曜玉帛·其七十五
- 141076 : 旋曜玉帛·其七十六
- 141077 : 旋曜玉帛·其七十七
- 141078 : 旋曜玉帛·其七十八
- 141079 : 旋曜玉帛·其七十九
- 141080 : 旋曜玉帛·其八十
- 141081 : 旋曜玉帛·其八十一
- 141082 : 旋曜玉帛·其八十二
- 141083 : 旋曜玉帛·其八十三
- 141084 : 旋曜玉帛·其八十四
- 141085 : 旋曜玉帛·其八十五
- 141086 : 旋曜玉帛·其八十六
- 141087 : 旋曜玉帛·其八十七
+ 141001 : 旋曜玉帛·其一 - 晨曦酒莊
+ 141002 : 旋曜玉帛·其二 - 甜美的微笑
+ 141003 : 旋曜玉帛·其三 - 孤獨的旅居
+ 141004 : 旋曜玉帛·其四 - 蒙德的一日
+ 141005 : 旋曜玉帛·其五 - 平原的邊際
+ 141006 : 旋曜玉帛·其六 - 特瓦林與杜林
+ 141007 : 旋曜玉帛·其七 - 快樂的旅程
+ 141008 : 旋曜玉帛·其八 - 風的傳說
+ 141009 : 旋曜玉帛·其九 - 蒙德城繁忙的午後
+ 141010 : 旋曜玉帛·其十 - 蒙德的黃昏
+ 141011 : 旋曜玉帛·其十一 - 星光下的蒙德
+ 141012 : 旋曜玉帛·其十二 - 蒙德的月光
+ 141013 : 旋曜玉帛·其十三 - 蒙德的又一日
+ 141014 : 旋曜玉帛·其十四 - 風帶來的聖歌
+ 141015 : 旋曜玉帛·其十五 - 西風騎士團
+ 141016 : 旋曜玉帛·其十六 - 天使的饋贈
+ 141017 : 旋曜玉帛·其十七 - 開心的一天
+ 141018 : 旋曜玉帛·其十八 - 同伴的力量
+ 141019 : 旋曜玉帛·其十九 - 破曉前的流光
+ 141020 : 旋曜玉帛·其二十 - 平原的低語
+ 141021 : 旋曜玉帛·其二十一 - 希望的新一天
+ 141022 : 旋曜玉帛·其二十二 - 永恆的回憶
+ 141023 : 旋曜玉帛·其二十三 - 希望之旅
+ 141024 : 旋曜玉帛·其二十四 - 璃月的日出
+ 141025 : 旋曜玉帛·其二十五 - 晚安，璃月
+ 141026 : 旋曜玉帛·其二十六 - 璃月的一日將盡
+ 141027 : 旋曜玉帛·其二十七 - 璃月的晴空
+ 141028 : 旋曜玉帛·其二十八 - 品茗嚐清心
+ 141029 : 旋曜玉帛·其二十九 - 逶迤綠水長
+ 141030 : 旋曜玉帛·其三十 - 輕波微蕩
+ 141031 : 旋曜玉帛·其三十一 - 釣客漫歌
+ 141032 : 旋曜玉帛·其三十二 - 源流匯響
+ 141033 : 旋曜玉帛·其三十三 - 多情東逝
+ 141034 : 旋曜玉帛·其三十四 - 竹林的輕語
+ 141035 : 旋曜玉帛·其三十五 - 不復回的傳說
+ 141036 : 旋曜玉帛·其三十六 - 懷鄉的原野
+ 141037 : 旋曜玉帛·其三十七 - 隨海風而來
+ 141038 : 旋曜玉帛·其三十八 - 山風拂蘿衣
+ 141039 : 旋曜玉帛·其三十九 - 不再年輕的村莊
+ 141040 : 旋曜玉帛·其四十 - 雲海之上
+ 141041 : 旋曜玉帛·其四十一 - 虹霞垂天
+ 141042 : 旋曜玉帛·其四十二 - 仙人的棋局
+ 141043 : 旋曜玉帛·其四十三 - 沉睡的往昔
+ 141044 : 旋曜玉帛·其四十四 - 失落的願景
+ 141045 : 旋曜玉帛·其四十五 - 壺中洞天
+ 141046 : 旋曜玉帛·其四十六 - 美夢撫歸人
+ 141047 : 旋曜玉帛·其四十七 - 空寂如常
+ 141048 : 旋曜玉帛·其四十八 - 風雅之里
+ 141049 : 旋曜玉帛·其四十九 - 靜謐的國土
+ 141050 : 旋曜玉帛·其五十 - 神秘之島
+ 141051 : 旋曜玉帛·其五十一 - 綿延的守護
+ 141052 : 旋曜玉帛·其五十二 - 悠遠的關懷
+ 141053 : 旋曜玉帛·其五十三 - 華散之緣
+ 141054 : 旋曜玉帛·其五十四 - 終有謝時
+ 141055 : 旋曜玉帛·其五十五 - 雷櫻閃閃
+ 141056 : 旋曜玉帛·其五十六 - 林間清流
+ 141057 : 旋曜玉帛·其五十七 - 傷痛的事話
+ 141058 : 旋曜玉帛·其五十八 - 寂靜的證言
+ 141059 : 旋曜玉帛·其五十九 - 硝彩回憶
+ 141060 : 旋曜玉帛·其六十 - 祭典將至
+ 141061 : 旋曜玉帛·其六十一 - 溢彩華庭
+ 141062 : 旋曜玉帛·其六十二 - 遠離塵囂
+ 141063 : 旋曜玉帛·其六十三 - 清潭鏡澄
+ 141064 : 旋曜玉帛·其六十四 - 海祇之島
+ 141065 : 旋曜玉帛·其六十五 - 霧鎖煙迷
+ 141066 : 旋曜玉帛·其六十六 - 潸悵的幽影
+ 141067 : 旋曜玉帛·其六十七 - 阿瑠的歌
+ 141068 : 旋曜玉帛·其六十八 - 良夜岑寂
+ 141069 : 旋曜玉帛·其六十九 - 孤獨的迴響
+ 141070 : 旋曜玉帛·其七十 - 失語的哀訴
+ 141071 : 旋曜玉帛·其七十一 - 葛藤無奈滿石垣
+ 141072 : 旋曜玉帛·其七十二 - 雷隱遺事
+ 141073 : 旋曜玉帛·其七十三 - 劫波破執
+ 141074 : 旋曜玉帛·其七十四 - 生命之谷的曲調
+ 141075 : 旋曜玉帛·其七十五 - 盈流慈水
+ 141076 : 旋曜玉帛·其七十六 - 荼訶遺舊
+ 141077 : 旋曜玉帛·其七十七 - 根子的片語
+ 141078 : 旋曜玉帛·其七十八 - 樹與花的旋舞
+ 141079 : 旋曜玉帛·其七十九 - 喧繁之港
+ 141080 : 旋曜玉帛·其八十 - 宴語韻悠悠
+ 141081 : 旋曜玉帛·其八十一 - 涼風暫歇之時
+ 141082 : 旋曜玉帛·其八十二 - 熾風苦旅
+ 141083 : 旋曜玉帛·其八十三 - 煬旱的岩谷
+ 141084 : 旋曜玉帛·其八十四 - 沙民的庇護所
+ 141085 : 旋曜玉帛·其八十五 - 餘威猶存
+ 141086 : 旋曜玉帛·其八十六 - 赤沙之眼
+ 141087 : 旋曜玉帛·其八十七 - 沙衍綠碧
+ 141088 : 旋曜玉帛·其八十八 - 旋曜玉帛·其八十八
+ 141089 : 旋曜玉帛·其八十九 - 旋曜玉帛·其八十九
+ 141090 : 旋曜玉帛·其九十 - 旋曜玉帛·其九十
+ 141091 : 旋曜玉帛·其九十一 - 旋曜玉帛·其九十一
+ 141092 : 旋曜玉帛·其九十二 - 旋曜玉帛·其九十二
+ 141093 : 旋曜玉帛·其九十三 - 旋曜玉帛·其九十三
  200001 : 燈紙纖維
  200002 : 燈芯絨材
  200003 : 浮生石片
@@ -16696,6 +17295,11 @@ setFetterLevel : 設定當前角色的好感度等級。
  210144 : 琺露珊·封秘
  210145 : 成就·七聖
  210146 : 紀行·靈津
+ 210147 : 艾爾海森·誨明
+ 210148 : 瑤瑤·月桂
+ 210149 : 慶典·岫雲
+ 210150 : 紀行·合韻
+ 210151 : 成就·砂嵐
  220001 : 風神瞳共鳴石
  220002 : 岩神瞳共鳴石
  220003 : 岩之尋寶羅盤
@@ -16764,6 +17368,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  220069 : 赤沙石板
  220070 : 「清冽水沫留影機」
  220071 : 「苦舍桓」
+ 220072 : 魔瓶鎮靈·利露帕爾
  220073 : 「意智寶珠」
  220074 : 縹錦機關·留雲
  220075 : 野蹤羅盤
@@ -16813,6 +17418,12 @@ setFetterLevel : 設定當前角色的好感度等級。
  223010 : 千折不屈猶壯氣
  223011 : 燈宵斑彩照靈犀
  223012 : 萬民宴聚享餚綺
+ 223013 : 玲瓏玉骰玄擲間
+ 223014 : 犬坂牙將助陣勤
+ 223015 : 破嶂旌旗桴鼓鳴
+ 223016 : 辭拒杜康吼彩霞
+ 223017 : 瓊林潏露生靈蕈
+ 223018 : 扶危濟困小月桂
  330000 : 甘雨
  330001 : 凱亞
  330002 : 重雲
@@ -16840,6 +17451,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  330025 : 芭芭拉
  330026 : 藏鏡仕女
  330027 : 翠翎恐蕈
+ 330032 : 可莉
+ 330034 : 北斗
  330500 : 唯此一心
  330501 : 冷血之劍
  330502 : 吐納真定
@@ -16867,6 +17480,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  330525 : 光輝的季節
  330526 : 鏡錮之籠
  330527 : 孢子增殖
+ 330530 : 砰砰禮物
+ 330531 : 霹靂連霄
  331000 : 魔導緒論
  331001 : 祭禮殘章
  331002 : 天空之卷
@@ -16986,6 +17601,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  334025 : 芭芭拉
  334026 : 藏鏡仕女
  334027 : 翠翎恐蕈
+ 334028 : 北斗
+ 334029 : 可莉
  334500 : 唯此一心
  334501 : 冷血之劍
  334502 : 吐納真定
@@ -17013,6 +17630,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  334525 : 光輝的季節
  334526 : 鏡錮之籠
  334527 : 孢子增殖
+ 334528 : 霹靂連霄
+ 334529 : 砰砰禮物
  335000 : 魔導緒論
  335001 : 祭禮殘章
  335002 : 天空之卷
@@ -17141,6 +17760,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  340007 : 100%偵察騎士
  340008 : 星與月之約
  340009 : 致教會自由人
+ 340010 : 花時來信
+ 340011 : 葉隱芳名
  350001 : 冒險家的臨時營地
  350002 : 遠駐前哨的生活
  350003 : 自在的岩石與草木
@@ -17256,6 +17877,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  360422 : 「潛心之光」
  360423 : 「依常之光」
  360424 : 「盛放之光」
+ 360425 : 「景光浮轉山月間」
+ 360426 : 「飄悠之光」
+ 360427 : 「寢息之光」
  360504 : 「花葉百相之光」
  361101 : 極北樺木折角櫃檯
  361102 : 開頂杉木貨架
@@ -17267,6 +17891,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  361108 : 沙域櫃桌-「歡待」
  361109 : 證悟木「紛綸」置物架
  361110 : 輝木「療癒」床頭櫃
+ 361111 : 檉木三重屜櫃
+ 361112 : 檉木陶器置物櫃
  361201 : 圖書館雙層書架
  361202 : 萃華木臻品書架
  361203 : 萃華木經濟書架
@@ -17324,6 +17950,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  362110 : 業果木「反擒拿」餐椅
  362111 : 「閒時豪飲的暢快」
  362112 : 證悟木藤葉靠背椅
+ 362113 : 「豪重琱麗的坐席」
  362201 : 北地石製壁爐
  362202 : 松木折屏-「雲來帆影」
  362203 : 硬木座屏-「絕雲晨霧」
@@ -17361,6 +17988,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  362236 : 「猛火炙烤的濃香」
  362237 : 「文火慢烤的鮮香」
  362238 : 「林居之人的存積」
+ 362239 : 妙彩寶瓶-「熔沙」
  362301 : 蒙德地毯-「明紅的熱忱」
  362302 : 蒙德地毯-「不倦的尋索」
  362303 : 客棧地毯-「賓至如歸」
@@ -17370,6 +17998,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  362307 : 「椰褐般深沉之紋」
  362308 : 「日曬般莊嚴之紋」
  362309 : 「諫果般森麗之紋」
+ 362310 : 「麥苗般純淨之紋」
  363101 : 恆亮不熄的提燈
  363102 : 琉璃亭卻砂木立燈
  363103 : 天圓燈籠-「明燭蘭芳」
@@ -17379,6 +18008,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  363107 : 沙域明燈-「留光」
  363108 : 「歡適之光」
  363109 : 「卓識之地的柔光」
+ 363110 : 「更巡的燭火」
+ 363111 : 「諦聽的燭火」
+ 363112 : 鑄鐵雙用擺燈
  363201 : 花卉瓶栽-「淡藍的從容」
  363202 : 綠植盆栽-「澄澈的清風」
  363203 : 花卉瓶栽-「盛放的曙紅」
@@ -17427,6 +18059,11 @@ setFetterLevel : 設定當前角色的好感度等級。
  363338 : 「於馨香的清苦中」
  363339 : 「林居之人的妙方」
  363340 : 「林居之人的增輝」
+ 363341 : 妙彩寶瓶-「青苗」
+ 363342 : 星狀帶稜多用瓶
+ 363501 : 「卓識之地的餘醒」
+ 363502 : 「療渴的芳香」
+ 363504 : 「積蓄淨水的藝術」
  364101 : 風景畫-「鄉野民居」
  364102 : 風景畫-「遠空層雲」
  364103 : 風景畫-「無名高崖」
@@ -17453,6 +18090,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  364214 : 沙域牆飾-「垂霞」
  364215 : 沙域牆飾-「火羽」
  364216 : 「巡林官的牽記」
+ 364217 : 檉木堅鐵攻盾
  364301 : 垂香木窗格房門
  364302 : 騎士團杉木房門
  364303 : 垣屋楓木房門
@@ -17547,6 +18185,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  368159 : 萊依拉
  368160 : #{REALNAME[ID(1)|HOSTONLY(true)]}
  368161 : 琺露珊
+ 368162 : 瑤瑤
+ 368163 : 艾爾海森
  369101 : 翠目貓
  369102 : 北地犬
  369103 : 野林豬
@@ -17660,6 +18300,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  370319 : 「漁採的修舊利廢」
  370320 : 輝木布頂百用店
  370321 : 輝木移動燒烤鋪
+ 370322 : 「盛積於乾爽之中」
+ 370323 : 「紛羅於甄選之後」
  370401 : 丘丘前哨小屋
  370402 : 丘丘領袖大殿
  370501 : 「雲遊碧水東」
@@ -17742,6 +18384,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  370730 : 「智慧之城的兼羅」
  370731 : 「智慧之城的寧康」
  370732 : 「智慧之城的差事」
+ 370733 : 「拒止海獸的絲織」
+ 370734 : 「寧靜深夜的沙風」
  371101 : 花鳥噴泉
  371102 : 丘丘螺旋瞭望塔
  371103 : 丘丘簡易草棚
@@ -17764,6 +18408,11 @@ setFetterLevel : 設定當前角色的好感度等級。
  371125 : 沙域棚屋-「休歇」
  371126 : 「劇場的沁涼水霧」
  371127 : 「卓識之地的朗澈」
+ 371129 : 奧摩斯港三型通用起重機
+ 371130 : 複合木材長途貨車
+ 371131 : 複合木材港內轉運貨車
+ 371132 : 雙重輪徑山地貨車
+ 371133 : 「爐灶之魔神」尊像
  371201 : 三眼守仙牌
  371202 : 樺木庭院正門
  371203 : 雕花庭院牆尾
@@ -17885,6 +18534,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  372339 : 修茂彌亙樹
  372340 : 蒼鐵平午樹
  372341 : 蒼鐵詰晨樹
+ 372342 : 「隱靜的枝梢」
  372401 : 垂香木廚房貨架
  372402 : 正逢花期的灌木叢
  372403 : 平平無奇的灌木叢
@@ -17958,6 +18608,13 @@ setFetterLevel : 設定當前角色的好感度等級。
  372472 : 「灼熱的誘因」
  372473 : 「悠長的介質」
  372474 : 「調和的色溫」
+ 372475 : 「隱靜的槿紫」
+ 372476 : 「熱沙的噴泉」
+ 372477 : 「夕陽的投影」
+ 372478 : 「飲露傘葉」
+ 372479 : 「水畔的富饒」
+ 372480 : 「棲身傘葉」
+ 372481 : 「另一番香甜」
  372501 : 貴本之道-「玄此玉田」
  372502 : 貴本之道-「薿此芝田」
  372503 : 貴本之道-「楚此渚田」
@@ -18016,6 +18673,15 @@ setFetterLevel : 設定當前角色的好感度等級。
  373145 : 「漁採的涓滴成河」
  373146 : 「漁採的擇取機網」
  373147 : 「溫暖的味道」
+ 373148 : 輝木重型製陶架
+ 373149 : 「鐵與沙與金錢」
+ 373150 : 「鐵與血與破甲」
+ 373151 : 「鐵與水與蒸汽」
+ 373152 : 業果木遠海液貨貨架
+ 373153 : 「弦與翎與箭軌」
+ 373154 : 「林中覓食的巧方」
+ 373155 : 「說不定就成功了！」
+ 373156 : 「著色與沉澱」
  373201 : 綠植盆栽-「蒼翠寸泓中」
  373202 : 鎖水的花壇
  373203 : 轉移壅土的木桶
@@ -18093,6 +18759,14 @@ setFetterLevel : 設定當前角色的好感度等級。
  373363 : 「醇厚之聲」
  373364 : 業果木三縱面看板
  373365 : 「茶歇的陰涼」
+ 373366 : 吉慶畫屏-「霧聚煙山」
+ 373367 : 吉慶畫屏-「碧波迅羽」
+ 373368 : 吉慶畫屏-「絲竹遙裊」
+ 373369 : 吉慶畫屏-「故曲往旋」
+ 373370 : 吉慶畫屏-「連雲迭嶂」
+ 373371 : 吉慶畫屏-「衷音彌遠」
+ 373372 : 「號角與薪柴」
+ 373373 : 「試作蘭那羅」
  373401 : 鐵藝雕花路燈
  373402 : 野外松木路燈
  373403 : 退邪燈-「明照左右」
@@ -18391,6 +19065,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  380414 : 楓木吊燈-「顯光」
  380415 : 綻蕊燭燈-「澄淨如蓮」
  380416 : 晴虹燈樹-「元辰吉慶」
+ 380417 : 「萬家華燈照朗月」
  380418 : 岩廠提燈-「洞幽燭遠」
  380419 : 「露眠之光」
  380420 : 「滴翠之光」
@@ -18398,6 +19073,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  380422 : 「潛心之光」
  380423 : 「依常之光」
  380424 : 「盛放之光」
+ 380426 : 「飄悠之光」
+ 380427 : 「寢息之光」
  380504 : 「花葉百相之光」
  381101 : 極北樺木折角櫃檯
  381102 : 開頂杉木貨架
@@ -18409,6 +19086,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  381108 : 沙域櫃桌-「歡待」
  381109 : 證悟木「紛綸」置物架
  381110 : 輝木「療癒」床頭櫃
+ 381111 : 檉木三重屜櫃
+ 381112 : 檉木陶器置物櫃
  381201 : 圖書館雙層書架
  381202 : 萃華木臻品書架
  381203 : 萃華木經濟書架
@@ -18499,6 +19178,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  382236 : 「猛火炙烤的濃香」
  382237 : 「文火慢烤的鮮香」
  382238 : 「林居之人的存積」
+ 382239 : 妙彩寶瓶-「熔沙」
  382301 : 蒙德地毯-「明紅的熱忱」
  382302 : 蒙德地毯-「不倦的尋索」
  382303 : 客棧地毯-「賓至如歸」
@@ -18508,6 +19188,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  382307 : 「椰褐般深沉之紋」
  382308 : 「日曬般莊嚴之紋」
  382309 : 「諫果般森麗之紋」
+ 382310 : 「麥苗般純淨之紋」
  383101 : 恆亮不熄的提燈
  383102 : 琉璃亭卻砂木立燈
  383103 : 天圓燈籠-「明燭蘭芳」
@@ -18516,6 +19197,9 @@ setFetterLevel : 設定當前角色的好感度等級。
  383107 : 沙域明燈-「留光」
  383108 : 「歡適之光」
  383109 : 「卓識之地的柔光」
+ 383110 : 「更巡的燭火」
+ 383111 : 「諦聽的燭火」
+ 383112 : 鑄鐵雙用擺燈
  383201 : 花卉瓶栽-「淡藍的從容」
  383202 : 綠植盆栽-「澄澈的清風」
  383203 : 花卉瓶栽-「盛放的曙紅」
@@ -18553,6 +19237,11 @@ setFetterLevel : 設定當前角色的好感度等級。
  383338 : 「於馨香的清苦中」
  383339 : 「林居之人的妙方」
  383340 : 「林居之人的增輝」
+ 383341 : 妙彩寶瓶-「青苗」
+ 383342 : 星狀帶稜多用瓶
+ 383501 : 「卓識之地的餘醒」
+ 383502 : 「療渴的芳香」
+ 383504 : 「積蓄淨水的藝術」
  384101 : 風景畫-「鄉野民居」
  384102 : 風景畫-「遠空層雲」
  384103 : 風景畫-「無名高崖」
@@ -18578,6 +19267,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  384214 : 沙域牆飾-「垂霞」
  384215 : 沙域牆飾-「火羽」
  384216 : 「巡林官的牽記」
+ 384217 : 檉木堅鐵攻盾
  384501 : 「縈絆之刻」
  390101 : 乾草廬屋
  390102 : 乾草貨站
@@ -18624,6 +19314,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  390319 : 「漁採的修舊利廢」
  390320 : 輝木布頂百用店
  390321 : 輝木移動燒烤鋪
+ 390322 : 「盛積於乾爽之中」
+ 390323 : 「紛羅於甄選之後」
  390401 : 丘丘前哨小屋
  390402 : 丘丘領袖大殿
  390501 : 「雲遊碧水東」
@@ -18702,6 +19394,8 @@ setFetterLevel : 設定當前角色的好感度等級。
  390730 : 「智慧之城的兼羅」
  390731 : 「智慧之城的寧康」
  390732 : 「智慧之城的差事」
+ 390733 : 「拒止海獸的絲織」
+ 390734 : 「寧靜深夜的沙風」
  391101 : 花鳥噴泉
  391102 : 丘丘螺旋瞭望塔
  391103 : 丘丘簡易草棚
@@ -18724,6 +19418,10 @@ setFetterLevel : 設定當前角色的好感度等級。
  391125 : 沙域棚屋-「休歇」
  391126 : 「劇場的沁涼水霧」
  391127 : 「卓識之地的朗澈」
+ 391129 : 奧摩斯港三型通用起重機
+ 391130 : 複合木材長途貨車
+ 391131 : 複合木材港內轉運貨車
+ 391132 : 雙重輪徑山地貨車
  391201 : 三眼守仙牌
  391202 : 樺木庭院正門
  391203 : 雕花庭院牆尾
@@ -18807,6 +19505,15 @@ setFetterLevel : 設定當前角色的好感度等級。
  393144 : 「漁採的遠售良方」
  393145 : 「漁採的涓滴成河」
  393146 : 「漁採的擇取機網」
+ 393148 : 輝木重型製陶架
+ 393149 : 「鐵與沙與金錢」
+ 393150 : 「鐵與血與破甲」
+ 393151 : 「鐵與水與蒸汽」
+ 393152 : 業果木遠海液貨貨架
+ 393153 : 「弦與翎與箭軌」
+ 393154 : 「林中覓食的巧方」
+ 393155 : 「說不定就成功了！」
+ 393156 : 「著色與沉澱」
  393201 : 綠植盆栽-「蒼翠寸泓中」
  393202 : 鎖水的花壇
  393203 : 轉移壅土的木桶
@@ -18866,6 +19573,13 @@ setFetterLevel : 設定當前角色的好感度等級。
  393363 : 「醇厚之聲」
  393364 : 業果木三縱面看板
  393365 : 「茶歇的陰涼」
+ 393366 : 吉慶畫屏-「霧聚煙山」
+ 393367 : 吉慶畫屏-「碧波迅羽」
+ 393368 : 吉慶畫屏-「絲竹遙裊」
+ 393369 : 吉慶畫屏-「故曲往旋」
+ 393370 : 吉慶畫屏-「連雲迭嶂」
+ 393371 : 吉慶畫屏-「衷音彌遠」
+ 393372 : 「號角與薪柴」
  393401 : 鐵藝雕花路燈
  393402 : 野外松木路燈
  393403 : 退邪燈-「明照左右」
@@ -19174,6 +19888,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 24040201 : Monolith_Ordinator_02 - [N/A] 285953129
 24040301 : Monolith_Ordinator_03 - [N/A] 3626535649
 24050101 : Monolith_Starchild - [N/A] 2629579681
+24990101 : Monster_Alternate_01 - [N/A] 3880332545
 25010101 : Thoarder_Male_NoWeapon_01 - 「溜溜」
 25010102 : Thoarder_Male_Standard_NoWeapon_01_02 - 神秘人
 25010103 : Thoarder_Male_Standard_NoWeapon_01_03 - [N/A] 4074487073
@@ -19215,6 +19930,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 25050402 : AahigaruTaisho_Male_01_02 - [N/A] 220906409
 25050501 : Aahigaru_Male_02 - 珊瑚宮眾
 25050502 : Aahigaru_Male_02_02 - [FR] - (test)心海个人线反抗军足轻
+25050503 : Aahigaru_Male_03 - [N/A] 3723952969
 25060101 : Thoarder_MuscleMan_NoWeapon_01 - [N/A] 3034153769
 25060102 : Thoarder_MuscleMan_NoWeapon_01_02 - [N/A] 2830824473
 25070101 : Thoarder_MuscleMan_Hammer_01 - [N/A] 2923584017
@@ -19228,16 +19944,19 @@ setFetterLevel : 設定當前角色的好感度等級。
 25080402 : Samurai_Hatamoto_02 - [N/A] 193563705
 25080403 : Samurai_Hatamoto_03 - [N/A] 1581579825
 25080404 : Samurai_Hatamoto_03 - [N/A] 400320561
+25080405 : Samurai_Hatamoto_04 - [N/A] 147737673
 25090101 : Samurai_Ningyo_01 - 傀儡將軍
 25090102 : Samurai_Ningyo_02 - 傀儡將軍-風分身
 25090103 : Samurai_Ningyo_03 - 傀儡將軍-冰分身
 25090104 : Samurai_Ningyo_04 - 傀儡將軍-面具分身
+25090105 : Samurai_Ningyo_05 - [N/A] 1156820393
 25090201 : Samurai_Ningyo_02 - [EN] - Marionette General: Wind Bunshin (With Icon)
 25090301 : Samurai_Ningyo_03 - [EN] - Marionette General: Ice Bunshin (With Icon)
 25090401 : Samurai_Ningyo_04 - [EN] - Marionette General: Masked Bunshin (With Icon)
 25100101 : Samurai_Kairagi_01 - 海亂鬼-雷
 25100102 : Samurai_Kairagi_05 - [N/A] 280790529
 25100201 : Samurai_Kairagi_02 - 海亂鬼-火
+25100202 : Samurai_Kairagi_07 - [N/A] 1073373889
 25100301 : Samurai_Kairagi_03 - 海亂鬼-雷幽靈
 25100302 : Samurai_Kairagi_06 - [N/A] 1381328249
 25100401 : Samurai_Kairagi_04 - 海亂鬼-火幽靈
@@ -19245,6 +19964,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 25110102 : Gator_Eremite_Rock_02 - [N/A] 2361510321
 25110201 : Vulture_Eremite_Wind_01 - [N/A] 3397827697
 25110202 : Vulture_Eremite_Wind_02 - [N/A] 1458817257
+25110301 : Scorpion_Eremite_Fire_01 - [N/A] 3602103257
+25110401 : Chrysopelea_Eremite_Grass_01 - [N/A] 3779411305
 25210101 : Eremite_Female_Hatchet_01 - [N/A] 593962337
 25210102 : Eremite_Female_Hatchet_02 - [N/A] 655804089
 25210103 : Eremite_Female_Hatchet_03 - [N/A] 3189818729
@@ -19253,6 +19974,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 25210106 : EremiteElite_Female_Hatchet_03 - [N/A] 660925665
 25210107 : Eremite_Female_Hatchet_04 - [N/A] 2260729353
 25210108 : Eremite_Female_Hatchet_05 - [N/A] 1446861633
+25210109 : NPC_Quest_Female_Standard_Nailan_20933 - [N/A] 2358839953
 25210201 : Eremite_Male_Standard_Crossbow_01 - [N/A] 1998919569
 25210202 : Eremite_Male_Standard_Crossbow_02 - [N/A] 2119181617
 25210203 : Eremite_Male_Standard_Crossbow_03 - [N/A] 3425185161
@@ -19262,6 +19984,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 25210207 : Eremite_Male_Standard_Crossbow_04 - [N/A] 1636753185
 25210208 : NPC_Quest_Male_Standard_Eremite_01 - [N/A] 2050456833
 25210209 : NPC_Quest_Male_Standard_Eremite_02 - [N/A] 3171996801
+25210210 : NPC_Sumeru_Male_Standard_Aderfi_4293 - [N/A] 2723889409
+25210211 : NPC_Quest_Male_Standard_Assassin02_20940 - [N/A] 3153927337
 25210301 : Eremite_Male_Standard_Pole_01 - [N/A] 4008986473
 25210302 : Eremite_Male_Standard_Pole_02 - [N/A] 2939413633
 25210303 : Eremite_Male_Standard_Pole_03 - [N/A] 2517557169
@@ -19269,6 +19993,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 25210305 : EremiteElite_Male_Standard_Pole_02 - [N/A] 1664946217
 25210306 : EremiteElite_Male_Standard_Pole_03 - [N/A] 696066441
 25210307 : Eremite_Male_Standard_Pole_01 - [N/A] 2671081977
+25210308 : NPC_Sumeru_Male_Standard_Warden03_4298 - [N/A] 2403836809
+25210309 : NPC_Sumeru_Male_Standard_Warden04_4299 - [N/A] 191969201
 25210401 : Eremite_MuscleMan_Gloves_01 - [N/A] 998410809
 25210402 : Eremite_MuscleMan_Gloves_02 - [N/A] 839477089
 25210403 : Eremite_MuscleMan_Gloves_03 - [N/A] 2628038825
@@ -19276,6 +20002,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 25210405 : EremiteElite_MuscleMan_Gloves_02 - [N/A] 4366953
 25210406 : EremiteElite_MuscleMan_Gloves_03 - [N/A] 1385944497
 25210407 : NPC_Quest_MuscleMan_Standard_Eremite_01 - [N/A] 3844535385
+25210408 : NPC_Quest_MuscleMan_Standard_Assassin01_20913 - [N/A] 2083537065
 25210501 : Eremite_MuscleMan_Simitar_01 - [N/A] 914092905
 25210502 : Eremite_MuscleMan_Simitar_02 - [N/A] 3484979137
 25210503 : Eremite_MuscleMan_Simitar_03 - [N/A] 2747515289
@@ -19283,14 +20010,23 @@ setFetterLevel : 設定當前角色的好感度等級。
 25210505 : EremiteElite_MuscleMan_Simitar_02 - [N/A] 4251715865
 25210506 : EremiteElite_MuscleMan_Simitar_03 - [N/A] 124112617
 25210507 : Eremite_MuscleMan_Simitar_04 - [N/A] 1714026825
+25210508 : NPC_Sumeru_MuscleMan_Standard_Yuften_4294 - [N/A] 2949828257
 25210601 : Eremite_Male_Standard_NoWeapon_01 - [N/A] 3480498409
 25210602 : Eremite_Male_Standard_NoWeapon_02 - [N/A] 1531750897
 25310101 : Eremite_Female_Slim_PushDagger_01 - [N/A] 2984077569
+25310102 : Eremite_Female_Slim_PushDagger_02 - [N/A] 1936242505
 25310201 : Eremite_Male_Standard_Glaive_01 - [N/A] 3154173257
 25310202 : Eremite_Male_Standard_Glaive_02 - [N/A] 3503187145
 25310301 : Eremite_Male_Standard_Polearm_01 - [N/A] 863506833
 25410101 : Eremite_Male_Strong_Katar_01 - [N/A] 1317576089
+25410102 : Eremite_Male_Strong_Katar_02 - [N/A] 3519774769
+25410103 : Eremite_Male_Strong_Katar_03 - [N/A] 2559377073
 25410201 : Eremite_Female_Standard_Longbow_01 - [N/A] 1223193297
+25410202 : Eremite_Female_Standard_Longbow_02 - [N/A] 3954073513
+25410301 : Eremite_Female_Standard_Oracle_01 - [N/A] 230400289
+25410302 : Eremite_Female_Standard_Oracle_02 - [N/A] 3319063017
+25410303 : Eremite_Female_Standard_Oracle_03 - [N/A] 1427419849
+25410401 : Eremite_Female_Standard_Dancer_01 - [N/A] 4046454873
 26010101 : Mimik_Ice - 冰騙騙花
 26010102 : Mimik_Ice_Activity - 冰騙騙花（雪山活動）
 26010103 : Mimik_Fel - [EN] - Giant Cryo Whopperflower (2.3 Dragonspine Event)
@@ -19355,11 +20091,15 @@ setFetterLevel : 設定當前角色的好感度等級。
 26091001 : Fungus_Deux_Delta_Electric_01 - [N/A] 1409125529
 26091090 : Fungus_Deux_Delta_Electric_Enemy - [N/A] 2977465545
 26091091 : Fungus_Deux_Delta_Electric_01_Capture - [N/A] 2399196673
+26100301 : Vulture_Sacred_Fire_01 - [N/A] 2824755009
+26100401 : Scorpion_Sacred_Electric_01 - [N/A] 2220913313
+26100501 : Chrysopelea_Sacred_Wind_01 - [N/A] 1264292481
 26110101 : Fungus_Raptor - [N/A] 4290207929
 26120101 : Fungus_Amanita_Unu_Anudatta_Grass_01 - [N/A] 198051785
 26120201 : Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 2368019041
 26120301 : Fungus_Amanita_Du_Anudatta_Water_01 - [N/A] 3299184601
 26120401 : Fungus_Amanita_Du_Udatta_Rock_01 - [N/A] 4098645257
+26130101 : Sandworm - [N/A] 2117237033
 28010101 : Crab_01 - 黃金蟹
 28010102 : Crab_02 - 太陽蟹
 28010103 : Crab_03 - 海藍蟹
@@ -19442,6 +20182,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 28020901 : Inu_Shihandai_01 - [EN] - Samurai Dog (Patrol)
 28020902 : Inu_Shihandai_02 - [EN] - Samurai Dog (Combat)
 28020903 : Inu_Shihandai_03 - [N/A] 467002241
+28020904 : Inu_Shihandai_04 - [N/A] 1992703905
 28030101 : Crane_01 - 藍翎鷺
 28030102 : Crane_02 - 菫䴉
 28030103 : Crane_01 - [N/A] 434877481
@@ -19533,6 +20274,12 @@ setFetterLevel : 設定當前角色的好感度等級。
 28050223 : Thoarder_Weasel_03 - [N/A] 4261963577
 28050301 : Boltbug_Lightbug_01 - [N/A] 868485513
 28050401 : Boltbug_Scarab_01 - [N/A] 2466918521
+28050501 : Electrohercules_01 - [N/A] 3014312137
+28050502 : Electrohercules_02 - [N/A] 765439209
+28050503 : Electrohercules_03 - [N/A] 3141479769
+28050504 : Electrohercules_04 - [N/A] 2949221961
+28050505 : Electrohercules_05 - [N/A] 2453680657
+28050506 : Electrohercules_06 - [N/A] 992130697
 28060101 : Gator_01 - [N/A] 128716817
 28060102 : Gator_Strong_01 - [N/A] 2866718929
 28060103 : Gator_01 - [N/A] 1328271489
@@ -19576,6 +20323,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 28061301 : Megamoth_Jungle_06 - [N/A] 3469996769
 28061401 : Megamoth_Jungle_07 - [N/A] 2330015681
 28061402 : Megamoth_Jungle_08 - [N/A] 3443985385
+28061501 : Chrysopelea_01 - [N/A] 447726457
+28061502 : Chrysopelea_01 - [N/A] 3984456185
 28210101 : Homeworld_Crab_01 - [EN] - Domestic Golden Crab
 28210102 : Homeworld_Crab_02 - [EN] - Domestic Sun Crab
 28210103 : Homeworld_Crab_03 - [EN] - Domestic Ocean Crab
@@ -19714,6 +20463,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 35210501 : Partner_Eremite_MuscleMan_Simitar_01 - [N/A] 4181653881
 35310101 : Partner_Eremite_Female_Slim_PushDagger_01 - [N/A] 800547617
 35310301 : Partner_Eremite_Male_Standard_Polearm_01 - [N/A] 2724426105
+35410101 : Partner_Eremite_Male_Strong_Katar_01 - [N/A] 843060329
+35410201 : Partner_Eremite_Female_Standard_Longbow_01 - [N/A] 2996340361
 36090190 : Partner_Fumgus_Un_Gamma_Water - [N/A] 4291858465
 36090290 : Partner_Fumgus_Un_Delta_Grass - [N/A] 2928415473
 36090390 : Partner_Fumgus_Un_Delta_Wind - [N/A] 3044810417
@@ -19724,6 +20475,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 36090890 : Partner_Fumgus_Deux_Epsilon_Wind - [N/A] 864320241
 36090990 : Partner_Fumgus_Deux_Beta_Rock - [N/A] 3379305585
 36091090 : Partner_Fumgus_Deux_Delta_Electric - [N/A] 1780358665
+38050590 : Partner_Animal_Electrohercules_01 - [N/A] 2442210649
 
 
 // Scenes
@@ -19786,6 +20538,7 @@ setFetterLevel : 設定當前角色的好感度等級。
  1076 : IndoorScene_Md_CattailTavern
  1077 : IndoorScene_Xm_Chunzhangjia
  1078 : IndoorScene_Xm_Zls
+ 1079 : IndoorScene_Xm_Alhouse
  2001 : Homeworld_Exterior_Above
  2002 : Homeworld_Exterior_Karst
  2003 : Homeworld_Exterior_Uncharted
@@ -19897,6 +20650,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 20170 : Level_ScaramoucheFactory
 20171 : Level_ScaramoucheBoss
 20172 : Level_Consciousness
+20173 : Level_Xm_Alhaitham_01
 30001 : LevelTest_CurseMaze
 30100 : Level_Tower_Morning_01
 30101 : Level_Tower_Morning_01
@@ -20063,6 +20817,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 33744 : Level_Tower_Universe_01
 33745 : Level_Tower_Moon_01
 33746 : Level_Tower_Universe_01
+33747 : Level_Tower_Moon_01
+33748 : Level_Tower_Universe_01
 34100 : Level_Tower_Morning_01
 34101 : Level_Tower_01_Water
 34102 : Level_Tower_01_Open
@@ -20118,6 +20874,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 34744 : Level_Tower_Universe_01
 34745 : Level_Tower_Moon_01
 34746 : Level_Tower_Universe_01
+34747 : Level_Tower_Moon_01
+34748 : Level_Tower_Universe_01
 35100 : Level_Tower_Morning_01
 35101 : Level_Tower_Morning_01
 35102 : Level_Tower_Morning_01
@@ -20173,6 +20931,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 35744 : Level_Tower_Universe_01
 35745 : Level_Tower_Moon_01
 35746 : Level_Tower_Universe_01
+35747 : Level_Tower_Moon_01
+35748 : Level_Tower_Universe_01
 35800 : Level_CycleDungeon_WindFlower
 35801 : Level_ContestBattle01
 35802 : Level_ContestBattle01
@@ -20225,6 +20985,11 @@ setFetterLevel : 設定當前角色的好感度等級。
 35870 : Level_BrickBreaker01
 35871 : Level_BrickBreaker01
 35872 : Level_BrickBreaker01
+35880 : Level_XM_BigLeaf
+35881 : Level_XM_BigLeaf
+35882 : Level_XM_BigLeaf
+35883 : Level_XM_BigLeaf
+35884 : Level_XM_BigLeaf
 40001 : Level_UCDungeon02
 40002 : Level_UCDungeon01
 40003 : Level_UCDungeon01
@@ -20286,6 +21051,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 40060 : Level_ActivityBoss01_Wind
 40061 : Level_ActivityBoss01_Wind
 40062 : Level_ActivityBoss01_Wind
+40063 : Level_Smr_LostCity
+40064 : Level_Smr_LostCity
 40100 : Level_CycleDungeon01_Fire
 40101 : Level_CycleDungeon01_Fire
 40102 : Level_CycleDungeon01_Fire
@@ -20449,6 +21216,8 @@ setFetterLevel : 設定當前角色的好感度等級。
 41058 : Level_Tower_01_Open
 41059 : Level_Tower_01_Open
 41060 : Level_Tower_01_Open
+41061 : Level_Tower_01_Open
+41062 : Level_Tower_01_Open
 42001 : Level_PFDungeon02_Active01
 42002 : Level_PFDungeon02_Active02
 42003 : Level_PFDungeon02_Active07
@@ -20564,6 +21333,13 @@ setFetterLevel : 設定當前角色的好感度等級。
 47205 : Level_Smr_LostCity
 47206 : Level_Smr_LostCity
 47207 : Level_Smr_LostCity
+47301 : Level_ContestBattle01
+47302 : Level_ContestBattle01
+47303 : Level_ContestBattle01
+47304 : Level_ContestBattle01
+47305 : Level_ContestBattle01
+47306 : Level_ContestBattle01
+47307 : Level_ContestBattle01
 50002 : TestLevel_Cold_LYX
 50003 : TestLevel_Battle_CLX
 50004 : Level_PowerCharge_Test
@@ -20666,7 +21442,9 @@ setFetterLevel : 設定當前角色的好感度等級。
 51007 : BigWorld_LevelStreaming
 51008 : Level_Carnival
 51009 : Level_SmrDungeon_BigTree
+51010 : TestLevel_TestBox_LCM
 51011 : TestLevel_WhiteBox_Xm_04
+51013 : Level_Xm_Alhaitham_01
 51015 : Level_TestLevel_Pacman_Sll
 51019 : TestLevel_WhiteBox_Xm_05
 79999 : GcgCardTest
@@ -23244,7 +24022,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 1200107 : 知己知彼定良策 - 竊聽茂才公與愚人眾的對話
 1200108 : 知己知彼定良策 - 將茂才公的計畫告知行秋
 1200201 : 山雨欲來風滿樓 - 帶信給「飛雲商會」的家丁
-1200202 : 山雨欲來風滿樓 - 進入「飛雲商會」
+1200202 : 山雨欲來風滿樓 - 進入琉璃亭
 1200203 : 山雨欲來風滿樓 - 與「飛雲商會」的家丁對話
 1200204 : 山雨欲來風滿樓 - 前往商鋪購買石珀
 1200205 : 山雨欲來風滿樓 - 前往商鋪購買石珀
@@ -23260,7 +24038,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 1200215 : 山雨欲來風滿樓 - 完成購買
 1200219 : 山雨欲來風滿樓 - 使用元素視野，尋找裝有石珀的礦車
 1200220 : 山雨欲來風滿樓 - 使用元素視野，尋找裝有石珀的礦車
-1200221 : 山雨欲來風滿樓 - [CHS] - (test)与「飞云商会」的家丁对话$HIDDEN
+1200221 : 山雨欲來風滿樓 - 與家丁對話
 1200222 : 山雨欲來風滿樓 - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200223 : 山雨欲來風滿樓 - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200303 : 淡泊名利俠客行 - 前往「飛雲商會」的倉庫
@@ -28779,7 +29557,7 @@ setFetterLevel : 設定當前角色的好感度等級。
 7082402 : 酒莊大掃除 - 隨愛德琳進入晨曦酒莊
 7082403 : 酒莊大掃除 - 打掃所有污漬
 7082404 : 酒莊大掃除 - 與愛德琳對話
-7082501 : 善後工作 - [CHS] - 与霍夫曼对话$HIDDEN
+7082501 : 善後工作 - 與霍夫曼對話
 7082502 : 善後工作 - 前往巡查，並清除障礙物
 7082503 : 善後工作 - 消滅所有魔物，並清除障礙
 7082504 : 善後工作 - 前往巡查，並清除障礙物

@@ -1,5 +1,5 @@
-// Grasscutter 3.3.0 GM Handbook
-// Created 2022/12/07 22:14:49
+// Grasscutter 3.3.54 GM Handbook
+// Created 2023/01/24 10:05:08
 
 
 // Commands
@@ -586,6 +586,28 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  41076013 : Faruzan_Constellation6_Bullet - [N/A] 1903046925
  41076014 : Faruzan_Constellation6_Bullet_Trigger - [N/A] 1339949197
  41076015 : Faruzan_SkillObj_WindZone_Hit - [N/A] 3244892205
+ 41077001 : Yaoyao_ExtraAttack_Bullet - [N/A] 1175812701
+ 41077002 : Yaoyao_ElementalArt_Rabbit - [N/A] 486672549
+ 41077003 : Avatar_Yaoyao_Turnip_Bullet - [N/A] 358099181
+ 41077004 : Avatar_Yaoyao_Turnip - [N/A] 3130731581
+ 41077005 : Yaoyao_ElementalArt_Rabbit_Throw - [N/A] 4187909685
+ 41077006 : Yaoyao_ElementalBurst_Rabbit_Throw - [N/A] 371097277
+ 41077007 : Yaoyao_ElementalBurst_Rabbit - [N/A] 3384056949
+ 41077008 : Avatar_Yaoyao_Turnip_Bullet_Parabola - [N/A] 3536110237
+ 41077009 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre - [N/A] 1584764237
+ 41077010 : Yaoyao_ElementalArt_Rabbit_Throw_Short - [N/A] 502899525
+ 41077011 : Avatar_Yaoyao_Golden_Turnip_Bullet - [N/A] 3865826597
+ 41077012 : Avatar_Yaoyao_Golden_Turnip - [N/A] 1158403509
+ 41077013 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre_BulletTrigger - [N/A] 3263422261
+ 41078001 : Alhatham_ElementalArt_Bullet - [N/A] 1364000445
+ 41078002 : Alhatham_ElementalArt_CoAttack03_Bullet - [N/A] 64191325
+ 41078003 : Alhatham_ElementalArt_CoAttack01 - [N/A] 470585117
+ 41078004 : Alhatham_ElementalArt_CoAttack02 - [N/A] 3787294741
+ 41078005 : Alhatham_ElementalArt_CoAttack03 - [N/A] 1744412269
+ 41078006 : Alhatham_ElementalArt_CoAttack01_Constellation_1 - [N/A] 2252179381
+ 41078007 : Alhatham_ElementalArt_CoAttack02_Constellation_1 - [N/A] 1560682061
+ 41078008 : Alhatham_ElementalArt_CoAttack03_Constellation_1 - [N/A] 4103662077
+ 41078011 : Alhatham_ElementalBurst_Dummy - [N/A] 2022817589
  42000001 : Fishing_Aim_Bullet - [N/A] 948791589
  42000002 : Fishing_Cork - [N/A] 3201528309
  42001001 : Slime_IceCone_AimPoint - [N/A] 4070709791
@@ -1193,6 +1215,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  42509016 : Samurai_Ningyo_MaskCloseLock_ToPlace - [N/A] 2596145183
  42509017 : Samurai_Ningyo_BornObject - [N/A] 3018148159
  42509018 : Samurai_Ningyo_LockTarget - [N/A] 712038119
+ 42509019 : Samurai_Ningyo_WindBladeAir_BladeMaster - [N/A] 865564191
  42510001 : Samurai_Kairagi_FireArea - [N/A] 2013216071
  42510002 : Kairagi_RushAtk_Bullet - [N/A] 4186423367
  42510003 : Kairagi_RushAtk_Bullet_Thunder - [N/A] 321225383
@@ -1220,6 +1243,21 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  42550006 : Eremite_Vulture_WindArea - [N/A] 3706864199
  42550007 : Eremite_Longbows_MoveShot_Damage - [N/A] 687002071
  42550008 : Eremite_Longbows_AirShoot_WindArea - [N/A] 1292916871
+ 42560001 : Eremite_Dancer_Boomerang - [N/A] 3548492375
+ 42560002 : Eremite_Dancer_WheelSurround - [N/A] 3787607703
+ 42560003 : Eremite_Dancer_Trap - [N/A] 2195108999
+ 42560004 : Eremite_Chrysopelea_ShaderCut_Gadget - [N/A] 2831645047
+ 42560005 : Eremite_Chrysopelea_ComboAttack_Gadget - [N/A] 678410903
+ 42560006 : Eremite_Chrysopelea_RangeAttack_Bullet - [N/A] 2679176639
+ 42570001 : Eremite_Oracle_Stingers_Bullet - [N/A] 2445929463
+ 42570002 : Eremite_Oracle_LaserAttack_Bullet - [N/A] 3113180095
+ 42570003 : Eremite_Oracle_FunnelAttack_Bullet - [N/A] 4060731967
+ 42570004 : Eremite_Oracle_FunnelAttack_Gadget - [N/A] 3884020815
+ 42570005 : Eremite_Scorpion_ShaderCut_Gadget - [N/A] 2308962959
+ 42570006 : Eremite_Scorpion_RangeAttack_Bullet - [N/A] 2162733327
+ 42570007 : Eremite_Scorpion_MeleeAttack_Bullet - [N/A] 1655028663
+ 42570008 : Eremite_Scorpion_ComboAttack_Gadget - [N/A] 1971621423
+ 42570009 : Eremite_Scorpion_RangeAttack_RayBullet - [N/A] 1740862423
  42601001 : Mimik_Ice_ForwardBullet - [N/A] 1887752319
  42601002 : Mimik_Ice_ForwardCannon - [N/A] 239623631
  42601003 : Mimik_Ice_UpperMissile - [N/A] 2883953935
@@ -1414,6 +1452,33 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  42609024 : Fungus_Un_Water_Bubble - [N/A] 4040866999
  42609025 : Fungus_Deux_Wind_OverdoseBullet - [N/A] 1900741015
  42609026 : Fungus_Un_Dendro_Bullet_UB - [N/A] 437828143
+ 42610001 : Scorpion_Sacred_SacredAttack03_Bullet - [N/A] 157394007
+ 42610002 : Scorpion_Sacred_SacredAttack05_Bullet - [N/A] 1362906215
+ 42610003 : Scorpion_Sacred_SacredEnergy_Gadget - [N/A] 4201293127
+ 42610004 : Scorpion_Sacred_SacredEnergy_Bullet - [N/A] 426087711
+ 42610005 : Scorpion_Sacred_SacredEnergy_Accum - [N/A] 1086890671
+ 42610006 : Scorpion_Sacred_SacredAttack05_Bullet2 - [N/A] 3394513775
+ 42610007 : Scorpion_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 2396345631
+ 42610017 : Vulture_Sacred_SacredAttack04_Bullet - [N/A] 1931426559
+ 42610018 : Vulture_Sacred_SacredAttack05_Bullet - [N/A] 3313926135
+ 42610019 : Vulture_Sacred_SacredEnergy_Gadget - [N/A] 4274054415
+ 42610020 : Vulture_Sacred_SacredEnergy_Bullet - [N/A] 3474544455
+ 42610021 : Vulture_Sacred_SacredEnergy_Detect - [N/A] 3571112831
+ 42610022 : Vulture_Sacred_SacredEnergy_Accum - [N/A] 205944767
+ 42610023 : Vulture_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3491967647
+ 42610024 : Chrysopelea_Sacred_Attack01_Bullet - [N/A] 3919499911
+ 42610025 : Chrysopelea_Sacred_Attack01_WindZone - [N/A] 27701559
+ 42610026 : Chrysopelea_Sacred_SacredEnergy_Gadget - [N/A] 1669444215
+ 42610027 : Chrysopelea_Sacred_SacredEnergy_Bullet - [N/A] 2668002983
+ 42610028 : Chrysopelea_Sacred_Attack02_WindBlade - [N/A] 2268598063
+ 42610029 : Chrysopelea_Sacred_Attack04_WindZone - [N/A] 3244977807
+ 42610030 : Chrysopelea_Sacred_Attack05_Bullet - [N/A] 3994716847
+ 42610031 : Chrysopelea_Sacred_SacredEnergy_Detect - [N/A] 1576521079
+ 42610032 : Chrysopelea_Sacred_SacredEnergy_Accum - [N/A] 1749515879
+ 42610033 : Chrysopelea_Sacred_Attack05_WindBlade - [N/A] 2250065735
+ 42610034 : Chrysopelea_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3603489927
+ 42610035 : Chrysopelea_Sacred_Attack02_WindBlade02 - [N/A] 475343279
+ 42610036 : Chrysopelea_Sacred_Attack02_WindBlade03 - [N/A] 3164834151
  42611001 : Fungus_Raptor_01_ShootAttackBullet - [N/A] 1247474583
  42611002 : Fungus_Raptor_01_PowerAttackBullet - [N/A] 1981485391
  42611003 : Fungus_Raptor_01_SummonAttackBullet - [N/A] 3692441343
@@ -1432,6 +1497,17 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  42611016 : Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay - [N/A] 1382661615
  42611017 : Fungus_Raptor_01_SummonAttackBullet_OnGround - [N/A] 1912276719
  42611018 : Fungus_Un_Delta_Grass_BulletDecayedRaptorSummon - [N/A] 1152419447
+ 42613001 : Bullet_Sandworm_Stage01_ShootAttackBullet - [N/A] 2932985583
+ 42613002 : Bullet_Sandworm_Stage02_TailVerticalShootAttack_BulletOnGround - [N/A] 1481911263
+ 42613003 : Monster_Sandworm_Stage02_FlyingAttackBall - [N/A] 2615035231
+ 42613004 : Bullet_Sandworm_Stage02_FlyingAttackBullet - [N/A] 3970307391
+ 42613005 : Bullet_Sandworm_Stage02_DrillRushAttackBullet - [N/A] 3607401655
+ 42613006 : Bullet_Sandworm_Stage02_UnderGroundMoveTrail_Bullet - [N/A] 1325797263
+ 42613007 : Monster_Sandworm_Stage02_FlyingAttackBall02 - [N/A] 2062639847
+ 42613008 : Monster_Sandworm_Stage02_FlyingAttackBall03 - [N/A] 2977250319
+ 42613009 : Monster_Sandworm_Stage02_FlyingAttackBall04 - [N/A] 242312639
+ 42613010 : Monster_Sandworm_Stage02_FlyingAttackBall05 - [N/A] 2026021447
+ 42613011 : Monster_Sandworm_Stage02_FlyingAttackBall06 - [N/A] 3250352215
  42690001 : DendroTornado_Hunting - [N/A] 1490735319
  42802001 : Boar_RushAtk - [N/A] 3897733399
  42802002 : Boar_BigSnowBall - [N/A] 946776663
@@ -1439,6 +1515,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  42802004 : Boar_SnowDrop - [N/A] 2073418471
  42802005 : Boar_03_RushAtk - [N/A] 3801980575
  42805001 : Boltbug_Scarab_Ball - [N/A] 1464668799
+ 42806001 : Chrysopelea_Attack01_Bullet - [N/A] 2582222311
  42901001 : Dvalin_Trigger01 - [N/A] 2857760847
  42901002 : Dvalin_AirFlowGlobal01 - [N/A] 878162351
  42901003 : Dvalin_WindRing01 - [N/A] 3054154647
@@ -1461,7 +1538,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  42901029 : Dvalin_S04_Platform01 - [N/A] 753154527
  42901041 : Dvalin_S04_AbyssTrigger - [N/A] 1169221039
  42901042 : Dvalin_S01_WindSlime - [N/A] 2927902063
- 42901043 : Dvalin_S01_FireAbyss - [N/A] 904992831
+ 42901043 : Dvalin_S01_FireAbyss - [N/A] 1636076615
  42901044 : Dvalin_S01_FireAbyss_Cyclone - [N/A] 48205711
  42901045 : Dvalin_S01_FireAbyss_Totem - [N/A] 2034797783
  42901046 : Dvalin_S01_Missile_01 - [N/A] 2551641095
@@ -1775,6 +1852,15 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  42907910 : Gagana_EnergyCube_Small - [N/A] 4263390975
  42907911 : Gagana_EnergyCubeSpecial - [N/A] 3132457399
  42907912 : Gagana_AutoShootBullet_Powerful - [N/A] 2271855919
+ 43805001 : Partner_Animal_Electrohercules_JumpAttack - [N/A] 1817545303
+ 43805002 : Partner_Animal_Electrohercules_JumpAttack_CriticalTrigger - [N/A] 688400959
+ 43805003 : Animal_Electrohercules_RangedAttack01_Attack - [N/A] 3968051159
+ 43805004 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 2126377159
+ 43805005 : Bullet_Animal_Electrohercules_ElectricBall_OnGround - [N/A] 789377079
+ 43805006 : Bullet_Animal_Electrohercules_ElectricBall_Kicked - [N/A] 3009696383
+ 43805007 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 3225701015
+ 43805008 : Animal_Electrohercules_06_CameraTarget - [N/A] 1933183503
+ 43805009 : Partner_Animal_Electrohercules_JumpBack - [N/A] 628752167
  44000001 : SkillObj_LevelEntity_TowerBuff_SprintAreaAttack - [N/A] 2478743371
  44000002 : SkillObj_GlidingChallenge_AirDash_Forward - [N/A] 4055901779
  44000003 : SkillObj_GlidingChallenge_AirDash_Upward1 - [N/A] 4039659491
@@ -1999,8 +2085,12 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  44000547 :  - [N/A] 1160347275
  44000548 :  - [N/A] 1443849811
  44000549 : CoinCollect_WindField - [N/A] 1061538187
+ 44000551 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainChooseMonster - [N/A] 1424403123
+ 44000552 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainExplodeCreatorV3.4 - [N/A] 3771975235
+ 44000553 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainMasterExplodeV3.4 - [N/A] 102652931
  45001001 : Skiff_Normal_01 - [N/A] 1971263784
  45001002 : Skiff_Normal_Beidou - [N/A] 4127622224
+ 45001003 : Skiff_Normal_LanV3BoatGame - [N/A] 1002409352
  49001001 : GeneralSkill_IceDamage_Prison_Center - [N/A] 3689397839
  49001002 : GeneralSkill_WindDamage_Vortex_Center - [N/A] 3989476855
  49001003 : GeneralSkill_RockDamage_LowWave_Emitter - [N/A] 1638573951
@@ -2022,6 +2112,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  49001020 : MonsterAffix_Drop_Rock_CenterGadget - [N/A] 2838867671
  49001021 : MonsterAffix_Drop_Rock_Bullet_Stage1 - [N/A] 2780804615
  49001022 : MonsterAffix_Drop_Rock_Bullet_Stage2 - [N/A] 3950134471
+ 49001023 : MonsterAffix_Activity_Deathrattle_Gadget_DoomLogic - [N/A] 1656916927
  50004001 : MonEquip_WoodenClub_01 - [N/A] 2276690274
  50004002 : MonEquip_Shield_01 - [N/A] 385102474
  50004003 : MonEquip_WoodenClub_Fire_01 - [N/A] 2366820018
@@ -2158,6 +2249,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  50011509 : Weapon_Sword_Metal - [N/A] 2049132762
  50011510 : Weapon_Sword_Metal - [N/A] 1767000186
  50011511 : Weapon_Sword_Metal - [N/A] 678116498
+ 50011512 : Weapon_Sword_Metal - [N/A] 2148878538
  50012101 : Weapon_Claymore_Metal - [N/A] 3190308418
  50012201 : Weapon_Claymore_Metal - [N/A] 3652942962
  50012301 : Weapon_Claymore_Metal - [N/A] 2236465170
@@ -2338,6 +2430,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70120007 : SceneObj_Resident_DungeonEntry_Temp_3d - [N/A] 2071956017
  70120008 : SceneObj_Resident_DungeonEntry_MengDe03 - [N/A] 2185414225
  70120009 : SceneObj_Resident_DungeonEntry_MakotoTorii - [N/A] 2887094801
+ 70120011 : SceneObj_Resident_DungeonEntry_Desert01 - [N/A] 3773079265
  70130001 : Windmill - [N/A] 1253491753
  70130002 : Windmill - [N/A] 138536801
  70130003 : Windmill - [N/A] 1190443273
@@ -2477,6 +2570,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70217018 : SceneObj_Chest_Relic02 - [N/A] 4118874809
  70217019 : SceneObj_Chest_Relic02 - [N/A] 249981361
  70217020 : SceneObj_Area_Xm_Property_Prop_SumeruCrudeChest_01 - [N/A] 3499701441
+ 70217021 : SceneObj_Area_Xm_Property_Prop_Qzft_Chest_01 - [N/A] 1255863673
  70220001 : SceneObj_Environment_GrassMaterial_LeaveStacks - [N/A] 2131907393
  70220002 : SceneObj_Environment_GrassMaterial_LeafBlanket - [N/A] 3400770321
  70220003 : SceneObj_Environment_WoodenMaterial_BrambleWall01 - [N/A] 940992233
@@ -3167,8 +3261,10 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70290432 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2610296801
  70290433 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2293893953
  70290434 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2074184041
+ 70290435 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_01 - [N/A] 2036496833
  70290436 : SceneObj_Area_Xm_Property_Prop_RootPot_01 - [N/A] 763381017
  70290437 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruBubble_01 - [N/A] 2077054049
+ 70290438 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Bullet_01 - [N/A] 2755426545
  70290439 :  - [N/A] 529036153
  70290440 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part_NoDither - [N/A] 2255502849
  70290441 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part - [N/A] 3174113273
@@ -3183,6 +3279,17 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70290450 : SceneObj_Area_Common_Property_Prop_Excavate_01 - [N/A] 631751737
  70290451 : SceneObj_Area_Xm_Property_Prop_SeelieFarAway_01 - [N/A] 2563897945
  70290452 : SceneObj_Area_Common_Property_Prop_ExplorationRing_01 - [N/A] 158715585
+ 70290453 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_01 - [N/A] 988585289
+ 70290454 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_02 - [N/A] 1189602505
+ 70290455 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3116403553
+ 70290456 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3434048849
+ 70290457 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_01 - [N/A] 1679508649
+ 70290458 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Balance_01 - [N/A] 2251884753
+ 70290459 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Transparency_01 - [N/A] 1446169785
+ 70290460 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_DeadZone_01 - [N/A] 1166772305
+ 70290461 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_02 - [N/A] 2342499809
+ 70290462 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_01 - [N/A] 4207694721
+ 70290463 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 713757273
  70290464 :  - [N/A] 1503227049
  70290465 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_01 - [N/A] 3551710265
  70290466 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_02 - [N/A] 241714481
@@ -3314,7 +3421,55 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70290597 : SceneObj_Area_Xm_Property_Water_CaveNoRPR120 - [N/A] 1115917249
  70290598 : SceneObj_Gear_Platform_WaterPlatform - [N/A] 2712802545
  70290599 : SceneObj_Area_Xm_Property_Prop_ChorusMusicGadget - [N/A] 2147750849
+ 70290600 : SceneObj_Area_Xm_Property_Ani_Prop_SpiritEnergyGear_01 - [N/A] 2049723257
+ 70290601 : SceneObj_Area_Xm_Property_Prop_SandTornado_01 - [N/A] 41434961
+ 70290602 : SceneObj_Area_Xm_Property_Prop_SandTornado_02 - [N/A] 1326509065
+ 70290603 : SceneObj_Area_Xm_Property_Prop_Lzsg_01 - [N/A] 3240334449
+ 70290604 : SceneObj_Area_Xm_Property_Prop_Hssz_01 - [N/A] 3745118673
+ 70290605 : SceneObj_Area_Xm_Property_Prop_Lzpb_01 - [N/A] 2274278689
+ 70290606 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_01 - [N/A] 2157025297
+ 70290607 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_02 - [N/A] 2214960881
  70290608 : SceneObj_Activity_Brick_Breaker - [N/A] 2580652217
+ 70290609 : SceneObj_Area_Xm_Property_Prop_OasisController_01 - [N/A] 78050633
+ 70290610 : SceneObj_Area_Common_Property_Ani_Prop_PipeGear_01 - [N/A] 828154569
+ 70290611 : SceneObj_Area_Common_Property_Ani_Prop_BrokenGear_01 - [N/A] 4140570817
+ 70290612 : SceneObj_Area_Common_Property_Ani_Prop_MaranaGear_01 - [N/A] 1410562897
+ 70290613 : SceneObj_Area_Xm_Property_Prop_SandFall_01 - [N/A] 50458873
+ 70290614 : SceneObj_Area_Xm_Property_Ani_Prop_SandContainerWall_01 - [N/A] 1421177553
+ 70290615 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 4252347825
+ 70290616 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 2510245593
+ 70290617 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 529665777
+ 70290618 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 1767819281
+ 70290619 : SceneObj_Area_Xm_Property_Ani_Prop_ChangeableStone_01 - [N/A] 829317745
+ 70290620 : SceneObj_Area_Common_Property_Prop_LaserWall_01 - [N/A] 18549409
+ 70290621 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3734889289
+ 70290622 : SceneObj_Area_Xm_Property_Ani_Prop_BrokenSlabStone_05 - [N/A] 339468329
+ 70290623 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 409823921
+ 70290624 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Normal_01 - [N/A] 1815794993
+ 70290625 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Hard_01 - [N/A] 3883894849
+ 70290626 : SceneObj_Area_Xm_Property_Prop_SandFall_02 - [N/A] 744073057
+ 70290627 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_01 - [N/A] 3822609169
+ 70290628 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Direct_01 - [N/A] 2685721425
+ 70290629 : SceneObj_Area_Xm_Property_Prop_Cwcfz_01 - [N/A] 1953317377
+ 70290630 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 3215638145
+ 70290631 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_Movable - [N/A] 2768729457
+ 70290632 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_NoMove - [N/A] 2386538745
+ 70290633 : SceneObj_Area_Xm_Property_Prop_Cwcfz_02 - [N/A] 1988180561
+ 70290634 : SceneObj_Area_Xm_Property_Prop_Cwcfz_03 - [N/A] 1969550393
+ 70290635 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 2518409809
+ 70290636 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 1779814105
+ 70290637 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 3807423753
+ 70290638 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_01 - [N/A] 2076167945
+ 70290639 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_01 - [N/A] 2773464097
+ 70290640 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_01 - [N/A] 3034438033
+ 70290641 : SceneObj_Desert_DeshretObelisk - [N/A] 1879846817
+ 70290642 : SceneObj_Desert_DeshretObelisk - [N/A] 4276804769
+ 70290643 : SceneObj_Desert_DeshretObelisk - [N/A] 2083341033
+ 70290644 : SceneObj_Desert_DeshretObelisk - [N/A] 3302552593
+ 70290645 : SceneObj_Desert_DeshretObelisk - [N/A] 364667705
+ 70290646 : SceneObj_Desert_DeshretObelisk - [N/A] 3624640993
+ 70290647 : SceneObj_Desert_DeshretObelisk - [N/A] 858805217
+ 70290648 : SceneObj_Desert_DeshretObelisk - [N/A] 3056909833
  70290650 : SceneObj_Level_Common_Property_Prop_CallEntity_01 - [N/A] 1160269489
  70290651 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_01 - [N/A] 4182368257
  70290652 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_02 - [N/A] 4018773201
@@ -3332,6 +3487,40 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70290664 : Quest_VoidSearching_Target - [N/A] 3397138529
  70290665 : BrickBreaker_Env_Candle - [N/A] 3199094937
  70290666 : SceneObj__BrickBreaker_LampController_01 - [N/A] 1541852665
+ 70290670 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 2065884305
+ 70290671 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_01 - [N/A] 3621829921
+ 70290672 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_01 - [N/A] 3666126313
+ 70290673 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_02 - [N/A] 3199666065
+ 70290674 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3967556113
+ 70290675 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 4176026001
+ 70290676 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1021316729
+ 70290677 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3698166481
+ 70290678 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1061070529
+ 70290679 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1472762657
+ 70290680 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 577811889
+ 70290681 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 2579409233
+ 70290682 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3336319465
+ 70290683 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 1663416393
+ 70290684 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3562583497
+ 70290685 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2803790033
+ 70290686 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2806710817
+ 70290687 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2528805641
+ 70290688 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3311007569
+ 70290689 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3226777585
+ 70290690 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3352686545
+ 70290691 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3605855513
+ 70290692 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_01 - [N/A] 1512358633
+ 70290693 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Hint - [N/A] 1994277409
+ 70290694 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_02 - [N/A] 3258169521
+ 70290695 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment - [N/A] 1832319705
+ 70290696 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment_Controller - [N/A] 3695160057
+ 70290697 : SceneObj_Area_Xm_Property_Prop_Cwfs_01 - [N/A] 3679600321
+ 70290698 : SceneObj_Area_Xm_Property_Prop_Cwfs_02 - [N/A] 2406359121
+ 70290699 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 3428859385
+ 70290700 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 1730450033
+ 70290701 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_02 - [N/A] 1868891241
+ 70290702 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_03 - [N/A] 749032825
+ 70290703 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_04 - [N/A] 1081186537
  70290704 : SceneObj_Activity_Brick_Breaker_Boss_Samurai - [N/A] 4141117945
  70290705 : SceneObj_Activity_Brick_Breaker_Boss_MirrorGirl - [N/A] 1843539049
  70290706 : SceneObj_Activity_Brick_Breaker_Boss_Elec_Mage - [N/A] 3437297697
@@ -3379,17 +3568,108 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70290753 :  - [N/A] 1622761993
  70290754 : SceneObj_Area_Dq_Property_Ani_Prop_AkebiaGroup_01 - [N/A] 706612529
  70290755 : SceneObj_Area_Dq_Property_Ani_Prop_Catstatue_01 - [N/A] 1353183857
+ 70290756 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_01 - [N/A] 3910653121
+ 70290757 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_02 - [N/A] 1436925217
+ 70290758 : SceneObj_Area_Xm_Property_Prop_Lzsg_02 - [N/A] 2514548601
+ 70290759 : SceneObj_AnimalObj_Ani_Level_Pigeon_Beak_01 - [N/A] 3662799673
+ 70290760 : SceneObj_AnimalObj_Ani_Level_Crane_Lbis_01 - [N/A] 82317961
+ 70290761 : SceneObj_AnimalObj_Ani_Level_Apsva_01 - [N/A] 375359489
+ 70290762 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Platform_01 - [N/A] 421179601
+ 70290763 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 495312385
+ 70290764 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Attack_01 - [N/A] 2912098969
+ 70290765 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Board - [N/A] 1571075993
+ 70290766 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 1933523545
+ 70290767 : SceneObj_Area_Xm_Property_Prop_ChessClockworkGiving_01 - [N/A] 963474121
+ 70290768 : SceneObj_Area_Xm_Property_Prop_ChessEmptyGiving_01 - [N/A] 2832043705
+ 70290769 : SceneObj_Area_Xm_Property_Ani_Prop_JamshidCupGear_01 - [N/A] 1587810321
+ 70290770 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_01 - [N/A] 2301408537
+ 70290772 : SceneObj_Area_Dq_Property_Prop_ElectroherculesBattlefield_01 - [N/A] 566775753
+ 70290773 : SceneObj_Area_Dq_Property_Ani_Prop_ElectroherculesBattlePosterBoard_01 - [N/A] 974868377
+ 70290777 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBall_01 - [N/A] 116298593
+ 70290778 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoin_01 - [N/A] 1873600001
+ 70290779 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoinLarge_01 - [N/A] 1015078889
+ 70290780 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBoundary_01 - [N/A] 2255335753
+ 70290781 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPMaelstrom_01 - [N/A] 2856177153
+ 70290782 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_01 - [N/A] 1583439265
+ 70290783 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPAirdrop_01 - [N/A] 3375289777
+ 70290784 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoin_01 - [N/A] 4070373073
+ 70290785 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBomb_01 - [N/A] 2271280649
+ 70290786 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodenBox_01 - [N/A] 4271170785
+ 70290787 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPNightLamp_01 - [N/A] 2036980585
+ 70290788 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropLamp_01 - [N/A] 606742473
+ 70290789 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1368822425
+ 70290790 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1950693041
+ 70290791 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 4014783241
+ 70290792 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleFirework_01 - [N/A] 818296505
+ 70290793 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPGhostMark_01 - [N/A] 1838099145
+ 70290794 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_02 - [N/A] 3043482305
+ 70290795 : SceneObj_Level_Common_Property_Ani_Prop_DoorLocker_01 - [N/A] 4192419281
+ 70290796 : SceneObj_Level_Common_Property_Ani_Prop_TransparentElevator_01 - [N/A] 4179799089
+ 70290797 : SceneObj_Level_Common_Property_Ani_Prop_Door_Blocker_01 - [N/A] 993553561
+ 70290798 : SceneObj_Level_Common_Property_Ani_Prop_DoorKeycard_01 - [N/A] 1956293185
+ 70290799 :  - [N/A] 1782289217
+ 70290800 :  - [N/A] 2763753593
+ 70290819 :  - [N/A] 2673719841
+ 70290820 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_01 - [N/A] 4131157633
+ 70290821 : SceneObj_Area_Xm_Property_Prop_Szqparc_01 - [N/A] 4002794665
+ 70290822 : SceneObj_Area_Xm_Property_Prop_Szqpcwl_01 - [N/A] 1835805609
+ 70290823 : SceneObj_Area_Xm_Property_Prop_Szqpcwzb_01 - [N/A] 1158346377
+ 70290824 : SceneObj_Area_Xm_Property_Prop_Szqpcwzx_01 - [N/A] 2306618513
+ 70290825 : SceneObj_Area_Xm_Property_Prop_Szqpjrc_01 - [N/A] 3976695529
+ 70290826 : SceneObj_Area_Xm_Property_Prop_Szqplsyj_01 - [N/A] 856255729
+ 70290827 : SceneObj_Area_Xm_Property_Prop_Szqptyc_01 - [N/A] 3062240561
+ 70290828 : SceneObj_Area_Xm_Property_Prop_Szqpxst_01 - [N/A] 516606289
+ 70290829 : SceneObj_Area_Xm_Property_Prop_Qzft_01 - [N/A] 1971884617
+ 70290830 : SceneObj_Area_Xm_Property_Prop_Szqpdz_01 - [N/A] 3199107193
+ 70290831 : SceneObj_Area_Xm_Property_Prop_Szqpdz_02 - [N/A] 613322265
  70290832 : SceneObj_Level_Xm_Property_Ani_Prop_InformationPiece_01 - [N/A] 1830205377
  70290833 : SceneObj_Level_Xm_Property_Prop_ScaramouchePortal_01 - [N/A] 2987652529
  70290834 : SceneObj_Area_Xm_Property_Ani_Build_BazarDoor_01 - [N/A] 941331121
+ 70290860 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_02 - [N/A] 2251160953
+ 70290861 : SceneObj_Area_Common_Property_Prop_LaserWall_02 - [N/A] 308414369
+ 70290862 : SceneObj_Area_Xm_Property_Ani_Build_JYQB_01 - [N/A] 1454494345
+ 70290863 : SceneObj_Area_Xm_Property_Ani_Stone_SHSQ_01 - [N/A] 1185067017
+ 70290864 : SceneObj_Area_Xm_Property_Ecloth_Dujinposun_01 - [N/A] 157865001
+ 70290865 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3300277345
+ 70290866 : SceneObj_Area_Xm_Property_Prop_LaserGear_02 - [N/A] 2574218145
+ 70290867 : SceneObj_Area_Xm_Property_Prop_LaserGear_03 - [N/A] 2327111601
  70290868 : Sanbin_Music - [N/A] 2459687353
  70290869 :  - [N/A] 3064282769
  70290870 : SceneObj_Area_Dq_Property_Ani_Prop_Scarecrow_03 - [N/A] 4260314561
  70290871 : SceneObj_Area_Xm_Property_Ani_Prop_TrainerCompetitionBead_02 - [N/A] 182187985
  70290872 :  - [N/A] 3557107129
  70290873 :  - [N/A] 203217313
+ 70290881 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_NoFunction - [N/A] 2335447033
+ 70290882 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_02 - [N/A] 1545799841
+ 70290884 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_02 - [N/A] 3775078857
  70290885 : SceneObj_Activity_Brick_Breaker_Preloader - [N/A] 3592606657
+ 70290889 :  - [N/A] 2330750329
+ 70290890 :  - [N/A] 2561942945
+ 70290891 :  - [N/A] 3625638817
+ 70290892 : SceneObj_Area_Xm_Property_Prop_ReadingSlabStone_01 - [N/A] 2829260473
+ 70290893 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_01 - [N/A] 3785512081
+ 70290894 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_02 - [N/A] 993246521
+ 70290895 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_03 - [N/A] 3732501441
+ 70290896 :  - [N/A] 2506758329
+ 70290897 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_02 - [N/A] 2916990417
+ 70290898 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_03 - [N/A] 3872647737
+ 70290899 : SceneObj_Area_Xm_Property_Prop_ScarletKing_Airwall_01 - [N/A] 2000506001
+ 70290900 :  - [N/A] 3602909649
+ 70290901 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_02 - [N/A] 2738632729
+ 70290902 : SceneObj_Area_Xm_Property_Prop_Hssz_02 - [N/A] 55393673
+ 70290903 : SceneObj_Area_Xm_Property_Prop_Lzpb_02 - [N/A] 3018163905
+ 70290904 : SceneObj_Area_Xm_Property_Prop_JamshidCup_Airwall_01 - [N/A] 136141633
+ 70290905 : SceneObj_Area_Xm_Property_Ani_Prop_TransparentWall_01 - [N/A] 3239300161
+ 70290906 : SceneObj_Area_Xm_Property_Prop_MoveSand_03 - [N/A] 3172474817
+ 70290907 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_03 - [N/A] 1279688073
+ 70290908 : SceneObj_Area_Common_Property_Prop_LaserWall_03 - [N/A] 2020225473
  70290909 : SceneObj_Indoor_Common_Property_Ani_Prop_Teathingsindoor_03 - [N/A] 1362053921
+ 70290922 : SceneObj_Area_Xm_Property_Prop_LaserGear_04 - [N/A] 3460494409
+ 70291001 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_03 - [N/A] 1447249545
+ 70291002 : SceneObj_Gear_Other_InvisibleUploader04 - [N/A] 2095888905
+ 70291003 : SceneObj_Area_Xm_Property_Prop_CenterTorAirWall - [N/A] 988895089
+ 70291004 :  - [N/A] 671624161
+ 70291005 : SceneObj_Area_Xm_Property_Prop_SandwormChallengeAirwall - [N/A] 1258112281
  70300001 : SceneObj_Gather_Default_Gather - [N/A] 2463077793
  70300002 : SceneObj_Gather_Default_Gather - [N/A] 435938641
  70300003 : SceneObj_Quest_Flying_Get_Coin_Effect - [N/A] 1909103967
@@ -5573,6 +5853,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70540046 : SceneObj_Gather_Small - [N/A] 1580873673
  70540047 : SceneObj_Gather_DatePlam - [N/A] 1381569401
  70540048 :  - [N/A] 388710929
+ 70540049 : SceneObj_Gather_Small - [N/A] 2589556881
  70560001 : SceneObj_Gather_Small - [N/A] 1155995105
  70560002 : SceneObj_Gather_Small_Ore - [N/A] 2803859553
  70560003 : SceneObj_Gather_Small_Ore - [N/A] 1202487865
@@ -5651,6 +5932,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70590070 : SceneObj_Area_Hd_Property_Prop_PaperStar_03 - [N/A] 80470761
  70590071 : SceneObj_Level_Common_Property_Prop_CityRotateAixs_02 - [N/A] 1671906865
  70590072 : SceneObj_Common_CityRotateAixs - [N/A] 2121690545
+ 70590073 : SceneObj_Gather_Small - [N/A] 1168502889
  70600001 :  - [N/A] 4043639353
  70600002 :  - [N/A] 1991417585
  70600003 :  - [N/A] 1523077529
@@ -6656,6 +6938,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70710889 :  - [N/A] 1176318735
  70710890 : SceneObj_Quest_ElementBreath_Electric_Element - [N/A] 3969268143
  70710891 :  - [N/A] 1681877263
+ 70710892 : SceneObj_Quest_AchivementInvestigation - [N/A] 1738903079
+ 70710893 : SceneObj_Quest_AchivementInvestigation - [N/A] 2092769335
+ 70710894 : SceneObj_Quest_AchivementInvestigation - [N/A] 780413271
  70710895 :  - [N/A] 1907407839
  70710896 :  - [N/A] 1294335647
  70710908 :  - [N/A] 780216575
@@ -6664,6 +6949,11 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70710911 :  - [N/A] 2167946623
  70710912 :  - [N/A] 1374780487
  70710913 : SearchPoint - [N/A] 142390399
+ 70710914 :  - [N/A] 3252891423
+ 70710915 :  - [N/A] 2481710271
+ 70710916 :  - [N/A] 4132842759
+ 70710917 :  - [N/A] 1247294631
+ 70710918 :  - [N/A] 520979471
  70710919 :  - [N/A] 2270250551
  70710920 :  - [N/A] 2047865855
  70710921 :  - [N/A] 2284767495
@@ -6672,13 +6962,27 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70710924 :  - [N/A] 3206899887
  70710925 :  - [N/A] 2352741247
  70710926 :  - [N/A] 2460280967
+ 70710927 : SceneObj_Quest_AchivementInvestigation - [N/A] 824323791
  70710928 :  - [N/A] 3631908879
  70710929 :  - [N/A] 969754951
+ 70710930 :  - [N/A] 438293127
+ 70710931 :  - [N/A] 3655199319
+ 70710932 :  - [N/A] 3675843807
+ 70710933 :  - [N/A] 2105317511
+ 70710934 :  - [N/A] 1156205239
+ 70710935 :  - [N/A] 168294031
+ 70710936 :  - [N/A] 1739784919
+ 70710937 :  - [N/A] 3068865303
  70710938 :  - [N/A] 3920354559
+ 70710939 :  - [N/A] 488885071
  70710940 :  - [N/A] 388520151
  70710941 :  - [N/A] 2363334071
  70710953 : SceneObj_Quest_Interact_Point_07 - [N/A] 2407080071
  70710962 : SceneObj_Quest_OniBull - [N/A] 4090643455
+ 70710973 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 3013658623
+ 70710974 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 1551449919
+ 70710975 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 2083509431
+ 70710981 :  - [N/A] 497156767
  70720214 : SceneObj_Gear_Platform_FireSeelie - [N/A] 700269681
  70720215 : SceneObj_Area_Common_Property_Prop_FireSeeliaLamp_01 - [N/A] 3100115025
  70720216 : FireElfTrack - [N/A] 880334585
@@ -7007,6 +7311,27 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70800441 :  - [N/A] 631449489
  70800442 :  - [N/A] 646587945
  70800443 :  - [N/A] 606302529
+ 70800444 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_01 - [N/A] 3932973265
+ 70800445 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_02 - [N/A] 3794137025
+ 70800446 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainOperator_01 - [N/A] 1986253921
+ 70800447 : SceneObj_Area_Common_Property_Ani_Prop_Confetti_Balloon_01 - [N/A] 362013905
+ 70800448 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruOpenWorldPlatform_01 - [N/A] 702704337
+ 70800449 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_01 - [N/A] 908786097
+ 70800450 : SceneObj_Area_Ly_Property_Ani_Prop_ShadowScreen_01 - [N/A] 3396030433
+ 70800451 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_01 - [N/A] 1475809809
+ 70800452 : SceneObj_Area_Xm_Property_Ani_Prop_VoidProjector_01 - [N/A] 699273961
+ 70800453 : SceneObj_Area_Ljxs_Property_Prop_HeroTreasure_02 - [N/A] 407816561
+ 70800454 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_02 - [N/A] 4216218921
+ 70800455 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCamera_01 - [N/A] 3044675081
+ 70800456 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBomb_01 - [N/A] 3199149169
+ 70800457 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPSwirl_01 - [N/A] 2486123929
+ 70800458 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodfence_01 - [N/A] 3142808417
+ 70800459 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoinWarning_01 - [N/A] 195920961
+ 70800460 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBombWarning_01 - [N/A] 3452714417
+ 70800461 :  - [N/A] 2039290481
+ 70800462 :  - [N/A] 450272193
+ 70800463 :  - [N/A] 3369323937
+ 70800464 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_02 - [N/A] 3713189969
  70800606 :  - [N/A] 3682329881
  70800607 :  - [N/A] 2482289473
  70800608 :  - [N/A] 167831129
@@ -7454,8 +7779,16 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  70950160 : AuthTest02 - [N/A] 663172785
  70950161 : SceneObj_Gear_MushRoom_Catch - [N/A] 1796075385
  70950162 :  - [N/A] 2320574633
+ 70950163 : SceneObj_Stages_Property_Prop_UnstableSprayDungeonAirWall_01 - [N/A] 1062739665
  70950164 :  - [N/A] 4005710289
+ 70950165 : SceneObj_Gear_Fungus_Tower_Water - [N/A] 3258235065
+ 70950166 : SceneObj_Gear_Fungus_Tower_Fire - [N/A] 360753353
+ 70950167 : SceneObj_Gear_Fungus_Tower_Ice - [N/A] 2575487569
+ 70950168 : SceneObj_Gear_Fungus_Tower_Wind - [N/A] 3783300113
+ 70950169 : SceneObj_Gear_Fungus_Tower_Electric - [N/A] 3750317545
  70950170 :  - [N/A] 1504874193
+ 70950171 :  - [N/A] 3077198361
+ 70950177 :  - [N/A] 3897053113
  71000004 : SceneObj_Amber_RockAmber - [N/A] 2485577729
  71000005 : SceneObj_Task_Rock_Pierce - [N/A] 2140993833
  71000006 : SceneObj_Task_Rock_Pierce - [N/A] 901713497
@@ -7502,7 +7835,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  71700040 : SceneObj_Gather_Default_Gather - [N/A] 3560208711
  71700041 :  - [N/A] 3950935687
  71700042 : SceneObj_Gather_Default_Gather - [N/A] 323372687
- 71700043 : SceneObj_Gather_Default_Gather - [N/A] 1211019199
+ 71700043 : SceneObj_Gather_Default_Gather - [N/A] 901760187
  71700044 : SceneObj_Gather_Default_Gather - [N/A] 625468279
  71700045 : SceneObj_Gather_Default_Gather - [N/A] 1682840319
  71700046 : SceneObj_Gather_Default_Gather - [N/A] 1897303103
@@ -7994,6 +8327,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  71700533 : SearchPoint - [N/A] 1182362455
  71700534 :  - [N/A] 1826784983
  71700535 : SceneObj_Gather_Default_Gather - [N/A] 3763672775
+ 71700536 : SceneObj_Gather_Default_Gather - [N/A] 3835825727
  71700537 : SceneObj_Environment_Obelisk01 - [N/A] 3874829191
  71700538 : SceneObj_Environment_Obelisk02 - [N/A] 2015357591
  71700539 : SceneObj_Environment_Obelisk03 - [N/A] 3119143583
@@ -8012,13 +8346,76 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  71700552 :  - [N/A] 2523597903
  71700553 :  - [N/A] 3869879999
  71700554 : Nahida_Quest_Hitbox_02 - [N/A] 202070175
+ 71700555 : SceneObj_Environment_Bulletin14 - [N/A] 1441876823
+ 71700556 : SceneObj_Environment_Bulletin13 - [N/A] 3536146543
+ 71700557 : SceneObj_Environment_Bulletin12 - [N/A] 1475692095
+ 71700558 : SceneObj_Environment_Bulletin11 - [N/A] 2961980335
+ 71700559 : SceneObj_Environment_Bulletin10 - [N/A] 886816615
+ 71700560 : SceneObj_Environment_Bulletin9 - [N/A] 2920796151
+ 71700561 : SceneObj_Environment_Secret_letter01 - [N/A] 1878976943
  71700562 : SceneObj_Level_Common_Property_Prop_Worldtreegate_01 - [N/A] 3799131767
  71700563 : SceneObj_Area_Xm_Property_Prop_MemoryInterface_01 - [N/A] 3529432279
  71700564 :  - [N/A] 937193167
  71700565 : SceneObj_Level_Common_Property_Ani_Prop_Memorypiece_01 - [N/A] 534626895
  71700566 : SceneObj_Quest_Hdj_FireworkLauncher_01 - [N/A] 1331020143
+ 71700567 :  - [N/A] 19555559
+ 71700568 : SceneObj_Environment_Bulletin15 - [N/A] 3507925799
+ 71700569 : SceneObj_Environment_Bulletin16 - [N/A] 2872563743
+ 71700570 : SceneObj_Environment_Bulletin17 - [N/A] 166606919
+ 71700571 : SceneObj_Environment_Bulletin18 - [N/A] 899554975
+ 71700572 : SceneObj_Environment_Bulletin19 - [N/A] 3977871391
+ 71700573 : SceneObj_Environment_Bulletin20 - [N/A] 744843375
+ 71700574 : SceneObj_Environment_Bulletin21 - [N/A] 2613345079
+ 71700575 : SceneObj_Environment_Bulletin22 - [N/A] 3075106991
+ 71700576 : SceneObj_Environment_Bulletin23 - [N/A] 808435919
+ 71700577 : SceneObj_Environment_Bulletin24 - [N/A] 3452389415
+ 71700578 : SceneObj_Environment_Bulletin25 - [N/A] 1324277319
+ 71700579 : SceneObj_Environment_Bulletin26 - [N/A] 1686395023
+ 71700580 : SceneObj_Environment_Bulletin27 - [N/A] 2910681255
+ 71700581 : SceneObj_Environment_Bulletin28 - [N/A] 209489335
+ 71700582 : SceneObj_Environment_Bulletin29 - [N/A] 1230168871
+ 71700583 : SceneObj_Environment_Bulletin30 - [N/A] 2048216551
+ 71700584 : SceneObj_Environment_Bulletin31 - [N/A] 686354935
+ 71700585 : SceneObj_Environment_Bulletin32 - [N/A] 2036636215
+ 71700586 : SceneObj_Environment_Bulletin33 - [N/A] 2378404583
+ 71700587 : SceneObj_Environment_Bulletin34 - [N/A] 1442908399
+ 71700588 : SceneObj_Environment_Bulletin35 - [N/A] 280066079
+ 71700589 : SceneObj_Environment_Bulletin36 - [N/A] 598662767
+ 71700590 : SceneObj_Environment_Bulletin37 - [N/A] 554201255
+ 71700591 : SceneObj_Environment_Bulletin38 - [N/A] 680850319
+ 71700592 : SceneObj_Environment_Bulletin39 - [N/A] 3466151359
+ 71700593 : SceneObj_Environment_Bulletin40 - [N/A] 74773375
+ 71700594 : SceneObj_Environment_Bulletin41 - [N/A] 3643259735
+ 71700595 : SceneObj_Environment_Bulletin42 - [N/A] 2825451471
+ 71700596 : SceneObj_Environment_Bulletin43 - [N/A] 3664471575
+ 71700597 : SceneObj_Environment_Bulletin44 - [N/A] 123280319
+ 71700598 : SceneObj_Environment_Bulletin45 - [N/A] 1545371135
+ 71700599 : SceneObj_Environment_Bulletin46 - [N/A] 2075308375
+ 71700600 : SceneObj_Environment_Bulletin47 - [N/A] 296683287
  71700601 : SceneObj_Quest_SpecialDisappear_01 - [N/A] 2734585703
+ 71700602 : SceneObj_Environment_Obelisk011 - [N/A] 1091054103
+ 71700603 : SceneObj_Environment_Obelisk012 - [N/A] 2542275471
+ 71700604 : SceneObj_Environment_Obelisk013 - [N/A] 466975391
+ 71700605 : SceneObj_Environment_Obelisk014 - [N/A] 636087703
+ 71700606 : SceneObj_Environment_Obelisk015 - [N/A] 4260185879
+ 71700607 : SceneObj_Environment_Obelisk016 - [N/A] 2362402303
+ 71700608 : SceneObj_Environment_Obelisk017 - [N/A] 1976124887
+ 71700609 : SceneObj_Environment_Obelisk018 - [N/A] 465514831
  71700610 : SceneObj_Quest_Oldmemoryshield_01 - [N/A] 1893535255
+ 71700611 :  - [N/A] 3864370255
+ 71700612 :  - [N/A] 3163176215
+ 71700613 : SceneObj_Environment_Bulletin48 - [N/A] 3760480527
+ 71700614 : SceneObj_Environment_Bulletin49 - [N/A] 1326518607
+ 71700615 : SceneObj_Environment_Bulletin50 - [N/A] 202779519
+ 71700616 : SceneObj_Environment_Bulletin51 - [N/A] 3315865431
+ 71700617 : SceneObj_Environment_Bulletin52 - [N/A] 3687612527
+ 71700618 : SceneObj_Environment_Bulletin53 - [N/A] 4193800599
+ 71700619 : SceneObj_Environment_Bulletin54 - [N/A] 823363959
+ 71700620 : SceneObj_Environment_Bulletin55 - [N/A] 1103687415
+ 71700621 : SceneObj_Environment_Bulletin56 - [N/A] 452609343
+ 71700622 : SceneObj_Environment_Bulletin57 - [N/A] 2823890575
+ 71700623 : SceneObj_Environment_Bulletin58 - [N/A] 1891116159
+ 71700641 :  - [N/A] 3946621759
  72000001 : SceneObj_Monster_Eldritch_Tentacle_PA - [N/A] 1757493721
  72000002 : SceneObj_Monster_Eldritch_Tentacle_PB - [N/A] 3578727505
  72000003 : SceneObj_Monster_Eldritch_Tentacle_PC - [N/A] 3981382369
@@ -8390,6 +8787,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77104050 :  - [N/A] 3094375328
  77104051 :  - [N/A] 1343262880
  77104052 :  - [N/A] 3574160280
+ 77104053 :  - [N/A] 3795679784
+ 77104054 :  - [N/A] 876221064
+ 77104055 :  - [N/A] 4212064976
  77105001 :  - [N/A] 3485751656
  77105002 :  - [N/A] 1472766168
  77105003 :  - [N/A] 2206130568
@@ -8401,6 +8801,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77105009 :  - [N/A] 16284976
  77105010 :  - [N/A] 1706871936
  77105011 :  - [N/A] 477183760
+ 77105012 :  - [N/A] 2500393944
  77108001 :  - [N/A] 2266381520
  77108002 :  - [N/A] 1929928056
  77108003 :  - [N/A] 3054820440
@@ -8427,6 +8828,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77108024 :  - [N/A] 3031564432
  77108025 :  - [N/A] 3267282984
  77108026 :  - [N/A] 1847797128
+ 77108027 :  - [N/A] 495153384
+ 77108028 :  - [N/A] 1246212024
+ 77108029 :  - [N/A] 2469330496
  77109001 :  - [N/A] 798556888
  77109002 :  - [N/A] 3659840272
  77109003 :  - [N/A] 366764720
@@ -8461,6 +8865,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77110027 :  - [N/A] 3214101888
  77110028 :  - [N/A] 3906403312
  77110029 :  - [N/A] 2446238600
+ 77110030 :  - [N/A] 1869262568
+ 77110031 :  - [N/A] 4090145368
  77111001 :  - [N/A] 2256116496
  77111002 :  - [N/A] 1975461568
  77111003 :  - [N/A] 3406130712
@@ -8470,6 +8876,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77111007 :  - [N/A] 3716526392
  77111008 :  - [N/A] 1711744224
  77111009 :  - [N/A] 2682289512
+ 77111010 :  - [N/A] 2815547960
  77112001 :  - [N/A] 3160712096
  77112002 :  - [N/A] 2498256864
  77112003 :  - [N/A] 1382129296
@@ -8499,6 +8906,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77112027 :  - [N/A] 2361951000
  77112028 :  - [N/A] 707043656
  77112029 :  - [N/A] 2514012088
+ 77112030 :  - [N/A] 3449637320
  77115001 :  - [N/A] 158953176
  77115002 :  - [N/A] 1940050656
  77115003 :  - [N/A] 170974208
@@ -8536,6 +8944,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77115035 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_SumeruStove_01 - [N/A] 3883540800
  77115036 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_01 - [N/A] 1258995064
  77115037 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_02 - [N/A] 3519428888
+ 77115038 :  - [N/A] 3541934328
+ 77115039 :  - [N/A] 710696400
+ 77115040 :  - [N/A] 788315152
  77190001 : SceneObj_Homeworld_Interior_Common_Decoration_TestPainting_01 - [N/A] 1283794648
  77200001 :  - [N/A] 3538751048
  77200002 :  - [N/A] 413522952
@@ -8720,6 +9131,11 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77200181 :  - [N/A] 1364960616
  77200182 :  - [N/A] 2900333000
  77200183 :  - [N/A] 1123266112
+ 77200184 :  - [N/A] 3154946776
+ 77200185 :  - [N/A] 1302261768
+ 77200186 :  - [N/A] 2894679976
+ 77200187 :  - [N/A] 4166033664
+ 77200188 :  - [N/A] 695294824
  77203001 :  - [N/A] 2280998064
  77203002 : SceneObj_Homeworld_Standard_Forging - [N/A] 3742314960
  77203003 :  - [N/A] 813933432
@@ -8842,6 +9258,23 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77204108 :  - [N/A] 3642961904
  77204109 :  - [N/A] 4220523384
  77204110 :  - [N/A] 868443832
+ 77204112 :  - [N/A] 358432200
+ 77204113 :  - [N/A] 3678145832
+ 77204114 :  - [N/A] 1683232408
+ 77204115 :  - [N/A] 1978006288
+ 77204116 :  - [N/A] 968122808
+ 77204117 :  - [N/A] 2786078376
+ 77204118 :  - [N/A] 279737200
+ 77204119 :  - [N/A] 1620500128
+ 77204120 :  - [N/A] 2421025728
+ 77204121 :  - [N/A] 74558600
+ 77204122 :  - [N/A] 1957110904
+ 77204123 :  - [N/A] 1945688928
+ 77204124 :  - [N/A] 2620113752
+ 77204125 :  - [N/A] 2129844984
+ 77204126 :  - [N/A] 2044718688
+ 77204127 :  - [N/A] 3387967640
+ 77204128 : SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_01 - [N/A] 1791728264
  77205001 :  - [N/A] 2955098952
  77205002 :  - [N/A] 2620876744
  77205003 :  - [N/A] 3428034016
@@ -8891,6 +9324,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77208023 :  - [N/A] 1534713336
  77208024 :  - [N/A] 1262870744
  77208025 :  - [N/A] 1663148112
+ 77208026 :  - [N/A] 2525886104
+ 77208027 :  - [N/A] 2509260976
+ 77208028 :  - [N/A] 1492169160
  77210001 :  - [N/A] 2847554728
  77213001 :  - [N/A] 1652471176
  77213002 :  - [N/A] 4355656
@@ -9007,6 +9443,14 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77213113 :  - [N/A] 3080244064
  77213114 :  - [N/A] 3650489240
  77213115 :  - [N/A] 3707736288
+ 77213116 :  - [N/A] 1745596776
+ 77213117 :  - [N/A] 1221829160
+ 77213118 :  - [N/A] 3219107176
+ 77213119 :  - [N/A] 370244816
+ 77213120 :  - [N/A] 2696872992
+ 77213121 :  - [N/A] 2290389424
+ 77213122 :  - [N/A] 1722188024
+ 77213123 :  - [N/A] 1678362968
  77214001 :  - [N/A] 204668312
  77214002 :  - [N/A] 1223454080
  77214003 :  - [N/A] 2630076072
@@ -9105,6 +9549,10 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  77215071 : SceneObj_Homeworld_Exterior_Common_Decoration_Prop_WoodAranaraBody - [N/A] 2301662240
  77215072 : SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Claypot_01 - [N/A] 2262767336
  77215073 :  - [N/A] 25869504
+ 77215074 :  - [N/A] 1823232128
+ 77215075 :  - [N/A] 2958027960
+ 77215076 :  - [N/A] 3776964728
+ 77215077 :  - [N/A] 2499651336
  77216001 :  - [N/A] 1178267624
  77216002 :  - [N/A] 74296056
  77216003 :  - [N/A] 2492338736
@@ -9452,6 +9900,12 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 420000022 : ActivityAbility_HideSeek_Investigate_Bullet_Short - [N/A] 249212301
 420000023 : ActivityAbility_HideSeek_Investigate_Bullet_Long - [N/A] 3514114301
 420000024 : Activity_Gadget_CatchMushroomMonster_Aim_Driver - [N/A] 856686709
+420000025 : LanV3Race_Rush_Bullet - [N/A] 4206644109
+420000026 : ActivityAbility_SkillObj_Skiff_Vortex - [N/A] 667407821
+420000027 : ActivityAbility_SkillObj_Skiff_Mire - [N/A] 2479125677
+420000028 : ActivityAbility_Avatar_Blocking_Blade_V2 - [N/A] 121823421
+420000029 : ActivityAbility_Avatar_Blocking_Blade_Burst - [N/A] 1033111477
+420000030 : SkillObj_Skiff_SprintTrigger_LanV3 - [N/A] 2996961293
 420001000 : Activity_Endora - [N/A] 781761405
 420001001 : Activity_Endora_Bubble_Bullet_01 - [N/A] 550764733
 420001002 : Activity_Endora_Bubble_Bullet_01_Short - [N/A] 2055909461
@@ -9524,6 +9978,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 10000074 : Laila
 10000075 : Trotamundos
 10000076 : Faruzán
+10000077 : Yaoyao
+10000078 : Alhacén
 11000008 : Test de equipo n.º 4
 11000009 : Prueba de escena
 11000010 : Modelo desnudo #1
@@ -9533,7 +9989,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 11000018 : Prueba de cuerpo de mujer adulta
 11000019 : Prueba de cuerpo de mujer joven
 11000025 : Akuliya
-11000026 : Yaoyao
+11000026 : Yaoyao (prueba)
 11000027 : Prueba de cuerpo de mujer joven - Máquina n.º 2
 11000028 : Chica de la caja blanca
 11000030 : Gran Espadachina
@@ -9609,6 +10065,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
     152 : Insignia fúngica
     153 : Fenocristal fragmentado
     155 : Cupón de valor
+    156 : Fiebre festiva
     201 : Protogema
     202 : Mora
     203 : Cristal génesis
@@ -9700,6 +10157,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
    1074 : Laila
    1075 : Trotamundos
    1076 : Faruzán
+   1077 : Yaoyao
+   1078 : Alhacén
    1102 : Stella Fortuna de Kamisato Ayaka
    1103 : Stella Fortuna de Jean
    1105 : Stella Fortuna del Viajero
@@ -9762,6 +10221,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
    1174 : Stella Fortuna de Laila
    1175 : Stella Fortuna del Trotamundos
    1176 : Stella Fortuna de Faruzán
+   1177 : Stella Fortuna de Yaoyao
+   1178 : Stella Fortuna de Alhacén
    1201 : Pase de Batalla del Gnóstico - Borrador
    1202 : Bendición Lunar - Mes nuevo
    1301 : Pincel de la resignificación
@@ -9856,6 +10317,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
   11509 : Reflejo de las Tinieblas
   11510 : Luna Ondulante de Futsu
   11511 : Llave de la Coronación
+  11512 : Clorofilo Refulgente
   12101 : Gran Espada del Guerrero
   12201 : Espada del Mercenario
   12301 : Sombra Férrea
@@ -10051,6 +10513,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
   23316 : [CHS] - 物理抗性
   23317 : [CHS] - 伤害增加
   23318 : [CHS] - 伤害减免
+  23329 : [CHS] - 暴击率
+  23330 : [CHS] - 精通
   23331 : [CHS] - 负防御
   23332 : [CHS] - 负精通
   23334 : [CHS] - 测试之沙2
@@ -13810,6 +14274,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  100094 : Carne congelada
  100095 : Anguila
  100096 : Legumbres peladas
+ 100097 : Carne misteriosa
  100101 : Paquete de documentos de Jean
  100102 : «Salvación extrema»
  100103 : Partitura incompleta (Parte 1)
@@ -14675,6 +15140,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  101219 : Rosa de Sumeru
  101220 : Añoraescarlata
  101221 : Dátil
+ 101222 : Crisálida arenosa
  101225 : Escarabajo dorado
  101226 : Hongo vigorestelar
  101227 : Hongo estelar chamuscado
@@ -15782,6 +16248,15 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  108477 : Samosas deliciosas
  108478 : Panecillos de dátil carbonizados tradicionales
  108479 : Chazuke auténtico
+ 108480 : Estofado de carne de Sabz extraño
+ 108481 : Estofado de carne de Sabz
+ 108482 : Estofado de carne de Sabz delicioso
+ 108483 : Albóndigas especiadas extrañas
+ 108484 : Albóndigas especiadas
+ 108485 : Albóndigas especiadas deliciosas
+ 108486 : Situación ideal
+ 108487 : Plato casero de Chingtsé
+ 108488 : Cecina de espinodrilo
  109000 : Ingredientes
  109101 : Receta: Brocheta de champiñones y pollo
  109102 : Receta: Tostada del pescador
@@ -15918,6 +16393,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  109516 : Receta: Jugo festivo
  109517 : Receta: Natillas de rosa
  109518 : Receta: Samosas
+ 109519 : Receta: Estofado de carne de Sabz
+ 109520 : Receta: Albóndigas especiadas
  110000 : Objeto sintetizado
  110001 : Harina
  110002 : Crema batida
@@ -16028,6 +16505,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  112071 : Prisma dañado
  112072 : Prisma enturbiado
  112073 : Prisma radiante
+ 112074 : Caparazón desfigurado
+ 112075 : Caparazón sólido
+ 112076 : Caparazón grabado
  113001 : Semilla de huracán
  113002 : Prisma del relámpago
  113003 : Pluma de Stormterror
@@ -16071,6 +16551,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  113041 : Tubo de marioneta
  113042 : Espejo del mushin
  113043 : Cascabel de anulación
+ 113044 : Pseudoestambre
  114001 : Fragmento de azulejo de Decarabian
  114002 : Escombro de la ciudad de Decarabian
  114003 : Fragmento de epopeya de Decarabian
@@ -16251,6 +16732,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  120061 : Sopa de menta y frijoles de Nermín
  120062 : [CHS] - （test）内尔敏做的香水
  120063 : Estrella del porvenir
+ 120064 : Condensador de conversión energética
  120065 : Paquete de Raef
  120066 : Especias de Nermín
  120067 : Llave de piedra (I)
@@ -16271,6 +16753,34 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  120082 : Recibo de Shevirme
  120083 : Recibo de Chuching
  120084 : Recibo de Guanchui
+ 120085 : [CHS] - （test）鳄鱼肉干（废弃）
+ 120086 : Barca de las almas
+ 120087 : Sala de la Coronación
+ 120088 : Fuerte fronterizo
+ 120089 : Pilar del Rey Deshret
+ 120090 : [CHS] - （test）居尔城棋子
+ 120091 : Templo de Gurabad
+ 120092 : Componente de activación: Mausoleo del Rey Deshret
+ 120093 : Componente de activación: Cáliz de cristal del Rey Deshret
+ 120094 : Componente de activación: Barca de las almas
+ 120095 : Componente de activación: Sala de la Coronación
+ 120096 : Componente de activación: Fuerte fronterizo
+ 120097 : Componente de activación: Pilar del Rey Deshret
+ 120098 : [CHS] - （test）居尔城发条
+ 120099 : Componente de activación: Templo de Gurabad
+ 120100 : Recuerdo del Oasis Eterno (I)
+ 120101 : Recuerdo del Oasis Eterno (II)
+ 120102 : Recuerdo del Oasis Eterno (III)
+ 120103 : Pluma de Tadla
+ 120104 : Llave de la base Fatui
+ 120105 : Piedra sagrada: Precipicio
+ 120106 : Piedra sagrada: Puerta gigante
+ 120107 : Losa de piedra misteriosa (I)
+ 120108 : Losa de piedra misteriosa (II)
+ 120109 : Losa de piedra misteriosa (III)
+ 120110 : Losa de piedra misteriosa (IV)
+ 120111 : Losa de piedra misteriosa (V)
+ 120112 : Losa de piedra misteriosa (VI)
  120113 : Carta de presentación de Cyno
  120114 : Mapa antiguo
  120115 : Información sobre la subasta
@@ -16282,6 +16792,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  120121 : Recibo de Yut
  120122 : Recibo de Jahangir
  120123 : Bolsa especial de viaje para el desierto de edición limitada
+ 120124 : Brote de bambú tierno
  120125 : [CHS] - （test）赛芭的蔷薇
  120126 : Una carta corta
  120127 : Retoño blanco
@@ -16299,6 +16810,16 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  120139 : Notas de Zandik
  120140 : Diario de autoría desconocida
  120141 : Registro estropeado
+ 120142 : Documento de evacuación interna
+ 120143 : Examen inicial del sujeto de prueba
+ 120144 : Notificación de evacuación
+ 120145 : Diario de explorador (I)
+ 120146 : Diario de explorador (II)
+ 120147 : Diario de explorador (III)
+ 120148 : Diario de explorador (IV)
+ 120149 : Diario de explorador (V)
+ 120150 : Diario de explorador (VI)
+ 120151 : Carta de respuesta sobre la transacción de bienes
  120152 : Anuncio de evento
  120153 : Notas de Haniyyah (I)
  120154 : Notas de Haniyyah (II)
@@ -16314,10 +16835,82 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  120164 : La isla de las nubes negras
  120165 : Breve análisis sobre un importante acontecimiento histórico que podría haber ocurrido en Tatarasuna
  120166 : La isla de las nubes negras
+ 120167 : [CHS] - (test)棋子流沙遗迹
+ 120168 : [CHS] - (test)棋子赤王之心
+ 120169 : [CHS] - (test)棋子显圣厅
+ 120170 : [CHS] - (test)棋子太阳船
+ 120171 : [CHS] - (test)棋子阿如村
+ 120172 : [CHS] - (test)棋子发条赤王之杯
+ 120173 : [CHS] - (test)棋子发条赤王陵
+ 120174 : [CHS] - (test)棋子发条流沙遗迹
+ 120175 : [CHS] - (test)棋子发条赤王之心
+ 120176 : [CHS] - (test)棋子发条显圣厅
+ 120177 : [CHS] - (test)棋子发条太阳船
+ 120178 : [CHS] - (test)棋子发条阿如村
  120179 : Caja con “tierra natal”
  120180 : Contenido descifrado
  120181 : Carta de Xu Dong
+ 120182 : Crónicas de Gurabad (I)
+ 120183 : Crónicas de Gurabad (II)
+ 120184 : Crónicas de Gurabad (III)
+ 120185 : Crónicas de Gurabad (IV)
+ 120186 : Crónicas de Gurabad (V)
+ 120187 : Placa dañada
+ 120188 : Crónicas del Monte Damavand (I)
+ 120189 : Crónicas del Monte Damavand (II)
+ 120190 : Crónicas del Monte Damavand (III)
+ 120191 : Enseñanzas de la Máscara de Latón (I)
+ 120192 : Enseñanzas de la Máscara de Latón (II)
+ 120193 : Enseñanzas de la Máscara de Latón (III)
+ 120194 : Crónicas del antiguo oasis (I)
+ 120195 : Crónicas del antiguo oasis (II)
+ 120196 : Crónicas del antiguo oasis (III)
+ 120197 : Crónicas del antiguo oasis (IV)
+ 120198 : Crónicas del antiguo oasis (V)
+ 120199 : Crónicas del antiguo oasis (VI)
+ 120200 : Placa con orden de alistamiento
+ 120201 : Pluma de buitre escarlata
+ 120202 : Aguijón de escorpión
+ 120203 : Cuerno de aerofidio
+ 120204 : Informe de operación de la capitana Zoya Snezhevna (I)
+ 120205 : Informe de operación de la capitana Zoya Snezhevna (II)
+ 120206 : Informe de operación de la capitana Zoya Snezhevna (III)
+ 120207 : Registros dañados (I)
+ 120208 : Registros dañados (II)
+ 120209 : Registros con el emblema de los Tanit
+ 120210 : Carta Fatui
+ 120211 : Carta abandonada
+ 120212 : Notas de Zandik
+ 120213 : Contrato con el emblema de la Academia de Sumeru
+ 120214 : Planos restaurados del sistema de alimentación de una máquina gigante
+ 120215 : Carta secreta para Aderfi
  120216 : Fragmentos de un arma
+ 120217 : Cupón de ramen de origen incierto
+ 120218 : Nota pulcramente escrita
+ 120219 : Carta de Yeht
+ 120220 : Anotaciones de Ufairah
+ 120221 : Llave de piedra antigua
+ 120226 : Inscripción apenas reconocible
+ 120227 : Inscripción apenas reconocible
+ 120228 : Inscripción apenas reconocible
+ 120229 : Inscripción apenas reconocible
+ 120230 : Inscripción apenas reconocible
+ 120231 : Inscripción apenas reconocible
+ 120232 : Inscripción apenas reconocible
+ 120233 : Inscripción apenas reconocible
+ 120235 : Lista de nombres arrugada
+ 120236 : Pedido de suministros del almacén
+ 120237 : Crónicas del antiguo oasis (VII)
+ 120238 : Crónicas del antiguo oasis (VIII)
+ 120239 : Crónicas del antiguo oasis (IX)
+ 120240 : Crónicas del antiguo oasis (X)
+ 120241 : Placa de reglamento de contratación
+ 120242 : Contrato con el emblema de la Academia de Sumeru
+ 120243 : Contrato con el emblema de la Academia de Sumeru
+ 120248 : Carta del comerciante de la tribu
+ 120249 : Nota de Yeht
+ 120250 : Sopa de brotes de bambú caliente
+ 120251 : Pase de admisión para «Doctrina marcial»
  130001 : Semilla de flor de seda
  130002 : Semilla de flor dulce
  130003 : Semilla de cecilia
@@ -16383,93 +16976,99 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  140008 : Alas del Jinete de la Tormenta
  140009 : Alas del Brillo Galáctico
  140010 : Alas de la Exuberancia
- 141001 : Girocristal radiante (1)
- 141002 : Girocristal radiante (2)
- 141003 : Girocristal radiante (3)
- 141004 : Girocristal radiante (4)
- 141005 : Girocristal radiante (5)
- 141006 : Girocristal radiante (6)
- 141007 : Girocristal radiante (7)
- 141008 : Girocristal radiante (8)
- 141009 : Girocristal radiante (9)
- 141010 : Girocristal radiante (10)
- 141011 : Girocristal radiante (11)
- 141012 : Girocristal radiante (12)
- 141013 : Girocristal radiante (13)
- 141014 : Girocristal radiante (14)
- 141015 : Girocristal radiante (15)
- 141016 : Girocristal radiante (16)
- 141017 : Girocristal radiante (17)
- 141018 : Girocristal radiante (18)
- 141019 : Girocristal radiante (19)
- 141020 : Girocristal radiante (20)
- 141021 : Girocristal radiante (21)
- 141022 : Girocristal radiante (22)
- 141023 : Girocristal radiante (23)
- 141024 : Girocristal radiante (24)
- 141025 : Girocristal radiante (25)
- 141026 : Girocristal radiante (26)
- 141027 : Girocristal radiante (27)
- 141028 : Girocristal radiante (28)
- 141029 : Girocristal radiante (29)
- 141030 : Girocristal radiante (30)
- 141031 : Girocristal radiante (31)
- 141032 : Girocristal radiante (32)
- 141033 : Girocristal radiante (33)
- 141034 : Girocristal radiante (34)
- 141035 : Girocristal radiante (35)
- 141036 : Girocristal radiante (36)
- 141037 : Girocristal radiante (37)
- 141038 : Girocristal radiante (38)
- 141039 : Girocristal radiante (39)
- 141040 : Girocristal radiante (40)
- 141041 : Girocristal radiante (41)
- 141042 : Girocristal radiante (42)
- 141043 : Girocristal radiante (43)
- 141044 : Girocristal radiante (44)
- 141045 : Girocristal radiante (45)
- 141046 : Girocristal radiante (46)
- 141047 : Girocristal radiante (47)
- 141048 : Girocristal radiante (48)
- 141049 : Girocristal radiante (49)
- 141050 : Girocristal radiante (50)
- 141051 : Girocristal radiante (51)
- 141052 : Girocristal radiante (52)
- 141053 : Girocristal radiante (53)
- 141054 : Girocristal radiante (54)
- 141055 : Girocristal radiante (55)
- 141056 : Girocristal radiante (56)
- 141057 : Girocristal radiante (57)
- 141058 : Girocristal radiante (58)
- 141059 : Girocristal radiante (59)
- 141060 : Girocristal radiante (60)
- 141061 : Girocristal radiante (61)
- 141062 : Girocristal radiante (62)
- 141063 : Girocristal radiante (63)
- 141064 : Girocristal radiante (64)
- 141065 : Girocristal radiante (65)
- 141066 : Girocristal radiante (66)
- 141067 : Girocristal radiante (67)
- 141068 : Girocristal radiante (68)
- 141069 : Girocristal radiante (69)
- 141070 : Girocristal radiante (70)
- 141071 : Girocristal radiante (71)
- 141072 : Girocristal radiante (72)
- 141073 : Girocristal radiante (73)
- 141074 : Girocristal radiante (74)
- 141075 : Girocristal radiante (75)
- 141076 : Girocristal radiante (76)
- 141077 : Girocristal radiante (77)
- 141078 : Girocristal radiante (78)
- 141079 : Girocristal radiante (79)
- 141080 : Girocristal radiante (80)
- 141081 : Girocristal radiante (81)
- 141082 : Girocristal radiante (82)
- 141083 : Girocristal radiante (83)
- 141084 : Girocristal radiante (84)
- 141085 : Girocristal radiante (85)
- 141086 : Girocristal radiante (86)
- 141087 : Girocristal radiante (87)
+ 141001 : Girocristal radiante (1) - Dawn Winery Theme
+ 141002 : Girocristal radiante (2) - A Sweet Smile
+ 141003 : Girocristal radiante (3) - Lone Sojourner
+ 141004 : Girocristal radiante (4) - A Day in Mondstadt
+ 141005 : Girocristal radiante (5) - The Edge of the Prairie
+ 141006 : Girocristal radiante (6) - A Tale of Two Dragons
+ 141007 : Girocristal radiante (7) - Happy Journey
+ 141008 : Girocristal radiante (8) - Legend of the Wind
+ 141009 : Girocristal radiante (9) - Bustling Afternoon in Mondstadt
+ 141010 : Girocristal radiante (10) - Dusk in Mondstadt
+ 141011 : Girocristal radiante (11) - Mondstadt Starlit
+ 141012 : Girocristal radiante (12) - Moonlight in Mondstadt
+ 141013 : Girocristal radiante (13) - Another Day in Mondstadt
+ 141014 : Girocristal radiante (14) - Windborne Hymn
+ 141015 : Girocristal radiante (15) - Knights of Favonius
+ 141016 : Girocristal radiante (16) - Angel's Share
+ 141017 : Girocristal radiante (17) - A Happy Day
+ 141018 : Girocristal radiante (18) - Tender Strength
+ 141019 : Girocristal radiante (19) - Before Dawn, at the Winery
+ 141020 : Girocristal radiante (20) - Whispering Plain
+ 141021 : Girocristal radiante (21) - A New Day With Hope
+ 141022 : Girocristal radiante (22) - Eternal Anamnesis
+ 141023 : Girocristal radiante (23) - Journey of Hope
+ 141024 : Girocristal radiante (24) - Sun Rises in Liyue
+ 141025 : Girocristal radiante (25) - Good Night, Liyue
+ 141026 : Girocristal radiante (26) - Call It a Day in Liyue
+ 141027 : Girocristal radiante (27) - Clear Sky Over Liyue
+ 141028 : Girocristal radiante (28) - Cozy Leisure Time
+ 141029 : Girocristal radiante (29) - Winding River
+ 141030 : Girocristal radiante (30) - Mild Waves
+ 141031 : Girocristal radiante (31) - Rhythm Amidst the Reeds
+ 141032 : Girocristal radiante (32) - Flows of Jade-Like Water
+ 141033 : Girocristal radiante (33) - Flow of Mildness
+ 141034 : Girocristal radiante (34) - Vague Whispers
+ 141035 : Girocristal radiante (35) - Legends Swept Away
+ 141036 : Girocristal radiante (36) - Plain of Nostalgia
+ 141037 : Girocristal radiante (37) - Rhythms From the Conch
+ 141038 : Girocristal radiante (38) - Peaceful Hike
+ 141039 : Girocristal radiante (39) - The Fading Stories
+ 141040 : Girocristal radiante (40) - Above the Sea of Clouds
+ 141041 : Girocristal radiante (41) - Rainbow at Summit
+ 141042 : Girocristal radiante (42) - Red Leaf on the Chessboard
+ 141043 : Girocristal radiante (43) - Slumbering Lore
+ 141044 : Girocristal radiante (44) - Lost Expectation
+ 141045 : Girocristal radiante (45) - The Realm Within
+ 141046 : Girocristal radiante (46) - Sojourner's Sweet Dream
+ 141047 : Girocristal radiante (47) - Miko's Night
+ 141048 : Girocristal radiante (48) - Streets of Elegance
+ 141049 : Girocristal radiante (49) - The Land of Her Serenity
+ 141050 : Girocristal radiante (50) - The Mysterious Islands
+ 141051 : Girocristal radiante (51) - Everlasting Devotion
+ 141052 : Girocristal radiante (52) - Kitsune's Mask
+ 141053 : Girocristal radiante (53) - Hanachirusato
+ 141054 : Girocristal radiante (54) - Time to Say Farewell
+ 141055 : Girocristal radiante (55) - Flickering Sakura
+ 141056 : Girocristal radiante (56) - Murmuring Creek
+ 141057 : Girocristal radiante (57) - Scarred Island
+ 141058 : Girocristal radiante (58) - Silent Testimony
+ 141059 : Girocristal radiante (59) - Island of Hanabi
+ 141060 : Girocristal radiante (60) - Preparation of Matsuri
+ 141061 : Girocristal radiante (61) - Illuminated Coral Palace
+ 141062 : Girocristal radiante (62) - A Tranquil Town
+ 141063 : Girocristal radiante (63) - In a Harmonious Atmosphere
+ 141064 : Girocristal radiante (64) - Island of Crystal and Pearl
+ 141065 : Girocristal radiante (65) - Misty Truth
+ 141066 : Girocristal radiante (66) - Sorrows of Strays
+ 141067 : Girocristal radiante (67) - Ruu's Melody
+ 141068 : Girocristal radiante (68) - Roaming in Silence
+ 141069 : Girocristal radiante (69) - Echoes of Solitude
+ 141070 : Girocristal radiante (70) - Dirge of the Soundless
+ 141071 : Girocristal radiante (71) - Nothing but Ivy
+ 141072 : Girocristal radiante (72) - Forgotten Epic
+ 141073 : Girocristal radiante (73) - Beyond Klesha
+ 141074 : Girocristal radiante (74) - Melody of Hidden Seeds
+ 141075 : Girocristal radiante (75) - Varuna's Mercy
+ 141076 : Girocristal radiante (76) - Vestige of Dahri
+ 141077 : Girocristal radiante (77) - Chatter Between Roots
+ 141078 : Girocristal radiante (78) - Whirling of Leaves and Petals
+ 141079 : Girocristal radiante (79) - Hustle and Bustle of Ormos
+ 141080 : Girocristal radiante (80) - Halcyon Times
+ 141081 : Girocristal radiante (81) - A Puff of Cool Breeze
+ 141082 : Girocristal radiante (82) - On the Barren Sands
+ 141083 : Girocristal radiante (83) - Arid Canyon
+ 141084 : Girocristal radiante (84) - Settlement for Exiles
+ 141085 : Girocristal radiante (85) - Ruins of Scorching Might
+ 141086 : Girocristal radiante (86) - Eye of Deshret
+ 141087 : Girocristal radiante (87) - Emerald in the Desert
+ 141088 : Girocristal radiante (88) - Girocristal radiante (88)
+ 141089 : Girocristal radiante (89) - Girocristal radiante (89)
+ 141090 : Girocristal radiante (90) - Girocristal radiante (90)
+ 141091 : Girocristal radiante (91) - Girocristal radiante (91)
+ 141092 : Girocristal radiante (92) - Girocristal radiante (92)
+ 141093 : Girocristal radiante (93) - Girocristal radiante (93)
  200001 : Celulosa para linterna
  200002 : Material para mecha
  200003 : Fragmento de plaustrita
@@ -16697,6 +17296,11 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  210144 : Faruzán - Secreto velado
  210145 : #Logro - {F#Invocadora}{M#Invocador}
  210146 : Pase de Batalla - Cauce espiritual
+ 210147 : Alhacén - Erudición
+ 210148 : Yaoyao - Yuegui
+ 210149 : Celebración - Nimbos biconvexos
+ 210150 : #Pase de Batalla{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Eufonía
+ 210151 : Logro - Polvareda
  220001 : Roca de resonancia de anemóculus
  220002 : Roca de resonancia de geóculus
  220003 : Brújula buscatesoros Geo
@@ -16765,6 +17369,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  220069 : Placa escarlata
  220070 : Daguerrotipo burbujeante
  220071 : Kusava
+ 220072 : Lámpara mágica de Lilúpar
  220073 : Orbe de la sabiduría
  220074 : Dispositivo papirofléxico de Preservadora de Nubes
  220075 : Brújula indómita
@@ -16814,6 +17419,12 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  223010 : Gran determinación
  223011 : Luz colorida romántica
  223012 : Banquete en Wanmin
+ 223013 : Dado jaspeado enigmático
+ 223014 : Escuadrón canino de motivación
+ 223015 : Redobles y estandartes
+ 223016 : Abstemio itinerante
+ 223017 : Hongo aguamarino
+ 223018 : ¡Pequeño Yuegui al rescate!
  330000 : Ganyu
  330001 : Kaeya
  330002 : Chongyun
@@ -16841,6 +17452,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  330025 : Bárbara
  330026 : Doncella del Espejo
  330027 : Espantohongo Plumaverde
+ 330032 : Klee
+ 330034 : Beidou
  330500 : Corazón indiviso
  330501 : Espada de sangre fría
  330502 : Respiración inalterable
@@ -16868,6 +17481,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  330525 : Momento de gloria
  330526 : Jaula de espejos
  330527 : Propagaesporas
+ 330530 : Regalo explosivo
+ 330531 : Tormenta eléctrica
  331000 : Guía Mágica
  331001 : Memorias de Sacrificios
  331002 : Pergamino Celestial
@@ -16987,6 +17602,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  334025 : Bárbara
  334026 : Doncella del Espejo
  334027 : Espantohongo Plumaverde
+ 334028 : Beidou
+ 334029 : Klee
  334500 : Corazón indiviso
  334501 : Espada de sangre fría
  334502 : Respiración inalterable
@@ -17014,6 +17631,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  334525 : Momento de gloria
  334526 : Jaula de espejos
  334527 : Propagaesporas
+ 334528 : Tormenta eléctrica
+ 334529 : Regalo explosivo
  335000 : Guía Mágica
  335001 : Memorias de Sacrificios
  335002 : Pergamino Celestial
@@ -17142,6 +17761,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  340007 : Exploradora al 100%
  340008 : Pacto lunaestelar
  340009 : Monja libertina
+ 340010 : Misiva de la florescencia
+ 340011 : Identidad velada
  350001 : Campamento del aventurero
  350002 : Vida en la frontera
  350003 : Rocas y plantas
@@ -17257,6 +17878,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  360422 : Destello de erudición
  360423 : Destello perenne
  360424 : Destello de sinuosidad
+ 360425 : Escena nocturna entre iluminadas cumbres
+ 360426 : Halo fluctuante
+ 360427 : Halo aletargado
  360504 : Luminiscencia floral
  361101 : Mostrador plegable de abedul nórdico
  361102 : Estantería de abeto descubierta
@@ -17268,6 +17892,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  361108 : Escritorio del desierto: Hospitalidad
  361109 : Estantería de madera de bodhi: Multiusos
  361110 : Mesita de noche de madera radiante: Convalecencia
+ 361111 : Cómoda compartimentada de madera de tamarisco
+ 361112 : Estantería para cerámica de madera tamarisco
  361201 : Estantería de biblioteca de dos pisos
  361202 : Estantería exquisita de liquidámbar
  361203 : Estantería económica de liquidámbar
@@ -17325,6 +17951,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  362110 : Silla de madera kármica: Entereza inamovible
  362111 : El placer de una copa en silencio
  362112 : Silla hojuda de madera de bodhi
+ 362113 : Boato descanso de fastuosidad
  362201 : Chimenea de piedra del norte
  362202 : Biombo de pino: Velas ondulantes
  362203 : Pantalla de madera noble: Niebla matinal en Jueyun
@@ -17362,6 +17989,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  362236 : El regusto de las brasas
  362237 : Delicioso aroma de asado a fuego lento
  362238 : Posesiones de los moradores del bosque
+ 362239 : Vasija pigmentada: Arenisca
  362301 : Alfombra de Mondstadt: Ardor carmesí
  362302 : Alfombra de Mondstadt: Búsqueda incansable
  362303 : Alfombra de posada: Como en casa
@@ -17371,6 +17999,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  362307 : Alfombra café coco
  362308 : Solemnidad del sol abrasador
  362309 : Timidez olivácea
+ 362310 : Glauca remembranza de pulcritud
  363101 : Lámpara portátil inapagable
  363102 : Lámpara de pie de avellano del Pabellón Liuli
  363103 : Linterna Tianyuan: Brillo fragante
@@ -17380,6 +18009,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  363107 : Lámpara del desierto: Luz encendida
  363108 : Oportunismo luminiscente
  363109 : Luz tenue de la casa del saber
+ 363110 : Fulgor del incursionista
+ 363111 : Veladora del oyente
+ 363112 : Aleación refulgente
  363201 : Arreglo floral: Tranquilidad celeste
  363202 : Maceta: Brisa cristalina
  363203 : Arreglo floral: Aurora floreciente
@@ -17428,6 +18060,11 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  363338 : Amargazón del incensario
  363339 : Formulación de los moradores del bosque
  363340 : Realce de los moradores del bosque
+ 363341 : Vasija pigmentada: Epicótilo glauco
+ 363342 : Jarrón multiusos estrellado
+ 363501 : Desvelo del emplazamiento del saber
+ 363502 : Fragancia del resarcimiento
+ 363504 : El arte de preservar el agua
  364101 : Paisaje: Casa de campo
  364102 : Paisaje: Nubes distantes
  364103 : Paisaje: Precipicio sin nombre
@@ -17454,6 +18091,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  364214 : Decoración de pared del desierto: Puesta de sol
  364215 : Decoración de pared del desierto: Plumas igníferas
  364216 : Muestras de un guarda forestal
+ 364217 : Escudo de combate de madera de tamarisco
  364301 : Puerta de cedro fragante
  364302 : Puerta de abeto de los Caballeros de Favonius
  364303 : Puerta de madera de arce
@@ -17548,6 +18186,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  368159 : Laila
  368160 : #{REALNAME[ID(1)|HOSTONLY(true)]}
  368161 : Faruzán
+ 368162 : Yaoyao
+ 368163 : Alhacén
  369101 : Gato de ojos de jade
  369102 : Sabueso del Norte
  369103 : Jabalí del bosque
@@ -17661,6 +18301,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  370319 : Mantenimiento de redes
  370320 : Puesto callejero multiusos de madera radiante
  370321 : Puesto de brochetas de madera radiante
+ 370322 : Abundancia de aire fresco
+ 370323 : Elección deliberada
  370401 : Cabaña de avanzadilla Hilichurl
  370402 : Gran salón del jefe Hilichurl
  370501 : Deambulando al este del Bishui
@@ -17743,6 +18385,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  370730 : Asonancia de la ciudad de la sabiduría
  370731 : Reposo de la ciudad de la sabiduría
  370732 : Comisiones de la ciudad de la sabiduría
+ 370733 : Cañamazo protector contra monstruos marinos
+ 370734 : Noches apacibles bajo brisas desérticas
  371101 : Fuente con flores y pájaros
  371102 : Torre en espiral de Hilichurls
  371103 : Cabaña de paja de Hilichurls
@@ -17765,6 +18409,11 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  371125 : Tienda de campaña del desierto: Reposo
  371126 : Fresca bruma teatral
  371127 : Lucidez del emplazamiento del saber
+ 371129 : Grúa de uso común de Puerto Ormos (III)
+ 371130 : Carreta de transporte a larga distancia de madera conglomerada
+ 371131 : Carreta de transporte portuaria de madera conglomerada
+ 371132 : Carretilla de cuatro ruedas de montaña
+ 371133 : Estatuilla del Patrono de las hornillas
  371201 : Puerta de Adeptus
  371202 : Puerta principal de patio de abedul
  371203 : Extremo de valla de patio con adornos
@@ -17886,6 +18535,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  372339 : Saber popular boscoso
  372340 : Cristálida entre dos luces
  372341 : Cristálida entre albores
+ 372342 : Purpúreo hibisco de la afasía
  372401 : Alacena de cedro fragante
  372402 : Arbusto con flores
  372403 : Arbusto corriente
@@ -17959,6 +18609,13 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  372472 : Acicate ardoroso
  372473 : Medio de irradiación
  372474 : Turnasol luminiscente
+ 372475 : Purpúreo hibisco de la apacibilidad
+ 372476 : Manantial de áridas arenas
+ 372477 : Sombra del sol poniente
+ 372478 : Pararocíos linfática
+ 372479 : Copiosidad fluvial
+ 372480 : Pararocío auspiciadora
+ 372481 : Otro tipo de dulce
  372501 : Raíces esenciales: Campo enigmático
  372502 : Raíces esenciales: Campos exuberantes
  372503 : Raíces esenciales: Campo inundado
@@ -18017,6 +18674,15 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  373145 : Los frutos del mar
  373146 : Perspicacia del pescador
  373147 : El sabor de la calidez
+ 373148 : Torno pesado para cerámica de madera radiante
+ 373149 : Hierro, arena y oro
+ 373150 : Sangre, sudor y armaduras rotas
+ 373151 : Hierro, agua y vapor
+ 373152 : Palé de carga para líquidos de madera kármica
+ 373153 : Cuerda, flecha y trayectoria
+ 373154 : Inventiva en la espesura
+ 373155 : ¡Podría funcionar!
+ 373156 : Pigmentación y secado
  373201 : Maceta: Verdor abundante
  373202 : Macizo floral con depósito de agua
  373203 : Cubo para transportar tierra
@@ -18094,6 +18760,14 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  373363 : Insondable reverberación
  373364 : Cartel publicitario tripanelado de madera kármica
  373365 : Umbelífera consumición
+ 373366 : Pantalla auspiciosa: Cúmulo en las montañas
+ 373367 : Pantalla auspiciosa: Aleteo índigo
+ 373368 : Pantalla auspiciosa: Tañidos distantes
+ 373369 : Pantalla auspiciosa: Tonadas de antaño
+ 373370 : Pantalla auspiciosa: Cordilleras intermitentes
+ 373371 : Pantalla auspiciosa: Melodías lontanas
+ 373372 : Cuerno y leña
+ 373373 : Prototipo Aranara
  373401 : Farola de hierro con adornos
  373402 : Farola exterior de pino
  373403 : Linterna repeledemonios: Luz por todas partes
@@ -18392,6 +19066,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  380414 : Lámpara de techo de arce: Iluminación
  380415 : Candelabro florido: Pureza del loto
  380416 : Árbol multicolor: Fortuna temprana
+ 380417 : Linterna lunar del pueblo
  380418 : Lámpara de mampostería: Candelero de las profundidades
  380419 : Haz de ensueño
  380420 : Haz de rocío de verdor
@@ -18399,6 +19074,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  380422 : Destello de erudición
  380423 : Destello perenne
  380424 : Destello de sinuosidad
+ 380426 : Halo fluctuante
+ 380427 : Halo aletargado
  380504 : Luminiscencia floral
  381101 : Mostrador plegable de abedul nórdico
  381102 : Estantería de abeto descubierta
@@ -18410,6 +19087,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  381108 : Escritorio del desierto: Hospitalidad
  381109 : Estantería de madera de bodhi: Multiusos
  381110 : Mesita de noche de madera radiante: Convalecencia
+ 381111 : Cómoda compartimentada de madera de tamarisco
+ 381112 : Estantería para cerámica de madera tamarisco
  381201 : Estantería de biblioteca de dos pisos
  381202 : Estantería exquisita de liquidámbar
  381203 : Estantería económica de liquidámbar
@@ -18500,6 +19179,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  382236 : El regusto de las brasas
  382237 : Delicioso aroma de asado a fuego lento
  382238 : Posesiones de los moradores del bosque
+ 382239 : Vasija pigmentada: Arenisca
  382301 : Alfombra de Mondstadt: Ardor carmesí
  382302 : Alfombra de Mondstadt: Búsqueda incansable
  382303 : Alfombra de posada: Como en casa
@@ -18509,6 +19189,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  382307 : Alfombra café coco
  382308 : Solemnidad del sol abrasador
  382309 : Timidez olivácea
+ 382310 : Glauca remembranza de pulcritud
  383101 : Lámpara portátil inapagable
  383102 : Lámpara de pie de avellano del Pabellón Liuli
  383103 : Linterna Tianyuan: Brillo fragante
@@ -18517,6 +19198,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  383107 : Lámpara del desierto: Luz encendida
  383108 : Oportunismo luminiscente
  383109 : Luz tenue de la casa del saber
+ 383110 : Fulgor del incursionista
+ 383111 : Veladora del oyente
+ 383112 : Aleación refulgente
  383201 : Arreglo floral: Tranquilidad celeste
  383202 : Maceta: Brisa cristalina
  383203 : Arreglo floral: Aurora floreciente
@@ -18554,6 +19238,11 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  383338 : Amargazón del incensario
  383339 : Formulación de los moradores del bosque
  383340 : Realce de los moradores del bosque
+ 383341 : Vasija pigmentada: Epicótilo glauco
+ 383342 : Jarrón multiusos estrellado
+ 383501 : Desvelo del emplazamiento del saber
+ 383502 : Fragancia del resarcimiento
+ 383504 : El arte de preservar el agua
  384101 : Paisaje: Casa de campo
  384102 : Paisaje: Nubes distantes
  384103 : Paisaje: Precipicio sin nombre
@@ -18579,6 +19268,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  384214 : Decoración de pared del desierto: Puesta de sol
  384215 : Decoración de pared del desierto: Plumas igníferas
  384216 : Muestras de un guarda forestal
+ 384217 : Escudo de combate de madera de tamarisco
  384501 : Momento inolvidable
  390101 : Cabaña de paja
  390102 : Puesto de paja
@@ -18625,6 +19315,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  390319 : Mantenimiento de redes
  390320 : Puesto callejero multiusos de madera radiante
  390321 : Puesto de brochetas de madera radiante
+ 390322 : Abundancia de aire fresco
+ 390323 : Elección deliberada
  390401 : Cabaña de avanzadilla Hilichurl
  390402 : Gran salón del jefe Hilichurl
  390501 : Deambulando al este del Bishui
@@ -18703,6 +19395,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  390730 : Asonancia de la ciudad de la sabiduría
  390731 : Reposo de la ciudad de la sabiduría
  390732 : Comisiones de la ciudad de la sabiduría
+ 390733 : Cañamazo protector contra monstruos marinos
+ 390734 : Noches apacibles bajo brisas desérticas
  391101 : Fuente con flores y pájaros
  391102 : Torre en espiral de Hilichurls
  391103 : Cabaña de paja de Hilichurls
@@ -18725,6 +19419,10 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  391125 : Tienda de campaña del desierto: Reposo
  391126 : Fresca bruma teatral
  391127 : Lucidez del emplazamiento del saber
+ 391129 : Grúa de uso común de Puerto Ormos (III)
+ 391130 : Carreta de transporte a larga distancia de madera conglomerada
+ 391131 : Carreta de transporte portuaria de madera conglomerada
+ 391132 : Carretilla de cuatro ruedas de montaña
  391201 : Puerta de Adeptus
  391202 : Puerta principal de patio de abedul
  391203 : Extremo de valla de patio con adornos
@@ -18808,6 +19506,15 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  393144 : Ofertas del pescador
  393145 : Los frutos del mar
  393146 : Perspicacia del pescador
+ 393148 : Torno pesado para cerámica de madera radiante
+ 393149 : Hierro, arena y oro
+ 393150 : Sangre, sudor y armaduras rotas
+ 393151 : Hierro, agua y vapor
+ 393152 : Palé de carga para líquidos de madera kármica
+ 393153 : Cuerda, flecha y trayectoria
+ 393154 : Inventiva en la espesura
+ 393155 : ¡Podría funcionar!
+ 393156 : Pigmentación y secado
  393201 : Maceta: Verdor abundante
  393202 : Macizo floral con depósito de agua
  393203 : Cubo para transportar tierra
@@ -18867,6 +19574,13 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  393363 : Insondable reverberación
  393364 : Cartel publicitario tripanelado de madera kármica
  393365 : Umbelífera consumición
+ 393366 : Pantalla auspiciosa: Cúmulo en las montañas
+ 393367 : Pantalla auspiciosa: Aleteo índigo
+ 393368 : Pantalla auspiciosa: Tañidos distantes
+ 393369 : Pantalla auspiciosa: Tonadas de antaño
+ 393370 : Pantalla auspiciosa: Cordilleras intermitentes
+ 393371 : Pantalla auspiciosa: Melodías lontanas
+ 393372 : Cuerno y leña
  393401 : Farola de hierro con adornos
  393402 : Farola exterior de pino
  393403 : Linterna repeledemonios: Luz por todas partes
@@ -19175,6 +19889,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 24040201 : Monolith_Ordinator_02 - [N/A] 285953129
 24040301 : Monolith_Ordinator_03 - [N/A] 3626535649
 24050101 : Monolith_Starchild - [N/A] 2629579681
+24990101 : Monster_Alternate_01 - [N/A] 3880332545
 25010101 : Thoarder_Male_NoWeapon_01 - “Liuliu”
 25010102 : Thoarder_Male_Standard_NoWeapon_01_02 - Persona misteriosa
 25010103 : Thoarder_Male_Standard_NoWeapon_01_03 - [N/A] 4074487073
@@ -19216,6 +19931,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 25050402 : AahigaruTaisho_Male_01_02 - [N/A] 220906409
 25050501 : Aahigaru_Male_02 - Secuaz de Sangonomiya
 25050502 : Aahigaru_Male_02_02 - [FR] - (test)心海个人线反抗军足轻
+25050503 : Aahigaru_Male_03 - [N/A] 3723952969
 25060101 : Thoarder_MuscleMan_NoWeapon_01 - [N/A] 3034153769
 25060102 : Thoarder_MuscleMan_NoWeapon_01_02 - [N/A] 2830824473
 25070101 : Thoarder_MuscleMan_Hammer_01 - [N/A] 2923584017
@@ -19229,16 +19945,19 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 25080402 : Samurai_Hatamoto_02 - [N/A] 193563705
 25080403 : Samurai_Hatamoto_03 - [N/A] 1581579825
 25080404 : Samurai_Hatamoto_03 - [N/A] 400320561
+25080405 : Samurai_Hatamoto_04 - [N/A] 147737673
 25090101 : Samurai_Ningyo_01 - General Títere
 25090102 : Samurai_Ningyo_02 - General Títere - Clon de viento
 25090103 : Samurai_Ningyo_03 - General Títere - Clon de hielo
 25090104 : Samurai_Ningyo_04 - General Títere - Clon enmascarado
+25090105 : Samurai_Ningyo_05 - [N/A] 1156820393
 25090201 : Samurai_Ningyo_02 - General Títere - Clon de viento (con ícono)
 25090301 : Samurai_Ningyo_03 - General Títere - Clon de hielo (con ícono)
 25090401 : Samurai_Ningyo_04 - General Títere - Clon enmascarado (con ícono)
 25100101 : Samurai_Kairagi_01 - Samurái Kairagi Electro
 25100102 : Samurai_Kairagi_05 - [N/A] 280790529
 25100201 : Samurai_Kairagi_02 - Samurái Kairagi Pyro
+25100202 : Samurai_Kairagi_07 - [N/A] 1073373889
 25100301 : Samurai_Kairagi_03 - Samurái Kairagi - Espectro eléctrico
 25100302 : Samurai_Kairagi_06 - [N/A] 1381328249
 25100401 : Samurai_Kairagi_04 - Samurái Kairagi - Espectro ígneo
@@ -19246,6 +19965,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 25110102 : Gator_Eremite_Rock_02 - [N/A] 2361510321
 25110201 : Vulture_Eremite_Wind_01 - [N/A] 3397827697
 25110202 : Vulture_Eremite_Wind_02 - [N/A] 1458817257
+25110301 : Scorpion_Eremite_Fire_01 - [N/A] 3602103257
+25110401 : Chrysopelea_Eremite_Grass_01 - [N/A] 3779411305
 25210101 : Eremite_Female_Hatchet_01 - [N/A] 593962337
 25210102 : Eremite_Female_Hatchet_02 - [N/A] 655804089
 25210103 : Eremite_Female_Hatchet_03 - [N/A] 3189818729
@@ -19254,6 +19975,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 25210106 : EremiteElite_Female_Hatchet_03 - [N/A] 660925665
 25210107 : Eremite_Female_Hatchet_04 - [N/A] 2260729353
 25210108 : Eremite_Female_Hatchet_05 - [N/A] 1446861633
+25210109 : NPC_Quest_Female_Standard_Nailan_20933 - [N/A] 2358839953
 25210201 : Eremite_Male_Standard_Crossbow_01 - [N/A] 1998919569
 25210202 : Eremite_Male_Standard_Crossbow_02 - [N/A] 2119181617
 25210203 : Eremite_Male_Standard_Crossbow_03 - [N/A] 3425185161
@@ -19263,6 +19985,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 25210207 : Eremite_Male_Standard_Crossbow_04 - [N/A] 1636753185
 25210208 : NPC_Quest_Male_Standard_Eremite_01 - [N/A] 2050456833
 25210209 : NPC_Quest_Male_Standard_Eremite_02 - [N/A] 3171996801
+25210210 : NPC_Sumeru_Male_Standard_Aderfi_4293 - [N/A] 2723889409
+25210211 : NPC_Quest_Male_Standard_Assassin02_20940 - [N/A] 3153927337
 25210301 : Eremite_Male_Standard_Pole_01 - [N/A] 4008986473
 25210302 : Eremite_Male_Standard_Pole_02 - [N/A] 2939413633
 25210303 : Eremite_Male_Standard_Pole_03 - [N/A] 2517557169
@@ -19270,6 +19994,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 25210305 : EremiteElite_Male_Standard_Pole_02 - [N/A] 1664946217
 25210306 : EremiteElite_Male_Standard_Pole_03 - [N/A] 696066441
 25210307 : Eremite_Male_Standard_Pole_01 - [N/A] 2671081977
+25210308 : NPC_Sumeru_Male_Standard_Warden03_4298 - [N/A] 2403836809
+25210309 : NPC_Sumeru_Male_Standard_Warden04_4299 - [N/A] 191969201
 25210401 : Eremite_MuscleMan_Gloves_01 - [N/A] 998410809
 25210402 : Eremite_MuscleMan_Gloves_02 - [N/A] 839477089
 25210403 : Eremite_MuscleMan_Gloves_03 - [N/A] 2628038825
@@ -19277,6 +20003,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 25210405 : EremiteElite_MuscleMan_Gloves_02 - [N/A] 4366953
 25210406 : EremiteElite_MuscleMan_Gloves_03 - [N/A] 1385944497
 25210407 : NPC_Quest_MuscleMan_Standard_Eremite_01 - [N/A] 3844535385
+25210408 : NPC_Quest_MuscleMan_Standard_Assassin01_20913 - [N/A] 2083537065
 25210501 : Eremite_MuscleMan_Simitar_01 - [N/A] 914092905
 25210502 : Eremite_MuscleMan_Simitar_02 - [N/A] 3484979137
 25210503 : Eremite_MuscleMan_Simitar_03 - [N/A] 2747515289
@@ -19284,14 +20011,23 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 25210505 : EremiteElite_MuscleMan_Simitar_02 - [N/A] 4251715865
 25210506 : EremiteElite_MuscleMan_Simitar_03 - [N/A] 124112617
 25210507 : Eremite_MuscleMan_Simitar_04 - [N/A] 1714026825
+25210508 : NPC_Sumeru_MuscleMan_Standard_Yuften_4294 - [N/A] 2949828257
 25210601 : Eremite_Male_Standard_NoWeapon_01 - [N/A] 3480498409
 25210602 : Eremite_Male_Standard_NoWeapon_02 - [N/A] 1531750897
 25310101 : Eremite_Female_Slim_PushDagger_01 - [N/A] 2984077569
+25310102 : Eremite_Female_Slim_PushDagger_02 - [N/A] 1936242505
 25310201 : Eremite_Male_Standard_Glaive_01 - [N/A] 3154173257
 25310202 : Eremite_Male_Standard_Glaive_02 - [N/A] 3503187145
 25310301 : Eremite_Male_Standard_Polearm_01 - [N/A] 863506833
 25410101 : Eremite_Male_Strong_Katar_01 - [N/A] 1317576089
+25410102 : Eremite_Male_Strong_Katar_02 - [N/A] 3519774769
+25410103 : Eremite_Male_Strong_Katar_03 - [N/A] 2559377073
 25410201 : Eremite_Female_Standard_Longbow_01 - [N/A] 1223193297
+25410202 : Eremite_Female_Standard_Longbow_02 - [N/A] 3954073513
+25410301 : Eremite_Female_Standard_Oracle_01 - [N/A] 230400289
+25410302 : Eremite_Female_Standard_Oracle_02 - [N/A] 3319063017
+25410303 : Eremite_Female_Standard_Oracle_03 - [N/A] 1427419849
+25410401 : Eremite_Female_Standard_Dancer_01 - [N/A] 4046454873
 26010101 : Mimik_Ice - Megaflora Cryo
 26010102 : Mimik_Ice_Activity - Megaflora Cryo (Evento de Espinadragón)
 26010103 : Mimik_Fel - Megaflora Cryo grande (evento 2.3)
@@ -19356,11 +20092,15 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 26091001 : Fungus_Deux_Delta_Electric_01 - [N/A] 1409125529
 26091090 : Fungus_Deux_Delta_Electric_Enemy - [N/A] 2977465545
 26091091 : Fungus_Deux_Delta_Electric_01_Capture - [N/A] 2399196673
+26100301 : Vulture_Sacred_Fire_01 - [N/A] 2824755009
+26100401 : Scorpion_Sacred_Electric_01 - [N/A] 2220913313
+26100501 : Chrysopelea_Sacred_Wind_01 - [N/A] 1264292481
 26110101 : Fungus_Raptor - [N/A] 4290207929
 26120101 : Fungus_Amanita_Unu_Anudatta_Grass_01 - [N/A] 198051785
 26120201 : Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 2368019041
 26120301 : Fungus_Amanita_Du_Anudatta_Water_01 - [N/A] 3299184601
 26120401 : Fungus_Amanita_Du_Udatta_Rock_01 - [N/A] 4098645257
+26130101 : Sandworm - [N/A] 2117237033
 28010101 : Crab_01 - Cangrejo dorado
 28010102 : Crab_02 - Cangrejo solar
 28010103 : Crab_03 - Cangrejo oceánico
@@ -19443,6 +20183,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 28020901 : Inu_Shihandai_01 - Perro samurái (patrulla)
 28020902 : Inu_Shihandai_02 - Perro samurái (combate)
 28020903 : Inu_Shihandai_03 - [N/A] 467002241
+28020904 : Inu_Shihandai_04 - [N/A] 1992703905
 28030101 : Crane_01 - Garza azul
 28030102 : Crane_02 - Ibis violeta
 28030103 : Crane_01 - [N/A] 434877481
@@ -19534,6 +20275,12 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 28050223 : Thoarder_Weasel_03 - [N/A] 4261963577
 28050301 : Boltbug_Lightbug_01 - [N/A] 868485513
 28050401 : Boltbug_Scarab_01 - [N/A] 2466918521
+28050501 : Electrohercules_01 - [N/A] 3014312137
+28050502 : Electrohercules_02 - [N/A] 765439209
+28050503 : Electrohercules_03 - [N/A] 3141479769
+28050504 : Electrohercules_04 - [N/A] 2949221961
+28050505 : Electrohercules_05 - [N/A] 2453680657
+28050506 : Electrohercules_06 - [N/A] 992130697
 28060101 : Gator_01 - [N/A] 128716817
 28060102 : Gator_Strong_01 - [N/A] 2866718929
 28060103 : Gator_01 - [N/A] 1328271489
@@ -19577,6 +20324,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 28061301 : Megamoth_Jungle_06 - [N/A] 3469996769
 28061401 : Megamoth_Jungle_07 - [N/A] 2330015681
 28061402 : Megamoth_Jungle_08 - [N/A] 3443985385
+28061501 : Chrysopelea_01 - [N/A] 447726457
+28061502 : Chrysopelea_01 - [N/A] 3984456185
 28210101 : Homeworld_Crab_01 - Cangrejo dorado doméstico
 28210102 : Homeworld_Crab_02 - Cangrejo solar doméstico
 28210103 : Homeworld_Crab_03 - Cangrejo oceánico doméstico
@@ -19715,6 +20464,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 35210501 : Partner_Eremite_MuscleMan_Simitar_01 - [N/A] 4181653881
 35310101 : Partner_Eremite_Female_Slim_PushDagger_01 - [N/A] 800547617
 35310301 : Partner_Eremite_Male_Standard_Polearm_01 - [N/A] 2724426105
+35410101 : Partner_Eremite_Male_Strong_Katar_01 - [N/A] 843060329
+35410201 : Partner_Eremite_Female_Standard_Longbow_01 - [N/A] 2996340361
 36090190 : Partner_Fumgus_Un_Gamma_Water - [N/A] 4291858465
 36090290 : Partner_Fumgus_Un_Delta_Grass - [N/A] 2928415473
 36090390 : Partner_Fumgus_Un_Delta_Wind - [N/A] 3044810417
@@ -19725,6 +20476,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 36090890 : Partner_Fumgus_Deux_Epsilon_Wind - [N/A] 864320241
 36090990 : Partner_Fumgus_Deux_Beta_Rock - [N/A] 3379305585
 36091090 : Partner_Fumgus_Deux_Delta_Electric - [N/A] 1780358665
+38050590 : Partner_Animal_Electrohercules_01 - [N/A] 2442210649
 
 
 // Scenes
@@ -19787,6 +20539,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
  1076 : IndoorScene_Md_CattailTavern
  1077 : IndoorScene_Xm_Chunzhangjia
  1078 : IndoorScene_Xm_Zls
+ 1079 : IndoorScene_Xm_Alhouse
  2001 : Homeworld_Exterior_Above
  2002 : Homeworld_Exterior_Karst
  2003 : Homeworld_Exterior_Uncharted
@@ -19898,6 +20651,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 20170 : Level_ScaramoucheFactory
 20171 : Level_ScaramoucheBoss
 20172 : Level_Consciousness
+20173 : Level_Xm_Alhaitham_01
 30001 : LevelTest_CurseMaze
 30100 : Level_Tower_Morning_01
 30101 : Level_Tower_Morning_01
@@ -20064,6 +20818,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 33744 : Level_Tower_Universe_01
 33745 : Level_Tower_Moon_01
 33746 : Level_Tower_Universe_01
+33747 : Level_Tower_Moon_01
+33748 : Level_Tower_Universe_01
 34100 : Level_Tower_Morning_01
 34101 : Level_Tower_01_Water
 34102 : Level_Tower_01_Open
@@ -20119,6 +20875,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 34744 : Level_Tower_Universe_01
 34745 : Level_Tower_Moon_01
 34746 : Level_Tower_Universe_01
+34747 : Level_Tower_Moon_01
+34748 : Level_Tower_Universe_01
 35100 : Level_Tower_Morning_01
 35101 : Level_Tower_Morning_01
 35102 : Level_Tower_Morning_01
@@ -20174,6 +20932,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 35744 : Level_Tower_Universe_01
 35745 : Level_Tower_Moon_01
 35746 : Level_Tower_Universe_01
+35747 : Level_Tower_Moon_01
+35748 : Level_Tower_Universe_01
 35800 : Level_CycleDungeon_WindFlower
 35801 : Level_ContestBattle01
 35802 : Level_ContestBattle01
@@ -20226,6 +20986,11 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 35870 : Level_BrickBreaker01
 35871 : Level_BrickBreaker01
 35872 : Level_BrickBreaker01
+35880 : Level_XM_BigLeaf
+35881 : Level_XM_BigLeaf
+35882 : Level_XM_BigLeaf
+35883 : Level_XM_BigLeaf
+35884 : Level_XM_BigLeaf
 40001 : Level_UCDungeon02
 40002 : Level_UCDungeon01
 40003 : Level_UCDungeon01
@@ -20287,6 +21052,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 40060 : Level_ActivityBoss01_Wind
 40061 : Level_ActivityBoss01_Wind
 40062 : Level_ActivityBoss01_Wind
+40063 : Level_Smr_LostCity
+40064 : Level_Smr_LostCity
 40100 : Level_CycleDungeon01_Fire
 40101 : Level_CycleDungeon01_Fire
 40102 : Level_CycleDungeon01_Fire
@@ -20450,6 +21217,8 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 41058 : Level_Tower_01_Open
 41059 : Level_Tower_01_Open
 41060 : Level_Tower_01_Open
+41061 : Level_Tower_01_Open
+41062 : Level_Tower_01_Open
 42001 : Level_PFDungeon02_Active01
 42002 : Level_PFDungeon02_Active02
 42003 : Level_PFDungeon02_Active07
@@ -20565,6 +21334,13 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 47205 : Level_Smr_LostCity
 47206 : Level_Smr_LostCity
 47207 : Level_Smr_LostCity
+47301 : Level_ContestBattle01
+47302 : Level_ContestBattle01
+47303 : Level_ContestBattle01
+47304 : Level_ContestBattle01
+47305 : Level_ContestBattle01
+47306 : Level_ContestBattle01
+47307 : Level_ContestBattle01
 50002 : TestLevel_Cold_LYX
 50003 : TestLevel_Battle_CLX
 50004 : Level_PowerCharge_Test
@@ -20667,7 +21443,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 51007 : BigWorld_LevelStreaming
 51008 : Level_Carnival
 51009 : Level_SmrDungeon_BigTree
+51010 : TestLevel_TestBox_LCM
 51011 : TestLevel_WhiteBox_Xm_04
+51013 : Level_Xm_Alhaitham_01
 51015 : Level_TestLevel_Pacman_Sll
 51019 : TestLevel_WhiteBox_Xm_05
 79999 : GcgCardTest
@@ -23245,7 +24023,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 1200107 : Conoce a tu enemigo y te conocerás a ti mismo - Escucha a escondidas la conversación entre el Burgués Maocai y los Fatui
 1200108 : Conoce a tu enemigo y te conocerás a ti mismo - Informa a Xingchiu sobre el plan del Burgués Maotsai
 1200201 : La calma antes de la tormenta - Llévale la carta al sirviente del Gremio de Comerciantes de Feiyun
-1200202 : La calma antes de la tormenta - Entra al Gremio de Comerciantes de Feiyun
+1200202 : La calma antes de la tormenta - Entra en el Pabellón Liuli
 1200203 : La calma antes de la tormenta - Habla con el sirviente del Gremio de Comerciantes de Feiyun
 1200204 : La calma antes de la tormenta - Compra el cor lapis de las tiendas
 1200205 : La calma antes de la tormenta - Compra el cor lapis de las tiendas
@@ -23261,7 +24039,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 1200215 : La calma antes de la tormenta - Terminar compra
 1200219 : La calma antes de la tormenta - Utiliza la visión elemental para encontrar el carro de minas con Cor Lapis
 1200220 : La calma antes de la tormenta - Utiliza la visión elemental para encontrar el carro de minas con Cor Lapis
-1200221 : La calma antes de la tormenta - [CHS] - (test)与「飞云商会」的家丁对话$HIDDEN
+1200221 : La calma antes de la tormenta - Habla con el sirviente
 1200222 : La calma antes de la tormenta - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200223 : La calma antes de la tormenta - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200303 : El caballero estoico - Dirígete al almacén del Gremio de Comerciantes de Feiyun
@@ -23746,7 +24524,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 1800027 : Dainsleif, “el buscador de la verdad” - Habla con Dainsleif
 1800028 : Dainsleif, “el buscador de la verdad” - Habla con Dainsleif
 1800029 : Dainsleif, “el buscador de la verdad” - [N/A] 4071109932
-1900101 : La preocupación de la Hermana Victoria - Habla con la Hermana Victoria
+1900101 : La preocupación de la Hermana Victoria - Habla con la hermana Victoria
 1900102 : La preocupación de la Hermana Victoria - Encuentra a Bárbara
 1900103 : La preocupación de la Hermana Victoria - Habla con Bárbara
 1900104 : La preocupación de la Hermana Victoria - Sigue a Bárbara
@@ -23764,9 +24542,9 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 1900303 : Asuntos religiosos - Informa a la Hermana Victoria
 1900304 : Asuntos religiosos - Limpia los alrededores de la Catedral
 1900305 : Asuntos religiosos - Informa a la Hermana Victoria
-1900306 : Asuntos religiosos - Habla con la Hermana Victoria
-1900307 : Asuntos religiosos - Habla con la Hermana Victoria
-1900308 : Asuntos religiosos - Habla con la Hermana Victoria
+1900306 : Asuntos religiosos - Habla con la hermana Victoria
+1900307 : Asuntos religiosos - Habla con la hermana Victoria
+1900308 : Asuntos religiosos - Habla con la hermana Victoria
 1900401 : El primer ingrediente de la bebida picante - Dirígete a las cercanías de la Puerta de Piedra
 1900402 : El primer ingrediente de la bebida picante - Recolecta chiles de Jueyun frescos
 1900403 : El primer ingrediente de la bebida picante - Reúnete con Bárbara en el Bosque Susurrante
@@ -24794,7 +25572,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 2002104 : Examen aventurero: remontando el vuelo - Habla con Anna
 2002105 : Examen aventurero: remontando el vuelo - [N/A] 2977180388
 2002106 : Examen aventurero: remontando el vuelo - [N/A] 2284549756
-2002301 : Presunción de inocencia - Habla con la Hermana Victoria
+2002301 : Presunción de inocencia - Habla con la hermana Victoria
 2002302 : Presunción de inocencia - Encuentra a Nimrod
 2002303 : Presunción de inocencia - Inspecciona la copa para encontrar evidencia
 2002304 : Presunción de inocencia - Habla con Charles el Cantinero
@@ -27450,7 +28228,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 4111415 : Donde convergen las antiguas estrellas - [CHS] - (test)战斗后的对话$HIDDEN
 4111416 : Donde convergen las antiguas estrellas - [CHS] - (test)摧毁陨石后的对话$HIDDEN
 4111501 : [CHS] - (test)控制活动氛围布置$HIDDEN - [CHS] - (test)控制活动氛围$HIDDEN
-4112001 : Objetos caídos del cielo - Habla con la Hermana Grace
+4112001 : Objetos caídos del cielo - Habla con la hermana Grace
 4112002 : Objetos caídos del cielo - Habla con Lynn
 4112003 : Objetos caídos del cielo - Habla con Doolan
 4112004 : Objetos caídos del cielo - Habla con Vind
@@ -28780,7 +29558,7 @@ setFetterLevel : Establece tu nivel de amistad para tu personaje actual.
 7082402 : Limpiando el Viñedo - Sigue a Adelinde hasta el Viñedo del Amanecer
 7082403 : Limpiando el Viñedo - Limpia todas las manchas
 7082404 : Limpiando el Viñedo - Habla con Adelinde
-7082501 : Trabajando después de la tormenta - [CHS] - 与霍夫曼对话$HIDDEN
+7082501 : Trabajando después de la tormenta - Habla con Huffman
 7082502 : Trabajando después de la tormenta - Patrulla el área y destruye los obstáculos
 7082503 : Trabajando después de la tormenta - Elimina a todos los monstruos y destruye los obstáculos
 7082504 : Trabajando después de la tormenta - Patrulla el área y destruye los obstáculos

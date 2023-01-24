@@ -1,5 +1,5 @@
-// Grasscutter 3.3.0 GM Handbook
-// Created 2022/12/07 22:14:49
+// Grasscutter 3.3.54 GM Handbook
+// Created 2023/01/24 10:05:08
 
 
 // Commands
@@ -586,6 +586,28 @@ setFetterLevel : Sets your fetter level for your current active character
  41076013 : Faruzan_Constellation6_Bullet - [N/A] 1903046925
  41076014 : Faruzan_Constellation6_Bullet_Trigger - [N/A] 1339949197
  41076015 : Faruzan_SkillObj_WindZone_Hit - [N/A] 3244892205
+ 41077001 : Yaoyao_ExtraAttack_Bullet - [N/A] 1175812701
+ 41077002 : Yaoyao_ElementalArt_Rabbit - [N/A] 486672549
+ 41077003 : Avatar_Yaoyao_Turnip_Bullet - [N/A] 358099181
+ 41077004 : Avatar_Yaoyao_Turnip - [N/A] 3130731581
+ 41077005 : Yaoyao_ElementalArt_Rabbit_Throw - [N/A] 4187909685
+ 41077006 : Yaoyao_ElementalBurst_Rabbit_Throw - [N/A] 371097277
+ 41077007 : Yaoyao_ElementalBurst_Rabbit - [N/A] 3384056949
+ 41077008 : Avatar_Yaoyao_Turnip_Bullet_Parabola - [N/A] 3536110237
+ 41077009 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre - [N/A] 1584764237
+ 41077010 : Yaoyao_ElementalArt_Rabbit_Throw_Short - [N/A] 502899525
+ 41077011 : Avatar_Yaoyao_Golden_Turnip_Bullet - [N/A] 3865826597
+ 41077012 : Avatar_Yaoyao_Golden_Turnip - [N/A] 1158403509
+ 41077013 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre_BulletTrigger - [N/A] 3263422261
+ 41078001 : Alhatham_ElementalArt_Bullet - [N/A] 1364000445
+ 41078002 : Alhatham_ElementalArt_CoAttack03_Bullet - [N/A] 64191325
+ 41078003 : Alhatham_ElementalArt_CoAttack01 - [N/A] 470585117
+ 41078004 : Alhatham_ElementalArt_CoAttack02 - [N/A] 3787294741
+ 41078005 : Alhatham_ElementalArt_CoAttack03 - [N/A] 1744412269
+ 41078006 : Alhatham_ElementalArt_CoAttack01_Constellation_1 - [N/A] 2252179381
+ 41078007 : Alhatham_ElementalArt_CoAttack02_Constellation_1 - [N/A] 1560682061
+ 41078008 : Alhatham_ElementalArt_CoAttack03_Constellation_1 - [N/A] 4103662077
+ 41078011 : Alhatham_ElementalBurst_Dummy - [N/A] 2022817589
  42000001 : Fishing_Aim_Bullet - [N/A] 948791589
  42000002 : Fishing_Cork - [N/A] 3201528309
  42001001 : Slime_IceCone_AimPoint - [N/A] 4070709791
@@ -1193,6 +1215,7 @@ setFetterLevel : Sets your fetter level for your current active character
  42509016 : Samurai_Ningyo_MaskCloseLock_ToPlace - [N/A] 2596145183
  42509017 : Samurai_Ningyo_BornObject - [N/A] 3018148159
  42509018 : Samurai_Ningyo_LockTarget - [N/A] 712038119
+ 42509019 : Samurai_Ningyo_WindBladeAir_BladeMaster - [N/A] 865564191
  42510001 : Samurai_Kairagi_FireArea - [N/A] 2013216071
  42510002 : Kairagi_RushAtk_Bullet - [N/A] 4186423367
  42510003 : Kairagi_RushAtk_Bullet_Thunder - [N/A] 321225383
@@ -1220,6 +1243,21 @@ setFetterLevel : Sets your fetter level for your current active character
  42550006 : Eremite_Vulture_WindArea - [N/A] 3706864199
  42550007 : Eremite_Longbows_MoveShot_Damage - [N/A] 687002071
  42550008 : Eremite_Longbows_AirShoot_WindArea - [N/A] 1292916871
+ 42560001 : Eremite_Dancer_Boomerang - [N/A] 3548492375
+ 42560002 : Eremite_Dancer_WheelSurround - [N/A] 3787607703
+ 42560003 : Eremite_Dancer_Trap - [N/A] 2195108999
+ 42560004 : Eremite_Chrysopelea_ShaderCut_Gadget - [N/A] 2831645047
+ 42560005 : Eremite_Chrysopelea_ComboAttack_Gadget - [N/A] 678410903
+ 42560006 : Eremite_Chrysopelea_RangeAttack_Bullet - [N/A] 2679176639
+ 42570001 : Eremite_Oracle_Stingers_Bullet - [N/A] 2445929463
+ 42570002 : Eremite_Oracle_LaserAttack_Bullet - [N/A] 3113180095
+ 42570003 : Eremite_Oracle_FunnelAttack_Bullet - [N/A] 4060731967
+ 42570004 : Eremite_Oracle_FunnelAttack_Gadget - [N/A] 3884020815
+ 42570005 : Eremite_Scorpion_ShaderCut_Gadget - [N/A] 2308962959
+ 42570006 : Eremite_Scorpion_RangeAttack_Bullet - [N/A] 2162733327
+ 42570007 : Eremite_Scorpion_MeleeAttack_Bullet - [N/A] 1655028663
+ 42570008 : Eremite_Scorpion_ComboAttack_Gadget - [N/A] 1971621423
+ 42570009 : Eremite_Scorpion_RangeAttack_RayBullet - [N/A] 1740862423
  42601001 : Mimik_Ice_ForwardBullet - [N/A] 1887752319
  42601002 : Mimik_Ice_ForwardCannon - [N/A] 239623631
  42601003 : Mimik_Ice_UpperMissile - [N/A] 2883953935
@@ -1414,6 +1452,33 @@ setFetterLevel : Sets your fetter level for your current active character
  42609024 : Fungus_Un_Water_Bubble - [N/A] 4040866999
  42609025 : Fungus_Deux_Wind_OverdoseBullet - [N/A] 1900741015
  42609026 : Fungus_Un_Dendro_Bullet_UB - [N/A] 437828143
+ 42610001 : Scorpion_Sacred_SacredAttack03_Bullet - [N/A] 157394007
+ 42610002 : Scorpion_Sacred_SacredAttack05_Bullet - [N/A] 1362906215
+ 42610003 : Scorpion_Sacred_SacredEnergy_Gadget - [N/A] 4201293127
+ 42610004 : Scorpion_Sacred_SacredEnergy_Bullet - [N/A] 426087711
+ 42610005 : Scorpion_Sacred_SacredEnergy_Accum - [N/A] 1086890671
+ 42610006 : Scorpion_Sacred_SacredAttack05_Bullet2 - [N/A] 3394513775
+ 42610007 : Scorpion_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 2396345631
+ 42610017 : Vulture_Sacred_SacredAttack04_Bullet - [N/A] 1931426559
+ 42610018 : Vulture_Sacred_SacredAttack05_Bullet - [N/A] 3313926135
+ 42610019 : Vulture_Sacred_SacredEnergy_Gadget - [N/A] 4274054415
+ 42610020 : Vulture_Sacred_SacredEnergy_Bullet - [N/A] 3474544455
+ 42610021 : Vulture_Sacred_SacredEnergy_Detect - [N/A] 3571112831
+ 42610022 : Vulture_Sacred_SacredEnergy_Accum - [N/A] 205944767
+ 42610023 : Vulture_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3491967647
+ 42610024 : Chrysopelea_Sacred_Attack01_Bullet - [N/A] 3919499911
+ 42610025 : Chrysopelea_Sacred_Attack01_WindZone - [N/A] 27701559
+ 42610026 : Chrysopelea_Sacred_SacredEnergy_Gadget - [N/A] 1669444215
+ 42610027 : Chrysopelea_Sacred_SacredEnergy_Bullet - [N/A] 2668002983
+ 42610028 : Chrysopelea_Sacred_Attack02_WindBlade - [N/A] 2268598063
+ 42610029 : Chrysopelea_Sacred_Attack04_WindZone - [N/A] 3244977807
+ 42610030 : Chrysopelea_Sacred_Attack05_Bullet - [N/A] 3994716847
+ 42610031 : Chrysopelea_Sacred_SacredEnergy_Detect - [N/A] 1576521079
+ 42610032 : Chrysopelea_Sacred_SacredEnergy_Accum - [N/A] 1749515879
+ 42610033 : Chrysopelea_Sacred_Attack05_WindBlade - [N/A] 2250065735
+ 42610034 : Chrysopelea_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3603489927
+ 42610035 : Chrysopelea_Sacred_Attack02_WindBlade02 - [N/A] 475343279
+ 42610036 : Chrysopelea_Sacred_Attack02_WindBlade03 - [N/A] 3164834151
  42611001 : Fungus_Raptor_01_ShootAttackBullet - [N/A] 1247474583
  42611002 : Fungus_Raptor_01_PowerAttackBullet - [N/A] 1981485391
  42611003 : Fungus_Raptor_01_SummonAttackBullet - [N/A] 3692441343
@@ -1432,6 +1497,17 @@ setFetterLevel : Sets your fetter level for your current active character
  42611016 : Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay - [N/A] 1382661615
  42611017 : Fungus_Raptor_01_SummonAttackBullet_OnGround - [N/A] 1912276719
  42611018 : Fungus_Un_Delta_Grass_BulletDecayedRaptorSummon - [N/A] 1152419447
+ 42613001 : Bullet_Sandworm_Stage01_ShootAttackBullet - [N/A] 2932985583
+ 42613002 : Bullet_Sandworm_Stage02_TailVerticalShootAttack_BulletOnGround - [N/A] 1481911263
+ 42613003 : Monster_Sandworm_Stage02_FlyingAttackBall - [N/A] 2615035231
+ 42613004 : Bullet_Sandworm_Stage02_FlyingAttackBullet - [N/A] 3970307391
+ 42613005 : Bullet_Sandworm_Stage02_DrillRushAttackBullet - [N/A] 3607401655
+ 42613006 : Bullet_Sandworm_Stage02_UnderGroundMoveTrail_Bullet - [N/A] 1325797263
+ 42613007 : Monster_Sandworm_Stage02_FlyingAttackBall02 - [N/A] 2062639847
+ 42613008 : Monster_Sandworm_Stage02_FlyingAttackBall03 - [N/A] 2977250319
+ 42613009 : Monster_Sandworm_Stage02_FlyingAttackBall04 - [N/A] 242312639
+ 42613010 : Monster_Sandworm_Stage02_FlyingAttackBall05 - [N/A] 2026021447
+ 42613011 : Monster_Sandworm_Stage02_FlyingAttackBall06 - [N/A] 3250352215
  42690001 : DendroTornado_Hunting - [N/A] 1490735319
  42802001 : Boar_RushAtk - [N/A] 3897733399
  42802002 : Boar_BigSnowBall - [N/A] 946776663
@@ -1439,6 +1515,7 @@ setFetterLevel : Sets your fetter level for your current active character
  42802004 : Boar_SnowDrop - [N/A] 2073418471
  42802005 : Boar_03_RushAtk - [N/A] 3801980575
  42805001 : Boltbug_Scarab_Ball - [N/A] 1464668799
+ 42806001 : Chrysopelea_Attack01_Bullet - [N/A] 2582222311
  42901001 : Dvalin_Trigger01 - [N/A] 2857760847
  42901002 : Dvalin_AirFlowGlobal01 - [N/A] 878162351
  42901003 : Dvalin_WindRing01 - [N/A] 3054154647
@@ -1461,7 +1538,7 @@ setFetterLevel : Sets your fetter level for your current active character
  42901029 : Dvalin_S04_Platform01 - [N/A] 753154527
  42901041 : Dvalin_S04_AbyssTrigger - [N/A] 1169221039
  42901042 : Dvalin_S01_WindSlime - [N/A] 2927902063
- 42901043 : Dvalin_S01_FireAbyss - [N/A] 904992831
+ 42901043 : Dvalin_S01_FireAbyss - [N/A] 1636076615
  42901044 : Dvalin_S01_FireAbyss_Cyclone - [N/A] 48205711
  42901045 : Dvalin_S01_FireAbyss_Totem - [N/A] 2034797783
  42901046 : Dvalin_S01_Missile_01 - [N/A] 2551641095
@@ -1775,6 +1852,15 @@ setFetterLevel : Sets your fetter level for your current active character
  42907910 : Gagana_EnergyCube_Small - [N/A] 4263390975
  42907911 : Gagana_EnergyCubeSpecial - [N/A] 3132457399
  42907912 : Gagana_AutoShootBullet_Powerful - [N/A] 2271855919
+ 43805001 : Partner_Animal_Electrohercules_JumpAttack - [N/A] 1817545303
+ 43805002 : Partner_Animal_Electrohercules_JumpAttack_CriticalTrigger - [N/A] 688400959
+ 43805003 : Animal_Electrohercules_RangedAttack01_Attack - [N/A] 3968051159
+ 43805004 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 2126377159
+ 43805005 : Bullet_Animal_Electrohercules_ElectricBall_OnGround - [N/A] 789377079
+ 43805006 : Bullet_Animal_Electrohercules_ElectricBall_Kicked - [N/A] 3009696383
+ 43805007 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 3225701015
+ 43805008 : Animal_Electrohercules_06_CameraTarget - [N/A] 1933183503
+ 43805009 : Partner_Animal_Electrohercules_JumpBack - [N/A] 628752167
  44000001 : SkillObj_LevelEntity_TowerBuff_SprintAreaAttack - [N/A] 2478743371
  44000002 : SkillObj_GlidingChallenge_AirDash_Forward - [N/A] 4055901779
  44000003 : SkillObj_GlidingChallenge_AirDash_Upward1 - [N/A] 4039659491
@@ -1999,8 +2085,12 @@ setFetterLevel : Sets your fetter level for your current active character
  44000547 :  - [N/A] 1160347275
  44000548 :  - [N/A] 1443849811
  44000549 : CoinCollect_WindField - [N/A] 1061538187
+ 44000551 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainChooseMonster - [N/A] 1424403123
+ 44000552 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainExplodeCreatorV3.4 - [N/A] 3771975235
+ 44000553 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainMasterExplodeV3.4 - [N/A] 102652931
  45001001 : Skiff_Normal_01 - [N/A] 1971263784
  45001002 : Skiff_Normal_Beidou - [N/A] 4127622224
+ 45001003 : Skiff_Normal_LanV3BoatGame - [N/A] 1002409352
  49001001 : GeneralSkill_IceDamage_Prison_Center - [N/A] 3689397839
  49001002 : GeneralSkill_WindDamage_Vortex_Center - [N/A] 3989476855
  49001003 : GeneralSkill_RockDamage_LowWave_Emitter - [N/A] 1638573951
@@ -2022,6 +2112,7 @@ setFetterLevel : Sets your fetter level for your current active character
  49001020 : MonsterAffix_Drop_Rock_CenterGadget - [N/A] 2838867671
  49001021 : MonsterAffix_Drop_Rock_Bullet_Stage1 - [N/A] 2780804615
  49001022 : MonsterAffix_Drop_Rock_Bullet_Stage2 - [N/A] 3950134471
+ 49001023 : MonsterAffix_Activity_Deathrattle_Gadget_DoomLogic - [N/A] 1656916927
  50004001 : MonEquip_WoodenClub_01 - [N/A] 2276690274
  50004002 : MonEquip_Shield_01 - [N/A] 385102474
  50004003 : MonEquip_WoodenClub_Fire_01 - [N/A] 2366820018
@@ -2158,6 +2249,7 @@ setFetterLevel : Sets your fetter level for your current active character
  50011509 : Weapon_Sword_Metal - [N/A] 2049132762
  50011510 : Weapon_Sword_Metal - [N/A] 1767000186
  50011511 : Weapon_Sword_Metal - [N/A] 678116498
+ 50011512 : Weapon_Sword_Metal - [N/A] 2148878538
  50012101 : Weapon_Claymore_Metal - [N/A] 3190308418
  50012201 : Weapon_Claymore_Metal - [N/A] 3652942962
  50012301 : Weapon_Claymore_Metal - [N/A] 2236465170
@@ -2338,6 +2430,7 @@ setFetterLevel : Sets your fetter level for your current active character
  70120007 : SceneObj_Resident_DungeonEntry_Temp_3d - [N/A] 2071956017
  70120008 : SceneObj_Resident_DungeonEntry_MengDe03 - [N/A] 2185414225
  70120009 : SceneObj_Resident_DungeonEntry_MakotoTorii - [N/A] 2887094801
+ 70120011 : SceneObj_Resident_DungeonEntry_Desert01 - [N/A] 3773079265
  70130001 : Windmill - [N/A] 1253491753
  70130002 : Windmill - [N/A] 138536801
  70130003 : Windmill - [N/A] 1190443273
@@ -2477,6 +2570,7 @@ setFetterLevel : Sets your fetter level for your current active character
  70217018 : SceneObj_Chest_Relic02 - [N/A] 4118874809
  70217019 : SceneObj_Chest_Relic02 - [N/A] 249981361
  70217020 : SceneObj_Area_Xm_Property_Prop_SumeruCrudeChest_01 - [N/A] 3499701441
+ 70217021 : SceneObj_Area_Xm_Property_Prop_Qzft_Chest_01 - [N/A] 1255863673
  70220001 : SceneObj_Environment_GrassMaterial_LeaveStacks - [N/A] 2131907393
  70220002 : SceneObj_Environment_GrassMaterial_LeafBlanket - [N/A] 3400770321
  70220003 : SceneObj_Environment_WoodenMaterial_BrambleWall01 - [N/A] 940992233
@@ -3167,8 +3261,10 @@ setFetterLevel : Sets your fetter level for your current active character
  70290432 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2610296801
  70290433 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2293893953
  70290434 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2074184041
+ 70290435 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_01 - [N/A] 2036496833
  70290436 : SceneObj_Area_Xm_Property_Prop_RootPot_01 - [N/A] 763381017
  70290437 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruBubble_01 - [N/A] 2077054049
+ 70290438 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Bullet_01 - [N/A] 2755426545
  70290439 :  - [N/A] 529036153
  70290440 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part_NoDither - [N/A] 2255502849
  70290441 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part - [N/A] 3174113273
@@ -3183,6 +3279,17 @@ setFetterLevel : Sets your fetter level for your current active character
  70290450 : SceneObj_Area_Common_Property_Prop_Excavate_01 - [N/A] 631751737
  70290451 : SceneObj_Area_Xm_Property_Prop_SeelieFarAway_01 - [N/A] 2563897945
  70290452 : SceneObj_Area_Common_Property_Prop_ExplorationRing_01 - [N/A] 158715585
+ 70290453 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_01 - [N/A] 988585289
+ 70290454 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_02 - [N/A] 1189602505
+ 70290455 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3116403553
+ 70290456 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3434048849
+ 70290457 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_01 - [N/A] 1679508649
+ 70290458 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Balance_01 - [N/A] 2251884753
+ 70290459 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Transparency_01 - [N/A] 1446169785
+ 70290460 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_DeadZone_01 - [N/A] 1166772305
+ 70290461 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_02 - [N/A] 2342499809
+ 70290462 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_01 - [N/A] 4207694721
+ 70290463 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 713757273
  70290464 :  - [N/A] 1503227049
  70290465 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_01 - [N/A] 3551710265
  70290466 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_02 - [N/A] 241714481
@@ -3314,7 +3421,55 @@ setFetterLevel : Sets your fetter level for your current active character
  70290597 : SceneObj_Area_Xm_Property_Water_CaveNoRPR120 - [N/A] 1115917249
  70290598 : SceneObj_Gear_Platform_WaterPlatform - [N/A] 2712802545
  70290599 : SceneObj_Area_Xm_Property_Prop_ChorusMusicGadget - [N/A] 2147750849
+ 70290600 : SceneObj_Area_Xm_Property_Ani_Prop_SpiritEnergyGear_01 - [N/A] 2049723257
+ 70290601 : SceneObj_Area_Xm_Property_Prop_SandTornado_01 - [N/A] 41434961
+ 70290602 : SceneObj_Area_Xm_Property_Prop_SandTornado_02 - [N/A] 1326509065
+ 70290603 : SceneObj_Area_Xm_Property_Prop_Lzsg_01 - [N/A] 3240334449
+ 70290604 : SceneObj_Area_Xm_Property_Prop_Hssz_01 - [N/A] 3745118673
+ 70290605 : SceneObj_Area_Xm_Property_Prop_Lzpb_01 - [N/A] 2274278689
+ 70290606 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_01 - [N/A] 2157025297
+ 70290607 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_02 - [N/A] 2214960881
  70290608 : SceneObj_Activity_Brick_Breaker - [N/A] 2580652217
+ 70290609 : SceneObj_Area_Xm_Property_Prop_OasisController_01 - [N/A] 78050633
+ 70290610 : SceneObj_Area_Common_Property_Ani_Prop_PipeGear_01 - [N/A] 828154569
+ 70290611 : SceneObj_Area_Common_Property_Ani_Prop_BrokenGear_01 - [N/A] 4140570817
+ 70290612 : SceneObj_Area_Common_Property_Ani_Prop_MaranaGear_01 - [N/A] 1410562897
+ 70290613 : SceneObj_Area_Xm_Property_Prop_SandFall_01 - [N/A] 50458873
+ 70290614 : SceneObj_Area_Xm_Property_Ani_Prop_SandContainerWall_01 - [N/A] 1421177553
+ 70290615 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 4252347825
+ 70290616 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 2510245593
+ 70290617 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 529665777
+ 70290618 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 1767819281
+ 70290619 : SceneObj_Area_Xm_Property_Ani_Prop_ChangeableStone_01 - [N/A] 829317745
+ 70290620 : SceneObj_Area_Common_Property_Prop_LaserWall_01 - [N/A] 18549409
+ 70290621 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3734889289
+ 70290622 : SceneObj_Area_Xm_Property_Ani_Prop_BrokenSlabStone_05 - [N/A] 339468329
+ 70290623 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 409823921
+ 70290624 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Normal_01 - [N/A] 1815794993
+ 70290625 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Hard_01 - [N/A] 3883894849
+ 70290626 : SceneObj_Area_Xm_Property_Prop_SandFall_02 - [N/A] 744073057
+ 70290627 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_01 - [N/A] 3822609169
+ 70290628 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Direct_01 - [N/A] 2685721425
+ 70290629 : SceneObj_Area_Xm_Property_Prop_Cwcfz_01 - [N/A] 1953317377
+ 70290630 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 3215638145
+ 70290631 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_Movable - [N/A] 2768729457
+ 70290632 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_NoMove - [N/A] 2386538745
+ 70290633 : SceneObj_Area_Xm_Property_Prop_Cwcfz_02 - [N/A] 1988180561
+ 70290634 : SceneObj_Area_Xm_Property_Prop_Cwcfz_03 - [N/A] 1969550393
+ 70290635 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 2518409809
+ 70290636 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 1779814105
+ 70290637 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 3807423753
+ 70290638 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_01 - [N/A] 2076167945
+ 70290639 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_01 - [N/A] 2773464097
+ 70290640 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_01 - [N/A] 3034438033
+ 70290641 : SceneObj_Desert_DeshretObelisk - [N/A] 1879846817
+ 70290642 : SceneObj_Desert_DeshretObelisk - [N/A] 4276804769
+ 70290643 : SceneObj_Desert_DeshretObelisk - [N/A] 2083341033
+ 70290644 : SceneObj_Desert_DeshretObelisk - [N/A] 3302552593
+ 70290645 : SceneObj_Desert_DeshretObelisk - [N/A] 364667705
+ 70290646 : SceneObj_Desert_DeshretObelisk - [N/A] 3624640993
+ 70290647 : SceneObj_Desert_DeshretObelisk - [N/A] 858805217
+ 70290648 : SceneObj_Desert_DeshretObelisk - [N/A] 3056909833
  70290650 : SceneObj_Level_Common_Property_Prop_CallEntity_01 - [N/A] 1160269489
  70290651 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_01 - [N/A] 4182368257
  70290652 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_02 - [N/A] 4018773201
@@ -3332,6 +3487,40 @@ setFetterLevel : Sets your fetter level for your current active character
  70290664 : Quest_VoidSearching_Target - [N/A] 3397138529
  70290665 : BrickBreaker_Env_Candle - [N/A] 3199094937
  70290666 : SceneObj__BrickBreaker_LampController_01 - [N/A] 1541852665
+ 70290670 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 2065884305
+ 70290671 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_01 - [N/A] 3621829921
+ 70290672 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_01 - [N/A] 3666126313
+ 70290673 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_02 - [N/A] 3199666065
+ 70290674 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3967556113
+ 70290675 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 4176026001
+ 70290676 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1021316729
+ 70290677 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3698166481
+ 70290678 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1061070529
+ 70290679 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1472762657
+ 70290680 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 577811889
+ 70290681 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 2579409233
+ 70290682 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3336319465
+ 70290683 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 1663416393
+ 70290684 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3562583497
+ 70290685 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2803790033
+ 70290686 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2806710817
+ 70290687 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2528805641
+ 70290688 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3311007569
+ 70290689 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3226777585
+ 70290690 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3352686545
+ 70290691 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3605855513
+ 70290692 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_01 - [N/A] 1512358633
+ 70290693 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Hint - [N/A] 1994277409
+ 70290694 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_02 - [N/A] 3258169521
+ 70290695 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment - [N/A] 1832319705
+ 70290696 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment_Controller - [N/A] 3695160057
+ 70290697 : SceneObj_Area_Xm_Property_Prop_Cwfs_01 - [N/A] 3679600321
+ 70290698 : SceneObj_Area_Xm_Property_Prop_Cwfs_02 - [N/A] 2406359121
+ 70290699 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 3428859385
+ 70290700 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 1730450033
+ 70290701 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_02 - [N/A] 1868891241
+ 70290702 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_03 - [N/A] 749032825
+ 70290703 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_04 - [N/A] 1081186537
  70290704 : SceneObj_Activity_Brick_Breaker_Boss_Samurai - [N/A] 4141117945
  70290705 : SceneObj_Activity_Brick_Breaker_Boss_MirrorGirl - [N/A] 1843539049
  70290706 : SceneObj_Activity_Brick_Breaker_Boss_Elec_Mage - [N/A] 3437297697
@@ -3379,17 +3568,108 @@ setFetterLevel : Sets your fetter level for your current active character
  70290753 :  - [N/A] 1622761993
  70290754 : SceneObj_Area_Dq_Property_Ani_Prop_AkebiaGroup_01 - [N/A] 706612529
  70290755 : SceneObj_Area_Dq_Property_Ani_Prop_Catstatue_01 - [N/A] 1353183857
+ 70290756 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_01 - [N/A] 3910653121
+ 70290757 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_02 - [N/A] 1436925217
+ 70290758 : SceneObj_Area_Xm_Property_Prop_Lzsg_02 - [N/A] 2514548601
+ 70290759 : SceneObj_AnimalObj_Ani_Level_Pigeon_Beak_01 - [N/A] 3662799673
+ 70290760 : SceneObj_AnimalObj_Ani_Level_Crane_Lbis_01 - [N/A] 82317961
+ 70290761 : SceneObj_AnimalObj_Ani_Level_Apsva_01 - [N/A] 375359489
+ 70290762 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Platform_01 - [N/A] 421179601
+ 70290763 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 495312385
+ 70290764 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Attack_01 - [N/A] 2912098969
+ 70290765 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Board - [N/A] 1571075993
+ 70290766 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 1933523545
+ 70290767 : SceneObj_Area_Xm_Property_Prop_ChessClockworkGiving_01 - [N/A] 963474121
+ 70290768 : SceneObj_Area_Xm_Property_Prop_ChessEmptyGiving_01 - [N/A] 2832043705
+ 70290769 : SceneObj_Area_Xm_Property_Ani_Prop_JamshidCupGear_01 - [N/A] 1587810321
+ 70290770 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_01 - [N/A] 2301408537
+ 70290772 : SceneObj_Area_Dq_Property_Prop_ElectroherculesBattlefield_01 - [N/A] 566775753
+ 70290773 : SceneObj_Area_Dq_Property_Ani_Prop_ElectroherculesBattlePosterBoard_01 - [N/A] 974868377
+ 70290777 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBall_01 - [N/A] 116298593
+ 70290778 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoin_01 - [N/A] 1873600001
+ 70290779 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoinLarge_01 - [N/A] 1015078889
+ 70290780 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBoundary_01 - [N/A] 2255335753
+ 70290781 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPMaelstrom_01 - [N/A] 2856177153
+ 70290782 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_01 - [N/A] 1583439265
+ 70290783 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPAirdrop_01 - [N/A] 3375289777
+ 70290784 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoin_01 - [N/A] 4070373073
+ 70290785 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBomb_01 - [N/A] 2271280649
+ 70290786 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodenBox_01 - [N/A] 4271170785
+ 70290787 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPNightLamp_01 - [N/A] 2036980585
+ 70290788 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropLamp_01 - [N/A] 606742473
+ 70290789 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1368822425
+ 70290790 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1950693041
+ 70290791 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 4014783241
+ 70290792 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleFirework_01 - [N/A] 818296505
+ 70290793 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPGhostMark_01 - [N/A] 1838099145
+ 70290794 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_02 - [N/A] 3043482305
+ 70290795 : SceneObj_Level_Common_Property_Ani_Prop_DoorLocker_01 - [N/A] 4192419281
+ 70290796 : SceneObj_Level_Common_Property_Ani_Prop_TransparentElevator_01 - [N/A] 4179799089
+ 70290797 : SceneObj_Level_Common_Property_Ani_Prop_Door_Blocker_01 - [N/A] 993553561
+ 70290798 : SceneObj_Level_Common_Property_Ani_Prop_DoorKeycard_01 - [N/A] 1956293185
+ 70290799 :  - [N/A] 1782289217
+ 70290800 :  - [N/A] 2763753593
+ 70290819 :  - [N/A] 2673719841
+ 70290820 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_01 - [N/A] 4131157633
+ 70290821 : SceneObj_Area_Xm_Property_Prop_Szqparc_01 - [N/A] 4002794665
+ 70290822 : SceneObj_Area_Xm_Property_Prop_Szqpcwl_01 - [N/A] 1835805609
+ 70290823 : SceneObj_Area_Xm_Property_Prop_Szqpcwzb_01 - [N/A] 1158346377
+ 70290824 : SceneObj_Area_Xm_Property_Prop_Szqpcwzx_01 - [N/A] 2306618513
+ 70290825 : SceneObj_Area_Xm_Property_Prop_Szqpjrc_01 - [N/A] 3976695529
+ 70290826 : SceneObj_Area_Xm_Property_Prop_Szqplsyj_01 - [N/A] 856255729
+ 70290827 : SceneObj_Area_Xm_Property_Prop_Szqptyc_01 - [N/A] 3062240561
+ 70290828 : SceneObj_Area_Xm_Property_Prop_Szqpxst_01 - [N/A] 516606289
+ 70290829 : SceneObj_Area_Xm_Property_Prop_Qzft_01 - [N/A] 1971884617
+ 70290830 : SceneObj_Area_Xm_Property_Prop_Szqpdz_01 - [N/A] 3199107193
+ 70290831 : SceneObj_Area_Xm_Property_Prop_Szqpdz_02 - [N/A] 613322265
  70290832 : SceneObj_Level_Xm_Property_Ani_Prop_InformationPiece_01 - [N/A] 1830205377
  70290833 : SceneObj_Level_Xm_Property_Prop_ScaramouchePortal_01 - [N/A] 2987652529
  70290834 : SceneObj_Area_Xm_Property_Ani_Build_BazarDoor_01 - [N/A] 941331121
+ 70290860 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_02 - [N/A] 2251160953
+ 70290861 : SceneObj_Area_Common_Property_Prop_LaserWall_02 - [N/A] 308414369
+ 70290862 : SceneObj_Area_Xm_Property_Ani_Build_JYQB_01 - [N/A] 1454494345
+ 70290863 : SceneObj_Area_Xm_Property_Ani_Stone_SHSQ_01 - [N/A] 1185067017
+ 70290864 : SceneObj_Area_Xm_Property_Ecloth_Dujinposun_01 - [N/A] 157865001
+ 70290865 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3300277345
+ 70290866 : SceneObj_Area_Xm_Property_Prop_LaserGear_02 - [N/A] 2574218145
+ 70290867 : SceneObj_Area_Xm_Property_Prop_LaserGear_03 - [N/A] 2327111601
  70290868 : Sanbin_Music - [N/A] 2459687353
  70290869 :  - [N/A] 3064282769
  70290870 : SceneObj_Area_Dq_Property_Ani_Prop_Scarecrow_03 - [N/A] 4260314561
  70290871 : SceneObj_Area_Xm_Property_Ani_Prop_TrainerCompetitionBead_02 - [N/A] 182187985
  70290872 :  - [N/A] 3557107129
  70290873 :  - [N/A] 203217313
+ 70290881 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_NoFunction - [N/A] 2335447033
+ 70290882 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_02 - [N/A] 1545799841
+ 70290884 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_02 - [N/A] 3775078857
  70290885 : SceneObj_Activity_Brick_Breaker_Preloader - [N/A] 3592606657
+ 70290889 :  - [N/A] 2330750329
+ 70290890 :  - [N/A] 2561942945
+ 70290891 :  - [N/A] 3625638817
+ 70290892 : SceneObj_Area_Xm_Property_Prop_ReadingSlabStone_01 - [N/A] 2829260473
+ 70290893 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_01 - [N/A] 3785512081
+ 70290894 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_02 - [N/A] 993246521
+ 70290895 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_03 - [N/A] 3732501441
+ 70290896 :  - [N/A] 2506758329
+ 70290897 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_02 - [N/A] 2916990417
+ 70290898 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_03 - [N/A] 3872647737
+ 70290899 : SceneObj_Area_Xm_Property_Prop_ScarletKing_Airwall_01 - [N/A] 2000506001
+ 70290900 :  - [N/A] 3602909649
+ 70290901 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_02 - [N/A] 2738632729
+ 70290902 : SceneObj_Area_Xm_Property_Prop_Hssz_02 - [N/A] 55393673
+ 70290903 : SceneObj_Area_Xm_Property_Prop_Lzpb_02 - [N/A] 3018163905
+ 70290904 : SceneObj_Area_Xm_Property_Prop_JamshidCup_Airwall_01 - [N/A] 136141633
+ 70290905 : SceneObj_Area_Xm_Property_Ani_Prop_TransparentWall_01 - [N/A] 3239300161
+ 70290906 : SceneObj_Area_Xm_Property_Prop_MoveSand_03 - [N/A] 3172474817
+ 70290907 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_03 - [N/A] 1279688073
+ 70290908 : SceneObj_Area_Common_Property_Prop_LaserWall_03 - [N/A] 2020225473
  70290909 : SceneObj_Indoor_Common_Property_Ani_Prop_Teathingsindoor_03 - [N/A] 1362053921
+ 70290922 : SceneObj_Area_Xm_Property_Prop_LaserGear_04 - [N/A] 3460494409
+ 70291001 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_03 - [N/A] 1447249545
+ 70291002 : SceneObj_Gear_Other_InvisibleUploader04 - [N/A] 2095888905
+ 70291003 : SceneObj_Area_Xm_Property_Prop_CenterTorAirWall - [N/A] 988895089
+ 70291004 :  - [N/A] 671624161
+ 70291005 : SceneObj_Area_Xm_Property_Prop_SandwormChallengeAirwall - [N/A] 1258112281
  70300001 : SceneObj_Gather_Default_Gather - [N/A] 2463077793
  70300002 : SceneObj_Gather_Default_Gather - [N/A] 435938641
  70300003 : SceneObj_Quest_Flying_Get_Coin_Effect - [N/A] 1909103967
@@ -5573,6 +5853,7 @@ setFetterLevel : Sets your fetter level for your current active character
  70540046 : SceneObj_Gather_Small - [N/A] 1580873673
  70540047 : SceneObj_Gather_DatePlam - [N/A] 1381569401
  70540048 :  - [N/A] 388710929
+ 70540049 : SceneObj_Gather_Small - [N/A] 2589556881
  70560001 : SceneObj_Gather_Small - [N/A] 1155995105
  70560002 : SceneObj_Gather_Small_Ore - [N/A] 2803859553
  70560003 : SceneObj_Gather_Small_Ore - [N/A] 1202487865
@@ -5651,6 +5932,7 @@ setFetterLevel : Sets your fetter level for your current active character
  70590070 : SceneObj_Area_Hd_Property_Prop_PaperStar_03 - [N/A] 80470761
  70590071 : SceneObj_Level_Common_Property_Prop_CityRotateAixs_02 - [N/A] 1671906865
  70590072 : SceneObj_Common_CityRotateAixs - [N/A] 2121690545
+ 70590073 : SceneObj_Gather_Small - [N/A] 1168502889
  70600001 :  - [N/A] 4043639353
  70600002 :  - [N/A] 1991417585
  70600003 :  - [N/A] 1523077529
@@ -6656,6 +6938,9 @@ setFetterLevel : Sets your fetter level for your current active character
  70710889 :  - [N/A] 1176318735
  70710890 : SceneObj_Quest_ElementBreath_Electric_Element - [N/A] 3969268143
  70710891 :  - [N/A] 1681877263
+ 70710892 : SceneObj_Quest_AchivementInvestigation - [N/A] 1738903079
+ 70710893 : SceneObj_Quest_AchivementInvestigation - [N/A] 2092769335
+ 70710894 : SceneObj_Quest_AchivementInvestigation - [N/A] 780413271
  70710895 :  - [N/A] 1907407839
  70710896 :  - [N/A] 1294335647
  70710908 :  - [N/A] 780216575
@@ -6664,6 +6949,11 @@ setFetterLevel : Sets your fetter level for your current active character
  70710911 :  - [N/A] 2167946623
  70710912 :  - [N/A] 1374780487
  70710913 : SearchPoint - [N/A] 142390399
+ 70710914 :  - [N/A] 3252891423
+ 70710915 :  - [N/A] 2481710271
+ 70710916 :  - [N/A] 4132842759
+ 70710917 :  - [N/A] 1247294631
+ 70710918 :  - [N/A] 520979471
  70710919 :  - [N/A] 2270250551
  70710920 :  - [N/A] 2047865855
  70710921 :  - [N/A] 2284767495
@@ -6672,13 +6962,27 @@ setFetterLevel : Sets your fetter level for your current active character
  70710924 :  - [N/A] 3206899887
  70710925 :  - [N/A] 2352741247
  70710926 :  - [N/A] 2460280967
+ 70710927 : SceneObj_Quest_AchivementInvestigation - [N/A] 824323791
  70710928 :  - [N/A] 3631908879
  70710929 :  - [N/A] 969754951
+ 70710930 :  - [N/A] 438293127
+ 70710931 :  - [N/A] 3655199319
+ 70710932 :  - [N/A] 3675843807
+ 70710933 :  - [N/A] 2105317511
+ 70710934 :  - [N/A] 1156205239
+ 70710935 :  - [N/A] 168294031
+ 70710936 :  - [N/A] 1739784919
+ 70710937 :  - [N/A] 3068865303
  70710938 :  - [N/A] 3920354559
+ 70710939 :  - [N/A] 488885071
  70710940 :  - [N/A] 388520151
  70710941 :  - [N/A] 2363334071
  70710953 : SceneObj_Quest_Interact_Point_07 - [N/A] 2407080071
  70710962 : SceneObj_Quest_OniBull - [N/A] 4090643455
+ 70710973 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 3013658623
+ 70710974 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 1551449919
+ 70710975 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 2083509431
+ 70710981 :  - [N/A] 497156767
  70720214 : SceneObj_Gear_Platform_FireSeelie - [N/A] 700269681
  70720215 : SceneObj_Area_Common_Property_Prop_FireSeeliaLamp_01 - [N/A] 3100115025
  70720216 : FireElfTrack - [N/A] 880334585
@@ -7007,6 +7311,27 @@ setFetterLevel : Sets your fetter level for your current active character
  70800441 :  - [N/A] 631449489
  70800442 :  - [N/A] 646587945
  70800443 :  - [N/A] 606302529
+ 70800444 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_01 - [N/A] 3932973265
+ 70800445 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_02 - [N/A] 3794137025
+ 70800446 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainOperator_01 - [N/A] 1986253921
+ 70800447 : SceneObj_Area_Common_Property_Ani_Prop_Confetti_Balloon_01 - [N/A] 362013905
+ 70800448 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruOpenWorldPlatform_01 - [N/A] 702704337
+ 70800449 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_01 - [N/A] 908786097
+ 70800450 : SceneObj_Area_Ly_Property_Ani_Prop_ShadowScreen_01 - [N/A] 3396030433
+ 70800451 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_01 - [N/A] 1475809809
+ 70800452 : SceneObj_Area_Xm_Property_Ani_Prop_VoidProjector_01 - [N/A] 699273961
+ 70800453 : SceneObj_Area_Ljxs_Property_Prop_HeroTreasure_02 - [N/A] 407816561
+ 70800454 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_02 - [N/A] 4216218921
+ 70800455 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCamera_01 - [N/A] 3044675081
+ 70800456 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBomb_01 - [N/A] 3199149169
+ 70800457 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPSwirl_01 - [N/A] 2486123929
+ 70800458 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodfence_01 - [N/A] 3142808417
+ 70800459 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoinWarning_01 - [N/A] 195920961
+ 70800460 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBombWarning_01 - [N/A] 3452714417
+ 70800461 :  - [N/A] 2039290481
+ 70800462 :  - [N/A] 450272193
+ 70800463 :  - [N/A] 3369323937
+ 70800464 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_02 - [N/A] 3713189969
  70800606 :  - [N/A] 3682329881
  70800607 :  - [N/A] 2482289473
  70800608 :  - [N/A] 167831129
@@ -7454,8 +7779,16 @@ setFetterLevel : Sets your fetter level for your current active character
  70950160 : AuthTest02 - [N/A] 663172785
  70950161 : SceneObj_Gear_MushRoom_Catch - [N/A] 1796075385
  70950162 :  - [N/A] 2320574633
+ 70950163 : SceneObj_Stages_Property_Prop_UnstableSprayDungeonAirWall_01 - [N/A] 1062739665
  70950164 :  - [N/A] 4005710289
+ 70950165 : SceneObj_Gear_Fungus_Tower_Water - [N/A] 3258235065
+ 70950166 : SceneObj_Gear_Fungus_Tower_Fire - [N/A] 360753353
+ 70950167 : SceneObj_Gear_Fungus_Tower_Ice - [N/A] 2575487569
+ 70950168 : SceneObj_Gear_Fungus_Tower_Wind - [N/A] 3783300113
+ 70950169 : SceneObj_Gear_Fungus_Tower_Electric - [N/A] 3750317545
  70950170 :  - [N/A] 1504874193
+ 70950171 :  - [N/A] 3077198361
+ 70950177 :  - [N/A] 3897053113
  71000004 : SceneObj_Amber_RockAmber - [N/A] 2485577729
  71000005 : SceneObj_Task_Rock_Pierce - [N/A] 2140993833
  71000006 : SceneObj_Task_Rock_Pierce - [N/A] 901713497
@@ -7502,7 +7835,7 @@ setFetterLevel : Sets your fetter level for your current active character
  71700040 : SceneObj_Gather_Default_Gather - [N/A] 3560208711
  71700041 :  - [N/A] 3950935687
  71700042 : SceneObj_Gather_Default_Gather - [N/A] 323372687
- 71700043 : SceneObj_Gather_Default_Gather - [N/A] 1211019199
+ 71700043 : SceneObj_Gather_Default_Gather - [N/A] 901760187
  71700044 : SceneObj_Gather_Default_Gather - [N/A] 625468279
  71700045 : SceneObj_Gather_Default_Gather - [N/A] 1682840319
  71700046 : SceneObj_Gather_Default_Gather - [N/A] 1897303103
@@ -7994,6 +8327,7 @@ setFetterLevel : Sets your fetter level for your current active character
  71700533 : SearchPoint - [N/A] 1182362455
  71700534 :  - [N/A] 1826784983
  71700535 : SceneObj_Gather_Default_Gather - [N/A] 3763672775
+ 71700536 : SceneObj_Gather_Default_Gather - [N/A] 3835825727
  71700537 : SceneObj_Environment_Obelisk01 - [N/A] 3874829191
  71700538 : SceneObj_Environment_Obelisk02 - [N/A] 2015357591
  71700539 : SceneObj_Environment_Obelisk03 - [N/A] 3119143583
@@ -8012,13 +8346,76 @@ setFetterLevel : Sets your fetter level for your current active character
  71700552 :  - [N/A] 2523597903
  71700553 :  - [N/A] 3869879999
  71700554 : Nahida_Quest_Hitbox_02 - [N/A] 202070175
+ 71700555 : SceneObj_Environment_Bulletin14 - [N/A] 1441876823
+ 71700556 : SceneObj_Environment_Bulletin13 - [N/A] 3536146543
+ 71700557 : SceneObj_Environment_Bulletin12 - [N/A] 1475692095
+ 71700558 : SceneObj_Environment_Bulletin11 - [N/A] 2961980335
+ 71700559 : SceneObj_Environment_Bulletin10 - [N/A] 886816615
+ 71700560 : SceneObj_Environment_Bulletin9 - [N/A] 2920796151
+ 71700561 : SceneObj_Environment_Secret_letter01 - [N/A] 1878976943
  71700562 : SceneObj_Level_Common_Property_Prop_Worldtreegate_01 - [N/A] 3799131767
  71700563 : SceneObj_Area_Xm_Property_Prop_MemoryInterface_01 - [N/A] 3529432279
  71700564 :  - [N/A] 937193167
  71700565 : SceneObj_Level_Common_Property_Ani_Prop_Memorypiece_01 - [N/A] 534626895
  71700566 : SceneObj_Quest_Hdj_FireworkLauncher_01 - [N/A] 1331020143
+ 71700567 :  - [N/A] 19555559
+ 71700568 : SceneObj_Environment_Bulletin15 - [N/A] 3507925799
+ 71700569 : SceneObj_Environment_Bulletin16 - [N/A] 2872563743
+ 71700570 : SceneObj_Environment_Bulletin17 - [N/A] 166606919
+ 71700571 : SceneObj_Environment_Bulletin18 - [N/A] 899554975
+ 71700572 : SceneObj_Environment_Bulletin19 - [N/A] 3977871391
+ 71700573 : SceneObj_Environment_Bulletin20 - [N/A] 744843375
+ 71700574 : SceneObj_Environment_Bulletin21 - [N/A] 2613345079
+ 71700575 : SceneObj_Environment_Bulletin22 - [N/A] 3075106991
+ 71700576 : SceneObj_Environment_Bulletin23 - [N/A] 808435919
+ 71700577 : SceneObj_Environment_Bulletin24 - [N/A] 3452389415
+ 71700578 : SceneObj_Environment_Bulletin25 - [N/A] 1324277319
+ 71700579 : SceneObj_Environment_Bulletin26 - [N/A] 1686395023
+ 71700580 : SceneObj_Environment_Bulletin27 - [N/A] 2910681255
+ 71700581 : SceneObj_Environment_Bulletin28 - [N/A] 209489335
+ 71700582 : SceneObj_Environment_Bulletin29 - [N/A] 1230168871
+ 71700583 : SceneObj_Environment_Bulletin30 - [N/A] 2048216551
+ 71700584 : SceneObj_Environment_Bulletin31 - [N/A] 686354935
+ 71700585 : SceneObj_Environment_Bulletin32 - [N/A] 2036636215
+ 71700586 : SceneObj_Environment_Bulletin33 - [N/A] 2378404583
+ 71700587 : SceneObj_Environment_Bulletin34 - [N/A] 1442908399
+ 71700588 : SceneObj_Environment_Bulletin35 - [N/A] 280066079
+ 71700589 : SceneObj_Environment_Bulletin36 - [N/A] 598662767
+ 71700590 : SceneObj_Environment_Bulletin37 - [N/A] 554201255
+ 71700591 : SceneObj_Environment_Bulletin38 - [N/A] 680850319
+ 71700592 : SceneObj_Environment_Bulletin39 - [N/A] 3466151359
+ 71700593 : SceneObj_Environment_Bulletin40 - [N/A] 74773375
+ 71700594 : SceneObj_Environment_Bulletin41 - [N/A] 3643259735
+ 71700595 : SceneObj_Environment_Bulletin42 - [N/A] 2825451471
+ 71700596 : SceneObj_Environment_Bulletin43 - [N/A] 3664471575
+ 71700597 : SceneObj_Environment_Bulletin44 - [N/A] 123280319
+ 71700598 : SceneObj_Environment_Bulletin45 - [N/A] 1545371135
+ 71700599 : SceneObj_Environment_Bulletin46 - [N/A] 2075308375
+ 71700600 : SceneObj_Environment_Bulletin47 - [N/A] 296683287
  71700601 : SceneObj_Quest_SpecialDisappear_01 - [N/A] 2734585703
+ 71700602 : SceneObj_Environment_Obelisk011 - [N/A] 1091054103
+ 71700603 : SceneObj_Environment_Obelisk012 - [N/A] 2542275471
+ 71700604 : SceneObj_Environment_Obelisk013 - [N/A] 466975391
+ 71700605 : SceneObj_Environment_Obelisk014 - [N/A] 636087703
+ 71700606 : SceneObj_Environment_Obelisk015 - [N/A] 4260185879
+ 71700607 : SceneObj_Environment_Obelisk016 - [N/A] 2362402303
+ 71700608 : SceneObj_Environment_Obelisk017 - [N/A] 1976124887
+ 71700609 : SceneObj_Environment_Obelisk018 - [N/A] 465514831
  71700610 : SceneObj_Quest_Oldmemoryshield_01 - [N/A] 1893535255
+ 71700611 :  - [N/A] 3864370255
+ 71700612 :  - [N/A] 3163176215
+ 71700613 : SceneObj_Environment_Bulletin48 - [N/A] 3760480527
+ 71700614 : SceneObj_Environment_Bulletin49 - [N/A] 1326518607
+ 71700615 : SceneObj_Environment_Bulletin50 - [N/A] 202779519
+ 71700616 : SceneObj_Environment_Bulletin51 - [N/A] 3315865431
+ 71700617 : SceneObj_Environment_Bulletin52 - [N/A] 3687612527
+ 71700618 : SceneObj_Environment_Bulletin53 - [N/A] 4193800599
+ 71700619 : SceneObj_Environment_Bulletin54 - [N/A] 823363959
+ 71700620 : SceneObj_Environment_Bulletin55 - [N/A] 1103687415
+ 71700621 : SceneObj_Environment_Bulletin56 - [N/A] 452609343
+ 71700622 : SceneObj_Environment_Bulletin57 - [N/A] 2823890575
+ 71700623 : SceneObj_Environment_Bulletin58 - [N/A] 1891116159
+ 71700641 :  - [N/A] 3946621759
  72000001 : SceneObj_Monster_Eldritch_Tentacle_PA - [N/A] 1757493721
  72000002 : SceneObj_Monster_Eldritch_Tentacle_PB - [N/A] 3578727505
  72000003 : SceneObj_Monster_Eldritch_Tentacle_PC - [N/A] 3981382369
@@ -8390,6 +8787,9 @@ setFetterLevel : Sets your fetter level for your current active character
  77104050 :  - [N/A] 3094375328
  77104051 :  - [N/A] 1343262880
  77104052 :  - [N/A] 3574160280
+ 77104053 :  - [N/A] 3795679784
+ 77104054 :  - [N/A] 876221064
+ 77104055 :  - [N/A] 4212064976
  77105001 :  - [N/A] 3485751656
  77105002 :  - [N/A] 1472766168
  77105003 :  - [N/A] 2206130568
@@ -8401,6 +8801,7 @@ setFetterLevel : Sets your fetter level for your current active character
  77105009 :  - [N/A] 16284976
  77105010 :  - [N/A] 1706871936
  77105011 :  - [N/A] 477183760
+ 77105012 :  - [N/A] 2500393944
  77108001 :  - [N/A] 2266381520
  77108002 :  - [N/A] 1929928056
  77108003 :  - [N/A] 3054820440
@@ -8427,6 +8828,9 @@ setFetterLevel : Sets your fetter level for your current active character
  77108024 :  - [N/A] 3031564432
  77108025 :  - [N/A] 3267282984
  77108026 :  - [N/A] 1847797128
+ 77108027 :  - [N/A] 495153384
+ 77108028 :  - [N/A] 1246212024
+ 77108029 :  - [N/A] 2469330496
  77109001 :  - [N/A] 798556888
  77109002 :  - [N/A] 3659840272
  77109003 :  - [N/A] 366764720
@@ -8461,6 +8865,8 @@ setFetterLevel : Sets your fetter level for your current active character
  77110027 :  - [N/A] 3214101888
  77110028 :  - [N/A] 3906403312
  77110029 :  - [N/A] 2446238600
+ 77110030 :  - [N/A] 1869262568
+ 77110031 :  - [N/A] 4090145368
  77111001 :  - [N/A] 2256116496
  77111002 :  - [N/A] 1975461568
  77111003 :  - [N/A] 3406130712
@@ -8470,6 +8876,7 @@ setFetterLevel : Sets your fetter level for your current active character
  77111007 :  - [N/A] 3716526392
  77111008 :  - [N/A] 1711744224
  77111009 :  - [N/A] 2682289512
+ 77111010 :  - [N/A] 2815547960
  77112001 :  - [N/A] 3160712096
  77112002 :  - [N/A] 2498256864
  77112003 :  - [N/A] 1382129296
@@ -8499,6 +8906,7 @@ setFetterLevel : Sets your fetter level for your current active character
  77112027 :  - [N/A] 2361951000
  77112028 :  - [N/A] 707043656
  77112029 :  - [N/A] 2514012088
+ 77112030 :  - [N/A] 3449637320
  77115001 :  - [N/A] 158953176
  77115002 :  - [N/A] 1940050656
  77115003 :  - [N/A] 170974208
@@ -8536,6 +8944,9 @@ setFetterLevel : Sets your fetter level for your current active character
  77115035 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_SumeruStove_01 - [N/A] 3883540800
  77115036 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_01 - [N/A] 1258995064
  77115037 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_02 - [N/A] 3519428888
+ 77115038 :  - [N/A] 3541934328
+ 77115039 :  - [N/A] 710696400
+ 77115040 :  - [N/A] 788315152
  77190001 : SceneObj_Homeworld_Interior_Common_Decoration_TestPainting_01 - [N/A] 1283794648
  77200001 :  - [N/A] 3538751048
  77200002 :  - [N/A] 413522952
@@ -8720,6 +9131,11 @@ setFetterLevel : Sets your fetter level for your current active character
  77200181 :  - [N/A] 1364960616
  77200182 :  - [N/A] 2900333000
  77200183 :  - [N/A] 1123266112
+ 77200184 :  - [N/A] 3154946776
+ 77200185 :  - [N/A] 1302261768
+ 77200186 :  - [N/A] 2894679976
+ 77200187 :  - [N/A] 4166033664
+ 77200188 :  - [N/A] 695294824
  77203001 :  - [N/A] 2280998064
  77203002 : SceneObj_Homeworld_Standard_Forging - [N/A] 3742314960
  77203003 :  - [N/A] 813933432
@@ -8842,6 +9258,23 @@ setFetterLevel : Sets your fetter level for your current active character
  77204108 :  - [N/A] 3642961904
  77204109 :  - [N/A] 4220523384
  77204110 :  - [N/A] 868443832
+ 77204112 :  - [N/A] 358432200
+ 77204113 :  - [N/A] 3678145832
+ 77204114 :  - [N/A] 1683232408
+ 77204115 :  - [N/A] 1978006288
+ 77204116 :  - [N/A] 968122808
+ 77204117 :  - [N/A] 2786078376
+ 77204118 :  - [N/A] 279737200
+ 77204119 :  - [N/A] 1620500128
+ 77204120 :  - [N/A] 2421025728
+ 77204121 :  - [N/A] 74558600
+ 77204122 :  - [N/A] 1957110904
+ 77204123 :  - [N/A] 1945688928
+ 77204124 :  - [N/A] 2620113752
+ 77204125 :  - [N/A] 2129844984
+ 77204126 :  - [N/A] 2044718688
+ 77204127 :  - [N/A] 3387967640
+ 77204128 : SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_01 - [N/A] 1791728264
  77205001 :  - [N/A] 2955098952
  77205002 :  - [N/A] 2620876744
  77205003 :  - [N/A] 3428034016
@@ -8891,6 +9324,9 @@ setFetterLevel : Sets your fetter level for your current active character
  77208023 :  - [N/A] 1534713336
  77208024 :  - [N/A] 1262870744
  77208025 :  - [N/A] 1663148112
+ 77208026 :  - [N/A] 2525886104
+ 77208027 :  - [N/A] 2509260976
+ 77208028 :  - [N/A] 1492169160
  77210001 :  - [N/A] 2847554728
  77213001 :  - [N/A] 1652471176
  77213002 :  - [N/A] 4355656
@@ -9007,6 +9443,14 @@ setFetterLevel : Sets your fetter level for your current active character
  77213113 :  - [N/A] 3080244064
  77213114 :  - [N/A] 3650489240
  77213115 :  - [N/A] 3707736288
+ 77213116 :  - [N/A] 1745596776
+ 77213117 :  - [N/A] 1221829160
+ 77213118 :  - [N/A] 3219107176
+ 77213119 :  - [N/A] 370244816
+ 77213120 :  - [N/A] 2696872992
+ 77213121 :  - [N/A] 2290389424
+ 77213122 :  - [N/A] 1722188024
+ 77213123 :  - [N/A] 1678362968
  77214001 :  - [N/A] 204668312
  77214002 :  - [N/A] 1223454080
  77214003 :  - [N/A] 2630076072
@@ -9105,6 +9549,10 @@ setFetterLevel : Sets your fetter level for your current active character
  77215071 : SceneObj_Homeworld_Exterior_Common_Decoration_Prop_WoodAranaraBody - [N/A] 2301662240
  77215072 : SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Claypot_01 - [N/A] 2262767336
  77215073 :  - [N/A] 25869504
+ 77215074 :  - [N/A] 1823232128
+ 77215075 :  - [N/A] 2958027960
+ 77215076 :  - [N/A] 3776964728
+ 77215077 :  - [N/A] 2499651336
  77216001 :  - [N/A] 1178267624
  77216002 :  - [N/A] 74296056
  77216003 :  - [N/A] 2492338736
@@ -9452,6 +9900,12 @@ setFetterLevel : Sets your fetter level for your current active character
 420000022 : ActivityAbility_HideSeek_Investigate_Bullet_Short - [N/A] 249212301
 420000023 : ActivityAbility_HideSeek_Investigate_Bullet_Long - [N/A] 3514114301
 420000024 : Activity_Gadget_CatchMushroomMonster_Aim_Driver - [N/A] 856686709
+420000025 : LanV3Race_Rush_Bullet - [N/A] 4206644109
+420000026 : ActivityAbility_SkillObj_Skiff_Vortex - [N/A] 667407821
+420000027 : ActivityAbility_SkillObj_Skiff_Mire - [N/A] 2479125677
+420000028 : ActivityAbility_Avatar_Blocking_Blade_V2 - [N/A] 121823421
+420000029 : ActivityAbility_Avatar_Blocking_Blade_Burst - [N/A] 1033111477
+420000030 : SkillObj_Skiff_SprintTrigger_LanV3 - [N/A] 2996961293
 420001000 : Activity_Endora - [N/A] 781761405
 420001001 : Activity_Endora_Bubble_Bullet_01 - [N/A] 550764733
 420001002 : Activity_Endora_Bubble_Bullet_01_Short - [N/A] 2055909461
@@ -9524,6 +9978,8 @@ setFetterLevel : Sets your fetter level for your current active character
 10000074 : Layla
 10000075 : Kẻ Lang Thang
 10000076 : Faruzan
+10000077 : Yaoyao
+10000078 : Alhaitham
 11000008 : Test Đội Số 4
 11000009 : Test Cảnh
 11000010 : Mô Hình Số 1
@@ -9533,7 +9989,7 @@ setFetterLevel : Sets your fetter level for your current active character
 11000018 : Test Nữ Trưởng Thành
 11000019 : Test Thiếu Nữ
 11000025 : Akuliya
-11000026 : Yaoyao
+11000026 : Yaoyao (Test)
 11000027 : Test Thiếu Nữ - Máy số 2
 11000028 : Bạch Hạp Thiếu Nữ
 11000030 : Thiếu Nữ Cầm Kiếm Lớn
@@ -9609,6 +10065,7 @@ setFetterLevel : Sets your fetter level for your current active character
     152 : Huy Chương Nấm
     153 : Tinh Thể Vỡ Vụn
     155 : Vé Thưởng Đại Hội Dũng Cảm
+    156 : Độ Náo Nhiệt Lễ Hội
     201 : Nguyên Thạch
     202 : Mora
     203 : Đá Sáng Thế
@@ -9700,6 +10157,8 @@ setFetterLevel : Sets your fetter level for your current active character
    1074 : Layla
    1075 : Kẻ Lang Thang
    1076 : Faruzan
+   1077 : Yaoyao
+   1078 : Alhaitham
    1102 : Chòm Sao Của Kamisato Ayaka
    1103 : Chòm Sao Của Jean
    1105 : Chòm Sao Của Nhà Lữ Hành (Nam)
@@ -9762,6 +10221,8 @@ setFetterLevel : Sets your fetter level for your current active character
    1174 : Chòm Sao Của Layla
    1175 : Chòm Sao Của Kẻ Lang Thang
    1176 : Chòm Sao Của Faruzan
+   1177 : Chòm Sao Của Yaoyao
+   1178 : Chòm Sao Của Alhaitham
    1201 : Nhật Ký Hành Trình Trân Châu - Khởi Đầu
    1202 : Không Nguyệt Chúc Phúc - Trăng Non
    1301 : Bút Đổi Tên
@@ -9856,6 +10317,7 @@ setFetterLevel : Sets your fetter level for your current active character
   11509 : Ánh Sáng Đêm Sương Mù
   11510 : Haran Geppaku Futsu
   11511 : Chìa Khóa Khaj-Nisut
+  11512 : Ánh Lá Phán Quyết
   12101 : Kiếm Huấn Luyện
   12201 : Kiếm Dụng Binh
   12301 : Kiếm Thiết Ảnh
@@ -10051,6 +10513,8 @@ setFetterLevel : Sets your fetter level for your current active character
   23316 : [CHS] - 物理抗性
   23317 : [CHS] - 伤害增加
   23318 : [CHS] - 伤害减免
+  23329 : [CHS] - 暴击率
+  23330 : [CHS] - 精通
   23331 : [CHS] - 负防御
   23332 : [CHS] - 负精通
   23334 : [CHS] - 测试之沙2
@@ -13810,6 +14274,7 @@ setFetterLevel : Sets your fetter level for your current active character
  100094 : Thịt Tươi Lạnh
  100095 : Thịt Lươn
  100096 : Đậu Bóng
+ 100097 : Thịt Thần Bí
  100101 : Tài liệu của Jean
  100102 : [Trốn Thoát Cực Hạn]
  100103 : Mảnh nhạc phổ (nửa chương đầu)
@@ -14675,6 +15140,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101219 : Tường Vi Sumeru
  101220 : Quả Xích Niệm
  101221 : Quả Ajilenakh
+ 101222 : Nhộng Cát
  101225 : Bọ Thánh Kim
  101226 : Nấm Sao Bung Nở
  101227 : Nấm Sao Cháy Khô
@@ -15466,9 +15932,9 @@ setFetterLevel : Sets your fetter level for your current active character
  108161 : Bánh Hoa Sen Kỳ Lạ
  108162 : Bánh Hoa Sen
  108163 : Bánh Hoa Sen Ngon
- 108164 : Bánh Trung Thu Kỳ Lạ
- 108165 : Bánh Trung Thu
- 108166 : Bánh Trung Thu Ngon
+ 108164 : Bánh Mặt Trăng Kỳ Lạ
+ 108165 : Bánh Mặt Trăng
+ 108166 : Bánh Mặt Trăng Ngon
  108167 : Trứng Ốp Nhà Mạo Hiểm Kỳ Lạ
  108168 : Trứng Ốp Nhà Mạo Hiểm
  108169 : Trứng Ốp Nhà Mạo Hiểm Ngon
@@ -15782,6 +16248,15 @@ setFetterLevel : Sets your fetter level for your current active character
  108477 : Samosa Ngon
  108478 : Bánh Ajilenakh Nướng Cổ Điển
  108479 : Shimi Chazuke
+ 108480 : Thịt Hầm Sabz Kỳ Lạ
+ 108481 : Thịt Hầm Sabz
+ 108482 : Thịt Hầm Sabz Ngon
+ 108483 : Thịt Viên Thơm Nồng Kỳ Lạ
+ 108484 : Thịt Viên Thơm Nồng
+ 108485 : Thịt Viên Thơm Nồng Ngon
+ 108486 : Tình Huống Lý Tưởng
+ 108487 : Món Thường Ngày Ở Khinh Sách
+ 108488 : Khô Cá Sấu
  109000 : Đạo Cụ Công Thức
  109101 : Công Thức: Xiên Thịt Gà Nấm
  109102 : Công Thức: Bánh Người Cá
@@ -15828,7 +16303,7 @@ setFetterLevel : Sets your fetter level for your current active character
  109426 : Công Thức: Khấu Tam Tư
  109427 : Công Thức: Thịt Thiên Khu
  109428 : Công Thức: Bánh Hoa Sen
- 109429 : Công Thức: Bánh Trung Thu
+ 109429 : Công Thức: Bánh Mặt Trăng
  109430 : Công Thức: Trứng Ốp Nhà Mạo Hiểm
  109431 : Công Thức: Thịt Om Táo Đất Bắc
  109432 : Công thức: Đậu Hũ Gạch Cua
@@ -15918,6 +16393,8 @@ setFetterLevel : Sets your fetter level for your current active character
  109516 : Công Thức: Hương Vị Lễ Hội
  109517 : Công Thức: Sữa Trứng Tường Vi
  109518 : Công Thức: Samosa
+ 109519 : Công Thức: Thịt Hầm Sabz
+ 109520 : Công Thức: Thịt Viên Thơm Nồng
  110000 : Sản Phẩm Ghép
  110001 : Bột Mì
  110002 : Kem
@@ -16028,6 +16505,9 @@ setFetterLevel : Sets your fetter level for your current active character
  112071 : Lăng Kính Hỏng Hóc
  112072 : Lăng Kính Vẩn Đục
  112073 : Lăng Kính Phát Sáng
+ 112074 : Xương Vụn Vỡ
+ 112075 : Xương Rắn Chắc
+ 112076 : Xương Khắc Ấn
  113001 : Hạt Giống Bão
  113002 : Lăng Kính Sấm Sét
  113003 : Lông Vũ Đông Phong
@@ -16071,6 +16551,7 @@ setFetterLevel : Sets your fetter level for your current active character
  113041 : Dây Tơ Con Rối
  113042 : Gương Mushin
  113043 : Chuông Daka
+ 113044 : Nhụy Hoa Sỏi Cát
  114001 : Ngói Vỡ Tháp Cô Vương
  114002 : Xác Tàu Tháp Cô Vương
  114003 : Mảnh Vỡ Tháp Cô Vương
@@ -16251,6 +16732,7 @@ setFetterLevel : Sets your fetter level for your current active character
  120061 : Canh Đậu Bạc Hà Nermin Nấu
  120062 : [CHS] - （test）内尔敏做的香水
  120063 : Sao Tương Lai
+ 120064 : Vật Chứa Chuyển Hóa Năng Lượng
  120065 : Túi Của Raef
  120066 : Gia Vị Của Nermin
  120067 : Đá Chìa Khóa I
@@ -16271,6 +16753,34 @@ setFetterLevel : Sets your fetter level for your current active character
  120082 : Hóa Đơn Đặt Hàng Của Shevirme
  120083 : Hóa Đơn Đặt Hàng Của Quqing
  120084 : Hóa Đơn Đặt Hàng Của Guanchui
+ 120085 : [CHS] - （test）鳄鱼肉干（废弃）
+ 120086 : Thuyền Độ Hồn
+ 120087 : Khaj-Nisut
+ 120088 : Thành Lũy Biên Cương
+ 120089 : Trụ Cột Vua Deshret
+ 120090 : [CHS] - （test）居尔城棋子
+ 120091 : Thần Điện Gurabad
+ 120092 : Thiết Bị Kích Hoạt - Lăng Mộ Vua Deshret
+ 120093 : Thiết Bị Kích Hoạt - Ly Thủy Tinh Của Vua Deshret
+ 120094 : Thiết Bị Kích Hoạt - Thuyền Độ Hồn
+ 120095 : Thiết Bị Kích Hoạt - Khaj-Nisut
+ 120096 : Thiết Bị Kích Hoạt - Thành Lũy Biên Cương
+ 120097 : Thiết Bị Kích Hoạt - Trụ Cột Vua Deshret
+ 120098 : [CHS] - （test）居尔城发条
+ 120099 : Thiết Bị Kích Hoạt - Thần Điện Gurabad
+ 120100 : Ký Ức Ốc Đảo Vĩnh Hằng I
+ 120101 : Ký Ức Ốc Đảo Vĩnh Hằng II
+ 120102 : Ký Ức Ốc Đảo Vĩnh Hằng III
+ 120103 : Lông Vũ Của Tadhla
+ 120104 : Chìa Khóa Căn Cứ Fatui
+ 120105 : Đá Thánh Chương - Vách Núi
+ 120106 : Đá Thánh Chương - Cánh Cổng Khổng Lồ
+ 120107 : Phiến Đá Thần Bí I
+ 120108 : Phiến Đá Thần Bí II
+ 120109 : Phiến Đá Thần Bí III
+ 120110 : Phiến Đá Thần Bí IV
+ 120111 : Phiến Đá Thần Bí V
+ 120112 : Phiến Đá Thần Bí VI
  120113 : Thư Giới Thiệu Của Cyno
  120114 : Bản Đồ Cổ
  120115 : Thông Tin Đấu Giá
@@ -16282,6 +16792,7 @@ setFetterLevel : Sets your fetter level for your current active character
  120121 : Biên Nhận Của Jut
  120122 : Biên Nhận Của Jahangir
  120123 : Túi Du Lịch Sa Mạc Đặc Biệt Phiên Bản Giới Hạn
+ 120124 : Măng Trúc Non
  120125 : [CHS] - （test）赛芭的蔷薇
  120126 : Bức Thư Ngắn
  120127 : Cành Trắng Mới Mọc
@@ -16299,6 +16810,16 @@ setFetterLevel : Sets your fetter level for your current active character
  120139 : Nhật Ký Của Zandik
  120140 : Nhật Ký Không Biết Của Ai
  120141 : Ghi Chép Mục Nát
+ 120142 : Công Văn Rút Lui Nội Bộ
+ 120143 : Kiểm Tra Sơ Bộ Về Cá Thể Thí Nghiệm
+ 120144 : Thông Báo Di Dời
+ 120145 : Thư Của Người Thám Hiểm Đường Xa I
+ 120146 : Thư Của Người Thám Hiểm Đường Xa II
+ 120147 : Thư Của Người Thám Hiểm Đường Xa III
+ 120148 : Thư Của Người Thám Hiểm Đường Xa IV
+ 120149 : Thư Của Người Thám Hiểm Đường Xa V
+ 120150 : Thư Của Người Thám Hiểm Đường Xa VI
+ 120151 : Hồi Âm Về Giao Dịch Hàng Hóa
  120152 : Bản Tin Hoạt Động
  120153 : Sổ Tay Của Haniyyah - Đoạn 1
  120154 : Sổ Tay Của Haniyyah - Đoạn 2
@@ -16314,10 +16835,82 @@ setFetterLevel : Sets your fetter level for your current active character
  120164 : "Hòn Đảo Mây Mù"
  120165 : "Tóm Lược Sự Kiện Lịch Sử Quan Trọng Có Thể Tồn Tại Trong Khu Vực Tatarasuna"
  120166 : "Hòn Đảo Mây Mù"
+ 120167 : [CHS] - (test)棋子流沙遗迹
+ 120168 : [CHS] - (test)棋子赤王之心
+ 120169 : [CHS] - (test)棋子显圣厅
+ 120170 : [CHS] - (test)棋子太阳船
+ 120171 : [CHS] - (test)棋子阿如村
+ 120172 : [CHS] - (test)棋子发条赤王之杯
+ 120173 : [CHS] - (test)棋子发条赤王陵
+ 120174 : [CHS] - (test)棋子发条流沙遗迹
+ 120175 : [CHS] - (test)棋子发条赤王之心
+ 120176 : [CHS] - (test)棋子发条显圣厅
+ 120177 : [CHS] - (test)棋子发条太阳船
+ 120178 : [CHS] - (test)棋子发条阿如村
  120179 : Hộp "Đất Quê Hương"
  120180 : Nội Dung Lý Giải
  120181 : Thư Của Xudong
+ 120182 : Ghi Chép Về Gurabad I
+ 120183 : Ghi Chép Về Gurabad II
+ 120184 : Ghi Chép Về Gurabad III
+ 120185 : Ghi Chép Về Gurabad IV
+ 120186 : Ghi Chép Về Gurabad V
+ 120187 : Phiến Đá Vỡ
+ 120188 : Ghi Chép Về Núi Damavand I
+ 120189 : Ghi Chép Về Núi Damavand II
+ 120190 : Ghi Chép Về Núi Damavand III
+ 120191 : Giáo Điều Của "Mặt Nạ Đồng" I
+ 120192 : Giáo Điều Của "Mặt Nạ Đồng" II
+ 120193 : Giáo Điều Của "Mặt Nạ Đồng" III
+ 120194 : Ghi Chép Về Ốc Đảo Cổ Đại I
+ 120195 : Ghi Chép Về Ốc Đảo Cổ Đại II
+ 120196 : Ghi Chép Về Ốc Đảo Cổ Đại III
+ 120197 : Ghi Chép Về Ốc Đảo Cổ Đại IV
+ 120198 : Ghi Chép Về Ốc Đảo Cổ Đại V
+ 120199 : Ghi Chép Về Ốc Đảo Cổ Đại VI
+ 120200 : Phiến Đá Triệu Tập
+ 120201 : Lông Kền Kền Đỏ
+ 120202 : Đuôi Bò Cạp Độc
+ 120203 : Sừng Rắn Bay
+ 120204 : Báo Cáo Của Đại Úy Zoya Snezhevna I
+ 120205 : Báo Cáo Của Đại Úy Zoya Snezhevna II
+ 120206 : Báo Cáo Của Đại Úy Zoya Snezhevna III
+ 120207 : Ghi Chép Rách Rưới I
+ 120208 : Ghi Chép Rách Rưới II
+ 120209 : Ghi Chép Có Con Dấu Tanit
+ 120210 : Thư Của Fatui
+ 120211 : Bức Thư Để Lại
+ 120212 : Nhật Ký Của Zandik
+ 120213 : Khế Ước Có Con Dấu Giáo Viện
+ 120214 : Bản Vẽ Hệ Thống Năng Lượng Cỗ Máy Khổng Lồ Được Khôi Phục
+ 120215 : Mật Thư Cho Aderfi
  120216 : "Mảnh" Vũ Khí Nào Đó
+ 120217 : Phiếu Ưu Đãi Ramen Không Biết Của Tiệm Nào
+ 120218 : Ghi Chép Gọn Gàng
+ 120219 : Thư Của Jeht
+ 120220 : Ghi Chép Của Ufairah
+ 120221 : Chìa Khóa Đá Cổ Xưa
+ 120226 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120227 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120228 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120229 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120230 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120231 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120232 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120233 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120235 : Danh Sách Bị Vò Nát
+ 120236 : Ghi Chép Vật Tư Kho Hàng
+ 120237 : Ghi Chép Về Ốc Đảo Cổ Đại VII
+ 120238 : Ghi Chép Về Ốc Đảo Cổ Đại VIII
+ 120239 : Ghi Chép Về Ốc Đảo Cổ Đại IX
+ 120240 : Ghi Chép Về Ốc Đảo Cổ Đại X
+ 120241 : Phiến Đá Điều Lệ Thuê Mướn
+ 120242 : Khế Ước Có Con Dấu Giáo Viện
+ 120243 : Khế Ước Có Con Dấu Giáo Viện
+ 120248 : Thư Của Thương Đội Bộ Tộc
+ 120249 : Tin Nhắn Của Jeht
+ 120250 : Măng Chua Nóng Hổi
+ 120251 : Phiếu Tham Gia "Tinh Thần Võ Đạo"
  130001 : Hạt giống Hoa Nghê Thường
  130002 : Hạt giống Hoa Ngọt
  130003 : Hạt giống hoa Cecilia
@@ -16383,93 +16976,99 @@ setFetterLevel : Sets your fetter level for your current active character
  140008 : Cánh Cưỡi Sấm
  140009 : Cánh Rực Rỡ
  140010 : Cánh Rừng Hoa
- 141001 : Ngọc Thạch Âm Vang 1
- 141002 : Ngọc Thạch Âm Vang 2
- 141003 : Ngọc Thạch Âm Vang 3
- 141004 : Ngọc Thạch Âm Vang 4
- 141005 : Ngọc Thạch Âm Vang 5
- 141006 : Ngọc Thạch Âm Vang 6
- 141007 : Ngọc Thạch Âm Vang 7
- 141008 : Ngọc Thạch Âm Vang 8
- 141009 : Ngọc Thạch Âm Vang 9
- 141010 : Ngọc Thạch Âm Vang 10
- 141011 : Ngọc Thạch Âm Vang 11
- 141012 : Ngọc Thạch Âm Vang 12
- 141013 : Ngọc Thạch Âm Vang 13
- 141014 : Ngọc Thạch Âm Vang 14
- 141015 : Ngọc Thạch Âm Vang 15
- 141016 : Ngọc Thạch Âm Vang 16
- 141017 : Ngọc Thạch Âm Vang 17
- 141018 : Ngọc Thạch Âm Vang 18
- 141019 : Ngọc Thạch Âm Vang 19
- 141020 : Ngọc Thạch Âm Vang 20
- 141021 : Ngọc Thạch Âm Vang 21
- 141022 : Ngọc Thạch Âm Vang 22
- 141023 : Ngọc Thạch Âm Vang 23
- 141024 : Ngọc Thạch Âm Vang 24
- 141025 : Ngọc Thạch Âm Vang 25
- 141026 : Ngọc Thạch Âm Vang 26
- 141027 : Ngọc Thạch Âm Vang 27
- 141028 : Ngọc Thạch Âm Vang 28
- 141029 : Ngọc Thạch Âm Vang 29
- 141030 : Ngọc Thạch Âm Vang 30
- 141031 : Ngọc Thạch Âm Vang 31
- 141032 : Ngọc Thạch Âm Vang 32
- 141033 : Ngọc Thạch Âm Vang 33
- 141034 : Ngọc Thạch Âm Vang 34
- 141035 : Ngọc Thạch Âm Vang 35
- 141036 : Ngọc Thạch Âm Vang 36
- 141037 : Ngọc Thạch Âm Vang 37
- 141038 : Ngọc Thạch Âm Vang 38
- 141039 : Ngọc Thạch Âm Vang 39
- 141040 : Ngọc Thạch Âm Vang 40
- 141041 : Ngọc Thạch Âm Vang 41
- 141042 : Ngọc Thạch Âm Vang 42
- 141043 : Ngọc Thạch Âm Vang 43
- 141044 : Ngọc Thạch Âm Vang 44
- 141045 : Ngọc Thạch Âm Vang 45
- 141046 : Ngọc Thạch Âm Vang 46
- 141047 : Ngọc Thạch Âm Vang 47
- 141048 : Ngọc Thạch Âm Vang 48
- 141049 : Ngọc Thạch Âm Vang 49
- 141050 : Ngọc Thạch Âm Vang 50
- 141051 : Ngọc Thạch Âm Vang 51
- 141052 : Ngọc Thạch Âm Vang 52
- 141053 : Ngọc Thạch Âm Vang 53
- 141054 : Ngọc Thạch Âm Vang 54
- 141055 : Ngọc Thạch Âm Vang 55
- 141056 : Ngọc Thạch Âm Vang 56
- 141057 : Ngọc Thạch Âm Vang 57
- 141058 : Ngọc Thạch Âm Vang 58
- 141059 : Ngọc Thạch Âm Vang 59
- 141060 : Ngọc Thạch Âm Vang 60
- 141061 : Ngọc Thạch Âm Vang 61
- 141062 : Ngọc Thạch Âm Vang 62
- 141063 : Ngọc Thạch Âm Vang 63
- 141064 : Ngọc Thạch Âm Vang 64
- 141065 : Ngọc Thạch Âm Vang 65
- 141066 : Ngọc Thạch Âm Vang 66
- 141067 : Ngọc Thạch Âm Vang 67
- 141068 : Ngọc Thạch Âm Vang 68
- 141069 : Ngọc Thạch Âm Vang 69
- 141070 : Ngọc Thạch Âm Vang 70
- 141071 : Ngọc Thạch Âm Vang 71
- 141072 : Ngọc Thạch Âm Vang 72
- 141073 : Ngọc Thạch Âm Vang 73
- 141074 : Ngọc Thạch Âm Vang 74
- 141075 : Ngọc Thạch Âm Vang 75
- 141076 : Ngọc Thạch Âm Vang 76
- 141077 : Ngọc Thạch Âm Vang 77
- 141078 : Ngọc Thạch Âm Vang 78
- 141079 : Ngọc Thạch Âm Vang 79
- 141080 : Ngọc Thạch Âm Vang 80
- 141081 : Ngọc Thạch Âm Vang 81
- 141082 : Ngọc Thạch Âm Vang 82
- 141083 : Ngọc Thạch Âm Vang 83
- 141084 : Ngọc Thạch Âm Vang 84
- 141085 : Ngọc Thạch Âm Vang 85
- 141086 : Ngọc Thạch Âm Vang 86
- 141087 : Ngọc Thạch Âm Vang 87
+ 141001 : Ngọc Thạch Âm Vang 1 - Tửu Trang Dawn
+ 141002 : Ngọc Thạch Âm Vang 2 - Nụ Cười Ngọt Ngào
+ 141003 : Ngọc Thạch Âm Vang 3 - Nhà Trọ Cô Độc
+ 141004 : Ngọc Thạch Âm Vang 4 - Một Ngày Ở Mondstadt
+ 141005 : Ngọc Thạch Âm Vang 5 - Biên Giới Bình Nguyên
+ 141006 : Ngọc Thạch Âm Vang 6 - Dvalin Và Durin
+ 141007 : Ngọc Thạch Âm Vang 7 - Hành Trình Vui Vẻ
+ 141008 : Ngọc Thạch Âm Vang 8 - Truyền Thuyết Của Gió
+ 141009 : Ngọc Thạch Âm Vang 9 - Buổi Chiều Tại Mondstadt
+ 141010 : Ngọc Thạch Âm Vang 10 - Hoàng Hôn Tại Mondstadt
+ 141011 : Ngọc Thạch Âm Vang 11 - Mondstadt Dưới Trời Sao
+ 141012 : Ngọc Thạch Âm Vang 12 - Ánh Trăng Mondstadt
+ 141013 : Ngọc Thạch Âm Vang 13 - Lại Một Ngày Nữa Ở Mondstadt
+ 141014 : Ngọc Thạch Âm Vang 14 - Thánh Ca Của Gió
+ 141015 : Ngọc Thạch Âm Vang 15 - Đội Kỵ Sĩ Tây Phong
+ 141016 : Ngọc Thạch Âm Vang 16 - Quà Tặng Của Thiên Sứ
+ 141017 : Ngọc Thạch Âm Vang 17 - Một Ngày Vui Vẻ
+ 141018 : Ngọc Thạch Âm Vang 18 - Sức Mạnh Đồng Đội
+ 141019 : Ngọc Thạch Âm Vang 19 - Ánh Sáng Trước Bình Minh
+ 141020 : Ngọc Thạch Âm Vang 20 - Lời Thì Thầm Của Bình Nguyên
+ 141021 : Ngọc Thạch Âm Vang 21 - Ngày Mới Hy Vọng
+ 141022 : Ngọc Thạch Âm Vang 22 - Hồi Ức Vĩnh Hằng
+ 141023 : Ngọc Thạch Âm Vang 23 - Hành Trình Hy Vọng
+ 141024 : Ngọc Thạch Âm Vang 24 - Bình Minh Tại Liyue
+ 141025 : Ngọc Thạch Âm Vang 25 - Ngủ Ngon, Liyue
+ 141026 : Ngọc Thạch Âm Vang 26 - Cuối Ngày Ở Liyue
+ 141027 : Ngọc Thạch Âm Vang 27 - Ngày Nắng Tại Liyue
+ 141028 : Ngọc Thạch Âm Vang 28 - Thưởng Trà Tâm An Lạc
+ 141029 : Ngọc Thạch Âm Vang 29 - Bích Thủy Lượn Uốn Quanh
+ 141030 : Ngọc Thạch Âm Vang 30 - Sóng Gợn Lăn Tăn
+ 141031 : Ngọc Thạch Âm Vang 31 - Khúc Hát Đi Câu
+ 141032 : Ngọc Thạch Âm Vang 32 - Nước Tụ Về Nguồn
+ 141033 : Ngọc Thạch Âm Vang 33 - Dòng Nước Đa Tình
+ 141034 : Ngọc Thạch Âm Vang 34 - Lời Thì Thầm Trong Rừng Trúc
+ 141035 : Ngọc Thạch Âm Vang 35 - Truyền Thuyết Không Trở Lại
+ 141036 : Ngọc Thạch Âm Vang 36 - Nhung Nhớ Cố Hương
+ 141037 : Ngọc Thạch Âm Vang 37 - Đến Theo Gió Biển
+ 141038 : Ngọc Thạch Âm Vang 38 - Gió Thổi Tà Áo Lụa
+ 141039 : Ngọc Thạch Âm Vang 39 - Thôn Làng Đã Chớm Già
+ 141040 : Ngọc Thạch Âm Vang 40 - Phía Trên Biển Mây
+ 141041 : Ngọc Thạch Âm Vang 41 - Cầu Vồng Trên Cao
+ 141042 : Ngọc Thạch Âm Vang 42 - Ván Cờ Tiên Nhân
+ 141043 : Ngọc Thạch Âm Vang 43 - Dĩ Vãng Ngủ Say
+ 141044 : Ngọc Thạch Âm Vang 44 - Cảnh Vật Thất Lạc
+ 141045 : Ngọc Thạch Âm Vang 45 - Thế Giới Trong Ấm
+ 141046 : Ngọc Thạch Âm Vang 46 - Giấc Mộng Vỗ Về
+ 141047 : Ngọc Thạch Âm Vang 47 - Buổi Đêm Của Miko
+ 141048 : Ngọc Thạch Âm Vang 48 - Cung Đường Trang Nhã
+ 141049 : Ngọc Thạch Âm Vang 49 - Quốc Gia Tĩnh Lặng
+ 141050 : Ngọc Thạch Âm Vang 50 - Hòn Đảo Thần Bí
+ 141051 : Ngọc Thạch Âm Vang 51 - Thủ Hộ Vĩnh Viễn
+ 141052 : Ngọc Thạch Âm Vang 52 - Mặt Nạ Kitsune
+ 141053 : Ngọc Thạch Âm Vang 53 - Hanachirusato
+ 141054 : Ngọc Thạch Âm Vang 54 - Thời Khắc Cảm Ơn
+ 141055 : Ngọc Thạch Âm Vang 55 - Ánh Chớp Anh Đào
+ 141056 : Ngọc Thạch Âm Vang 56 - Dòng Suối Trong Rừng
+ 141057 : Ngọc Thạch Âm Vang 57 - Câu Chuyện Đau Thương
+ 141058 : Ngọc Thạch Âm Vang 58 - Lời Khai Tĩnh Lặng
+ 141059 : Ngọc Thạch Âm Vang 59 - Hòn Đảo Hanabi
+ 141060 : Ngọc Thạch Âm Vang 60 - Ngày Lễ Sắp Đến
+ 141061 : Ngọc Thạch Âm Vang 61 - Cung Điện San Hô
+ 141062 : Ngọc Thạch Âm Vang 62 - Thị Trấn Yên Tĩnh
+ 141063 : Ngọc Thạch Âm Vang 63 - Không Khí Trong Lành
+ 141064 : Ngọc Thạch Âm Vang 64 - Đảo Watatsumi
+ 141065 : Ngọc Thạch Âm Vang 65 - Sương Mù Âm U
+ 141066 : Ngọc Thạch Âm Vang 66 - Nỗi Buồn Lạc Lối
+ 141067 : Ngọc Thạch Âm Vang 67 - Khúc Hát Của Ruu
+ 141068 : Ngọc Thạch Âm Vang 68 - Màn Đêm Cô Tịch
+ 141069 : Ngọc Thạch Âm Vang 69 - Tiếng Vọng Cô Độc
+ 141070 : Ngọc Thạch Âm Vang 70 - Lời Than Câm Lặng
+ 141071 : Ngọc Thạch Âm Vang 71 - Bức Tường Dây Leo
+ 141072 : Ngọc Thạch Âm Vang 72 - Quá Khứ Sử Thi
+ 141073 : Ngọc Thạch Âm Vang 73 - Rời Xa Phiền Não
+ 141074 : Ngọc Thạch Âm Vang 74 - Giai Điệu Hạt Giống Sinh Mệnh
+ 141075 : Ngọc Thạch Âm Vang 75 - Lòng Từ Bi Của Varuna
+ 141076 : Ngọc Thạch Âm Vang 76 - Tàn Tích Của Dahri
+ 141077 : Ngọc Thạch Âm Vang 77 - Lời Thì Thầm Rễ Cây
+ 141078 : Ngọc Thạch Âm Vang 78 - Vũ Điệu Cây Và Hoa
+ 141079 : Ngọc Thạch Âm Vang 79 - Bến Cảng Phồn Hoa
+ 141080 : Ngọc Thạch Âm Vang 80 - Nhạc Tiệc Du Dương
+ 141081 : Ngọc Thạch Âm Vang 81 - Khi Gió Lặng
+ 141082 : Ngọc Thạch Âm Vang 82 - Trên Bãi Cát Cằn Cỗi
+ 141083 : Ngọc Thạch Âm Vang 83 - Hẻm Núi Khô Cằn
+ 141084 : Ngọc Thạch Âm Vang 84 - Nơi Bảo Hộ Sa Mạc
+ 141085 : Ngọc Thạch Âm Vang 85 - Tàn Tích Của Uy Quyền
+ 141086 : Ngọc Thạch Âm Vang 86 - Mắt Cát Đỏ
+ 141087 : Ngọc Thạch Âm Vang 87 - Ngọc Lục Bảo Trên Sa Mạc
+ 141088 : Ngọc Thạch Âm Vang 88 - Ngọc Thạch Âm Vang 88
+ 141089 : Ngọc Thạch Âm Vang 89 - Ngọc Thạch Âm Vang 89
+ 141090 : Ngọc Thạch Âm Vang 90 - Ngọc Thạch Âm Vang 90
+ 141091 : Ngọc Thạch Âm Vang 91 - Ngọc Thạch Âm Vang 91
+ 141092 : Ngọc Thạch Âm Vang 92 - Ngọc Thạch Âm Vang 92
+ 141093 : Ngọc Thạch Âm Vang 93 - Ngọc Thạch Âm Vang 93
  200001 : Giấy Đèn
  200002 : Dây Tâm Đèn
  200003 : Mảnh Phù Sinh Thạch
@@ -16697,6 +17296,11 @@ setFetterLevel : Sets your fetter level for your current active character
  210144 : Faruzan - Bí Mật Của Phong Ấn
  210145 : Thành Tựu - Thất Thánh
  210146 : Nhật Ký Hành Trình - Dòng Đời
+ 210147 : Alhaitham - Giác Ngộ
+ 210148 : Yaoyao - Nguyệt Quế
+ 210149 : Lễ Hội - Mây Trôi
+ 210150 : Nhật Ký Hành Trình - Hòa Tấu
+ 210151 : Thành Tựu - Bão Cát
  220001 : Đá Cộng Hưởng Phong Thần Đồng
  220002 : Đá Cộng Hưởng Nham Thần Đồng
  220003 : La Bàn Tìm Báu Vật - Nham
@@ -16765,6 +17369,7 @@ setFetterLevel : Sets your fetter level for your current active character
  220069 : Phiến Đá Cát Đỏ
  220070 : "Máy Ảnh Bọt Nước Trong Vắt"
  220071 : "Kusava"
+ 220072 : Trấn Linh Bình Ma - Liloupar
  220073 : Ngọc Trí Tuệ
  220074 : Cơ Quan Giấy Lụa - Lưu Vân
  220075 : La Bàn Hoang Dã
@@ -16814,6 +17419,12 @@ setFetterLevel : Sets your fetter level for your current active character
  223010 : Ý Chí Bất Khuất Không Bỏ Cuộc
  223011 : Đèn Tiêu Muôn Sắc Kết Nhân Duyên
  223012 : Nhà Nhà Tề Tựu Dùng Bữa Ngon
+ 223013 : Giữa Những Viên Xúc Xắc Lung Linh
+ 223014 : Trợ Thủ Thân Thiện Inuzaka
+ 223015 : Lá Cờ Tung Bay Trong Tiếng Trống
+ 223016 : Âm Vang Cai Rượu Ửng Nắng Chiều
+ 223017 : Nấm Mọc Chốn Rừng Mưa
+ 223018 : Tiểu Nguyệt Quế Ra Tay Tương Trợ
  330000 : Ganyu
  330001 : Kaeya
  330002 : Chongyun
@@ -16841,6 +17452,8 @@ setFetterLevel : Sets your fetter level for your current active character
  330025 : Barbara
  330026 : Thiếu Nữ Kính
  330027 : Nấm Thúy Linh
+ 330032 : Klee
+ 330034 : Beidou
  330500 : Duy Thử Nhất Tâm
  330501 : Lãnh Huyết Kiếm
  330502 : Hơi Thở Bình Yên
@@ -16868,6 +17481,8 @@ setFetterLevel : Sets your fetter level for your current active character
  330525 : Mùa Huy Hoàng
  330526 : Lồng Kính
  330527 : Bào Tử Sinh Sôi
+ 330530 : Món Quà Bằng Bằng
+ 330531 : Sấm Sét Đầy Trời
  331000 : Tóm Tắt Ma Pháp
  331001 : Mảnh Chương Tế Lễ
  331002 : Quyển Thiên Không
@@ -16987,6 +17602,8 @@ setFetterLevel : Sets your fetter level for your current active character
  334025 : Barbara
  334026 : Thiếu Nữ Kính
  334027 : Nấm Thúy Linh
+ 334028 : Beidou
+ 334029 : Klee
  334500 : Duy Thử Nhất Tâm
  334501 : Lãnh Huyết Kiếm
  334502 : Hơi Thở Bình Yên
@@ -17014,6 +17631,8 @@ setFetterLevel : Sets your fetter level for your current active character
  334525 : Mùa Huy Hoàng
  334526 : Lồng Kính
  334527 : Bào Tử Sinh Sôi
+ 334528 : Sấm Sét Đầy Trời
+ 334529 : Món Quà Bằng Bằng
  335000 : Tóm Tắt Ma Pháp
  335001 : Mảnh Chương Tế Lễ
  335002 : Quyển Thiên Không
@@ -17111,7 +17730,7 @@ setFetterLevel : Sets your fetter level for your current active character
  339002 : Liyue
  339003 : Inazuma
  339004 : Sumeru
- 339009 : Truyền Thuyết
+ 339009 : Huyền Thoại
  339010 : Lão Luyện
  339011 : Mảnh Pha Lê
  339012 : Mảnh Ma Tinh
@@ -17142,6 +17761,8 @@ setFetterLevel : Sets your fetter level for your current active character
  340007 : Kỵ Sĩ Trinh Thám 100%
  340008 : Ước Hẹn Trăng Sao
  340009 : Tu Nữ Tự Do
+ 340010 : Thư Từ Hoa Xuân
+ 340011 : Danh Vang Trong Lá
  350001 : Doanh trại tạm thời của Nhà Mạo Hiểm
  350002 : Cuộc Sống Nơi Đài Canh Gác
  350003 : Thảm Cỏ Và Núi Đá
@@ -17257,6 +17878,9 @@ setFetterLevel : Sets your fetter level for your current active character
  360422 : Ánh Sáng Chuyên Tâm
  360423 : Ánh Sáng Thường Lệ
  360424 : Ánh Sáng Rực Rỡ
+ 360425 : Cảnh Trăng Giữa Núi Rừng
+ 360426 : Ánh Sáng Nhẹ Nhàng
+ 360427 : Ánh Sáng Nghỉ Ngơi
  360504 : Ánh Sáng Trăm Hoa
  361101 : Quầy Hàng Chữ L Gỗ Hoa Cực Bắc
  361102 : Kệ Hàng Gỗ Sam Đơn Giản
@@ -17268,6 +17892,8 @@ setFetterLevel : Sets your fetter level for your current active character
  361108 : Bàn Tủ Sa Mạc - Hoan Nghênh
  361109 : Kệ Đồ "Hỗn Loạn" Gỗ Adhigama
  361110 : Tủ Đầu Giường "Chữa Trị" Gỗ Sáng
+ 361111 : Tủ Gỗ Sanh Ba Lớp
+ 361112 : Tủ Trưng Đồ Gốm Gỗ Sanh
  361201 : Kệ Sách Hai Tầng Thư Viện
  361202 : Kệ Sách Gỗ Tụy Hoa Tinh Xảo
  361203 : Kệ Sách Gỗ Tụy Hoa Kinh Tế
@@ -17325,6 +17951,7 @@ setFetterLevel : Sets your fetter level for your current active character
  362110 : Ghế "Phản Truy Bắt" Gỗ Karmaphala
  362111 : Niềm Vui Lúc Nhàn Rỗi
  362112 : Ghế Tựa Lưng Dây Leo Adhigama
+ 362113 : Ghế Lộng Lẫy
  362201 : Lò Sưởi Bằng Đá Bắc Địa
  362202 : Bình Phong Gỗ Thông - Cánh Buồm Mây Nước
  362203 : Bình Phong Gỗ Cứng - Sương Phủ Mây Mờ
@@ -17362,6 +17989,7 @@ setFetterLevel : Sets your fetter level for your current active character
  362236 : Thơm Nồng Món Nướng
  362237 : Hương Thơm Tươi Mới
  362238 : Tiết Kiệm Của Cư Dân Rừng Sâu
+ 362239 : Bình Sắc Màu - Cát Nóng
  362301 : Thảm Mondstadt - Ngọn Lửa Nhiệt Tình
  362302 : Thảm Mondstadt - Tìm Tòi Không Mệt Mỏi
  362303 : Thảm Nhà Trọ - Tiếp Đón Chu Đáo
@@ -17371,6 +17999,7 @@ setFetterLevel : Sets your fetter level for your current active character
  362307 : Hoa Văn Trầm Ấm
  362308 : "Hoa Văn Trang Trọng"
  362309 : "Hoa Văn Ô Liu"
+ 362310 : Hoa Văn Thuần Khiết Như Mầm Lúa Mì
  363101 : Đèn Treo Ánh Sáng Bất Tận
  363102 : Đèn Cao Gỗ Khước Sa Lưu Ly Đình
  363103 : Đèn Lồng Thiên Viên - Tỏa Sáng Rực Rỡ
@@ -17380,6 +18009,9 @@ setFetterLevel : Sets your fetter level for your current active character
  363107 : Đèn Sa Mạc - Ánh Sáng
  363108 : Ánh Sáng Hoan Ca
  363109 : Ánh Sáng Ở Vùng Đất Trí Tuệ
+ 363110 : Ánh Nến Bất Tận
+ 363111 : Ánh Nến Lắng Nghe
+ 363112 : Đèn Sắt Đa Dụng
  363201 : Bình Hoa - Ung Dung Nhạt Nhòa
  363202 : Chậu Cây Xanh - Gió Lộng
  363203 : Bình Hoa - Nở Rộ Đỏ Rực
@@ -17428,6 +18060,11 @@ setFetterLevel : Sets your fetter level for your current active character
  363338 : "Trong Vị Đắng Thơm Ngát"
  363339 : Công Thức Của Cư Dân Rừng Sâu
  363340 : Vinh Quang Của Cư Dân Rừng Sâu
+ 363341 : Bình Sắc Màu - Mầm Xanh
+ 363342 : Bình Đa Dụng Hình Sao Góc Cạnh
+ 363501 : Thức Tỉnh Ở Vùng Đất Trí Tuệ
+ 363502 : Hương Thơm Giải Khát
+ 363504 : Nghệ Thuật Tiết Kiệm Nước Sạch
  364101 : Tranh Phong Cảnh - Quê Hương
  364102 : Tranh Phong Cảnh - Mây Trời
  364103 : Tranh Phong Cảnh - Vách Núi
@@ -17454,6 +18091,7 @@ setFetterLevel : Sets your fetter level for your current active character
  364214 : Trang Trí Tường Sa Mạc - Hoàng Hôn
  364215 : Trang Trí Tường Sa Mạc - Hỏa Vũ
  364216 : Ghi Nhớ Của Đội Trưởng Kiểm Lâm
+ 364217 : Khiên Tấn Công Bằng Sắt Cứng Gỗ Sanh
  364301 : Cửa Gỗ Thùy Hương
  364302 : Cửa Gỗ Sam Đội Kỵ Sĩ
  364303 : Cửa Nhà Gỗ Phong
@@ -17548,6 +18186,8 @@ setFetterLevel : Sets your fetter level for your current active character
  368159 : Layla
  368160 : #{REALNAME[ID(1)|HOSTONLY(true)]}
  368161 : Faruzan
+ 368162 : Yaoyao
+ 368163 : Alhaitham
  369101 : Mèo Mắt Biếc
  369102 : Chó Bắc Địa
  369103 : Heo Rừng Hoang Dã
@@ -17661,6 +18301,8 @@ setFetterLevel : Sets your fetter level for your current active character
  370319 : Tận Dụng Đánh Bắt
  370320 : Quầy Hàng Mái Vải
  370321 : Quầy Đồ Nướng Di Động
+ 370322 : Giữ Hàng Khô Ráo
+ 370323 : Sau Tuyển Chọn Đa Dạng
  370401 : Trạm Gác Hilichurl
  370402 : Doanh Trại Thủ Lĩnh Hilichurl
  370501 : Vân Du Bích Thủy Đông
@@ -17743,6 +18385,8 @@ setFetterLevel : Sets your fetter level for your current active character
  370730 : Sự Tương Phản Của Thành Phố Trí Tuệ
  370731 : Hòa Bình Của Thành Phố Trí Tuệ
  370732 : Việc Vặt Của Thành Phố Trí Tuệ
+ 370733 : Lụa Đuổi Hải Thú
+ 370734 : Gió Cát Giữa Đêm Lặng
  371101 : Đài Phun Nước Hoa Và Chim
  371102 : Tháp Canh Hilichurl
  371103 : Lều Cỏ Hilichurl
@@ -17765,6 +18409,11 @@ setFetterLevel : Sets your fetter level for your current active character
  371125 : Túp Lều Sa Mạc - Nghỉ Ngơi
  371126 : Hơi Nước Tươi Mát Của Nhà Hát
  371127 : Sự Trong Sáng Ở Vùng Đất Trí Tuệ
+ 371129 : Cần Cẩu Đa Năng Loại 3 Cảng Ormos
+ 371130 : Xe Hàng Đường Dài Gỗ Hỗn Hợp
+ 371131 : Xe Hàng Trong Cảng Gỗ Hỗn Hợp
+ 371132 : Xe Hàng Đường Núi Hai Loại Bánh
+ 371133 : Tượng "Ma Thần Bếp"
  371201 : Tam Nhãn Thủ Tiên Bài
  371202 : Cổng Chính Trang Viên
  371203 : Chân Tường Đình Viện Khắc Hoa
@@ -17886,6 +18535,7 @@ setFetterLevel : Sets your fetter level for your current active character
  372339 : Cây Lan Trải Sum Suê
  372340 : Chiều Tà Sắt Xanh
  372341 : Hoàng Hôn Sắt Xanh
+ 372342 : Cành Cây Tĩnh Lặng
  372401 : Kệ Nhà Bếp Gỗ Thùy Hương
  372402 : Bụi Cây Nở Hoa
  372403 : Bụi Cây Bằng Phẳng
@@ -17959,6 +18609,13 @@ setFetterLevel : Sets your fetter level for your current active character
  372472 : Xúc Tác Rực Lửa
  372473 : Xúc Tác Lâu Dài
  372474 : Điều Hòa Sắc Ấm
+ 372475 : Tím Khói Tĩnh Lặng
+ 372476 : Vòi Phun Cát Chảy
+ 372477 : Hình Chiếu Ánh Dương
+ 372478 : Tán Ô Ngậm Sương
+ 372479 : Phì Nhiêu Bên Bờ
+ 372480 : Tán Ô Trú Mình
+ 372481 : Thơm Ngọt Mới Lạ
  372501 : Thửa Ruộng Phỉ Thúy
  372502 : Thửa Ruộng Phì Nhiêu
  372503 : Thửa Ruộng Trật Tự
@@ -18017,6 +18674,15 @@ setFetterLevel : Sets your fetter level for your current active character
  373145 : Nỗ Lực Của Ngư Dân
  373146 : Sự Nhạy Bén Của Ngư Dân
  373147 : "Hương Vị Ấm Áp"
+ 373148 : Kệ Làm Gốm Nặng Gỗ Sáng
+ 373149 : Sắt, Cát Và Tiền Bạc
+ 373150 : Sắt, Máu Và Phá Giáp
+ 373151 : Sắt, Nước Và Hơi Nước
+ 373152 : Kệ Hàng Chất Lỏng Hàng Hải Gỗ Karmaphala
+ 373153 : Dây, Lông Vũ Và Đường Tên
+ 373154 : Bí Quyết Kiếm Ăn Trong Rừng
+ 373155 : Không Chừng Thành Công Thì Sao!
+ 373156 : Nhuốm Màu Và Đóng Cặn
  373201 : Chậu Cây Xanh - Xanh Ngắt Mát Mẻ
  373202 : Bồn Hoa Giữ Nước
  373203 : Thùng Gỗ Chuyển Bùn Đất
@@ -18094,6 +18760,14 @@ setFetterLevel : Sets your fetter level for your current active character
  373363 : Âm Thanh Êm Dịu
  373364 : Bảng Quảng Cáo Karmaphala Ba Mặt
  373365 : Bóng Râm Thưởng Trà
+ 373366 : Bình Phong Cát Tường - Núi Mù Sương
+ 373367 : Bình Phong Cát Tường - Tung Cánh Sóng Xanh
+ 373368 : Bình Phong Cát Tường - Nhạc Đưa Lá Trúc
+ 373369 : Bình Phong Cát Tường - Khúc Xưa Vang Vọng
+ 373370 : Bình Phong Cát Tường - Mây Mù Bủa Vây
+ 373371 : Bình Phong Cát Tường - Giai Điệu Ngân Xa
+ 373372 : Tù Và Với Củi Đốt
+ 373373 : Aranara Nguyên Mẫu
  373401 : Đèn Đường Khắc Hoa
  373402 : Đèn Đường Ngoại Ô
  373403 : Đèn Đuổi Tà - Soi Sáng Xung Quanh
@@ -18392,6 +19066,7 @@ setFetterLevel : Sets your fetter level for your current active character
  380414 : Đèn Treo Gỗ Phong - Rực Sáng
  380415 : Ngọn Nến Bung Tỏa - "Trong Trẻo Như Sen"
  380416 : Đèn Cầu Vồng - Nguyên Thần Cát Khánh
+ 380417 : Vạn Gia Hoa Đăng Chiếu Lãng Nguyệt
  380418 : Đèn Nham Xưởng - Nến Vực Sâu
  380419 : Ánh Sáng Giấc Ngủ
  380420 : Ánh Sáng Xanh Rờn
@@ -18399,6 +19074,8 @@ setFetterLevel : Sets your fetter level for your current active character
  380422 : Ánh Sáng Chuyên Tâm
  380423 : Ánh Sáng Thường Lệ
  380424 : Ánh Sáng Rực Rỡ
+ 380426 : Ánh Sáng Nhẹ Nhàng
+ 380427 : Ánh Sáng Nghỉ Ngơi
  380504 : Ánh Sáng Trăm Hoa
  381101 : Quầy Hàng Chữ L Gỗ Hoa Cực Bắc
  381102 : Kệ Hàng Gỗ Sam Đơn Giản
@@ -18410,6 +19087,8 @@ setFetterLevel : Sets your fetter level for your current active character
  381108 : Bàn Tủ Sa Mạc - Hoan Nghênh
  381109 : Kệ Đồ "Hỗn Loạn" Gỗ Adhigama
  381110 : Tủ Đầu Giường "Chữa Trị" Gỗ Sáng
+ 381111 : Tủ Gỗ Sanh Ba Lớp
+ 381112 : Tủ Trưng Đồ Gốm Gỗ Sanh
  381201 : Kệ Sách Hai Tầng Thư Viện
  381202 : Kệ Sách Gỗ Tụy Hoa Tinh Xảo
  381203 : Kệ Sách Gỗ Tụy Hoa Kinh Tế
@@ -18500,6 +19179,7 @@ setFetterLevel : Sets your fetter level for your current active character
  382236 : Thơm Nồng Món Nướng
  382237 : Hương Thơm Tươi Mới
  382238 : Tiết Kiệm Của Cư Dân Rừng Sâu
+ 382239 : Bình Sắc Màu - Cát Nóng
  382301 : Thảm Mondstadt - Ngọn Lửa Nhiệt Tình
  382302 : Thảm Mondstadt - Tìm Tòi Không Mệt Mỏi
  382303 : Thảm Nhà Trọ - Tiếp Đón Chu Đáo
@@ -18509,6 +19189,7 @@ setFetterLevel : Sets your fetter level for your current active character
  382307 : Hoa Văn Trầm Ấm
  382308 : "Hoa Văn Trang Trọng"
  382309 : "Hoa Văn Ô Liu"
+ 382310 : Hoa Văn Thuần Khiết Như Mầm Lúa Mì
  383101 : Đèn Treo Ánh Sáng Bất Tận
  383102 : Đèn Cao Gỗ Khước Sa Lưu Ly Đình
  383103 : Đèn Lồng Thiên Viên - Tỏa Sáng Rực Rỡ
@@ -18517,6 +19198,9 @@ setFetterLevel : Sets your fetter level for your current active character
  383107 : Đèn Sa Mạc - Ánh Sáng
  383108 : Ánh Sáng Hoan Ca
  383109 : Ánh Sáng Ở Vùng Đất Trí Tuệ
+ 383110 : Ánh Nến Bất Tận
+ 383111 : Ánh Nến Lắng Nghe
+ 383112 : Đèn Sắt Đa Dụng
  383201 : Bình Hoa - Ung Dung Nhạt Nhòa
  383202 : Chậu Cây Xanh - Gió Lộng
  383203 : Bình Hoa - Nở Rộ Đỏ Rực
@@ -18554,6 +19238,11 @@ setFetterLevel : Sets your fetter level for your current active character
  383338 : "Trong Vị Đắng Thơm Ngát"
  383339 : Công Thức Của Cư Dân Rừng Sâu
  383340 : Vinh Quang Của Cư Dân Rừng Sâu
+ 383341 : Bình Sắc Màu - Mầm Xanh
+ 383342 : Bình Đa Dụng Hình Sao Góc Cạnh
+ 383501 : Thức Tỉnh Ở Vùng Đất Trí Tuệ
+ 383502 : Hương Thơm Giải Khát
+ 383504 : Nghệ Thuật Tiết Kiệm Nước Sạch
  384101 : Tranh Phong Cảnh - Quê Hương
  384102 : Tranh Phong Cảnh - Mây Trời
  384103 : Tranh Phong Cảnh - Vách Núi
@@ -18579,6 +19268,7 @@ setFetterLevel : Sets your fetter level for your current active character
  384214 : Trang Trí Tường Sa Mạc - Hoàng Hôn
  384215 : Trang Trí Tường Sa Mạc - Hỏa Vũ
  384216 : Ghi Nhớ Của Đội Trưởng Kiểm Lâm
+ 384217 : Khiên Tấn Công Bằng Sắt Cứng Gỗ Sanh
  384501 : Thời Khắc Nhớ Nhung
  390101 : Nhà Tranh
  390102 : Kho Rơm
@@ -18625,6 +19315,8 @@ setFetterLevel : Sets your fetter level for your current active character
  390319 : Tận Dụng Đánh Bắt
  390320 : Quầy Hàng Mái Vải
  390321 : Quầy Đồ Nướng Di Động
+ 390322 : Giữ Hàng Khô Ráo
+ 390323 : Sau Tuyển Chọn Đa Dạng
  390401 : Trạm Gác Hilichurl
  390402 : Doanh Trại Thủ Lĩnh Hilichurl
  390501 : Vân Du Bích Thủy Đông
@@ -18703,6 +19395,8 @@ setFetterLevel : Sets your fetter level for your current active character
  390730 : Sự Tương Phản Của Thành Phố Trí Tuệ
  390731 : Hòa Bình Của Thành Phố Trí Tuệ
  390732 : Việc Vặt Của Thành Phố Trí Tuệ
+ 390733 : Lụa Đuổi Hải Thú
+ 390734 : Gió Cát Giữa Đêm Lặng
  391101 : Đài Phun Nước Hoa Và Chim
  391102 : Tháp Canh Hilichurl
  391103 : Lều Cỏ Hilichurl
@@ -18725,6 +19419,10 @@ setFetterLevel : Sets your fetter level for your current active character
  391125 : Túp Lều Sa Mạc - Nghỉ Ngơi
  391126 : Hơi Nước Tươi Mát Của Nhà Hát
  391127 : Sự Trong Sáng Ở Vùng Đất Trí Tuệ
+ 391129 : Cần Cẩu Đa Năng Loại 3 Cảng Ormos
+ 391130 : Xe Hàng Đường Dài Gỗ Hỗn Hợp
+ 391131 : Xe Hàng Trong Cảng Gỗ Hỗn Hợp
+ 391132 : Xe Hàng Đường Núi Hai Loại Bánh
  391201 : Tam Nhãn Thủ Tiên Bài
  391202 : Cổng Chính Trang Viên
  391203 : Chân Tường Đình Viện Khắc Hoa
@@ -18808,6 +19506,15 @@ setFetterLevel : Sets your fetter level for your current active character
  393144 : Kế Hoạch Buôn Bán Của Cư Dân
  393145 : Nỗ Lực Của Ngư Dân
  393146 : Sự Nhạy Bén Của Ngư Dân
+ 393148 : Kệ Làm Gốm Nặng Gỗ Sáng
+ 393149 : Sắt, Cát Và Tiền Bạc
+ 393150 : Sắt, Máu Và Phá Giáp
+ 393151 : Sắt, Nước Và Hơi Nước
+ 393152 : Kệ Hàng Chất Lỏng Hàng Hải Gỗ Karmaphala
+ 393153 : Dây, Lông Vũ Và Đường Tên
+ 393154 : Bí Quyết Kiếm Ăn Trong Rừng
+ 393155 : Không Chừng Thành Công Thì Sao!
+ 393156 : Nhuốm Màu Và Đóng Cặn
  393201 : Chậu Cây Xanh - Xanh Ngắt Mát Mẻ
  393202 : Bồn Hoa Giữ Nước
  393203 : Thùng Gỗ Chuyển Bùn Đất
@@ -18867,6 +19574,13 @@ setFetterLevel : Sets your fetter level for your current active character
  393363 : Âm Thanh Êm Dịu
  393364 : Bảng Quảng Cáo Karmaphala Ba Mặt
  393365 : Bóng Râm Thưởng Trà
+ 393366 : Bình Phong Cát Tường - Núi Mù Sương
+ 393367 : Bình Phong Cát Tường - Tung Cánh Sóng Xanh
+ 393368 : Bình Phong Cát Tường - Nhạc Đưa Lá Trúc
+ 393369 : Bình Phong Cát Tường - Khúc Xưa Vang Vọng
+ 393370 : Bình Phong Cát Tường - Mây Mù Bủa Vây
+ 393371 : Bình Phong Cát Tường - Giai Điệu Ngân Xa
+ 393372 : Tù Và Với Củi Đốt
  393401 : Đèn Đường Khắc Hoa
  393402 : Đèn Đường Ngoại Ô
  393403 : Đèn Đuổi Tà - Soi Sáng Xung Quanh
@@ -19175,6 +19889,7 @@ setFetterLevel : Sets your fetter level for your current active character
 24040201 : Monolith_Ordinator_02 - [N/A] 285953129
 24040301 : Monolith_Ordinator_03 - [N/A] 3626535649
 24050101 : Monolith_Starchild - [N/A] 2629579681
+24990101 : Monster_Alternate_01 - [N/A] 3880332545
 25010101 : Thoarder_Male_NoWeapon_01 - Liuliu
 25010102 : Thoarder_Male_Standard_NoWeapon_01_02 - Người Thần Bí
 25010103 : Thoarder_Male_Standard_NoWeapon_01_03 - [N/A] 4074487073
@@ -19216,6 +19931,7 @@ setFetterLevel : Sets your fetter level for your current active character
 25050402 : AahigaruTaisho_Male_01_02 - [N/A] 220906409
 25050501 : Aahigaru_Male_02 - Quân Sangonomiya
 25050502 : Aahigaru_Male_02_02 - (test) Binh Lính Quân Kháng Chiến Của Kokomi
+25050503 : Aahigaru_Male_03 - [N/A] 3723952969
 25060101 : Thoarder_MuscleMan_NoWeapon_01 - [N/A] 3034153769
 25060102 : Thoarder_MuscleMan_NoWeapon_01_02 - [N/A] 2830824473
 25070101 : Thoarder_MuscleMan_Hammer_01 - [N/A] 2923584017
@@ -19229,16 +19945,19 @@ setFetterLevel : Sets your fetter level for your current active character
 25080402 : Samurai_Hatamoto_02 - [N/A] 193563705
 25080403 : Samurai_Hatamoto_03 - [N/A] 1581579825
 25080404 : Samurai_Hatamoto_03 - [N/A] 400320561
+25080405 : Samurai_Hatamoto_04 - [N/A] 147737673
 25090101 : Samurai_Ningyo_01 - Tướng Quân Marionette
 25090102 : Samurai_Ningyo_02 - Tướng Quân Marionette - Phân Thân Phong
 25090103 : Samurai_Ningyo_03 - Tướng Quân Marionette - Phân Thân Băng
 25090104 : Samurai_Ningyo_04 - Tướng Quân Marionette - Phân Thân Mặt Nạ
+25090105 : Samurai_Ningyo_05 - [N/A] 1156820393
 25090201 : Samurai_Ningyo_02 - [EN] - Marionette General: Wind Bunshin (With Icon)
 25090301 : Samurai_Ningyo_03 - [EN] - Marionette General: Ice Bunshin (With Icon)
 25090401 : Samurai_Ningyo_04 - [EN] - Marionette General: Masked Bunshin (With Icon)
 25100101 : Samurai_Kairagi_01 - Kairagi - Lôi
 25100102 : Samurai_Kairagi_05 - [N/A] 280790529
 25100201 : Samurai_Kairagi_02 - Kairagi - Hỏa
+25100202 : Samurai_Kairagi_07 - [N/A] 1073373889
 25100301 : Samurai_Kairagi_03 - Kairagi - U Linh Lôi
 25100302 : Samurai_Kairagi_06 - [N/A] 1381328249
 25100401 : Samurai_Kairagi_04 - Kairagi - U Linh Hỏa
@@ -19246,6 +19965,8 @@ setFetterLevel : Sets your fetter level for your current active character
 25110102 : Gator_Eremite_Rock_02 - [N/A] 2361510321
 25110201 : Vulture_Eremite_Wind_01 - [N/A] 3397827697
 25110202 : Vulture_Eremite_Wind_02 - [N/A] 1458817257
+25110301 : Scorpion_Eremite_Fire_01 - [N/A] 3602103257
+25110401 : Chrysopelea_Eremite_Grass_01 - [N/A] 3779411305
 25210101 : Eremite_Female_Hatchet_01 - [N/A] 593962337
 25210102 : Eremite_Female_Hatchet_02 - [N/A] 655804089
 25210103 : Eremite_Female_Hatchet_03 - [N/A] 3189818729
@@ -19254,6 +19975,7 @@ setFetterLevel : Sets your fetter level for your current active character
 25210106 : EremiteElite_Female_Hatchet_03 - [N/A] 660925665
 25210107 : Eremite_Female_Hatchet_04 - [N/A] 2260729353
 25210108 : Eremite_Female_Hatchet_05 - [N/A] 1446861633
+25210109 : NPC_Quest_Female_Standard_Nailan_20933 - [N/A] 2358839953
 25210201 : Eremite_Male_Standard_Crossbow_01 - [N/A] 1998919569
 25210202 : Eremite_Male_Standard_Crossbow_02 - [N/A] 2119181617
 25210203 : Eremite_Male_Standard_Crossbow_03 - [N/A] 3425185161
@@ -19263,6 +19985,8 @@ setFetterLevel : Sets your fetter level for your current active character
 25210207 : Eremite_Male_Standard_Crossbow_04 - [N/A] 1636753185
 25210208 : NPC_Quest_Male_Standard_Eremite_01 - [N/A] 2050456833
 25210209 : NPC_Quest_Male_Standard_Eremite_02 - [N/A] 3171996801
+25210210 : NPC_Sumeru_Male_Standard_Aderfi_4293 - [N/A] 2723889409
+25210211 : NPC_Quest_Male_Standard_Assassin02_20940 - [N/A] 3153927337
 25210301 : Eremite_Male_Standard_Pole_01 - [N/A] 4008986473
 25210302 : Eremite_Male_Standard_Pole_02 - [N/A] 2939413633
 25210303 : Eremite_Male_Standard_Pole_03 - [N/A] 2517557169
@@ -19270,6 +19994,8 @@ setFetterLevel : Sets your fetter level for your current active character
 25210305 : EremiteElite_Male_Standard_Pole_02 - [N/A] 1664946217
 25210306 : EremiteElite_Male_Standard_Pole_03 - [N/A] 696066441
 25210307 : Eremite_Male_Standard_Pole_01 - [N/A] 2671081977
+25210308 : NPC_Sumeru_Male_Standard_Warden03_4298 - [N/A] 2403836809
+25210309 : NPC_Sumeru_Male_Standard_Warden04_4299 - [N/A] 191969201
 25210401 : Eremite_MuscleMan_Gloves_01 - [N/A] 998410809
 25210402 : Eremite_MuscleMan_Gloves_02 - [N/A] 839477089
 25210403 : Eremite_MuscleMan_Gloves_03 - [N/A] 2628038825
@@ -19277,6 +20003,7 @@ setFetterLevel : Sets your fetter level for your current active character
 25210405 : EremiteElite_MuscleMan_Gloves_02 - [N/A] 4366953
 25210406 : EremiteElite_MuscleMan_Gloves_03 - [N/A] 1385944497
 25210407 : NPC_Quest_MuscleMan_Standard_Eremite_01 - [N/A] 3844535385
+25210408 : NPC_Quest_MuscleMan_Standard_Assassin01_20913 - [N/A] 2083537065
 25210501 : Eremite_MuscleMan_Simitar_01 - [N/A] 914092905
 25210502 : Eremite_MuscleMan_Simitar_02 - [N/A] 3484979137
 25210503 : Eremite_MuscleMan_Simitar_03 - [N/A] 2747515289
@@ -19284,14 +20011,23 @@ setFetterLevel : Sets your fetter level for your current active character
 25210505 : EremiteElite_MuscleMan_Simitar_02 - [N/A] 4251715865
 25210506 : EremiteElite_MuscleMan_Simitar_03 - [N/A] 124112617
 25210507 : Eremite_MuscleMan_Simitar_04 - [N/A] 1714026825
+25210508 : NPC_Sumeru_MuscleMan_Standard_Yuften_4294 - [N/A] 2949828257
 25210601 : Eremite_Male_Standard_NoWeapon_01 - [N/A] 3480498409
 25210602 : Eremite_Male_Standard_NoWeapon_02 - [N/A] 1531750897
 25310101 : Eremite_Female_Slim_PushDagger_01 - [N/A] 2984077569
+25310102 : Eremite_Female_Slim_PushDagger_02 - [N/A] 1936242505
 25310201 : Eremite_Male_Standard_Glaive_01 - [N/A] 3154173257
 25310202 : Eremite_Male_Standard_Glaive_02 - [N/A] 3503187145
 25310301 : Eremite_Male_Standard_Polearm_01 - [N/A] 863506833
 25410101 : Eremite_Male_Strong_Katar_01 - [N/A] 1317576089
+25410102 : Eremite_Male_Strong_Katar_02 - [N/A] 3519774769
+25410103 : Eremite_Male_Strong_Katar_03 - [N/A] 2559377073
 25410201 : Eremite_Female_Standard_Longbow_01 - [N/A] 1223193297
+25410202 : Eremite_Female_Standard_Longbow_02 - [N/A] 3954073513
+25410301 : Eremite_Female_Standard_Oracle_01 - [N/A] 230400289
+25410302 : Eremite_Female_Standard_Oracle_02 - [N/A] 3319063017
+25410303 : Eremite_Female_Standard_Oracle_03 - [N/A] 1427419849
+25410401 : Eremite_Female_Standard_Dancer_01 - [N/A] 4046454873
 26010101 : Mimik_Ice - Hoa Lừa Dối - Băng
 26010102 : Mimik_Ice_Activity - Hoa Lừa Dối Băng (Sự kiện núi tuyết)
 26010103 : Mimik_Fel - [EN] - Giant Cryo Whopperflower (2.3 Dragonspine Event)
@@ -19356,11 +20092,15 @@ setFetterLevel : Sets your fetter level for your current active character
 26091001 : Fungus_Deux_Delta_Electric_01 - [N/A] 1409125529
 26091090 : Fungus_Deux_Delta_Electric_Enemy - [N/A] 2977465545
 26091091 : Fungus_Deux_Delta_Electric_01_Capture - [N/A] 2399196673
+26100301 : Vulture_Sacred_Fire_01 - [N/A] 2824755009
+26100401 : Scorpion_Sacred_Electric_01 - [N/A] 2220913313
+26100501 : Chrysopelea_Sacred_Wind_01 - [N/A] 1264292481
 26110101 : Fungus_Raptor - [N/A] 4290207929
 26120101 : Fungus_Amanita_Unu_Anudatta_Grass_01 - [N/A] 198051785
 26120201 : Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 2368019041
 26120301 : Fungus_Amanita_Du_Anudatta_Water_01 - [N/A] 3299184601
 26120401 : Fungus_Amanita_Du_Udatta_Rock_01 - [N/A] 4098645257
+26130101 : Sandworm - [N/A] 2117237033
 28010101 : Crab_01 - Cua Hoàng Kim
 28010102 : Crab_02 - Cua Thái Dương
 28010103 : Crab_03 - Cua Biển Xanh
@@ -19443,6 +20183,7 @@ setFetterLevel : Sets your fetter level for your current active character
 28020901 : Inu_Shihandai_01 - [EN] - Samurai Dog (Patrol)
 28020902 : Inu_Shihandai_02 - [EN] - Samurai Dog (Combat)
 28020903 : Inu_Shihandai_03 - [N/A] 467002241
+28020904 : Inu_Shihandai_04 - [N/A] 1992703905
 28030101 : Crane_01 - Cò Lông Xanh
 28030102 : Crane_02 - Ibis Tím
 28030103 : Crane_01 - [N/A] 434877481
@@ -19534,6 +20275,12 @@ setFetterLevel : Sets your fetter level for your current active character
 28050223 : Thoarder_Weasel_03 - [N/A] 4261963577
 28050301 : Boltbug_Lightbug_01 - [N/A] 868485513
 28050401 : Boltbug_Scarab_01 - [N/A] 2466918521
+28050501 : Electrohercules_01 - [N/A] 3014312137
+28050502 : Electrohercules_02 - [N/A] 765439209
+28050503 : Electrohercules_03 - [N/A] 3141479769
+28050504 : Electrohercules_04 - [N/A] 2949221961
+28050505 : Electrohercules_05 - [N/A] 2453680657
+28050506 : Electrohercules_06 - [N/A] 992130697
 28060101 : Gator_01 - [N/A] 128716817
 28060102 : Gator_Strong_01 - [N/A] 2866718929
 28060103 : Gator_01 - [N/A] 1328271489
@@ -19577,6 +20324,8 @@ setFetterLevel : Sets your fetter level for your current active character
 28061301 : Megamoth_Jungle_06 - [N/A] 3469996769
 28061401 : Megamoth_Jungle_07 - [N/A] 2330015681
 28061402 : Megamoth_Jungle_08 - [N/A] 3443985385
+28061501 : Chrysopelea_01 - [N/A] 447726457
+28061502 : Chrysopelea_01 - [N/A] 3984456185
 28210101 : Homeworld_Crab_01 - [EN] - Domestic Golden Crab
 28210102 : Homeworld_Crab_02 - [EN] - Domestic Sun Crab
 28210103 : Homeworld_Crab_03 - [EN] - Domestic Ocean Crab
@@ -19715,6 +20464,8 @@ setFetterLevel : Sets your fetter level for your current active character
 35210501 : Partner_Eremite_MuscleMan_Simitar_01 - [N/A] 4181653881
 35310101 : Partner_Eremite_Female_Slim_PushDagger_01 - [N/A] 800547617
 35310301 : Partner_Eremite_Male_Standard_Polearm_01 - [N/A] 2724426105
+35410101 : Partner_Eremite_Male_Strong_Katar_01 - [N/A] 843060329
+35410201 : Partner_Eremite_Female_Standard_Longbow_01 - [N/A] 2996340361
 36090190 : Partner_Fumgus_Un_Gamma_Water - [N/A] 4291858465
 36090290 : Partner_Fumgus_Un_Delta_Grass - [N/A] 2928415473
 36090390 : Partner_Fumgus_Un_Delta_Wind - [N/A] 3044810417
@@ -19725,6 +20476,7 @@ setFetterLevel : Sets your fetter level for your current active character
 36090890 : Partner_Fumgus_Deux_Epsilon_Wind - [N/A] 864320241
 36090990 : Partner_Fumgus_Deux_Beta_Rock - [N/A] 3379305585
 36091090 : Partner_Fumgus_Deux_Delta_Electric - [N/A] 1780358665
+38050590 : Partner_Animal_Electrohercules_01 - [N/A] 2442210649
 
 
 // Scenes
@@ -19787,6 +20539,7 @@ setFetterLevel : Sets your fetter level for your current active character
  1076 : IndoorScene_Md_CattailTavern
  1077 : IndoorScene_Xm_Chunzhangjia
  1078 : IndoorScene_Xm_Zls
+ 1079 : IndoorScene_Xm_Alhouse
  2001 : Homeworld_Exterior_Above
  2002 : Homeworld_Exterior_Karst
  2003 : Homeworld_Exterior_Uncharted
@@ -19898,6 +20651,7 @@ setFetterLevel : Sets your fetter level for your current active character
 20170 : Level_ScaramoucheFactory
 20171 : Level_ScaramoucheBoss
 20172 : Level_Consciousness
+20173 : Level_Xm_Alhaitham_01
 30001 : LevelTest_CurseMaze
 30100 : Level_Tower_Morning_01
 30101 : Level_Tower_Morning_01
@@ -20064,6 +20818,8 @@ setFetterLevel : Sets your fetter level for your current active character
 33744 : Level_Tower_Universe_01
 33745 : Level_Tower_Moon_01
 33746 : Level_Tower_Universe_01
+33747 : Level_Tower_Moon_01
+33748 : Level_Tower_Universe_01
 34100 : Level_Tower_Morning_01
 34101 : Level_Tower_01_Water
 34102 : Level_Tower_01_Open
@@ -20119,6 +20875,8 @@ setFetterLevel : Sets your fetter level for your current active character
 34744 : Level_Tower_Universe_01
 34745 : Level_Tower_Moon_01
 34746 : Level_Tower_Universe_01
+34747 : Level_Tower_Moon_01
+34748 : Level_Tower_Universe_01
 35100 : Level_Tower_Morning_01
 35101 : Level_Tower_Morning_01
 35102 : Level_Tower_Morning_01
@@ -20174,6 +20932,8 @@ setFetterLevel : Sets your fetter level for your current active character
 35744 : Level_Tower_Universe_01
 35745 : Level_Tower_Moon_01
 35746 : Level_Tower_Universe_01
+35747 : Level_Tower_Moon_01
+35748 : Level_Tower_Universe_01
 35800 : Level_CycleDungeon_WindFlower
 35801 : Level_ContestBattle01
 35802 : Level_ContestBattle01
@@ -20226,6 +20986,11 @@ setFetterLevel : Sets your fetter level for your current active character
 35870 : Level_BrickBreaker01
 35871 : Level_BrickBreaker01
 35872 : Level_BrickBreaker01
+35880 : Level_XM_BigLeaf
+35881 : Level_XM_BigLeaf
+35882 : Level_XM_BigLeaf
+35883 : Level_XM_BigLeaf
+35884 : Level_XM_BigLeaf
 40001 : Level_UCDungeon02
 40002 : Level_UCDungeon01
 40003 : Level_UCDungeon01
@@ -20287,6 +21052,8 @@ setFetterLevel : Sets your fetter level for your current active character
 40060 : Level_ActivityBoss01_Wind
 40061 : Level_ActivityBoss01_Wind
 40062 : Level_ActivityBoss01_Wind
+40063 : Level_Smr_LostCity
+40064 : Level_Smr_LostCity
 40100 : Level_CycleDungeon01_Fire
 40101 : Level_CycleDungeon01_Fire
 40102 : Level_CycleDungeon01_Fire
@@ -20450,6 +21217,8 @@ setFetterLevel : Sets your fetter level for your current active character
 41058 : Level_Tower_01_Open
 41059 : Level_Tower_01_Open
 41060 : Level_Tower_01_Open
+41061 : Level_Tower_01_Open
+41062 : Level_Tower_01_Open
 42001 : Level_PFDungeon02_Active01
 42002 : Level_PFDungeon02_Active02
 42003 : Level_PFDungeon02_Active07
@@ -20565,6 +21334,13 @@ setFetterLevel : Sets your fetter level for your current active character
 47205 : Level_Smr_LostCity
 47206 : Level_Smr_LostCity
 47207 : Level_Smr_LostCity
+47301 : Level_ContestBattle01
+47302 : Level_ContestBattle01
+47303 : Level_ContestBattle01
+47304 : Level_ContestBattle01
+47305 : Level_ContestBattle01
+47306 : Level_ContestBattle01
+47307 : Level_ContestBattle01
 50002 : TestLevel_Cold_LYX
 50003 : TestLevel_Battle_CLX
 50004 : Level_PowerCharge_Test
@@ -20667,7 +21443,9 @@ setFetterLevel : Sets your fetter level for your current active character
 51007 : BigWorld_LevelStreaming
 51008 : Level_Carnival
 51009 : Level_SmrDungeon_BigTree
+51010 : TestLevel_TestBox_LCM
 51011 : TestLevel_WhiteBox_Xm_04
+51013 : Level_Xm_Alhaitham_01
 51015 : Level_TestLevel_Pacman_Sll
 51019 : TestLevel_WhiteBox_Xm_05
 79999 : GcgCardTest
@@ -23245,7 +24023,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1200107 : Biết Mình Biết Ta Định Kế Sách - Nghe lén cuộc nói chuyện của Mậu Tài Công và Fatui
 1200108 : Biết Mình Biết Ta Định Kế Sách - Nói kế hoạch tiếp theo của Mậu Tài Công cho Xingqiu
 1200201 : Bầu Không Khí Trước Cuộc Chiến - Đưa thư cho gia đinh của "Thương Hội Phi Vân"
-1200202 : Bầu Không Khí Trước Cuộc Chiến - Vào Thương Hội Phi Vân
+1200202 : Bầu Không Khí Trước Cuộc Chiến - Vào Lưu Ly Đình
 1200203 : Bầu Không Khí Trước Cuộc Chiến - Nói chuyện với gia đinh của Thương Hội Phi Vân
 1200204 : Bầu Không Khí Trước Cuộc Chiến - Đến cửa tiệm mua Thạch Phách
 1200205 : Bầu Không Khí Trước Cuộc Chiến - Đến cửa tiệm mua Thạch Phách
@@ -23261,7 +24039,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1200215 : Bầu Không Khí Trước Cuộc Chiến - Hoàn thành mua sắm
 1200219 : Bầu Không Khí Trước Cuộc Chiến - Dùng góc nhìn nguyên tố, tìm xe hàng có Thạch Phách
 1200220 : Bầu Không Khí Trước Cuộc Chiến - Dùng góc nhìn nguyên tố, tìm xe hàng có Thạch Phách
-1200221 : Bầu Không Khí Trước Cuộc Chiến - [CHS] - (test)与「飞云商会」的家丁对话$HIDDEN
+1200221 : Bầu Không Khí Trước Cuộc Chiến - Nói chuyện với gia đinh
 1200222 : Bầu Không Khí Trước Cuộc Chiến - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200223 : Bầu Không Khí Trước Cuộc Chiến - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200303 : Hiệp Khách Vô Thường - Đến kho của Thương Hội Phi Vân
@@ -28780,7 +29558,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7082402 : Quét Dọn Tửu Trang - Cùng Adelinde đến Tửu Trang Dawn
 7082403 : Quét Dọn Tửu Trang - Dọn dẹp toàn bộ vết bẩn
 7082404 : Quét Dọn Tửu Trang - Nói chuyện với Adelinde
-7082501 : Công việc hậu kỳ - [CHS] - 与霍夫曼对话$HIDDEN
+7082501 : Công việc hậu kỳ - Nói chuyện với Huffman
 7082502 : Công việc hậu kỳ - Đến phía trước tuần tra và thanh lý toàn bộ chướng ngại vật
 7082503 : Công việc hậu kỳ - Xử lý toàn bộ ma vật và chướng ngại vật
 7082504 : Công việc hậu kỳ - Đến phía trước tuần tra và thanh lý toàn bộ chướng ngại vật

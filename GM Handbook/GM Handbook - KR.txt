@@ -1,5 +1,5 @@
-// Grasscutter 3.3.0 GM Handbook
-// Created 2022/12/07 22:14:49
+// Grasscutter 3.3.54 GM Handbook
+// Created 2023/01/24 10:05:08
 
 
 // Commands
@@ -581,6 +581,28 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  41076013 : Faruzan_Constellation6_Bullet - [N/A] 1903046925
  41076014 : Faruzan_Constellation6_Bullet_Trigger - [N/A] 1339949197
  41076015 : Faruzan_SkillObj_WindZone_Hit - [N/A] 3244892205
+ 41077001 : Yaoyao_ExtraAttack_Bullet - [N/A] 1175812701
+ 41077002 : Yaoyao_ElementalArt_Rabbit - [N/A] 486672549
+ 41077003 : Avatar_Yaoyao_Turnip_Bullet - [N/A] 358099181
+ 41077004 : Avatar_Yaoyao_Turnip - [N/A] 3130731581
+ 41077005 : Yaoyao_ElementalArt_Rabbit_Throw - [N/A] 4187909685
+ 41077006 : Yaoyao_ElementalBurst_Rabbit_Throw - [N/A] 371097277
+ 41077007 : Yaoyao_ElementalBurst_Rabbit - [N/A] 3384056949
+ 41077008 : Avatar_Yaoyao_Turnip_Bullet_Parabola - [N/A] 3536110237
+ 41077009 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre - [N/A] 1584764237
+ 41077010 : Yaoyao_ElementalArt_Rabbit_Throw_Short - [N/A] 502899525
+ 41077011 : Avatar_Yaoyao_Golden_Turnip_Bullet - [N/A] 3865826597
+ 41077012 : Avatar_Yaoyao_Golden_Turnip - [N/A] 1158403509
+ 41077013 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre_BulletTrigger - [N/A] 3263422261
+ 41078001 : Alhatham_ElementalArt_Bullet - [N/A] 1364000445
+ 41078002 : Alhatham_ElementalArt_CoAttack03_Bullet - [N/A] 64191325
+ 41078003 : Alhatham_ElementalArt_CoAttack01 - [N/A] 470585117
+ 41078004 : Alhatham_ElementalArt_CoAttack02 - [N/A] 3787294741
+ 41078005 : Alhatham_ElementalArt_CoAttack03 - [N/A] 1744412269
+ 41078006 : Alhatham_ElementalArt_CoAttack01_Constellation_1 - [N/A] 2252179381
+ 41078007 : Alhatham_ElementalArt_CoAttack02_Constellation_1 - [N/A] 1560682061
+ 41078008 : Alhatham_ElementalArt_CoAttack03_Constellation_1 - [N/A] 4103662077
+ 41078011 : Alhatham_ElementalBurst_Dummy - [N/A] 2022817589
  42000001 : Fishing_Aim_Bullet - [N/A] 948791589
  42000002 : Fishing_Cork - [N/A] 3201528309
  42001001 : Slime_IceCone_AimPoint - [N/A] 4070709791
@@ -1188,6 +1210,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  42509016 : Samurai_Ningyo_MaskCloseLock_ToPlace - [N/A] 2596145183
  42509017 : Samurai_Ningyo_BornObject - [N/A] 3018148159
  42509018 : Samurai_Ningyo_LockTarget - [N/A] 712038119
+ 42509019 : Samurai_Ningyo_WindBladeAir_BladeMaster - [N/A] 865564191
  42510001 : Samurai_Kairagi_FireArea - [N/A] 2013216071
  42510002 : Kairagi_RushAtk_Bullet - [N/A] 4186423367
  42510003 : Kairagi_RushAtk_Bullet_Thunder - [N/A] 321225383
@@ -1215,6 +1238,21 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  42550006 : Eremite_Vulture_WindArea - [N/A] 3706864199
  42550007 : Eremite_Longbows_MoveShot_Damage - [N/A] 687002071
  42550008 : Eremite_Longbows_AirShoot_WindArea - [N/A] 1292916871
+ 42560001 : Eremite_Dancer_Boomerang - [N/A] 3548492375
+ 42560002 : Eremite_Dancer_WheelSurround - [N/A] 3787607703
+ 42560003 : Eremite_Dancer_Trap - [N/A] 2195108999
+ 42560004 : Eremite_Chrysopelea_ShaderCut_Gadget - [N/A] 2831645047
+ 42560005 : Eremite_Chrysopelea_ComboAttack_Gadget - [N/A] 678410903
+ 42560006 : Eremite_Chrysopelea_RangeAttack_Bullet - [N/A] 2679176639
+ 42570001 : Eremite_Oracle_Stingers_Bullet - [N/A] 2445929463
+ 42570002 : Eremite_Oracle_LaserAttack_Bullet - [N/A] 3113180095
+ 42570003 : Eremite_Oracle_FunnelAttack_Bullet - [N/A] 4060731967
+ 42570004 : Eremite_Oracle_FunnelAttack_Gadget - [N/A] 3884020815
+ 42570005 : Eremite_Scorpion_ShaderCut_Gadget - [N/A] 2308962959
+ 42570006 : Eremite_Scorpion_RangeAttack_Bullet - [N/A] 2162733327
+ 42570007 : Eremite_Scorpion_MeleeAttack_Bullet - [N/A] 1655028663
+ 42570008 : Eremite_Scorpion_ComboAttack_Gadget - [N/A] 1971621423
+ 42570009 : Eremite_Scorpion_RangeAttack_RayBullet - [N/A] 1740862423
  42601001 : Mimik_Ice_ForwardBullet - [N/A] 1887752319
  42601002 : Mimik_Ice_ForwardCannon - [N/A] 239623631
  42601003 : Mimik_Ice_UpperMissile - [N/A] 2883953935
@@ -1409,6 +1447,33 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  42609024 : Fungus_Un_Water_Bubble - [N/A] 4040866999
  42609025 : Fungus_Deux_Wind_OverdoseBullet - [N/A] 1900741015
  42609026 : Fungus_Un_Dendro_Bullet_UB - [N/A] 437828143
+ 42610001 : Scorpion_Sacred_SacredAttack03_Bullet - [N/A] 157394007
+ 42610002 : Scorpion_Sacred_SacredAttack05_Bullet - [N/A] 1362906215
+ 42610003 : Scorpion_Sacred_SacredEnergy_Gadget - [N/A] 4201293127
+ 42610004 : Scorpion_Sacred_SacredEnergy_Bullet - [N/A] 426087711
+ 42610005 : Scorpion_Sacred_SacredEnergy_Accum - [N/A] 1086890671
+ 42610006 : Scorpion_Sacred_SacredAttack05_Bullet2 - [N/A] 3394513775
+ 42610007 : Scorpion_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 2396345631
+ 42610017 : Vulture_Sacred_SacredAttack04_Bullet - [N/A] 1931426559
+ 42610018 : Vulture_Sacred_SacredAttack05_Bullet - [N/A] 3313926135
+ 42610019 : Vulture_Sacred_SacredEnergy_Gadget - [N/A] 4274054415
+ 42610020 : Vulture_Sacred_SacredEnergy_Bullet - [N/A] 3474544455
+ 42610021 : Vulture_Sacred_SacredEnergy_Detect - [N/A] 3571112831
+ 42610022 : Vulture_Sacred_SacredEnergy_Accum - [N/A] 205944767
+ 42610023 : Vulture_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3491967647
+ 42610024 : Chrysopelea_Sacred_Attack01_Bullet - [N/A] 3919499911
+ 42610025 : Chrysopelea_Sacred_Attack01_WindZone - [N/A] 27701559
+ 42610026 : Chrysopelea_Sacred_SacredEnergy_Gadget - [N/A] 1669444215
+ 42610027 : Chrysopelea_Sacred_SacredEnergy_Bullet - [N/A] 2668002983
+ 42610028 : Chrysopelea_Sacred_Attack02_WindBlade - [N/A] 2268598063
+ 42610029 : Chrysopelea_Sacred_Attack04_WindZone - [N/A] 3244977807
+ 42610030 : Chrysopelea_Sacred_Attack05_Bullet - [N/A] 3994716847
+ 42610031 : Chrysopelea_Sacred_SacredEnergy_Detect - [N/A] 1576521079
+ 42610032 : Chrysopelea_Sacred_SacredEnergy_Accum - [N/A] 1749515879
+ 42610033 : Chrysopelea_Sacred_Attack05_WindBlade - [N/A] 2250065735
+ 42610034 : Chrysopelea_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3603489927
+ 42610035 : Chrysopelea_Sacred_Attack02_WindBlade02 - [N/A] 475343279
+ 42610036 : Chrysopelea_Sacred_Attack02_WindBlade03 - [N/A] 3164834151
  42611001 : Fungus_Raptor_01_ShootAttackBullet - [N/A] 1247474583
  42611002 : Fungus_Raptor_01_PowerAttackBullet - [N/A] 1981485391
  42611003 : Fungus_Raptor_01_SummonAttackBullet - [N/A] 3692441343
@@ -1427,6 +1492,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  42611016 : Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay - [N/A] 1382661615
  42611017 : Fungus_Raptor_01_SummonAttackBullet_OnGround - [N/A] 1912276719
  42611018 : Fungus_Un_Delta_Grass_BulletDecayedRaptorSummon - [N/A] 1152419447
+ 42613001 : Bullet_Sandworm_Stage01_ShootAttackBullet - [N/A] 2932985583
+ 42613002 : Bullet_Sandworm_Stage02_TailVerticalShootAttack_BulletOnGround - [N/A] 1481911263
+ 42613003 : Monster_Sandworm_Stage02_FlyingAttackBall - [N/A] 2615035231
+ 42613004 : Bullet_Sandworm_Stage02_FlyingAttackBullet - [N/A] 3970307391
+ 42613005 : Bullet_Sandworm_Stage02_DrillRushAttackBullet - [N/A] 3607401655
+ 42613006 : Bullet_Sandworm_Stage02_UnderGroundMoveTrail_Bullet - [N/A] 1325797263
+ 42613007 : Monster_Sandworm_Stage02_FlyingAttackBall02 - [N/A] 2062639847
+ 42613008 : Monster_Sandworm_Stage02_FlyingAttackBall03 - [N/A] 2977250319
+ 42613009 : Monster_Sandworm_Stage02_FlyingAttackBall04 - [N/A] 242312639
+ 42613010 : Monster_Sandworm_Stage02_FlyingAttackBall05 - [N/A] 2026021447
+ 42613011 : Monster_Sandworm_Stage02_FlyingAttackBall06 - [N/A] 3250352215
  42690001 : DendroTornado_Hunting - [N/A] 1490735319
  42802001 : Boar_RushAtk - [N/A] 3897733399
  42802002 : Boar_BigSnowBall - [N/A] 946776663
@@ -1434,6 +1510,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  42802004 : Boar_SnowDrop - [N/A] 2073418471
  42802005 : Boar_03_RushAtk - [N/A] 3801980575
  42805001 : Boltbug_Scarab_Ball - [N/A] 1464668799
+ 42806001 : Chrysopelea_Attack01_Bullet - [N/A] 2582222311
  42901001 : Dvalin_Trigger01 - [N/A] 2857760847
  42901002 : Dvalin_AirFlowGlobal01 - [N/A] 878162351
  42901003 : Dvalin_WindRing01 - [N/A] 3054154647
@@ -1456,7 +1533,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  42901029 : Dvalin_S04_Platform01 - [N/A] 753154527
  42901041 : Dvalin_S04_AbyssTrigger - [N/A] 1169221039
  42901042 : Dvalin_S01_WindSlime - [N/A] 2927902063
- 42901043 : Dvalin_S01_FireAbyss - [N/A] 904992831
+ 42901043 : Dvalin_S01_FireAbyss - [N/A] 1636076615
  42901044 : Dvalin_S01_FireAbyss_Cyclone - [N/A] 48205711
  42901045 : Dvalin_S01_FireAbyss_Totem - [N/A] 2034797783
  42901046 : Dvalin_S01_Missile_01 - [N/A] 2551641095
@@ -1770,6 +1847,15 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  42907910 : Gagana_EnergyCube_Small - [N/A] 4263390975
  42907911 : Gagana_EnergyCubeSpecial - [N/A] 3132457399
  42907912 : Gagana_AutoShootBullet_Powerful - [N/A] 2271855919
+ 43805001 : Partner_Animal_Electrohercules_JumpAttack - [N/A] 1817545303
+ 43805002 : Partner_Animal_Electrohercules_JumpAttack_CriticalTrigger - [N/A] 688400959
+ 43805003 : Animal_Electrohercules_RangedAttack01_Attack - [N/A] 3968051159
+ 43805004 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 2126377159
+ 43805005 : Bullet_Animal_Electrohercules_ElectricBall_OnGround - [N/A] 789377079
+ 43805006 : Bullet_Animal_Electrohercules_ElectricBall_Kicked - [N/A] 3009696383
+ 43805007 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 3225701015
+ 43805008 : Animal_Electrohercules_06_CameraTarget - [N/A] 1933183503
+ 43805009 : Partner_Animal_Electrohercules_JumpBack - [N/A] 628752167
  44000001 : SkillObj_LevelEntity_TowerBuff_SprintAreaAttack - [N/A] 2478743371
  44000002 : SkillObj_GlidingChallenge_AirDash_Forward - [N/A] 4055901779
  44000003 : SkillObj_GlidingChallenge_AirDash_Upward1 - [N/A] 4039659491
@@ -1994,8 +2080,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  44000547 :  - [N/A] 1160347275
  44000548 :  - [N/A] 1443849811
  44000549 : CoinCollect_WindField - [N/A] 1061538187
+ 44000551 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainChooseMonster - [N/A] 1424403123
+ 44000552 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainExplodeCreatorV3.4 - [N/A] 3771975235
+ 44000553 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainMasterExplodeV3.4 - [N/A] 102652931
  45001001 : Skiff_Normal_01 - [N/A] 1971263784
  45001002 : Skiff_Normal_Beidou - [N/A] 4127622224
+ 45001003 : Skiff_Normal_LanV3BoatGame - [N/A] 1002409352
  49001001 : GeneralSkill_IceDamage_Prison_Center - [N/A] 3689397839
  49001002 : GeneralSkill_WindDamage_Vortex_Center - [N/A] 3989476855
  49001003 : GeneralSkill_RockDamage_LowWave_Emitter - [N/A] 1638573951
@@ -2017,6 +2107,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  49001020 : MonsterAffix_Drop_Rock_CenterGadget - [N/A] 2838867671
  49001021 : MonsterAffix_Drop_Rock_Bullet_Stage1 - [N/A] 2780804615
  49001022 : MonsterAffix_Drop_Rock_Bullet_Stage2 - [N/A] 3950134471
+ 49001023 : MonsterAffix_Activity_Deathrattle_Gadget_DoomLogic - [N/A] 1656916927
  50004001 : MonEquip_WoodenClub_01 - [N/A] 2276690274
  50004002 : MonEquip_Shield_01 - [N/A] 385102474
  50004003 : MonEquip_WoodenClub_Fire_01 - [N/A] 2366820018
@@ -2153,6 +2244,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  50011509 : Weapon_Sword_Metal - [N/A] 2049132762
  50011510 : Weapon_Sword_Metal - [N/A] 1767000186
  50011511 : Weapon_Sword_Metal - [N/A] 678116498
+ 50011512 : Weapon_Sword_Metal - [N/A] 2148878538
  50012101 : Weapon_Claymore_Metal - [N/A] 3190308418
  50012201 : Weapon_Claymore_Metal - [N/A] 3652942962
  50012301 : Weapon_Claymore_Metal - [N/A] 2236465170
@@ -2333,6 +2425,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70120007 : SceneObj_Resident_DungeonEntry_Temp_3d - [N/A] 2071956017
  70120008 : SceneObj_Resident_DungeonEntry_MengDe03 - [N/A] 2185414225
  70120009 : SceneObj_Resident_DungeonEntry_MakotoTorii - [N/A] 2887094801
+ 70120011 : SceneObj_Resident_DungeonEntry_Desert01 - [N/A] 3773079265
  70130001 : Windmill - [N/A] 1253491753
  70130002 : Windmill - [N/A] 138536801
  70130003 : Windmill - [N/A] 1190443273
@@ -2472,6 +2565,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70217018 : SceneObj_Chest_Relic02 - [N/A] 4118874809
  70217019 : SceneObj_Chest_Relic02 - [N/A] 249981361
  70217020 : SceneObj_Area_Xm_Property_Prop_SumeruCrudeChest_01 - [N/A] 3499701441
+ 70217021 : SceneObj_Area_Xm_Property_Prop_Qzft_Chest_01 - [N/A] 1255863673
  70220001 : SceneObj_Environment_GrassMaterial_LeaveStacks - [N/A] 2131907393
  70220002 : SceneObj_Environment_GrassMaterial_LeafBlanket - [N/A] 3400770321
  70220003 : SceneObj_Environment_WoodenMaterial_BrambleWall01 - [N/A] 940992233
@@ -3162,8 +3256,10 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70290432 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2610296801
  70290433 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2293893953
  70290434 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2074184041
+ 70290435 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_01 - [N/A] 2036496833
  70290436 : SceneObj_Area_Xm_Property_Prop_RootPot_01 - [N/A] 763381017
  70290437 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruBubble_01 - [N/A] 2077054049
+ 70290438 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Bullet_01 - [N/A] 2755426545
  70290439 :  - [N/A] 529036153
  70290440 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part_NoDither - [N/A] 2255502849
  70290441 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part - [N/A] 3174113273
@@ -3178,6 +3274,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70290450 : SceneObj_Area_Common_Property_Prop_Excavate_01 - [N/A] 631751737
  70290451 : SceneObj_Area_Xm_Property_Prop_SeelieFarAway_01 - [N/A] 2563897945
  70290452 : SceneObj_Area_Common_Property_Prop_ExplorationRing_01 - [N/A] 158715585
+ 70290453 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_01 - [N/A] 988585289
+ 70290454 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_02 - [N/A] 1189602505
+ 70290455 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3116403553
+ 70290456 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3434048849
+ 70290457 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_01 - [N/A] 1679508649
+ 70290458 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Balance_01 - [N/A] 2251884753
+ 70290459 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Transparency_01 - [N/A] 1446169785
+ 70290460 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_DeadZone_01 - [N/A] 1166772305
+ 70290461 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_02 - [N/A] 2342499809
+ 70290462 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_01 - [N/A] 4207694721
+ 70290463 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 713757273
  70290464 :  - [N/A] 1503227049
  70290465 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_01 - [N/A] 3551710265
  70290466 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_02 - [N/A] 241714481
@@ -3309,7 +3416,55 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70290597 : SceneObj_Area_Xm_Property_Water_CaveNoRPR120 - [N/A] 1115917249
  70290598 : SceneObj_Gear_Platform_WaterPlatform - [N/A] 2712802545
  70290599 : SceneObj_Area_Xm_Property_Prop_ChorusMusicGadget - [N/A] 2147750849
+ 70290600 : SceneObj_Area_Xm_Property_Ani_Prop_SpiritEnergyGear_01 - [N/A] 2049723257
+ 70290601 : SceneObj_Area_Xm_Property_Prop_SandTornado_01 - [N/A] 41434961
+ 70290602 : SceneObj_Area_Xm_Property_Prop_SandTornado_02 - [N/A] 1326509065
+ 70290603 : SceneObj_Area_Xm_Property_Prop_Lzsg_01 - [N/A] 3240334449
+ 70290604 : SceneObj_Area_Xm_Property_Prop_Hssz_01 - [N/A] 3745118673
+ 70290605 : SceneObj_Area_Xm_Property_Prop_Lzpb_01 - [N/A] 2274278689
+ 70290606 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_01 - [N/A] 2157025297
+ 70290607 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_02 - [N/A] 2214960881
  70290608 : SceneObj_Activity_Brick_Breaker - [N/A] 2580652217
+ 70290609 : SceneObj_Area_Xm_Property_Prop_OasisController_01 - [N/A] 78050633
+ 70290610 : SceneObj_Area_Common_Property_Ani_Prop_PipeGear_01 - [N/A] 828154569
+ 70290611 : SceneObj_Area_Common_Property_Ani_Prop_BrokenGear_01 - [N/A] 4140570817
+ 70290612 : SceneObj_Area_Common_Property_Ani_Prop_MaranaGear_01 - [N/A] 1410562897
+ 70290613 : SceneObj_Area_Xm_Property_Prop_SandFall_01 - [N/A] 50458873
+ 70290614 : SceneObj_Area_Xm_Property_Ani_Prop_SandContainerWall_01 - [N/A] 1421177553
+ 70290615 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 4252347825
+ 70290616 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 2510245593
+ 70290617 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 529665777
+ 70290618 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 1767819281
+ 70290619 : SceneObj_Area_Xm_Property_Ani_Prop_ChangeableStone_01 - [N/A] 829317745
+ 70290620 : SceneObj_Area_Common_Property_Prop_LaserWall_01 - [N/A] 18549409
+ 70290621 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3734889289
+ 70290622 : SceneObj_Area_Xm_Property_Ani_Prop_BrokenSlabStone_05 - [N/A] 339468329
+ 70290623 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 409823921
+ 70290624 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Normal_01 - [N/A] 1815794993
+ 70290625 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Hard_01 - [N/A] 3883894849
+ 70290626 : SceneObj_Area_Xm_Property_Prop_SandFall_02 - [N/A] 744073057
+ 70290627 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_01 - [N/A] 3822609169
+ 70290628 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Direct_01 - [N/A] 2685721425
+ 70290629 : SceneObj_Area_Xm_Property_Prop_Cwcfz_01 - [N/A] 1953317377
+ 70290630 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 3215638145
+ 70290631 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_Movable - [N/A] 2768729457
+ 70290632 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_NoMove - [N/A] 2386538745
+ 70290633 : SceneObj_Area_Xm_Property_Prop_Cwcfz_02 - [N/A] 1988180561
+ 70290634 : SceneObj_Area_Xm_Property_Prop_Cwcfz_03 - [N/A] 1969550393
+ 70290635 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 2518409809
+ 70290636 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 1779814105
+ 70290637 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 3807423753
+ 70290638 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_01 - [N/A] 2076167945
+ 70290639 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_01 - [N/A] 2773464097
+ 70290640 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_01 - [N/A] 3034438033
+ 70290641 : SceneObj_Desert_DeshretObelisk - [N/A] 1879846817
+ 70290642 : SceneObj_Desert_DeshretObelisk - [N/A] 4276804769
+ 70290643 : SceneObj_Desert_DeshretObelisk - [N/A] 2083341033
+ 70290644 : SceneObj_Desert_DeshretObelisk - [N/A] 3302552593
+ 70290645 : SceneObj_Desert_DeshretObelisk - [N/A] 364667705
+ 70290646 : SceneObj_Desert_DeshretObelisk - [N/A] 3624640993
+ 70290647 : SceneObj_Desert_DeshretObelisk - [N/A] 858805217
+ 70290648 : SceneObj_Desert_DeshretObelisk - [N/A] 3056909833
  70290650 : SceneObj_Level_Common_Property_Prop_CallEntity_01 - [N/A] 1160269489
  70290651 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_01 - [N/A] 4182368257
  70290652 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_02 - [N/A] 4018773201
@@ -3327,6 +3482,40 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70290664 : Quest_VoidSearching_Target - [N/A] 3397138529
  70290665 : BrickBreaker_Env_Candle - [N/A] 3199094937
  70290666 : SceneObj__BrickBreaker_LampController_01 - [N/A] 1541852665
+ 70290670 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 2065884305
+ 70290671 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_01 - [N/A] 3621829921
+ 70290672 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_01 - [N/A] 3666126313
+ 70290673 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_02 - [N/A] 3199666065
+ 70290674 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3967556113
+ 70290675 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 4176026001
+ 70290676 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1021316729
+ 70290677 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3698166481
+ 70290678 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1061070529
+ 70290679 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1472762657
+ 70290680 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 577811889
+ 70290681 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 2579409233
+ 70290682 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3336319465
+ 70290683 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 1663416393
+ 70290684 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3562583497
+ 70290685 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2803790033
+ 70290686 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2806710817
+ 70290687 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2528805641
+ 70290688 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3311007569
+ 70290689 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3226777585
+ 70290690 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3352686545
+ 70290691 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3605855513
+ 70290692 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_01 - [N/A] 1512358633
+ 70290693 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Hint - [N/A] 1994277409
+ 70290694 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_02 - [N/A] 3258169521
+ 70290695 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment - [N/A] 1832319705
+ 70290696 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment_Controller - [N/A] 3695160057
+ 70290697 : SceneObj_Area_Xm_Property_Prop_Cwfs_01 - [N/A] 3679600321
+ 70290698 : SceneObj_Area_Xm_Property_Prop_Cwfs_02 - [N/A] 2406359121
+ 70290699 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 3428859385
+ 70290700 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 1730450033
+ 70290701 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_02 - [N/A] 1868891241
+ 70290702 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_03 - [N/A] 749032825
+ 70290703 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_04 - [N/A] 1081186537
  70290704 : SceneObj_Activity_Brick_Breaker_Boss_Samurai - [N/A] 4141117945
  70290705 : SceneObj_Activity_Brick_Breaker_Boss_MirrorGirl - [N/A] 1843539049
  70290706 : SceneObj_Activity_Brick_Breaker_Boss_Elec_Mage - [N/A] 3437297697
@@ -3374,17 +3563,108 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70290753 :  - [N/A] 1622761993
  70290754 : SceneObj_Area_Dq_Property_Ani_Prop_AkebiaGroup_01 - [N/A] 706612529
  70290755 : SceneObj_Area_Dq_Property_Ani_Prop_Catstatue_01 - [N/A] 1353183857
+ 70290756 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_01 - [N/A] 3910653121
+ 70290757 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_02 - [N/A] 1436925217
+ 70290758 : SceneObj_Area_Xm_Property_Prop_Lzsg_02 - [N/A] 2514548601
+ 70290759 : SceneObj_AnimalObj_Ani_Level_Pigeon_Beak_01 - [N/A] 3662799673
+ 70290760 : SceneObj_AnimalObj_Ani_Level_Crane_Lbis_01 - [N/A] 82317961
+ 70290761 : SceneObj_AnimalObj_Ani_Level_Apsva_01 - [N/A] 375359489
+ 70290762 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Platform_01 - [N/A] 421179601
+ 70290763 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 495312385
+ 70290764 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Attack_01 - [N/A] 2912098969
+ 70290765 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Board - [N/A] 1571075993
+ 70290766 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 1933523545
+ 70290767 : SceneObj_Area_Xm_Property_Prop_ChessClockworkGiving_01 - [N/A] 963474121
+ 70290768 : SceneObj_Area_Xm_Property_Prop_ChessEmptyGiving_01 - [N/A] 2832043705
+ 70290769 : SceneObj_Area_Xm_Property_Ani_Prop_JamshidCupGear_01 - [N/A] 1587810321
+ 70290770 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_01 - [N/A] 2301408537
+ 70290772 : SceneObj_Area_Dq_Property_Prop_ElectroherculesBattlefield_01 - [N/A] 566775753
+ 70290773 : SceneObj_Area_Dq_Property_Ani_Prop_ElectroherculesBattlePosterBoard_01 - [N/A] 974868377
+ 70290777 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBall_01 - [N/A] 116298593
+ 70290778 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoin_01 - [N/A] 1873600001
+ 70290779 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoinLarge_01 - [N/A] 1015078889
+ 70290780 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBoundary_01 - [N/A] 2255335753
+ 70290781 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPMaelstrom_01 - [N/A] 2856177153
+ 70290782 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_01 - [N/A] 1583439265
+ 70290783 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPAirdrop_01 - [N/A] 3375289777
+ 70290784 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoin_01 - [N/A] 4070373073
+ 70290785 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBomb_01 - [N/A] 2271280649
+ 70290786 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodenBox_01 - [N/A] 4271170785
+ 70290787 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPNightLamp_01 - [N/A] 2036980585
+ 70290788 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropLamp_01 - [N/A] 606742473
+ 70290789 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1368822425
+ 70290790 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1950693041
+ 70290791 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 4014783241
+ 70290792 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleFirework_01 - [N/A] 818296505
+ 70290793 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPGhostMark_01 - [N/A] 1838099145
+ 70290794 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_02 - [N/A] 3043482305
+ 70290795 : SceneObj_Level_Common_Property_Ani_Prop_DoorLocker_01 - [N/A] 4192419281
+ 70290796 : SceneObj_Level_Common_Property_Ani_Prop_TransparentElevator_01 - [N/A] 4179799089
+ 70290797 : SceneObj_Level_Common_Property_Ani_Prop_Door_Blocker_01 - [N/A] 993553561
+ 70290798 : SceneObj_Level_Common_Property_Ani_Prop_DoorKeycard_01 - [N/A] 1956293185
+ 70290799 :  - [N/A] 1782289217
+ 70290800 :  - [N/A] 2763753593
+ 70290819 :  - [N/A] 2673719841
+ 70290820 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_01 - [N/A] 4131157633
+ 70290821 : SceneObj_Area_Xm_Property_Prop_Szqparc_01 - [N/A] 4002794665
+ 70290822 : SceneObj_Area_Xm_Property_Prop_Szqpcwl_01 - [N/A] 1835805609
+ 70290823 : SceneObj_Area_Xm_Property_Prop_Szqpcwzb_01 - [N/A] 1158346377
+ 70290824 : SceneObj_Area_Xm_Property_Prop_Szqpcwzx_01 - [N/A] 2306618513
+ 70290825 : SceneObj_Area_Xm_Property_Prop_Szqpjrc_01 - [N/A] 3976695529
+ 70290826 : SceneObj_Area_Xm_Property_Prop_Szqplsyj_01 - [N/A] 856255729
+ 70290827 : SceneObj_Area_Xm_Property_Prop_Szqptyc_01 - [N/A] 3062240561
+ 70290828 : SceneObj_Area_Xm_Property_Prop_Szqpxst_01 - [N/A] 516606289
+ 70290829 : SceneObj_Area_Xm_Property_Prop_Qzft_01 - [N/A] 1971884617
+ 70290830 : SceneObj_Area_Xm_Property_Prop_Szqpdz_01 - [N/A] 3199107193
+ 70290831 : SceneObj_Area_Xm_Property_Prop_Szqpdz_02 - [N/A] 613322265
  70290832 : SceneObj_Level_Xm_Property_Ani_Prop_InformationPiece_01 - [N/A] 1830205377
  70290833 : SceneObj_Level_Xm_Property_Prop_ScaramouchePortal_01 - [N/A] 2987652529
  70290834 : SceneObj_Area_Xm_Property_Ani_Build_BazarDoor_01 - [N/A] 941331121
+ 70290860 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_02 - [N/A] 2251160953
+ 70290861 : SceneObj_Area_Common_Property_Prop_LaserWall_02 - [N/A] 308414369
+ 70290862 : SceneObj_Area_Xm_Property_Ani_Build_JYQB_01 - [N/A] 1454494345
+ 70290863 : SceneObj_Area_Xm_Property_Ani_Stone_SHSQ_01 - [N/A] 1185067017
+ 70290864 : SceneObj_Area_Xm_Property_Ecloth_Dujinposun_01 - [N/A] 157865001
+ 70290865 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3300277345
+ 70290866 : SceneObj_Area_Xm_Property_Prop_LaserGear_02 - [N/A] 2574218145
+ 70290867 : SceneObj_Area_Xm_Property_Prop_LaserGear_03 - [N/A] 2327111601
  70290868 : Sanbin_Music - [N/A] 2459687353
  70290869 :  - [N/A] 3064282769
  70290870 : SceneObj_Area_Dq_Property_Ani_Prop_Scarecrow_03 - [N/A] 4260314561
  70290871 : SceneObj_Area_Xm_Property_Ani_Prop_TrainerCompetitionBead_02 - [N/A] 182187985
  70290872 :  - [N/A] 3557107129
  70290873 :  - [N/A] 203217313
+ 70290881 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_NoFunction - [N/A] 2335447033
+ 70290882 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_02 - [N/A] 1545799841
+ 70290884 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_02 - [N/A] 3775078857
  70290885 : SceneObj_Activity_Brick_Breaker_Preloader - [N/A] 3592606657
+ 70290889 :  - [N/A] 2330750329
+ 70290890 :  - [N/A] 2561942945
+ 70290891 :  - [N/A] 3625638817
+ 70290892 : SceneObj_Area_Xm_Property_Prop_ReadingSlabStone_01 - [N/A] 2829260473
+ 70290893 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_01 - [N/A] 3785512081
+ 70290894 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_02 - [N/A] 993246521
+ 70290895 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_03 - [N/A] 3732501441
+ 70290896 :  - [N/A] 2506758329
+ 70290897 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_02 - [N/A] 2916990417
+ 70290898 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_03 - [N/A] 3872647737
+ 70290899 : SceneObj_Area_Xm_Property_Prop_ScarletKing_Airwall_01 - [N/A] 2000506001
+ 70290900 :  - [N/A] 3602909649
+ 70290901 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_02 - [N/A] 2738632729
+ 70290902 : SceneObj_Area_Xm_Property_Prop_Hssz_02 - [N/A] 55393673
+ 70290903 : SceneObj_Area_Xm_Property_Prop_Lzpb_02 - [N/A] 3018163905
+ 70290904 : SceneObj_Area_Xm_Property_Prop_JamshidCup_Airwall_01 - [N/A] 136141633
+ 70290905 : SceneObj_Area_Xm_Property_Ani_Prop_TransparentWall_01 - [N/A] 3239300161
+ 70290906 : SceneObj_Area_Xm_Property_Prop_MoveSand_03 - [N/A] 3172474817
+ 70290907 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_03 - [N/A] 1279688073
+ 70290908 : SceneObj_Area_Common_Property_Prop_LaserWall_03 - [N/A] 2020225473
  70290909 : SceneObj_Indoor_Common_Property_Ani_Prop_Teathingsindoor_03 - [N/A] 1362053921
+ 70290922 : SceneObj_Area_Xm_Property_Prop_LaserGear_04 - [N/A] 3460494409
+ 70291001 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_03 - [N/A] 1447249545
+ 70291002 : SceneObj_Gear_Other_InvisibleUploader04 - [N/A] 2095888905
+ 70291003 : SceneObj_Area_Xm_Property_Prop_CenterTorAirWall - [N/A] 988895089
+ 70291004 :  - [N/A] 671624161
+ 70291005 : SceneObj_Area_Xm_Property_Prop_SandwormChallengeAirwall - [N/A] 1258112281
  70300001 : SceneObj_Gather_Default_Gather - [N/A] 2463077793
  70300002 : SceneObj_Gather_Default_Gather - [N/A] 435938641
  70300003 : SceneObj_Quest_Flying_Get_Coin_Effect - [N/A] 1909103967
@@ -5568,6 +5848,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70540046 : SceneObj_Gather_Small - [N/A] 1580873673
  70540047 : SceneObj_Gather_DatePlam - [N/A] 1381569401
  70540048 :  - [N/A] 388710929
+ 70540049 : SceneObj_Gather_Small - [N/A] 2589556881
  70560001 : SceneObj_Gather_Small - [N/A] 1155995105
  70560002 : SceneObj_Gather_Small_Ore - [N/A] 2803859553
  70560003 : SceneObj_Gather_Small_Ore - [N/A] 1202487865
@@ -5646,6 +5927,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70590070 : SceneObj_Area_Hd_Property_Prop_PaperStar_03 - [N/A] 80470761
  70590071 : SceneObj_Level_Common_Property_Prop_CityRotateAixs_02 - [N/A] 1671906865
  70590072 : SceneObj_Common_CityRotateAixs - [N/A] 2121690545
+ 70590073 : SceneObj_Gather_Small - [N/A] 1168502889
  70600001 :  - [N/A] 4043639353
  70600002 :  - [N/A] 1991417585
  70600003 :  - [N/A] 1523077529
@@ -6651,6 +6933,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70710889 :  - [N/A] 1176318735
  70710890 : SceneObj_Quest_ElementBreath_Electric_Element - [N/A] 3969268143
  70710891 :  - [N/A] 1681877263
+ 70710892 : SceneObj_Quest_AchivementInvestigation - [N/A] 1738903079
+ 70710893 : SceneObj_Quest_AchivementInvestigation - [N/A] 2092769335
+ 70710894 : SceneObj_Quest_AchivementInvestigation - [N/A] 780413271
  70710895 :  - [N/A] 1907407839
  70710896 :  - [N/A] 1294335647
  70710908 :  - [N/A] 780216575
@@ -6659,6 +6944,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70710911 :  - [N/A] 2167946623
  70710912 :  - [N/A] 1374780487
  70710913 : SearchPoint - [N/A] 142390399
+ 70710914 :  - [N/A] 3252891423
+ 70710915 :  - [N/A] 2481710271
+ 70710916 :  - [N/A] 4132842759
+ 70710917 :  - [N/A] 1247294631
+ 70710918 :  - [N/A] 520979471
  70710919 :  - [N/A] 2270250551
  70710920 :  - [N/A] 2047865855
  70710921 :  - [N/A] 2284767495
@@ -6667,13 +6957,27 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70710924 :  - [N/A] 3206899887
  70710925 :  - [N/A] 2352741247
  70710926 :  - [N/A] 2460280967
+ 70710927 : SceneObj_Quest_AchivementInvestigation - [N/A] 824323791
  70710928 :  - [N/A] 3631908879
  70710929 :  - [N/A] 969754951
+ 70710930 :  - [N/A] 438293127
+ 70710931 :  - [N/A] 3655199319
+ 70710932 :  - [N/A] 3675843807
+ 70710933 :  - [N/A] 2105317511
+ 70710934 :  - [N/A] 1156205239
+ 70710935 :  - [N/A] 168294031
+ 70710936 :  - [N/A] 1739784919
+ 70710937 :  - [N/A] 3068865303
  70710938 :  - [N/A] 3920354559
+ 70710939 :  - [N/A] 488885071
  70710940 :  - [N/A] 388520151
  70710941 :  - [N/A] 2363334071
  70710953 : SceneObj_Quest_Interact_Point_07 - [N/A] 2407080071
  70710962 : SceneObj_Quest_OniBull - [N/A] 4090643455
+ 70710973 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 3013658623
+ 70710974 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 1551449919
+ 70710975 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 2083509431
+ 70710981 :  - [N/A] 497156767
  70720214 : SceneObj_Gear_Platform_FireSeelie - [N/A] 700269681
  70720215 : SceneObj_Area_Common_Property_Prop_FireSeeliaLamp_01 - [N/A] 3100115025
  70720216 : FireElfTrack - [N/A] 880334585
@@ -7002,6 +7306,27 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70800441 :  - [N/A] 631449489
  70800442 :  - [N/A] 646587945
  70800443 :  - [N/A] 606302529
+ 70800444 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_01 - [N/A] 3932973265
+ 70800445 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_02 - [N/A] 3794137025
+ 70800446 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainOperator_01 - [N/A] 1986253921
+ 70800447 : SceneObj_Area_Common_Property_Ani_Prop_Confetti_Balloon_01 - [N/A] 362013905
+ 70800448 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruOpenWorldPlatform_01 - [N/A] 702704337
+ 70800449 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_01 - [N/A] 908786097
+ 70800450 : SceneObj_Area_Ly_Property_Ani_Prop_ShadowScreen_01 - [N/A] 3396030433
+ 70800451 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_01 - [N/A] 1475809809
+ 70800452 : SceneObj_Area_Xm_Property_Ani_Prop_VoidProjector_01 - [N/A] 699273961
+ 70800453 : SceneObj_Area_Ljxs_Property_Prop_HeroTreasure_02 - [N/A] 407816561
+ 70800454 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_02 - [N/A] 4216218921
+ 70800455 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCamera_01 - [N/A] 3044675081
+ 70800456 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBomb_01 - [N/A] 3199149169
+ 70800457 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPSwirl_01 - [N/A] 2486123929
+ 70800458 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodfence_01 - [N/A] 3142808417
+ 70800459 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoinWarning_01 - [N/A] 195920961
+ 70800460 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBombWarning_01 - [N/A] 3452714417
+ 70800461 :  - [N/A] 2039290481
+ 70800462 :  - [N/A] 450272193
+ 70800463 :  - [N/A] 3369323937
+ 70800464 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_02 - [N/A] 3713189969
  70800606 :  - [N/A] 3682329881
  70800607 :  - [N/A] 2482289473
  70800608 :  - [N/A] 167831129
@@ -7449,8 +7774,16 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  70950160 : AuthTest02 - [N/A] 663172785
  70950161 : SceneObj_Gear_MushRoom_Catch - [N/A] 1796075385
  70950162 :  - [N/A] 2320574633
+ 70950163 : SceneObj_Stages_Property_Prop_UnstableSprayDungeonAirWall_01 - [N/A] 1062739665
  70950164 :  - [N/A] 4005710289
+ 70950165 : SceneObj_Gear_Fungus_Tower_Water - [N/A] 3258235065
+ 70950166 : SceneObj_Gear_Fungus_Tower_Fire - [N/A] 360753353
+ 70950167 : SceneObj_Gear_Fungus_Tower_Ice - [N/A] 2575487569
+ 70950168 : SceneObj_Gear_Fungus_Tower_Wind - [N/A] 3783300113
+ 70950169 : SceneObj_Gear_Fungus_Tower_Electric - [N/A] 3750317545
  70950170 :  - [N/A] 1504874193
+ 70950171 :  - [N/A] 3077198361
+ 70950177 :  - [N/A] 3897053113
  71000004 : SceneObj_Amber_RockAmber - [N/A] 2485577729
  71000005 : SceneObj_Task_Rock_Pierce - [N/A] 2140993833
  71000006 : SceneObj_Task_Rock_Pierce - [N/A] 901713497
@@ -7497,7 +7830,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  71700040 : SceneObj_Gather_Default_Gather - [N/A] 3560208711
  71700041 :  - [N/A] 3950935687
  71700042 : SceneObj_Gather_Default_Gather - [N/A] 323372687
- 71700043 : SceneObj_Gather_Default_Gather - [N/A] 1211019199
+ 71700043 : SceneObj_Gather_Default_Gather - [N/A] 901760187
  71700044 : SceneObj_Gather_Default_Gather - [N/A] 625468279
  71700045 : SceneObj_Gather_Default_Gather - [N/A] 1682840319
  71700046 : SceneObj_Gather_Default_Gather - [N/A] 1897303103
@@ -7989,6 +8322,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  71700533 : SearchPoint - [N/A] 1182362455
  71700534 :  - [N/A] 1826784983
  71700535 : SceneObj_Gather_Default_Gather - [N/A] 3763672775
+ 71700536 : SceneObj_Gather_Default_Gather - [N/A] 3835825727
  71700537 : SceneObj_Environment_Obelisk01 - [N/A] 3874829191
  71700538 : SceneObj_Environment_Obelisk02 - [N/A] 2015357591
  71700539 : SceneObj_Environment_Obelisk03 - [N/A] 3119143583
@@ -8007,13 +8341,76 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  71700552 :  - [N/A] 2523597903
  71700553 :  - [N/A] 3869879999
  71700554 : Nahida_Quest_Hitbox_02 - [N/A] 202070175
+ 71700555 : SceneObj_Environment_Bulletin14 - [N/A] 1441876823
+ 71700556 : SceneObj_Environment_Bulletin13 - [N/A] 3536146543
+ 71700557 : SceneObj_Environment_Bulletin12 - [N/A] 1475692095
+ 71700558 : SceneObj_Environment_Bulletin11 - [N/A] 2961980335
+ 71700559 : SceneObj_Environment_Bulletin10 - [N/A] 886816615
+ 71700560 : SceneObj_Environment_Bulletin9 - [N/A] 2920796151
+ 71700561 : SceneObj_Environment_Secret_letter01 - [N/A] 1878976943
  71700562 : SceneObj_Level_Common_Property_Prop_Worldtreegate_01 - [N/A] 3799131767
  71700563 : SceneObj_Area_Xm_Property_Prop_MemoryInterface_01 - [N/A] 3529432279
  71700564 :  - [N/A] 937193167
  71700565 : SceneObj_Level_Common_Property_Ani_Prop_Memorypiece_01 - [N/A] 534626895
  71700566 : SceneObj_Quest_Hdj_FireworkLauncher_01 - [N/A] 1331020143
+ 71700567 :  - [N/A] 19555559
+ 71700568 : SceneObj_Environment_Bulletin15 - [N/A] 3507925799
+ 71700569 : SceneObj_Environment_Bulletin16 - [N/A] 2872563743
+ 71700570 : SceneObj_Environment_Bulletin17 - [N/A] 166606919
+ 71700571 : SceneObj_Environment_Bulletin18 - [N/A] 899554975
+ 71700572 : SceneObj_Environment_Bulletin19 - [N/A] 3977871391
+ 71700573 : SceneObj_Environment_Bulletin20 - [N/A] 744843375
+ 71700574 : SceneObj_Environment_Bulletin21 - [N/A] 2613345079
+ 71700575 : SceneObj_Environment_Bulletin22 - [N/A] 3075106991
+ 71700576 : SceneObj_Environment_Bulletin23 - [N/A] 808435919
+ 71700577 : SceneObj_Environment_Bulletin24 - [N/A] 3452389415
+ 71700578 : SceneObj_Environment_Bulletin25 - [N/A] 1324277319
+ 71700579 : SceneObj_Environment_Bulletin26 - [N/A] 1686395023
+ 71700580 : SceneObj_Environment_Bulletin27 - [N/A] 2910681255
+ 71700581 : SceneObj_Environment_Bulletin28 - [N/A] 209489335
+ 71700582 : SceneObj_Environment_Bulletin29 - [N/A] 1230168871
+ 71700583 : SceneObj_Environment_Bulletin30 - [N/A] 2048216551
+ 71700584 : SceneObj_Environment_Bulletin31 - [N/A] 686354935
+ 71700585 : SceneObj_Environment_Bulletin32 - [N/A] 2036636215
+ 71700586 : SceneObj_Environment_Bulletin33 - [N/A] 2378404583
+ 71700587 : SceneObj_Environment_Bulletin34 - [N/A] 1442908399
+ 71700588 : SceneObj_Environment_Bulletin35 - [N/A] 280066079
+ 71700589 : SceneObj_Environment_Bulletin36 - [N/A] 598662767
+ 71700590 : SceneObj_Environment_Bulletin37 - [N/A] 554201255
+ 71700591 : SceneObj_Environment_Bulletin38 - [N/A] 680850319
+ 71700592 : SceneObj_Environment_Bulletin39 - [N/A] 3466151359
+ 71700593 : SceneObj_Environment_Bulletin40 - [N/A] 74773375
+ 71700594 : SceneObj_Environment_Bulletin41 - [N/A] 3643259735
+ 71700595 : SceneObj_Environment_Bulletin42 - [N/A] 2825451471
+ 71700596 : SceneObj_Environment_Bulletin43 - [N/A] 3664471575
+ 71700597 : SceneObj_Environment_Bulletin44 - [N/A] 123280319
+ 71700598 : SceneObj_Environment_Bulletin45 - [N/A] 1545371135
+ 71700599 : SceneObj_Environment_Bulletin46 - [N/A] 2075308375
+ 71700600 : SceneObj_Environment_Bulletin47 - [N/A] 296683287
  71700601 : SceneObj_Quest_SpecialDisappear_01 - [N/A] 2734585703
+ 71700602 : SceneObj_Environment_Obelisk011 - [N/A] 1091054103
+ 71700603 : SceneObj_Environment_Obelisk012 - [N/A] 2542275471
+ 71700604 : SceneObj_Environment_Obelisk013 - [N/A] 466975391
+ 71700605 : SceneObj_Environment_Obelisk014 - [N/A] 636087703
+ 71700606 : SceneObj_Environment_Obelisk015 - [N/A] 4260185879
+ 71700607 : SceneObj_Environment_Obelisk016 - [N/A] 2362402303
+ 71700608 : SceneObj_Environment_Obelisk017 - [N/A] 1976124887
+ 71700609 : SceneObj_Environment_Obelisk018 - [N/A] 465514831
  71700610 : SceneObj_Quest_Oldmemoryshield_01 - [N/A] 1893535255
+ 71700611 :  - [N/A] 3864370255
+ 71700612 :  - [N/A] 3163176215
+ 71700613 : SceneObj_Environment_Bulletin48 - [N/A] 3760480527
+ 71700614 : SceneObj_Environment_Bulletin49 - [N/A] 1326518607
+ 71700615 : SceneObj_Environment_Bulletin50 - [N/A] 202779519
+ 71700616 : SceneObj_Environment_Bulletin51 - [N/A] 3315865431
+ 71700617 : SceneObj_Environment_Bulletin52 - [N/A] 3687612527
+ 71700618 : SceneObj_Environment_Bulletin53 - [N/A] 4193800599
+ 71700619 : SceneObj_Environment_Bulletin54 - [N/A] 823363959
+ 71700620 : SceneObj_Environment_Bulletin55 - [N/A] 1103687415
+ 71700621 : SceneObj_Environment_Bulletin56 - [N/A] 452609343
+ 71700622 : SceneObj_Environment_Bulletin57 - [N/A] 2823890575
+ 71700623 : SceneObj_Environment_Bulletin58 - [N/A] 1891116159
+ 71700641 :  - [N/A] 3946621759
  72000001 : SceneObj_Monster_Eldritch_Tentacle_PA - [N/A] 1757493721
  72000002 : SceneObj_Monster_Eldritch_Tentacle_PB - [N/A] 3578727505
  72000003 : SceneObj_Monster_Eldritch_Tentacle_PC - [N/A] 3981382369
@@ -8385,6 +8782,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77104050 :  - [N/A] 3094375328
  77104051 :  - [N/A] 1343262880
  77104052 :  - [N/A] 3574160280
+ 77104053 :  - [N/A] 3795679784
+ 77104054 :  - [N/A] 876221064
+ 77104055 :  - [N/A] 4212064976
  77105001 :  - [N/A] 3485751656
  77105002 :  - [N/A] 1472766168
  77105003 :  - [N/A] 2206130568
@@ -8396,6 +8796,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77105009 :  - [N/A] 16284976
  77105010 :  - [N/A] 1706871936
  77105011 :  - [N/A] 477183760
+ 77105012 :  - [N/A] 2500393944
  77108001 :  - [N/A] 2266381520
  77108002 :  - [N/A] 1929928056
  77108003 :  - [N/A] 3054820440
@@ -8422,6 +8823,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77108024 :  - [N/A] 3031564432
  77108025 :  - [N/A] 3267282984
  77108026 :  - [N/A] 1847797128
+ 77108027 :  - [N/A] 495153384
+ 77108028 :  - [N/A] 1246212024
+ 77108029 :  - [N/A] 2469330496
  77109001 :  - [N/A] 798556888
  77109002 :  - [N/A] 3659840272
  77109003 :  - [N/A] 366764720
@@ -8456,6 +8860,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77110027 :  - [N/A] 3214101888
  77110028 :  - [N/A] 3906403312
  77110029 :  - [N/A] 2446238600
+ 77110030 :  - [N/A] 1869262568
+ 77110031 :  - [N/A] 4090145368
  77111001 :  - [N/A] 2256116496
  77111002 :  - [N/A] 1975461568
  77111003 :  - [N/A] 3406130712
@@ -8465,6 +8871,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77111007 :  - [N/A] 3716526392
  77111008 :  - [N/A] 1711744224
  77111009 :  - [N/A] 2682289512
+ 77111010 :  - [N/A] 2815547960
  77112001 :  - [N/A] 3160712096
  77112002 :  - [N/A] 2498256864
  77112003 :  - [N/A] 1382129296
@@ -8494,6 +8901,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77112027 :  - [N/A] 2361951000
  77112028 :  - [N/A] 707043656
  77112029 :  - [N/A] 2514012088
+ 77112030 :  - [N/A] 3449637320
  77115001 :  - [N/A] 158953176
  77115002 :  - [N/A] 1940050656
  77115003 :  - [N/A] 170974208
@@ -8531,6 +8939,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77115035 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_SumeruStove_01 - [N/A] 3883540800
  77115036 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_01 - [N/A] 1258995064
  77115037 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_02 - [N/A] 3519428888
+ 77115038 :  - [N/A] 3541934328
+ 77115039 :  - [N/A] 710696400
+ 77115040 :  - [N/A] 788315152
  77190001 : SceneObj_Homeworld_Interior_Common_Decoration_TestPainting_01 - [N/A] 1283794648
  77200001 :  - [N/A] 3538751048
  77200002 :  - [N/A] 413522952
@@ -8715,6 +9126,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77200181 :  - [N/A] 1364960616
  77200182 :  - [N/A] 2900333000
  77200183 :  - [N/A] 1123266112
+ 77200184 :  - [N/A] 3154946776
+ 77200185 :  - [N/A] 1302261768
+ 77200186 :  - [N/A] 2894679976
+ 77200187 :  - [N/A] 4166033664
+ 77200188 :  - [N/A] 695294824
  77203001 :  - [N/A] 2280998064
  77203002 : SceneObj_Homeworld_Standard_Forging - [N/A] 3742314960
  77203003 :  - [N/A] 813933432
@@ -8837,6 +9253,23 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77204108 :  - [N/A] 3642961904
  77204109 :  - [N/A] 4220523384
  77204110 :  - [N/A] 868443832
+ 77204112 :  - [N/A] 358432200
+ 77204113 :  - [N/A] 3678145832
+ 77204114 :  - [N/A] 1683232408
+ 77204115 :  - [N/A] 1978006288
+ 77204116 :  - [N/A] 968122808
+ 77204117 :  - [N/A] 2786078376
+ 77204118 :  - [N/A] 279737200
+ 77204119 :  - [N/A] 1620500128
+ 77204120 :  - [N/A] 2421025728
+ 77204121 :  - [N/A] 74558600
+ 77204122 :  - [N/A] 1957110904
+ 77204123 :  - [N/A] 1945688928
+ 77204124 :  - [N/A] 2620113752
+ 77204125 :  - [N/A] 2129844984
+ 77204126 :  - [N/A] 2044718688
+ 77204127 :  - [N/A] 3387967640
+ 77204128 : SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_01 - [N/A] 1791728264
  77205001 :  - [N/A] 2955098952
  77205002 :  - [N/A] 2620876744
  77205003 :  - [N/A] 3428034016
@@ -8886,6 +9319,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77208023 :  - [N/A] 1534713336
  77208024 :  - [N/A] 1262870744
  77208025 :  - [N/A] 1663148112
+ 77208026 :  - [N/A] 2525886104
+ 77208027 :  - [N/A] 2509260976
+ 77208028 :  - [N/A] 1492169160
  77210001 :  - [N/A] 2847554728
  77213001 :  - [N/A] 1652471176
  77213002 :  - [N/A] 4355656
@@ -9002,6 +9438,14 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77213113 :  - [N/A] 3080244064
  77213114 :  - [N/A] 3650489240
  77213115 :  - [N/A] 3707736288
+ 77213116 :  - [N/A] 1745596776
+ 77213117 :  - [N/A] 1221829160
+ 77213118 :  - [N/A] 3219107176
+ 77213119 :  - [N/A] 370244816
+ 77213120 :  - [N/A] 2696872992
+ 77213121 :  - [N/A] 2290389424
+ 77213122 :  - [N/A] 1722188024
+ 77213123 :  - [N/A] 1678362968
  77214001 :  - [N/A] 204668312
  77214002 :  - [N/A] 1223454080
  77214003 :  - [N/A] 2630076072
@@ -9100,6 +9544,10 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  77215071 : SceneObj_Homeworld_Exterior_Common_Decoration_Prop_WoodAranaraBody - [N/A] 2301662240
  77215072 : SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Claypot_01 - [N/A] 2262767336
  77215073 :  - [N/A] 25869504
+ 77215074 :  - [N/A] 1823232128
+ 77215075 :  - [N/A] 2958027960
+ 77215076 :  - [N/A] 3776964728
+ 77215077 :  - [N/A] 2499651336
  77216001 :  - [N/A] 1178267624
  77216002 :  - [N/A] 74296056
  77216003 :  - [N/A] 2492338736
@@ -9447,6 +9895,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 420000022 : ActivityAbility_HideSeek_Investigate_Bullet_Short - [N/A] 249212301
 420000023 : ActivityAbility_HideSeek_Investigate_Bullet_Long - [N/A] 3514114301
 420000024 : Activity_Gadget_CatchMushroomMonster_Aim_Driver - [N/A] 856686709
+420000025 : LanV3Race_Rush_Bullet - [N/A] 4206644109
+420000026 : ActivityAbility_SkillObj_Skiff_Vortex - [N/A] 667407821
+420000027 : ActivityAbility_SkillObj_Skiff_Mire - [N/A] 2479125677
+420000028 : ActivityAbility_Avatar_Blocking_Blade_V2 - [N/A] 121823421
+420000029 : ActivityAbility_Avatar_Blocking_Blade_Burst - [N/A] 1033111477
+420000030 : SkillObj_Skiff_SprintTrigger_LanV3 - [N/A] 2996961293
 420001000 : Activity_Endora - [N/A] 781761405
 420001001 : Activity_Endora_Bubble_Bullet_01 - [N/A] 550764733
 420001002 : Activity_Endora_Bubble_Bullet_01_Short - [N/A] 2055909461
@@ -9519,6 +9973,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 10000074 : 레일라
 10000075 : 방랑자
 10000076 : 파루잔
+10000077 : 요요
+10000078 : 알하이탐
 11000008 : 파티 테스트 4호
 11000009 : 배경 테스트
 11000010 : 모델 1호
@@ -9528,7 +9984,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 11000018 : 성년 여성 체형 테스트
 11000019 : 소녀 체형 테스크
 11000025 : 아쿠에리아
-11000026 : 요요
+11000026 : 요요(테스트)
 11000027 : 소녀 체형테스트-2호기
 11000028 : 화이트박스 소녀
 11000030 : 대검소녀
@@ -9604,6 +10060,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
     152 : 버섯몬 메달
     153 : 부서진 알록달록 결정
     155 : 담력 시험 티켓
+    156 : 축제 열기
     201 : 원석
     202 : 모라
     203 : 창세의 결정
@@ -9695,6 +10152,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
    1074 : 레일라
    1075 : 방랑자
    1076 : 파루잔
+   1077 : 요요
+   1078 : 알하이탐
    1102 : 카미사토 아야카의 운명의 별
    1103 : 진의 운명의 별
    1105 : 여행자(남)의 운명의 별
@@ -9757,6 +10216,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
    1174 : 레일라의 운명의 별
    1175 : 방랑자의 운명의 별
    1176 : 파루잔의 운명의 별
+   1177 : 요요의 운명의 별
+   1178 : 알하이탐의 운명의 별
    1201 : 진주 기행·초안
    1202 : 공월 축복·초승달
    1301 : 새 이름의 붓
@@ -9851,6 +10312,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   11509 : 안개를 가르는 회광
   11510 : 하란 월백의 후츠
   11511 : 성현의 열쇠
+  11512 : 잎을 가르는 빛
   12101 : 훈련용 대검
   12201 : 용병 중검
   12301 : 강철의 그림자
@@ -10046,6 +10508,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   23316 : [CHS] - 物理抗性
   23317 : [CHS] - 伤害增加
   23318 : [CHS] - 伤害减免
+  23329 : [CHS] - 暴击率
+  23330 : [CHS] - 精通
   23331 : [CHS] - 负防御
   23332 : [CHS] - 负精通
   23334 : [CHS] - 测试之沙2
@@ -13805,6 +14269,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  100094 : 「냉동 생고기」
  100095 : 뱀장어 살코기
  100096 : 반질반질콩
+ 100097 : 수상한 고기
  100101 : 진의 서류가방
  100102 : 《극한의 탈출》
  100103 : 불완전한 악보(상)
@@ -13827,10 +14292,10 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  100124 : 귀뚜라미(금색)
  100125 : 물 호박
  100126 : 바람 호박
- 100131 : 랜덤 보물 상자A
- 100132 : 랜덤 보물 상자B
- 100133 : 랜덤 보물 상자A
- 100134 : 랜덤 보물 상자B
+ 100131 : 랜덤 보물상자A
+ 100132 : 랜덤 보물상자B
+ 100133 : 랜덤 보물상자A
+ 100134 : 랜덤 보물상자B
  100135 : 붉은색 결정
  100136 : 봉인의 단서 101
  100137 : 봉인의 단서 102
@@ -14283,7 +14748,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  100652 : 특제 불꽃 미트 스파게티
  100653 : 특제 삶은 검정 농어
  100654 : 특제 모라육
- 100655 : 특제 장원 팬케익
+ 100655 : 특제 장원 팬케이크
  100656 : 특제 흥얼채
  100657 : 특제 절운고추 치킨
  100658 : 특제 몬드 감자전
@@ -14446,7 +14911,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  100815 : 설산 풍경 사진
  100816 : 「남십자 무술대회」 우승 상패
  100817 : 포장된 「야채절임 바비큐」
- 100818 : 릴리가 직접 구운 장원 팬케익
+ 100818 : 릴리가 직접 구운 장원 팬케이크
  100819 : 신비한 장치의 부품
  100820 : 연노란빛 수정
  100821 : 연붉은빛 수정
@@ -14670,6 +15135,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101219 : 수메르 장미
  101220 : 적념과
  101221 : 대추야자
+ 101222 : 모래 번데기
  101225 : 황금 스카라브
  101226 : 활력 넘치는 별 버섯
  101227 : 건조된 별 버섯
@@ -15280,7 +15746,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  107002 : 원소 결정 가루
  107003 : 잃어버린 바위 신의 눈동자
  107004 : 모험 보물 패키지
- 107005 : 비천대어검 보물 상자
+ 107005 : 비천대어검 보물상자
  107006 : 몬드 지령의 감실 열쇠
  107007 : 리월 지령의 감실 열쇠
  107008 : 이나즈마의 지령 감실 열쇠
@@ -15319,9 +15785,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  108019 : 이상한 무 수프
  108020 : 무 수프
  108021 : 맛있는 무 수프
- 108022 : 이상한 장원 팬케익
- 108023 : 장원 팬케익
- 108024 : 맛있는 장원 팬케익
+ 108022 : 이상한 장원 팬케이크
+ 108023 : 장원 팬케이크
+ 108024 : 맛있는 장원 팬케이크
  108025 : 이상한 무완자 튀김
  108026 : 무완자 튀김
  108027 : 맛있는 무완자 튀김
@@ -15415,7 +15881,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  108115 : 어향 토스트
  108116 : 티바트 바삭 프라이
  108117 : 축복의 교향곡
- 108118 : 뭉게구름 팬케익
+ 108118 : 뭉게구름 팬케이크
  108119 : 이상한 연밥 계란찜
  108120 : 연밥 계란찜
  108121 : 맛있는 연밥 계란찜
@@ -15777,6 +16243,15 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  108477 : 맛있는 사모사
  108478 : 원조 대추야자 숯탄 전병
  108479 : 진미 오차즈케
+ 108480 : 이상한 샤흐리삽스 스튜
+ 108481 : 샤흐리삽스 스튜
+ 108482 : 맛있는 샤흐리삽스 스튜
+ 108483 : 이상한 특제 미트볼
+ 108484 : 특제 미트볼
+ 108485 : 맛있는 특제 미트볼
+ 108486 : 「이상적인 상황」
+ 108487 : 경책 가정식
+ 108488 : 악어 육포
  109000 : 레시피 아이템
  109101 : 레시피: 버섯 닭꼬치
  109102 : 레시피: 어부 토스트
@@ -15795,7 +16270,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  109302 : 레시피: 무 수프
  109303 : 레시피: 몬드 감자전
  109304 : 레시피: 「높이 쌓기」
- 109401 : 레시피: 장원 팬케익
+ 109401 : 레시피: 장원 팬케이크
  109402 : 레시피: 무완자 튀김
  109403 : 레시피: 만족 샐러드
  109404 : 레시피: 비옥야채쌈
@@ -15913,6 +16388,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  109516 : 레시피: 바캉스 과일주
  109517 : 레시피: 장미 커스터드
  109518 : 레시피: 사모사
+ 109519 : 레시피: 샤흐리삽스 스튜
+ 109520 : 레시피: 특제 미트볼
  110000 : 합성 산물
  110001 : 밀가루
  110002 : 크림
@@ -16023,6 +16500,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  112071 : 파손된 결정
  112072 : 혼탁한 결정
  112073 : 찬란하게 빛나는 결정
+ 112074 : 부서진 갑골
+ 112075 : 견고한 갑골
+ 112076 : 문양이 새겨진 갑골
  113001 : 폭풍의 씨앗
  113002 : 뇌광 프리즘
  113003 : 동풍의 깃털
@@ -16066,6 +16546,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  113041 : 꼭두각시 줄
  113042 : 무념의 거울
  113043 : 공행의 방울
+ 113044 : 푸른 꽃날개
  114001 : 고탑 왕의 잔해
  114002 : 고탑 왕의 절망
  114003 : 고탑 왕의 조각
@@ -16246,6 +16727,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  120061 : 네르민이 만든 「완두콩 민트 수프」
  120062 : [CHS] - （test）内尔敏做的香水
  120063 : 미래의 별
+ 120064 : 충전 전환 용기
  120065 : 리프의 상자
  120066 : 네르민의 향신료
  120067 : 열쇠의 돌·첫 번째
@@ -16266,6 +16748,34 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  120082 : 셰비르메의 주문서
  120083 : 청경의 주문서
  120084 : 관수의 주문서
+ 120085 : [CHS] - （test）鳄鱼肉干（废弃）
+ 120086 : 「명계를 건너는 배」
+ 120087 : 「성현의 전당」
+ 120088 : 「변방 요새」
+ 120089 : 「적왕의 기둥」
+ 120090 : [CHS] - （test）居尔城棋子
+ 120091 : 「구라바드 신전」
+ 120092 : 활성화 부품·「적왕의 무덤」
+ 120093 : 활성화 부품·「적왕의 수정잔」
+ 120094 : 활성화 부품·「명계를 건너는 배」
+ 120095 : 활성화 부품·「성현의 전당」
+ 120096 : 활성화 부품·「변방 요새」
+ 120097 : 활성화 부품·「적왕의 기둥」
+ 120098 : [CHS] - （test）居尔城发条
+ 120099 : 활성화 부품·「구라바드 신전」
+ 120100 : 영원의 오아시스의 기억·첫 번째
+ 120101 : 영원의 오아시스의 기억·두 번째
+ 120102 : 영원의 오아시스의 기억·세 번째
+ 120103 : 타들라의 깃털
+ 120104 : 우인단 거점 열쇠
+ 120105 : 신성한 봉인석·낭떠러지
+ 120106 : 신성한 봉인석·거대한 문
+ 120107 : 신비로운 석판·첫 번째
+ 120108 : 신비로운 석판·두 번째
+ 120109 : 신비로운 석판·세 번째
+ 120110 : 신비로운 석판·네 번째
+ 120111 : 신비로운 석판·다섯 번째
+ 120112 : 신비로운 석판·여섯 번째
  120113 : 사이노의 소개장
  120114 : 오래된 지도
  120115 : 경매 자료
@@ -16277,6 +16787,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  120121 : 주트의 화물 영수증
  120122 : 자한기르의 화물 영수증
  120123 : 「한정판 사막 특별 여행 패키지」
+ 120124 : 새로 돋아난 죽순
  120125 : [CHS] - （test）赛芭的蔷薇
  120126 : 한 통의 짧은 편지
  120127 : 새싹이 돋아난 흰 가지
@@ -16294,6 +16805,16 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  120139 : 잔디크의 노트
  120140 : 누군가의 일기장
  120141 : 파손된 기록
+ 120142 : 내부 철수 작전 공문
+ 120143 : 실험용 개체에 대한 초기 검사
+ 120144 : 이전 통지서
+ 120145 : 먼 길을 걸어온 탐사자의 일지·첫 번째
+ 120146 : 먼 길을 걸어온 탐사자의 일지·두 번째
+ 120147 : 먼 길을 걸어온 탐사자의 일지·세 번째
+ 120148 : 먼 길을 걸어온 탐사자의 일지·네 번째
+ 120149 : 먼 길을 걸어온 탐사자의 일지·다섯 번째
+ 120150 : 먼 길을 걸어온 탐사자의 일지·여섯 번째
+ 120151 : 화물 교역 건에 대한 회신
  120152 : 이벤트 공지
  120153 : 하니야의 노트 1
  120154 : 하니야의 노트 2
@@ -16309,10 +16830,82 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  120164 : 《암운의 섬》
  120165 : 《이나즈마 타타라스나 지역에 존재했을 가능성이 있는 중대한 역사 사건 분석 자료》
  120166 : 《암운의 섬》
+ 120167 : [CHS] - (test)棋子流沙遗迹
+ 120168 : [CHS] - (test)棋子赤王之心
+ 120169 : [CHS] - (test)棋子显圣厅
+ 120170 : [CHS] - (test)棋子太阳船
+ 120171 : [CHS] - (test)棋子阿如村
+ 120172 : [CHS] - (test)棋子发条赤王之杯
+ 120173 : [CHS] - (test)棋子发条赤王陵
+ 120174 : [CHS] - (test)棋子发条流沙遗迹
+ 120175 : [CHS] - (test)棋子发条赤王之心
+ 120176 : [CHS] - (test)棋子发条显圣厅
+ 120177 : [CHS] - (test)棋子发条太阳船
+ 120178 : [CHS] - (test)棋子发条阿如村
  120179 : 「고향의 흙」이 담긴 상자
  120180 : 해석한 내용
  120181 : 동욱의 편지
+ 120182 : 구라바드 기록·첫 번째
+ 120183 : 구라바드 기록·두 번째
+ 120184 : 구라바드 기록·세 번째
+ 120185 : 구라바드 기록·네 번째
+ 120186 : 구라바드 기록·다섯 번째
+ 120187 : 부서진 석판
+ 120188 : 다마반드산 기록·첫 번째
+ 120189 : 다마반드산 기록·두 번째
+ 120190 : 다마반드산 기록·세 번째
+ 120191 : 「황동 가면」의 가르침·첫 번째
+ 120192 : 「황동 가면」의 가르침·두 번째
+ 120193 : 「황동 가면」의 가르침·세 번째
+ 120194 : 고대 오아시스 기록·첫 번째
+ 120195 : 고대 오아시스 기록·두 번째
+ 120196 : 고대 오아시스 기록·세 번째
+ 120197 : 고대 오아시스 기록·네 번째
+ 120198 : 고대 오아시스 기록·다섯 번째
+ 120199 : 고대 오아시스 기록·여섯 번째
+ 120200 : 징발령 석판
+ 120201 : 붉은 독수리 깃털
+ 120202 : 독전갈 꼬리
+ 120203 : 날뱀의 뿔
+ 120204 : 조야·슈나이제브나 대위의 작전 보고서·첫 번째
+ 120205 : 조야·슈나이제브나 대위의 작전 보고서·두 번째
+ 120206 : 조야·슈나이제브나 대위의 작전 보고서·세 번째
+ 120207 : 훼손된 기록·첫 번째
+ 120208 : 훼손된 기록·두 번째
+ 120209 : 타니트의 휘장이 찍힌 기록
+ 120210 : 우인단의 편지
+ 120211 : 남겨진 편지
+ 120212 : 잔디크의 노트
+ 120213 : 아카데미아의 휘장이 찍힌 계약서
+ 120214 : 거대한 기계의 동력 시스템 복원도
+ 120215 : 아드라피에게 보내는 밀서
  120216 : 어떤 무기의 「조각」
+ 120217 : 정체불명의 라멘 쿠폰
+ 120218 : 반듯한 글씨로 적힌 쪽지
+ 120219 : 제트의 편지
+ 120220 : 유페이의 메모
+ 120221 : 오래된 석제 열쇠
+ 120226 : 어렴풋이 알아볼 수 있는 명문
+ 120227 : 어렴풋이 알아볼 수 있는 명문
+ 120228 : 어렴풋이 알아볼 수 있는 명문
+ 120229 : 어렴풋이 알아볼 수 있는 명문
+ 120230 : 어렴풋이 알아볼 수 있는 명문
+ 120231 : 어렴풋이 알아볼 수 있는 명문
+ 120232 : 어렴풋이 알아볼 수 있는 명문
+ 120233 : 어렴풋이 알아볼 수 있는 명문
+ 120235 : 구겨진 명단
+ 120236 : 창고 물자 목록
+ 120237 : 고대 오아시스 기록·일곱 번째
+ 120238 : 고대 오아시스 기록·여덟 번째
+ 120239 : 고대 오아시스 기록·아홉 번째
+ 120240 : 고대 오아시스 기록·열 번째
+ 120241 : 고용 수칙 석판
+ 120242 : 아카데미아의 휘장이 찍힌 계약서
+ 120243 : 아카데미아의 휘장이 찍힌 계약서
+ 120248 : 부족 상인의 편지
+ 120249 : 제트의 쪽지
+ 120250 : 따끈따끈한 죽순 수프
+ 120251 : 「연무 전심」 대회 티켓
  130001 : 「예상꽃」 씨앗
  130002 : 「달콤달콤꽃」 씨앗
  130003 : 「세실리아꽃」 씨앗
@@ -16337,9 +16930,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  130022 : 「꿈의 꽃·히비스커스」의 꽃씨
  130023 : 「꿈의 꽃·방울꽃」의 꽃씨
  130024 : 「꿈의 꽃·유홍초」의 꽃씨
- 130025 : 「향신과」의 씨앗
- 130026 : 「뚠뚠 복숭아」의 씨앗
- 130027 : 「수메르 장미」의 씨앗
+ 130025 : 「향신과」 씨앗
+ 130026 : 「뚠뚠 복숭아」 씨앗
+ 130027 : 「수메르 장미」 씨앗
  131000 : 구피
  131001 : 유리 구피
  131002 : 달콤달콤 구피
@@ -16378,93 +16971,99 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  140008 : 날쌘 뇌운의 날개
  140009 : 찬란한 은하의 날개
  140010 : 울창한 숲의 날개
- 141001 : 빛나는 결정·1
- 141002 : 빛나는 결정·2
- 141003 : 빛나는 결정·3
- 141004 : 빛나는 결정·4
- 141005 : 빛나는 결정·5
- 141006 : 빛나는 결정·6
- 141007 : 빛나는 결정·7
- 141008 : 빛나는 결정·8
- 141009 : 빛나는 결정·9
- 141010 : 빛나는 결정·10
- 141011 : 빛나는 결정·11
- 141012 : 빛나는 결정·12
- 141013 : 빛나는 결정·13
- 141014 : 빛나는 결정·14
- 141015 : 빛나는 결정·15
- 141016 : 빛나는 결정·16
- 141017 : 빛나는 결정·17
- 141018 : 빛나는 결정·18
- 141019 : 빛나는 결정·19
- 141020 : 빛나는 결정·20
- 141021 : 빛나는 결정·21
- 141022 : 빛나는 결정·22
- 141023 : 빛나는 결정·23
- 141024 : 빛나는 결정·24
- 141025 : 빛나는 결정·25
- 141026 : 빛나는 결정·26
- 141027 : 빛나는 결정·27
- 141028 : 빛나는 결정·28
- 141029 : 빛나는 결정·29
- 141030 : 빛나는 결정·30
- 141031 : 빛나는 결정·31
- 141032 : 빛나는 결정·32
- 141033 : 빛나는 결정·33
- 141034 : 빛나는 결정·34
- 141035 : 빛나는 결정·35
- 141036 : 빛나는 결정·36
- 141037 : 빛나는 결정·37
- 141038 : 빛나는 결정·38
- 141039 : 빛나는 결정·39
- 141040 : 빛나는 결정·40
- 141041 : 빛나는 결정·41
- 141042 : 빛나는 결정·42
- 141043 : 빛나는 결정·43
- 141044 : 빛나는 결정·44
- 141045 : 빛나는 결정·45
- 141046 : 빛나는 결정·46
- 141047 : 빛나는 결정·47
- 141048 : 빛나는 결정·48
- 141049 : 빛나는 결정·49
- 141050 : 빛나는 결정·50
- 141051 : 빛나는 결정·51
- 141052 : 빛나는 결정·52
- 141053 : 빛나는 결정·53
- 141054 : 빛나는 결정·54
- 141055 : 빛나는 결정·55
- 141056 : 빛나는 결정·56
- 141057 : 빛나는 결정·57
- 141058 : 빛나는 결정·58
- 141059 : 빛나는 결정·59
- 141060 : 빛나는 결정·60
- 141061 : 빛나는 결정·61
- 141062 : 빛나는 결정·62
- 141063 : 빛나는 결정·63
- 141064 : 빛나는 결정·64
- 141065 : 빛나는 결정·65
- 141066 : 빛나는 결정·66
- 141067 : 빛나는 결정·67
- 141068 : 빛나는 결정·68
- 141069 : 빛나는 결정·69
- 141070 : 빛나는 결정·70
- 141071 : 빛나는 결정·71
- 141072 : 빛나는 결정·72
- 141073 : 빛나는 결정·73
- 141074 : 빛나는 결정·74
- 141075 : 빛나는 결정·75
- 141076 : 빛나는 결정·76
- 141077 : 빛나는 결정·77
- 141078 : 빛나는 결정·78
- 141079 : 빛나는 결정·79
- 141080 : 빛나는 결정·80
- 141081 : 빛나는 결정·81
- 141082 : 빛나는 결정·82
- 141083 : 빛나는 결정·83
- 141084 : 빛나는 결정·84
- 141085 : 빛나는 결정·85
- 141086 : 빛나는 결정·86
- 141087 : 빛나는 결정·87
+ 141001 : 빛나는 결정·1 - Dawn Winery Theme
+ 141002 : 빛나는 결정·2 - A Sweet Smile
+ 141003 : 빛나는 결정·3 - Lone Sojourner
+ 141004 : 빛나는 결정·4 - A Day in Mondstadt
+ 141005 : 빛나는 결정·5 - The Edge of the Prairie
+ 141006 : 빛나는 결정·6 - A Tale of Two Dragons
+ 141007 : 빛나는 결정·7 - Happy Journey
+ 141008 : 빛나는 결정·8 - Legend of the Wind
+ 141009 : 빛나는 결정·9 - Bustling Afternoon of Mondstadt
+ 141010 : 빛나는 결정·10 - Dusk in Mondstadt
+ 141011 : 빛나는 결정·11 - Mondstadt Starlit
+ 141012 : 빛나는 결정·12 - Moonlight in Mondstadt
+ 141013 : 빛나는 결정·13 - Another Day in Mondstadt
+ 141014 : 빛나는 결정·14 - Windborne Hymn
+ 141015 : 빛나는 결정·15 - Knights of Favonius
+ 141016 : 빛나는 결정·16 - Angel's Share
+ 141017 : 빛나는 결정·17 - A Happy Day
+ 141018 : 빛나는 결정·18 - Tender Strength
+ 141019 : 빛나는 결정·19 - Before Dawn, at the Winery
+ 141020 : 빛나는 결정·20 - Whispering Plain
+ 141021 : 빛나는 결정·21 - A New Day with Hope
+ 141022 : 빛나는 결정·22 - Eternal Anamnesis
+ 141023 : 빛나는 결정·23 - Journey of Hope
+ 141024 : 빛나는 결정·24 - Sun Rises in Liyue
+ 141025 : 빛나는 결정·25 - Good Night, Liyue
+ 141026 : 빛나는 결정·26 - Call It a Day in Liyue
+ 141027 : 빛나는 결정·27 - Clear Sky Over Liyue
+ 141028 : 빛나는 결정·28 - Cozy Leisure Time
+ 141029 : 빛나는 결정·29 - Winding River
+ 141030 : 빛나는 결정·30 - Mild Waves
+ 141031 : 빛나는 결정·31 - Rhythm Amidst the Reeds
+ 141032 : 빛나는 결정·32 - Flows of Jade-Like Water
+ 141033 : 빛나는 결정·33 - Flow of Mildness
+ 141034 : 빛나는 결정·34 - Vague Whispers
+ 141035 : 빛나는 결정·35 - Legends Swept Away
+ 141036 : 빛나는 결정·36 - Plain of Nostalgia
+ 141037 : 빛나는 결정·37 - Rhythms From the Conch
+ 141038 : 빛나는 결정·38 - Peaceful Hike
+ 141039 : 빛나는 결정·39 - The Fading Stories
+ 141040 : 빛나는 결정·40 - Above the Sea of Clouds
+ 141041 : 빛나는 결정·41 - Rainbow at Summit
+ 141042 : 빛나는 결정·42 - Red Leaf on the Chessboard
+ 141043 : 빛나는 결정·43 - Slumbering Lore
+ 141044 : 빛나는 결정·44 - Lost Expectation
+ 141045 : 빛나는 결정·45 - The Realm Within
+ 141046 : 빛나는 결정·46 - Sojourner's Sweet Dream
+ 141047 : 빛나는 결정·47 - Miko‘s Night
+ 141048 : 빛나는 결정·48 - Streets of Elegance
+ 141049 : 빛나는 결정·49 - The Land of Her Serenity
+ 141050 : 빛나는 결정·50 - The Mysterious Islands
+ 141051 : 빛나는 결정·51 - Everlasting Devotion
+ 141052 : 빛나는 결정·52 - Kitsune's Mask
+ 141053 : 빛나는 결정·53 - Hanachirusato
+ 141054 : 빛나는 결정·54 - Time to Say Farewell
+ 141055 : 빛나는 결정·55 - Flickering Sakura
+ 141056 : 빛나는 결정·56 - Murmuring Creek
+ 141057 : 빛나는 결정·57 - Scarred Island
+ 141058 : 빛나는 결정·58 - Silent Testimony
+ 141059 : 빛나는 결정·59 - Island of Hanabi
+ 141060 : 빛나는 결정·60 - Preperation of Matsuri
+ 141061 : 빛나는 결정·61 - Illuminated Coral Palace
+ 141062 : 빛나는 결정·62 - A Tranquil Town
+ 141063 : 빛나는 결정·63 - In a Harmonious Atmosphere
+ 141064 : 빛나는 결정·64 - Island of Crystal and Pearl
+ 141065 : 빛나는 결정·65 - Misty Truth
+ 141066 : 빛나는 결정·66 - Sorrows of Strays
+ 141067 : 빛나는 결정·67 - Ruu's Melody
+ 141068 : 빛나는 결정·68 - Roaming in Silence
+ 141069 : 빛나는 결정·69 - Echoes of Solitude
+ 141070 : 빛나는 결정·70 - Dirge of the Soundless
+ 141071 : 빛나는 결정·71 - Nothing but Ivy
+ 141072 : 빛나는 결정·72 - Forgotten Epic
+ 141073 : 빛나는 결정·73 - Beyond Klesha
+ 141074 : 빛나는 결정·74 - Melody of Hidden Seeds
+ 141075 : 빛나는 결정·75 - Varuna's Mercy
+ 141076 : 빛나는 결정·76 - Vestige of Dahri
+ 141077 : 빛나는 결정·77 - Chatter Between Roots
+ 141078 : 빛나는 결정·78 - Whirling of Leaves and Petals
+ 141079 : 빛나는 결정·79 - Hustle and Bustle of Ormos
+ 141080 : 빛나는 결정·80 - Halcyon Times
+ 141081 : 빛나는 결정·81 - A Puff of Cool Breeze
+ 141082 : 빛나는 결정·82 - On the Barren Sands
+ 141083 : 빛나는 결정·83 - Arid Canyon
+ 141084 : 빛나는 결정·84 - Settlement for Exiles
+ 141085 : 빛나는 결정·85 - Ruins of Scorching Might
+ 141086 : 빛나는 결정·86 - Eye of Deshret
+ 141087 : 빛나는 결정·87 - Emerald in the Desert
+ 141088 : 빛나는 결정·88 - 빛나는 결정·88
+ 141089 : 빛나는 결정·89 - 빛나는 결정·89
+ 141090 : 빛나는 결정·90 - 빛나는 결정·90
+ 141091 : 빛나는 결정·91 - 빛나는 결정·91
+ 141092 : 빛나는 결정·92 - 빛나는 결정·92
+ 141093 : 빛나는 결정·93 - 빛나는 결정·93
  200001 : 등불 종이 섬유
  200002 : 심지 털
  200003 : 부유석 파편
@@ -16692,6 +17291,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  210144 : 파루잔·봉인된 비밀
  210145 : 업적·일곱 성인
  210146 : 기행·은하수
+ 210147 : 알하이탐·충고
+ 210148 : 요요·월계
+ 210149 : 축제·산 구름
+ 210150 : 기행·화음
+ 210151 : 업적·모래폭풍
  220001 : 바람 신의 눈동자 공명석
  220002 : 바위 신의 눈동자 공명석
  220003 : 바위의 보물찾기 나침반
@@ -16760,6 +17364,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  220069 : 적색 사막의 석판
  220070 : 「시원한 거품 사진기」
  220071 : 「쿠사바」
+ 220072 : 요술병 지니·릴루페르
  220073 : 「지혜의 구슬」
  220074 : 푸른 비단 기관·류운
  220075 : 야외 나침반
@@ -16799,7 +17404,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  222002 : 「숲의 참된 열매」
  223001 : 꽃비에 겹치는 구름 산
  223002 : 은빛 달밤의 별바다
- 223003 : 제청색(霁靑)에 물드는 겨울꽃
+ 223003 : 제청색(霽靑色)에 물드는 겨울꽃
  223004 : 흩날리는 눈송이
  223005 : 회전하는 금잔화
  223006 : 창가에 내려앉은 빛살
@@ -16809,6 +17414,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  223010 : 백절불굴의 의지
  223011 : 마음을 비추는 등불
  223012 : 모든 사람이 즐기는 요리
+ 223013 : 영롱한 주사위를 던진 순간
+ 223014 : 이누자카 장군의 지원
+ 223015 : 절벽을 깎는 깃발과 북소리
+ 223016 : 술은 안 돼
+ 223017 : 숲의 이슬을 머금은 버섯몬
+ 223018 : 친절하고 깜찍한 월계
  330000 : 감우
  330001 : 케이아
  330002 : 중운
@@ -16836,6 +17447,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  330025 : 바바라
  330026 : 거울의 여인
  330027 : 공포의 취령 버섯
+ 330032 : 클레
+ 330034 : 북두
  330500 : 단 하나의 마음
  330501 : 냉혈의 검
  330502 : 진기 토납
@@ -16863,6 +17476,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  330525 : 광휘의 계절
  330526 : 거울의 속박
  330527 : 포자 증식
+ 330530 : 펑펑 선물
+ 330531 : 하늘의 벽력
  331000 : 마도 서론
  331001 : 제례의 악장
  331002 : 천공의 두루마리
@@ -16898,7 +17513,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  331032 : 유구한 반암
  331033 : 월계수 왕관
  331034 : 숲의 기억
- 332000 : 리월 항구
+ 332000 : 리월항
  332001 : 기사단 도서관
  332002 : 군옥각
  332003 : 다운 와이너리
@@ -16937,11 +17552,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  333016 : 건곤일척
  333017 : 전략 구상
  333018 : 이 몸은 아직 지지 않았어!
- 333019 : 제게 맡겨주세요!
+ 333019 : 제게 맡기세요!
  333020 : 학이 돌아올 때
  333021 : 별하늘의 징조
  333022 : 백악의 술법
- 333023 : 무기 마스터리
+ 333023 : 무예 마스터리
  333024 : 성물 안치 축사
  333025 : 빠른 바느질 기술
  333026 : 널 저세상으로 데려다줄게
@@ -16982,6 +17597,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  334025 : 바바라
  334026 : 거울의 여인
  334027 : 공포의 취령 버섯
+ 334028 : 북두
+ 334029 : 클레
  334500 : 단 하나의 마음
  334501 : 냉혈의 검
  334502 : 진기 토납
@@ -17009,6 +17626,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  334525 : 광휘의 계절
  334526 : 거울의 속박
  334527 : 포자 증식
+ 334528 : 하늘의 벽력
+ 334529 : 펑펑 선물
  335000 : 마도 서론
  335001 : 제례의 악장
  335002 : 천공의 두루마리
@@ -17044,7 +17663,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  335032 : 유구한 반암
  335033 : 월계수 왕관
  335034 : 숲의 기억
- 336000 : 리월 항구
+ 336000 : 리월항
  336001 : 기사단 도서관
  336002 : 군옥각
  336003 : 다운 와이너리
@@ -17083,11 +17702,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  337016 : 건곤일척
  337017 : 전략 구상
  337018 : 이 몸은 아직 지지 않았어!
- 337019 : 제게 맡겨주세요!
+ 337019 : 제게 맡기세요!
  337020 : 학이 돌아올 때
  337021 : 별하늘의 징조
  337022 : 백악의 술법
- 337023 : 무기 마스터리
+ 337023 : 무예 마스터리
  337024 : 성물 안치 축사
  337025 : 빠른 바느질 기술
  337026 : 널 저세상으로 데려다줄게
@@ -17106,7 +17725,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  339002 : 리월
  339003 : 이나즈마
  339004 : 수메르
- 339009 : 레전드
+ 339009 : 전설
  339010 : 달인
  339011 : 수정덩이
  339012 : 마법 수정석 조각
@@ -17137,6 +17756,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  340007 : 100% 정찰 기사
  340008 : 별과 달의 약속
  340009 : 성당의 자유인에게
+ 340010 : 꽃 피는 날의 편지
+ 340011 : 잎새에 숨겨진 이름
  350001 : 모험가 임시 캠프
  350002 : 전초 생활
  350003 : 자유로운 암석과 초목
@@ -17252,6 +17873,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  360422 : 「몰두의 빛」
  360423 : 「늘 밝은 빛」
  360424 : 「만개한 빛」
+ 360425 : 「산과 달의 경관」
+ 360426 : 「나풀거리는 빛」
+ 360427 : 「잠든 숨결의 빛」
  360504 : 「백만 꽃잎의 빛」
  361101 : 북대륙 자작나무 코너 카운터
  361102 : 오픈형 삼나무 진열대
@@ -17263,6 +17887,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  361108 : 사막 장식장 탁자-「환대」
  361109 : 아디가마 나무 「어수선」 선반
  361110 : 빛나는 나무 「치유」 협탁
+ 361111 : 에셀나무 삼중 서랍
+ 361112 : 에셀나무 도자기 선반
  361201 : 도서관 이층 책장
  361202 : 정교한 췌화나무 책장
  361203 : 저렴한 췌화나무 책장
@@ -17320,6 +17946,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  362110 : 카르마팔라 「반격」 식탁 의자
  362111 : 「한가할 때 들이키는 시원함」
  362112 : 아디가마 나무 등받이 의자
+ 362113 : 「호화로운 의자」
  362201 : 북대륙 돌 벽난로
  362202 : 접이식 소나무 병풍-「구름과 조각배」
  362203 : 경목 좌병-「구름과 아침 안개」
@@ -17357,6 +17984,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  362236 : 「강한 불에 굽는 진한 향기」
  362237 : 「약한 불에 굽는 신선한 향기」
  362238 : 「숲 주민의 보관」
+ 362239 : 영롱한 보물병-「녹은 모래」
  362301 : 몬드풍 카펫-「정열의 빨강」
  362302 : 몬드풍 카펫-「지치지 않는 탐색」
  362303 : 객잔 카펫-「내 집 같은 편안함」
@@ -17366,6 +17994,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  362307 : 「야자처럼 짙은 무늬」
  362308 : 「햇살처럼 장엄한 무늬」
  362309 : 「올리브처럼 수려한 무늬」
+ 362310 : 「밀의 모종처럼 맑은 무늬」
  363101 : 꺼지지 않는 휴대용 등불
  363102 : 유리정 각사나무 스탠드
  363103 : 하늘 초롱-「밝은 촛불과 난초 향기」
@@ -17375,6 +18004,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  363107 : 사막 등불-「여광」
  363108 : 「즐거운 빛」
  363109 : 「탁견의 땅의 온광」
+ 363110 : 「순행하는 불꽃」
+ 363111 : 「귀 기울이는 불꽃」
+ 363112 : 무쇠 양용 등불
  363201 : 화초용 꽃병-「담청색의 여유」
  363202 : 식물용 화분-「깨끗한 바람」
  363203 : 화초용 꽃병-「만개한 주홍」
@@ -17394,7 +18026,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  363309 : 금색 삼중 촛대
  363310 : 백자 다기-「순수한 진심」
  363311 : 백로 유광 비녀
- 363312 : 「차연(茶烟)이 자욱한 백상」
+ 363312 : 「차연(茶煙)이 자욱한 백상」
  363313 : 찻집 기물-「쇠향롱」
  363314 : 문방사우-「올바른 필봉」
  363315 : 파사의 활
@@ -17423,6 +18055,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  363338 : 「향기 속의 씁쓸함」
  363339 : 「숲 주민의 묘방」
  363340 : 「숲 주민의 반짝임」
+ 363341 : 영롱한 보물병-「푸른 새싹」
+ 363342 : 별 모양 다용도 병
+ 363501 : 「탁견의 땅의 불변」
+ 363502 : 「갈증을 해소하는 향」
+ 363504 : 「정수를 모으는 예술」
  364101 : 풍경화-「시골 민가」
  364102 : 풍경화-「먼 하늘가의 구름」
  364103 : 풍경화-「이름 없는 절벽」
@@ -17449,6 +18086,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  364214 : 사막 벽장식-「노을」
  364215 : 사막 벽장식-「화염 깃털」
  364216 : 「숲의 순찰관의 걱정」
+ 364217 : 단단한 에셀나무 공격 방패
  364301 : 수향나무 격자 문
  364302 : 기사단 삼나무 문
  364303 : 담장집 단풍나무 문
@@ -17543,6 +18181,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  368159 : 레일라
  368160 : #{REALNAME[ID(1)|HOSTONLY(true)]}
  368161 : 파루잔
+ 368162 : 요요
+ 368163 : 알하이탐
  369101 : 비취아이 고양이
  369102 : 북극견
  369103 : 숲멧돼지
@@ -17656,6 +18296,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  370319 : 「어부의 재활용」
  370320 : 빛나는 나무 원목의 천막 잡화점
  370321 : 빛나는 나무 원목의 바비큐 노점
+ 370322 : 「보송함 유지」
+ 370323 : 「선별과 나열」
  370401 : 츄츄족 초소
  370402 : 츄츄족 우두머리 거처
  370501 : 「벽수 동쪽의 상인」
@@ -17738,6 +18380,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  370730 : 「지혜의 성의 나란함」
  370731 : 「지혜의 성의 안녕」
  370732 : 「지혜의 성의 심부름」
+ 370733 : 「바다 괴수를 막는 견사」
+ 370734 : 「고요한 밤의 모래바람」
  371101 : 꽃과 새 장식 분수
  371102 : 츄츄족 나선형 전망탑
  371103 : 츄츄족 간이 초막
@@ -17760,6 +18404,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  371125 : 사막 텐트-「휴식」
  371126 : 「극장 앞 시원한 물안개」
  371127 : 「탁견의 땅의 명랑」
+ 371129 : 오르모스 항구 범용 크레인 제3형
+ 371130 : 복합 목재 장거리 화물차
+ 371131 : 복합 목재 항내 운송 화물차
+ 371132 : 광폭 산악 화물차
+ 371133 : 「부뚜막의 마신」 존상
  371201 : 삼안의 선패
  371202 : 자작나무 정원 정문
  371203 : 조각문양 정원 담장끝
@@ -17881,6 +18530,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  372339 : 울창하게 뻗은 나무
  372340 : 정오의 푸른 철 나무
  372341 : 새벽의 푸른 철 나무
+ 372342 : 「평온한 나뭇가지」
  372401 : 수향나무 주방 진열대
  372402 : 꽃이 가득 핀 관목 덤불
  372403 : 흔하디 흔한 관목 덤불
@@ -17954,6 +18604,13 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  372472 : 「작열의 유혹」
  372473 : 「유구한 매개」
  372474 : 「조화로운 색의 온도」
+ 372475 : 「평온한 보라 히비스커스」
+ 372476 : 「뜨거운 모래 분수」
+ 372477 : 「석양의 그림자」
+ 372478 : 「이슬 먹는 잎 우산」
+ 372479 : 「물가의 풍요」
+ 372480 : 「머무는 잎 우산」
+ 372481 : 「또 다른 달콤함」
  372501 : 농업의 길-「검붉은 옥전(玉田)」
  372502 : 농업의 길-「우거진 지전(芝田)」
  372503 : 농업의 길-「정연한 수전(水田)」
@@ -18012,6 +18669,15 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  373145 : 「어부의 티끌 모아 태산」
  373146 : 「어부의 도구 선택」
  373147 : 「따뜻한 맛」
+ 373148 : 빛나는 나무 중형 도자기 물레
+ 373149 : 「철과 모래 그리고 돈」
+ 373150 : 「철과 피 그리고 부서진 갑옷」
+ 373151 : 「철과 물 그리고 증기」
+ 373152 : 카르마팔라 나무 원양 화물선의 선반
+ 373153 : 「현과 깃털 그리고 화살의 궤적」
+ 373154 : 「숲에서 먹이를 찾는 법」
+ 373155 : 「성공할 수도!」
+ 373156 : 「착색과 침전」
  373201 : 식물용 화분-「작고 푸른 낙원」
  373202 : 수분 가득 화단
  373203 : 토양 운반용 나무통
@@ -18089,6 +18755,14 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  373363 : 「순후한 소리」
  373364 : 카르마팔라 나무 삼면 광고판
  373365 : 「차 한 잔의 그늘막」
+ 373366 : 축하용 병풍-「안개 낀 산」
+ 373367 : 축하용 병풍-「푸른 물결의 새」
+ 373368 : 축하용 병풍-「피어오르는 선율」
+ 373369 : 축하용 병풍-「돌고 도는 과거의 선율」
+ 373370 : 축하용 병풍-「첩첩산중 구름」
+ 373371 : 축하용 병풍-「퍼져나가는 하모니」
+ 373372 : 「나팔과 장작」
+ 373373 : 「프로토타입 아란나라」
  373401 : 조각문양 철제 가로등
  373402 : 야외 소나무 가로등
  373403 : 퇴마등-「밝게 비추리」
@@ -18179,7 +18853,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  374016 : 눈사람 모자-「머리카락을 소중히!」
  374017 : 눈사람 목도리-「짜여진 온기」
  374018 : 눈사람 목도리-「연극배우」
- 374019 : 눈사람 목도리-「과일잼 팬케익」
+ 374019 : 눈사람 목도리-「과일잼 팬케이크」
  374020 : 눈사람 목도리-「고리고리 빙수」
  374021 : 눈사람 눈-「똘망똘망한 시선」
  374022 : 눈사람 눈-「보물을 좇는 시선」
@@ -18387,6 +19061,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  380414 : 단풍나무 조명-「현광」
  380415 : 피어나는 촛불등-「깨끗한 연꽃」
  380416 : 무지개 등잔걸이-「행운의 새해」
+ 380417 : 「달을 밝히는 수많은 등불」
  380418 : 암석 공장 휴대용 등불-「광갱을 밝히는 불빛」
  380419 : 「이슬이 잠든 빛」
  380420 : 「새파란 빛」
@@ -18394,6 +19069,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  380422 : 「몰두의 빛」
  380423 : 「늘 밝은 빛」
  380424 : 「만개한 빛」
+ 380426 : 「나풀거리는 빛」
+ 380427 : 「잠든 숨결의 빛」
  380504 : 「백만 꽃잎의 빛」
  381101 : 북대륙 자작나무 코너 카운터
  381102 : 오픈형 삼나무 진열대
@@ -18405,6 +19082,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  381108 : 사막 장식장 탁자-「환대」
  381109 : 아디가마 나무 「어수선」 선반
  381110 : 빛나는 나무 「치유」 협탁
+ 381111 : 에셀나무 삼중 서랍
+ 381112 : 에셀나무 도자기 선반
  381201 : 도서관 이층 책장
  381202 : 정교한 췌화나무 책장
  381203 : 저렴한 췌화나무 책장
@@ -18495,6 +19174,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  382236 : 「강한 불에 굽는 진한 향기」
  382237 : 「약한 불에 굽는 신선한 향기」
  382238 : 「숲 주민의 보관」
+ 382239 : 영롱한 보물병-「녹은 모래」
  382301 : 몬드풍 카펫-「정열의 빨강」
  382302 : 몬드풍 카펫-「지치지 않는 탐색」
  382303 : 객잔 카펫-「내 집 같은 편안함」
@@ -18504,6 +19184,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  382307 : 「야자처럼 짙은 무늬」
  382308 : 「햇살처럼 장엄한 무늬」
  382309 : 「올리브처럼 수려한 무늬」
+ 382310 : 「밀의 모종처럼 맑은 무늬」
  383101 : 꺼지지 않는 휴대용 등불
  383102 : 유리정 각사나무 스탠드
  383103 : 하늘 초롱-「밝은 촛불과 난초 향기」
@@ -18512,6 +19193,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  383107 : 사막 등불-「여광」
  383108 : 「즐거운 빛」
  383109 : 「탁견의 땅의 온광」
+ 383110 : 「순행하는 불꽃」
+ 383111 : 「귀 기울이는 불꽃」
+ 383112 : 무쇠 양용 등불
  383201 : 화초용 꽃병-「담청색의 여유」
  383202 : 식물용 화분-「깨끗한 바람」
  383203 : 화초용 꽃병-「만개한 주홍」
@@ -18530,7 +19214,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  383308 : 문방사우-「서예 연습」
  383309 : 금색 삼중 촛대
  383310 : 백자 다기-「순수한 진심」
- 383312 : 「차연(茶烟)이 자욱한 백상」
+ 383312 : 「차연(茶煙)이 자욱한 백상」
  383313 : 찻집 기물-「쇠향롱」
  383314 : 문방사우-「올바른 필봉」
  383315 : 파사의 활
@@ -18549,6 +19233,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  383338 : 「향기 속의 씁쓸함」
  383339 : 「숲 주민의 묘방」
  383340 : 「숲 주민의 반짝임」
+ 383341 : 영롱한 보물병-「푸른 새싹」
+ 383342 : 별 모양 다용도 병
+ 383501 : 「탁견의 땅의 불변」
+ 383502 : 「갈증을 해소하는 향」
+ 383504 : 「정수를 모으는 예술」
  384101 : 풍경화-「시골 민가」
  384102 : 풍경화-「먼 하늘가의 구름」
  384103 : 풍경화-「이름 없는 절벽」
@@ -18574,6 +19263,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  384214 : 사막 벽장식-「노을」
  384215 : 사막 벽장식-「화염 깃털」
  384216 : 「숲의 순찰관의 걱정」
+ 384217 : 단단한 에셀나무 공격 방패
  384501 : 「유대의 순간」
  390101 : 건초 오두막
  390102 : 건초 저장고
@@ -18620,6 +19310,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  390319 : 「어부의 재활용」
  390320 : 빛나는 나무 원목의 천막 잡화점
  390321 : 빛나는 나무 원목의 바비큐 노점
+ 390322 : 「보송함 유지」
+ 390323 : 「선별과 나열」
  390401 : 츄츄족 초소
  390402 : 츄츄족 우두머리 거처
  390501 : 「벽수 동쪽의 상인」
@@ -18698,6 +19390,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  390730 : 「지혜의 성의 나란함」
  390731 : 「지혜의 성의 안녕」
  390732 : 「지혜의 성의 심부름」
+ 390733 : 「바다 괴수를 막는 견사」
+ 390734 : 「고요한 밤의 모래바람」
  391101 : 꽃과 새 장식 분수
  391102 : 츄츄족 나선형 전망탑
  391103 : 츄츄족 간이 초막
@@ -18720,6 +19414,10 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  391125 : 사막 텐트-「휴식」
  391126 : 「극장 앞 시원한 물안개」
  391127 : 「탁견의 땅의 명랑」
+ 391129 : 오르모스 항구 범용 크레인 제3형
+ 391130 : 복합 목재 장거리 화물차
+ 391131 : 복합 목재 항내 운송 화물차
+ 391132 : 광폭 산악 화물차
  391201 : 삼안의 선패
  391202 : 자작나무 정원 정문
  391203 : 조각문양 정원 담장끝
@@ -18803,6 +19501,15 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  393144 : 「어부의 판매 요령」
  393145 : 「어부의 티끌 모아 태산」
  393146 : 「어부의 도구 선택」
+ 393148 : 빛나는 나무 중형 도자기 물레
+ 393149 : 「철과 모래 그리고 돈」
+ 393150 : 「철과 피 그리고 부서진 갑옷」
+ 393151 : 「철과 물 그리고 증기」
+ 393152 : 카르마팔라 나무 원양 화물선의 선반
+ 393153 : 「현과 깃털 그리고 화살의 궤적」
+ 393154 : 「숲에서 먹이를 찾는 법」
+ 393155 : 「성공할 수도!」
+ 393156 : 「착색과 침전」
  393201 : 식물용 화분-「작고 푸른 낙원」
  393202 : 수분 가득 화단
  393203 : 토양 운반용 나무통
@@ -18862,6 +19569,13 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  393363 : 「순후한 소리」
  393364 : 카르마팔라 나무 삼면 광고판
  393365 : 「차 한 잔의 그늘막」
+ 393366 : 축하용 병풍-「안개 낀 산」
+ 393367 : 축하용 병풍-「푸른 물결의 새」
+ 393368 : 축하용 병풍-「피어오르는 선율」
+ 393369 : 축하용 병풍-「돌고 도는 과거의 선율」
+ 393370 : 축하용 병풍-「첩첩산중 구름」
+ 393371 : 축하용 병풍-「퍼져나가는 하모니」
+ 393372 : 「나팔과 장작」
  393401 : 조각문양 철제 가로등
  393402 : 야외 소나무 가로등
  393403 : 퇴마등-「밝게 비추리」
@@ -19170,6 +19884,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 24040201 : Monolith_Ordinator_02 - [N/A] 285953129
 24040301 : Monolith_Ordinator_03 - [N/A] 3626535649
 24050101 : Monolith_Starchild - [N/A] 2629579681
+24990101 : Monster_Alternate_01 - [N/A] 3880332545
 25010101 : Thoarder_Male_NoWeapon_01 - 「류류」
 25010102 : Thoarder_Male_Standard_NoWeapon_01_02 - 수수께끼의 인물
 25010103 : Thoarder_Male_Standard_NoWeapon_01_03 - [N/A] 4074487073
@@ -19211,6 +19926,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25050402 : AahigaruTaisho_Male_01_02 - [N/A] 220906409
 25050501 : Aahigaru_Male_02 - 산호궁 사람들
 25050502 : Aahigaru_Male_02_02 - [FR] - (test)心海个人线反抗军足轻
+25050503 : Aahigaru_Male_03 - [N/A] 3723952969
 25060101 : Thoarder_MuscleMan_NoWeapon_01 - [N/A] 3034153769
 25060102 : Thoarder_MuscleMan_NoWeapon_01_02 - [N/A] 2830824473
 25070101 : Thoarder_MuscleMan_Hammer_01 - [N/A] 2923584017
@@ -19224,16 +19940,19 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25080402 : Samurai_Hatamoto_02 - [N/A] 193563705
 25080403 : Samurai_Hatamoto_03 - [N/A] 1581579825
 25080404 : Samurai_Hatamoto_03 - [N/A] 400320561
+25080405 : Samurai_Hatamoto_04 - [N/A] 147737673
 25090101 : Samurai_Ningyo_01 - 꼭두각시 장군
 25090102 : Samurai_Ningyo_02 - 꼭두각시 장군-바람 분신
 25090103 : Samurai_Ningyo_03 - 꼭두각시 장군-얼음 분신
 25090104 : Samurai_Ningyo_04 - 꼭두각시 장군-가면 분신
+25090105 : Samurai_Ningyo_05 - [N/A] 1156820393
 25090201 : Samurai_Ningyo_02 - [EN] - Marionette General: Wind Bunshin (With Icon)
 25090301 : Samurai_Ningyo_03 - [EN] - Marionette General: Ice Bunshin (With Icon)
 25090401 : Samurai_Ningyo_04 - [EN] - Marionette General: Masked Bunshin (With Icon)
 25100101 : Samurai_Kairagi_01 - 해란귀-번개
 25100102 : Samurai_Kairagi_05 - [N/A] 280790529
 25100201 : Samurai_Kairagi_02 - 해란귀-불
+25100202 : Samurai_Kairagi_07 - [N/A] 1073373889
 25100301 : Samurai_Kairagi_03 - 해란귀-번개의 망령
 25100302 : Samurai_Kairagi_06 - [N/A] 1381328249
 25100401 : Samurai_Kairagi_04 - 해란귀-불의 망령
@@ -19241,6 +19960,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25110102 : Gator_Eremite_Rock_02 - [N/A] 2361510321
 25110201 : Vulture_Eremite_Wind_01 - [N/A] 3397827697
 25110202 : Vulture_Eremite_Wind_02 - [N/A] 1458817257
+25110301 : Scorpion_Eremite_Fire_01 - [N/A] 3602103257
+25110401 : Chrysopelea_Eremite_Grass_01 - [N/A] 3779411305
 25210101 : Eremite_Female_Hatchet_01 - [N/A] 593962337
 25210102 : Eremite_Female_Hatchet_02 - [N/A] 655804089
 25210103 : Eremite_Female_Hatchet_03 - [N/A] 3189818729
@@ -19249,6 +19970,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25210106 : EremiteElite_Female_Hatchet_03 - [N/A] 660925665
 25210107 : Eremite_Female_Hatchet_04 - [N/A] 2260729353
 25210108 : Eremite_Female_Hatchet_05 - [N/A] 1446861633
+25210109 : NPC_Quest_Female_Standard_Nailan_20933 - [N/A] 2358839953
 25210201 : Eremite_Male_Standard_Crossbow_01 - [N/A] 1998919569
 25210202 : Eremite_Male_Standard_Crossbow_02 - [N/A] 2119181617
 25210203 : Eremite_Male_Standard_Crossbow_03 - [N/A] 3425185161
@@ -19258,6 +19980,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25210207 : Eremite_Male_Standard_Crossbow_04 - [N/A] 1636753185
 25210208 : NPC_Quest_Male_Standard_Eremite_01 - [N/A] 2050456833
 25210209 : NPC_Quest_Male_Standard_Eremite_02 - [N/A] 3171996801
+25210210 : NPC_Sumeru_Male_Standard_Aderfi_4293 - [N/A] 2723889409
+25210211 : NPC_Quest_Male_Standard_Assassin02_20940 - [N/A] 3153927337
 25210301 : Eremite_Male_Standard_Pole_01 - [N/A] 4008986473
 25210302 : Eremite_Male_Standard_Pole_02 - [N/A] 2939413633
 25210303 : Eremite_Male_Standard_Pole_03 - [N/A] 2517557169
@@ -19265,6 +19989,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25210305 : EremiteElite_Male_Standard_Pole_02 - [N/A] 1664946217
 25210306 : EremiteElite_Male_Standard_Pole_03 - [N/A] 696066441
 25210307 : Eremite_Male_Standard_Pole_01 - [N/A] 2671081977
+25210308 : NPC_Sumeru_Male_Standard_Warden03_4298 - [N/A] 2403836809
+25210309 : NPC_Sumeru_Male_Standard_Warden04_4299 - [N/A] 191969201
 25210401 : Eremite_MuscleMan_Gloves_01 - [N/A] 998410809
 25210402 : Eremite_MuscleMan_Gloves_02 - [N/A] 839477089
 25210403 : Eremite_MuscleMan_Gloves_03 - [N/A] 2628038825
@@ -19272,6 +19998,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25210405 : EremiteElite_MuscleMan_Gloves_02 - [N/A] 4366953
 25210406 : EremiteElite_MuscleMan_Gloves_03 - [N/A] 1385944497
 25210407 : NPC_Quest_MuscleMan_Standard_Eremite_01 - [N/A] 3844535385
+25210408 : NPC_Quest_MuscleMan_Standard_Assassin01_20913 - [N/A] 2083537065
 25210501 : Eremite_MuscleMan_Simitar_01 - [N/A] 914092905
 25210502 : Eremite_MuscleMan_Simitar_02 - [N/A] 3484979137
 25210503 : Eremite_MuscleMan_Simitar_03 - [N/A] 2747515289
@@ -19279,14 +20006,23 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25210505 : EremiteElite_MuscleMan_Simitar_02 - [N/A] 4251715865
 25210506 : EremiteElite_MuscleMan_Simitar_03 - [N/A] 124112617
 25210507 : Eremite_MuscleMan_Simitar_04 - [N/A] 1714026825
+25210508 : NPC_Sumeru_MuscleMan_Standard_Yuften_4294 - [N/A] 2949828257
 25210601 : Eremite_Male_Standard_NoWeapon_01 - [N/A] 3480498409
 25210602 : Eremite_Male_Standard_NoWeapon_02 - [N/A] 1531750897
 25310101 : Eremite_Female_Slim_PushDagger_01 - [N/A] 2984077569
+25310102 : Eremite_Female_Slim_PushDagger_02 - [N/A] 1936242505
 25310201 : Eremite_Male_Standard_Glaive_01 - [N/A] 3154173257
 25310202 : Eremite_Male_Standard_Glaive_02 - [N/A] 3503187145
 25310301 : Eremite_Male_Standard_Polearm_01 - [N/A] 863506833
 25410101 : Eremite_Male_Strong_Katar_01 - [N/A] 1317576089
+25410102 : Eremite_Male_Strong_Katar_02 - [N/A] 3519774769
+25410103 : Eremite_Male_Strong_Katar_03 - [N/A] 2559377073
 25410201 : Eremite_Female_Standard_Longbow_01 - [N/A] 1223193297
+25410202 : Eremite_Female_Standard_Longbow_02 - [N/A] 3954073513
+25410301 : Eremite_Female_Standard_Oracle_01 - [N/A] 230400289
+25410302 : Eremite_Female_Standard_Oracle_02 - [N/A] 3319063017
+25410303 : Eremite_Female_Standard_Oracle_03 - [N/A] 1427419849
+25410401 : Eremite_Female_Standard_Dancer_01 - [N/A] 4046454873
 26010101 : Mimik_Ice - 얼음 구라구라꽃
 26010102 : Mimik_Ice_Activity - 얼음 구라구라꽃(설산 이벤트)
 26010103 : Mimik_Fel - [EN] - Giant Cryo Whopperflower (2.3 Dragonspine Event)
@@ -19351,11 +20087,15 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 26091001 : Fungus_Deux_Delta_Electric_01 - [N/A] 1409125529
 26091090 : Fungus_Deux_Delta_Electric_Enemy - [N/A] 2977465545
 26091091 : Fungus_Deux_Delta_Electric_01_Capture - [N/A] 2399196673
+26100301 : Vulture_Sacred_Fire_01 - [N/A] 2824755009
+26100401 : Scorpion_Sacred_Electric_01 - [N/A] 2220913313
+26100501 : Chrysopelea_Sacred_Wind_01 - [N/A] 1264292481
 26110101 : Fungus_Raptor - [N/A] 4290207929
 26120101 : Fungus_Amanita_Unu_Anudatta_Grass_01 - [N/A] 198051785
 26120201 : Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 2368019041
 26120301 : Fungus_Amanita_Du_Anudatta_Water_01 - [N/A] 3299184601
 26120401 : Fungus_Amanita_Du_Udatta_Rock_01 - [N/A] 4098645257
+26130101 : Sandworm - [N/A] 2117237033
 28010101 : Crab_01 - 골든크랩
 28010102 : Crab_02 - 썬크랩
 28010103 : Crab_03 - 블루크랩
@@ -19438,6 +20178,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 28020901 : Inu_Shihandai_01 - [EN] - Samurai Dog (Patrol)
 28020902 : Inu_Shihandai_02 - [EN] - Samurai Dog (Combat)
 28020903 : Inu_Shihandai_03 - [N/A] 467002241
+28020904 : Inu_Shihandai_04 - [N/A] 1992703905
 28030101 : Crane_01 - 푸른 학
 28030102 : Crane_02 - 보랏빛 따오기
 28030103 : Crane_01 - [N/A] 434877481
@@ -19529,6 +20270,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 28050223 : Thoarder_Weasel_03 - [N/A] 4261963577
 28050301 : Boltbug_Lightbug_01 - [N/A] 868485513
 28050401 : Boltbug_Scarab_01 - [N/A] 2466918521
+28050501 : Electrohercules_01 - [N/A] 3014312137
+28050502 : Electrohercules_02 - [N/A] 765439209
+28050503 : Electrohercules_03 - [N/A] 3141479769
+28050504 : Electrohercules_04 - [N/A] 2949221961
+28050505 : Electrohercules_05 - [N/A] 2453680657
+28050506 : Electrohercules_06 - [N/A] 992130697
 28060101 : Gator_01 - [N/A] 128716817
 28060102 : Gator_Strong_01 - [N/A] 2866718929
 28060103 : Gator_01 - [N/A] 1328271489
@@ -19572,6 +20319,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 28061301 : Megamoth_Jungle_06 - [N/A] 3469996769
 28061401 : Megamoth_Jungle_07 - [N/A] 2330015681
 28061402 : Megamoth_Jungle_08 - [N/A] 3443985385
+28061501 : Chrysopelea_01 - [N/A] 447726457
+28061502 : Chrysopelea_01 - [N/A] 3984456185
 28210101 : Homeworld_Crab_01 - [EN] - Domestic Golden Crab
 28210102 : Homeworld_Crab_02 - [EN] - Domestic Sun Crab
 28210103 : Homeworld_Crab_03 - [EN] - Domestic Ocean Crab
@@ -19710,6 +20459,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 35210501 : Partner_Eremite_MuscleMan_Simitar_01 - [N/A] 4181653881
 35310101 : Partner_Eremite_Female_Slim_PushDagger_01 - [N/A] 800547617
 35310301 : Partner_Eremite_Male_Standard_Polearm_01 - [N/A] 2724426105
+35410101 : Partner_Eremite_Male_Strong_Katar_01 - [N/A] 843060329
+35410201 : Partner_Eremite_Female_Standard_Longbow_01 - [N/A] 2996340361
 36090190 : Partner_Fumgus_Un_Gamma_Water - [N/A] 4291858465
 36090290 : Partner_Fumgus_Un_Delta_Grass - [N/A] 2928415473
 36090390 : Partner_Fumgus_Un_Delta_Wind - [N/A] 3044810417
@@ -19720,6 +20471,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 36090890 : Partner_Fumgus_Deux_Epsilon_Wind - [N/A] 864320241
 36090990 : Partner_Fumgus_Deux_Beta_Rock - [N/A] 3379305585
 36091090 : Partner_Fumgus_Deux_Delta_Electric - [N/A] 1780358665
+38050590 : Partner_Animal_Electrohercules_01 - [N/A] 2442210649
 
 
 // Scenes
@@ -19782,6 +20534,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  1076 : IndoorScene_Md_CattailTavern
  1077 : IndoorScene_Xm_Chunzhangjia
  1078 : IndoorScene_Xm_Zls
+ 1079 : IndoorScene_Xm_Alhouse
  2001 : Homeworld_Exterior_Above
  2002 : Homeworld_Exterior_Karst
  2003 : Homeworld_Exterior_Uncharted
@@ -19893,6 +20646,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 20170 : Level_ScaramoucheFactory
 20171 : Level_ScaramoucheBoss
 20172 : Level_Consciousness
+20173 : Level_Xm_Alhaitham_01
 30001 : LevelTest_CurseMaze
 30100 : Level_Tower_Morning_01
 30101 : Level_Tower_Morning_01
@@ -20059,6 +20813,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 33744 : Level_Tower_Universe_01
 33745 : Level_Tower_Moon_01
 33746 : Level_Tower_Universe_01
+33747 : Level_Tower_Moon_01
+33748 : Level_Tower_Universe_01
 34100 : Level_Tower_Morning_01
 34101 : Level_Tower_01_Water
 34102 : Level_Tower_01_Open
@@ -20114,6 +20870,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 34744 : Level_Tower_Universe_01
 34745 : Level_Tower_Moon_01
 34746 : Level_Tower_Universe_01
+34747 : Level_Tower_Moon_01
+34748 : Level_Tower_Universe_01
 35100 : Level_Tower_Morning_01
 35101 : Level_Tower_Morning_01
 35102 : Level_Tower_Morning_01
@@ -20169,6 +20927,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 35744 : Level_Tower_Universe_01
 35745 : Level_Tower_Moon_01
 35746 : Level_Tower_Universe_01
+35747 : Level_Tower_Moon_01
+35748 : Level_Tower_Universe_01
 35800 : Level_CycleDungeon_WindFlower
 35801 : Level_ContestBattle01
 35802 : Level_ContestBattle01
@@ -20221,6 +20981,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 35870 : Level_BrickBreaker01
 35871 : Level_BrickBreaker01
 35872 : Level_BrickBreaker01
+35880 : Level_XM_BigLeaf
+35881 : Level_XM_BigLeaf
+35882 : Level_XM_BigLeaf
+35883 : Level_XM_BigLeaf
+35884 : Level_XM_BigLeaf
 40001 : Level_UCDungeon02
 40002 : Level_UCDungeon01
 40003 : Level_UCDungeon01
@@ -20282,6 +21047,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 40060 : Level_ActivityBoss01_Wind
 40061 : Level_ActivityBoss01_Wind
 40062 : Level_ActivityBoss01_Wind
+40063 : Level_Smr_LostCity
+40064 : Level_Smr_LostCity
 40100 : Level_CycleDungeon01_Fire
 40101 : Level_CycleDungeon01_Fire
 40102 : Level_CycleDungeon01_Fire
@@ -20445,6 +21212,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 41058 : Level_Tower_01_Open
 41059 : Level_Tower_01_Open
 41060 : Level_Tower_01_Open
+41061 : Level_Tower_01_Open
+41062 : Level_Tower_01_Open
 42001 : Level_PFDungeon02_Active01
 42002 : Level_PFDungeon02_Active02
 42003 : Level_PFDungeon02_Active07
@@ -20560,6 +21329,13 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 47205 : Level_Smr_LostCity
 47206 : Level_Smr_LostCity
 47207 : Level_Smr_LostCity
+47301 : Level_ContestBattle01
+47302 : Level_ContestBattle01
+47303 : Level_ContestBattle01
+47304 : Level_ContestBattle01
+47305 : Level_ContestBattle01
+47306 : Level_ContestBattle01
+47307 : Level_ContestBattle01
 50002 : TestLevel_Cold_LYX
 50003 : TestLevel_Battle_CLX
 50004 : Level_PowerCharge_Test
@@ -20662,7 +21438,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 51007 : BigWorld_LevelStreaming
 51008 : Level_Carnival
 51009 : Level_SmrDungeon_BigTree
+51010 : TestLevel_TestBox_LCM
 51011 : TestLevel_WhiteBox_Xm_04
+51013 : Level_Xm_Alhaitham_01
 51015 : Level_TestLevel_Pacman_Sll
 51019 : TestLevel_WhiteBox_Xm_05
 79999 : GcgCardTest
@@ -22603,7 +23381,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1030002 : 테스트 - 테스트
 1050001 : 점성술과 50년의 약속 - 길을 막은 소녀에게 의도 묻기
 1050002 : 점성술과 50년의 약속 - 길을 막은 소녀에게 의도 묻기
-1050003 : 점성술과 50년의 약속 - 모나와 함께 주 사장에게 작별인사 하기
+1050003 : 점성술과 50년의 약속 - 모나와 함께 주 사장에게 작별 인사 하기
 1050004 : 점성술과 50년의 약속 - 슬라임을 유인해서 주 사장의 반지 찾기
 1050005 : 점성술과 50년의 약속 - 슬라임을 처치하고 반지 찾기
 1050006 : 점성술과 50년의 약속 - 반지를 주 사장에게 돌려주기
@@ -22884,7 +23662,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1101933 : 얼굴로는 알 수 없는 사람의 속마음 - [N/A] 3841901676
 1102001 : 지난날의 그림자 - 주전방으로 가기
 1102002 : 지난날의 그림자 - 탁자 옆 종려와 대화하기
-1102003 : 지난날의 그림자 - 배 뒷편에 가서 완연의 문제 들어보기
+1102003 : 지난날의 그림자 - 배 뒤편에 가서 완연의 문제 들어보기
 1102101 : 소용돌이의 흔적 - 다 같이 고운각으로 가기
 1102102 : 소용돌이의 흔적 - 모두와 대화하기
 1102103 : 소용돌이의 흔적 - [CHS] - (test)已废弃$HIDDEN
@@ -22892,7 +23670,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1102105 : 소용돌이의 흔적 - 환형 마수를 처치해 유물 회수하기
 1102106 : 소용돌이의 흔적 - 다른 팀과 합류하기
 1102107 : 소용돌이의 흔적 - 「원소 시야」로 유물 찾기
-1102108 : 소용돌이의 흔적 - 주변의 적 처치 후 보물 상자 열기
+1102108 : 소용돌이의 흔적 - 주변의 적 처치 후 보물상자 열기
 1102109 : 소용돌이의 흔적 - 계속해서 「원소 시야」로 유물 찾기
 1102201 : 굳게 닫힌 유적 - 다 같이 대지의 소금으로 가기
 1102202 : 굳게 닫힌 유적 - 모두와 대화하기
@@ -23240,7 +24018,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1200107 : 지피지기 백전불태 - 무재공과 우인단의 대화 엿듣기
 1200108 : 지피지기 백전불태 - 행추에게 무재공의 계획 알려주기
 1200201 : 폭풍 전야 - 「비운 상회」의 가복에게 편지 건네기
-1200202 : 폭풍 전야 - 「비운 상회」 들어가기
+1200202 : 폭풍 전야 - 유리정 입장하기
 1200203 : 폭풍 전야 - 「비운 상회」의 가복과 대화하기
 1200204 : 폭풍 전야 - 상점에 가서 콜 라피스 구매하기
 1200205 : 폭풍 전야 - 상점에 가서 콜 라피스 구매하기
@@ -23256,7 +24034,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1200215 : 폭풍 전야 - 구매 완료
 1200219 : 폭풍 전야 - 원소 시야로 콜 라피스를 싣고 있는 광차 찾기
 1200220 : 폭풍 전야 - 원소 시야로 콜 라피스를 싣고 있는 광차 찾기
-1200221 : 폭풍 전야 - [CHS] - (test)与「飞云商会」的家丁对话$HIDDEN
+1200221 : 폭풍 전야 - 가복과 대화하기
 1200222 : 폭풍 전야 - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200223 : 폭풍 전야 - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200303 : 초탈한 협객행 - 「비운 상회」의 창고 가기
@@ -24493,7 +25271,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1912105 : 예상치 못한 일 - 야스타케에게 보고하기
 1912106 : 예상치 못한 일 - 야박석 샘플 1개 찾기
 1912108 : 예상치 못한 일 - 화물 운송 상인과 대화하기
-1912109 : 예상치 못한 일 - 물건을 성 밖으로 전해주기
+1912109 : 예상치 못한 일 - 물건을 성 근처로 전해주기
 1912110 : 예상치 못한 일 - 화물 운송 상인과 대화하기
 1912111 : 예상치 못한 일 - 사카이에게 보고하기
 1912112 : 예상치 못한 일 - 야시로 봉행의 위기를 토마에게 알려주기
@@ -24536,7 +25314,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1913503 : 「리월 천년」 - 군옥각에 돌아가 응광과 대화하기
 1913601 : 처음부터 다시 시작 - 부두로 향하여 폐기된 화물 찾기
 1913602 : 처음부터 다시 시작 - 상인에게 재료 팔기
-1913603 : 처음부터 다시 시작 - 야외로 향하여 보물 상자 찾기
+1913603 : 처음부터 다시 시작 - 야외로 향하여 보물상자 찾기
 1913604 : 처음부터 다시 시작 - 마물을 처치하고 보물상자 오픈하기
 1913605 : 처음부터 다시 시작 - 응광과 대화하기
 1913606 : 처음부터 다시 시작 - 계속 보물상자 찾기
@@ -28775,7 +29553,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7082402 : 와이너리 대청소 - 아델린과 함께 다운 와이너리 들어가기
 7082403 : 와이너리 대청소 - 모든 때와 얼룩 청소하기
 7082404 : 와이너리 대청소 - 아델린과 대화하기
-7082501 : 뒷수습 - [CHS] - 与霍夫曼对话$HIDDEN
+7082501 : 뒷수습 - 호프만과 대화하기
 7082502 : 뒷수습 - 순찰하고 장애물 제거하기
 7082503 : 뒷수습 - 모든 몬스터 처치 및 장애물 제거하기
 7082504 : 뒷수습 - 순찰하고 장애물 제거하기
@@ -29781,7 +30559,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7170902 : 게리의 추억의 몬드성 요리 - 게리와 대화하기
 7171001 : 게리의 추억의 몬드성 요리 - 게리에게 무 수프 3인분 건네기
 7171002 : 게리의 추억의 몬드성 요리 - 게리와 대화하기
-7171101 : 게리의 추억의 몬드성 요리 - 게리에게 장원 팬케익 2인분 건네기
+7171101 : 게리의 추억의 몬드성 요리 - 게리에게 장원 팬케이크 2인분 건네기
 7171102 : 게리의 추억의 몬드성 요리 - 게리와 대화하기
 7171201 : 게리의 추억의 몬드성 요리 - 게리에게 불꽃 미트 스파게티 2인분 건네기
 7171202 : 게리의 추억의 몬드성 요리 - 게리와 대화하기
@@ -30544,11 +31322,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7212304 : 벚나무 치료 - 보물 사냥단 야영지를 조사하기
 7212305 : 벚나무 치료 - 남아있는 보물 사냥단 단원 심문하기
 7212306 : 벚나무 치료 - 미유키에게 보고하기
-7212307 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 처리하기
-7212308 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 처리하기
-7212309 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 처리하기
-7212310 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 처리하기
-7212311 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 처리하기
+7212307 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 제거하기
+7212308 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 제거하기
+7212309 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 제거하기
+7212310 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 제거하기
+7212311 : 벚나무 치료 - 보물 사냥단이 번개의 벚나무에 남긴 「수작」 제거하기
 7212312 : 벚나무 치료 - [N/A] 4288306900
 7212313 : 벚나무 치료 - [N/A] 507057764
 7212314 : 벚나무 치료 - 미유키에게 보고하기
@@ -30571,18 +31349,18 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7212412 : 검사의 꿈 - 병사에게 술에 대해 물어보기
 7212413 : 검사의 꿈 - 「이름 없는 무사」에게 술 건네기
 7212414 : 검사의 꿈 - 「이름 없는 무사」와 대화하기
-7212415 : 검사의 꿈 - 「마사노리」 처치하기
+7212415 : 검사의 꿈 - 「마사노리」 쓰러뜨리기
 7212416 : 검사의 꿈 - 「마사노리」와 대화하기
 7212417 : 검사의 꿈 - 「마사노리」가 언급했던 검 찾기
 7212418 : 검사의 꿈 - 「마사노리」가 언급했던 검 찾기
 7212419 : 검사의 꿈 - 「마사노리」에게 검 건네기
 7212420 : 검사의 꿈 - 「마사노리」와 대화하기
-7212421 : 검사의 꿈 - 날뛰는 「마사노리」 처치하기
+7212421 : 검사의 꿈 - 날뛰는 「마사노리」 쓰러뜨리기
 7212422 : 검사의 꿈 - 「마사노리」와 대화하기
 7212423 : 검사의 꿈 - 「이름 없는 무사」 처치하기
 7212424 : 검사의 꿈 - [N/A] 1103986732
 7212425 : 검사의 꿈 - 「이름 없는 무사」 처치하기
-7212426 : 검사의 꿈 - 「마사노리」 처치하기
+7212426 : 검사의 꿈 - 「마사노리」 쓰러뜨리기
 7212427 : 검사의 꿈 - [CHS] - （test）废弃
 7212501 : [CHS] - （test）（隐藏）花儿为谁开其一$HIDDEN - [N/A] 1230591612
 7212502 : [CHS] - （test）（隐藏）花儿为谁开其一$HIDDEN - [N/A] 191011292

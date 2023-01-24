@@ -1,5 +1,5 @@
-// Grasscutter 3.3.0 GM Handbook
-// Created 2022/12/07 22:14:49
+// Grasscutter 3.3.54 GM Handbook
+// Created 2023/01/24 10:05:08
 
 
 // Commands
@@ -586,6 +586,28 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  41076013 : Faruzan_Constellation6_Bullet - [N/A] 1903046925
  41076014 : Faruzan_Constellation6_Bullet_Trigger - [N/A] 1339949197
  41076015 : Faruzan_SkillObj_WindZone_Hit - [N/A] 3244892205
+ 41077001 : Yaoyao_ExtraAttack_Bullet - [N/A] 1175812701
+ 41077002 : Yaoyao_ElementalArt_Rabbit - [N/A] 486672549
+ 41077003 : Avatar_Yaoyao_Turnip_Bullet - [N/A] 358099181
+ 41077004 : Avatar_Yaoyao_Turnip - [N/A] 3130731581
+ 41077005 : Yaoyao_ElementalArt_Rabbit_Throw - [N/A] 4187909685
+ 41077006 : Yaoyao_ElementalBurst_Rabbit_Throw - [N/A] 371097277
+ 41077007 : Yaoyao_ElementalBurst_Rabbit - [N/A] 3384056949
+ 41077008 : Avatar_Yaoyao_Turnip_Bullet_Parabola - [N/A] 3536110237
+ 41077009 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre - [N/A] 1584764237
+ 41077010 : Yaoyao_ElementalArt_Rabbit_Throw_Short - [N/A] 502899525
+ 41077011 : Avatar_Yaoyao_Golden_Turnip_Bullet - [N/A] 3865826597
+ 41077012 : Avatar_Yaoyao_Golden_Turnip - [N/A] 1158403509
+ 41077013 : Yaoyao_ElementalBurst_Rabbit_Throw_Pre_BulletTrigger - [N/A] 3263422261
+ 41078001 : Alhatham_ElementalArt_Bullet - [N/A] 1364000445
+ 41078002 : Alhatham_ElementalArt_CoAttack03_Bullet - [N/A] 64191325
+ 41078003 : Alhatham_ElementalArt_CoAttack01 - [N/A] 470585117
+ 41078004 : Alhatham_ElementalArt_CoAttack02 - [N/A] 3787294741
+ 41078005 : Alhatham_ElementalArt_CoAttack03 - [N/A] 1744412269
+ 41078006 : Alhatham_ElementalArt_CoAttack01_Constellation_1 - [N/A] 2252179381
+ 41078007 : Alhatham_ElementalArt_CoAttack02_Constellation_1 - [N/A] 1560682061
+ 41078008 : Alhatham_ElementalArt_CoAttack03_Constellation_1 - [N/A] 4103662077
+ 41078011 : Alhatham_ElementalBurst_Dummy - [N/A] 2022817589
  42000001 : Fishing_Aim_Bullet - [N/A] 948791589
  42000002 : Fishing_Cork - [N/A] 3201528309
  42001001 : Slime_IceCone_AimPoint - [N/A] 4070709791
@@ -1193,6 +1215,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  42509016 : Samurai_Ningyo_MaskCloseLock_ToPlace - [N/A] 2596145183
  42509017 : Samurai_Ningyo_BornObject - [N/A] 3018148159
  42509018 : Samurai_Ningyo_LockTarget - [N/A] 712038119
+ 42509019 : Samurai_Ningyo_WindBladeAir_BladeMaster - [N/A] 865564191
  42510001 : Samurai_Kairagi_FireArea - [N/A] 2013216071
  42510002 : Kairagi_RushAtk_Bullet - [N/A] 4186423367
  42510003 : Kairagi_RushAtk_Bullet_Thunder - [N/A] 321225383
@@ -1220,6 +1243,21 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  42550006 : Eremite_Vulture_WindArea - [N/A] 3706864199
  42550007 : Eremite_Longbows_MoveShot_Damage - [N/A] 687002071
  42550008 : Eremite_Longbows_AirShoot_WindArea - [N/A] 1292916871
+ 42560001 : Eremite_Dancer_Boomerang - [N/A] 3548492375
+ 42560002 : Eremite_Dancer_WheelSurround - [N/A] 3787607703
+ 42560003 : Eremite_Dancer_Trap - [N/A] 2195108999
+ 42560004 : Eremite_Chrysopelea_ShaderCut_Gadget - [N/A] 2831645047
+ 42560005 : Eremite_Chrysopelea_ComboAttack_Gadget - [N/A] 678410903
+ 42560006 : Eremite_Chrysopelea_RangeAttack_Bullet - [N/A] 2679176639
+ 42570001 : Eremite_Oracle_Stingers_Bullet - [N/A] 2445929463
+ 42570002 : Eremite_Oracle_LaserAttack_Bullet - [N/A] 3113180095
+ 42570003 : Eremite_Oracle_FunnelAttack_Bullet - [N/A] 4060731967
+ 42570004 : Eremite_Oracle_FunnelAttack_Gadget - [N/A] 3884020815
+ 42570005 : Eremite_Scorpion_ShaderCut_Gadget - [N/A] 2308962959
+ 42570006 : Eremite_Scorpion_RangeAttack_Bullet - [N/A] 2162733327
+ 42570007 : Eremite_Scorpion_MeleeAttack_Bullet - [N/A] 1655028663
+ 42570008 : Eremite_Scorpion_ComboAttack_Gadget - [N/A] 1971621423
+ 42570009 : Eremite_Scorpion_RangeAttack_RayBullet - [N/A] 1740862423
  42601001 : Mimik_Ice_ForwardBullet - [N/A] 1887752319
  42601002 : Mimik_Ice_ForwardCannon - [N/A] 239623631
  42601003 : Mimik_Ice_UpperMissile - [N/A] 2883953935
@@ -1414,6 +1452,33 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  42609024 : Fungus_Un_Water_Bubble - [N/A] 4040866999
  42609025 : Fungus_Deux_Wind_OverdoseBullet - [N/A] 1900741015
  42609026 : Fungus_Un_Dendro_Bullet_UB - [N/A] 437828143
+ 42610001 : Scorpion_Sacred_SacredAttack03_Bullet - [N/A] 157394007
+ 42610002 : Scorpion_Sacred_SacredAttack05_Bullet - [N/A] 1362906215
+ 42610003 : Scorpion_Sacred_SacredEnergy_Gadget - [N/A] 4201293127
+ 42610004 : Scorpion_Sacred_SacredEnergy_Bullet - [N/A] 426087711
+ 42610005 : Scorpion_Sacred_SacredEnergy_Accum - [N/A] 1086890671
+ 42610006 : Scorpion_Sacred_SacredAttack05_Bullet2 - [N/A] 3394513775
+ 42610007 : Scorpion_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 2396345631
+ 42610017 : Vulture_Sacred_SacredAttack04_Bullet - [N/A] 1931426559
+ 42610018 : Vulture_Sacred_SacredAttack05_Bullet - [N/A] 3313926135
+ 42610019 : Vulture_Sacred_SacredEnergy_Gadget - [N/A] 4274054415
+ 42610020 : Vulture_Sacred_SacredEnergy_Bullet - [N/A] 3474544455
+ 42610021 : Vulture_Sacred_SacredEnergy_Detect - [N/A] 3571112831
+ 42610022 : Vulture_Sacred_SacredEnergy_Accum - [N/A] 205944767
+ 42610023 : Vulture_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3491967647
+ 42610024 : Chrysopelea_Sacred_Attack01_Bullet - [N/A] 3919499911
+ 42610025 : Chrysopelea_Sacred_Attack01_WindZone - [N/A] 27701559
+ 42610026 : Chrysopelea_Sacred_SacredEnergy_Gadget - [N/A] 1669444215
+ 42610027 : Chrysopelea_Sacred_SacredEnergy_Bullet - [N/A] 2668002983
+ 42610028 : Chrysopelea_Sacred_Attack02_WindBlade - [N/A] 2268598063
+ 42610029 : Chrysopelea_Sacred_Attack04_WindZone - [N/A] 3244977807
+ 42610030 : Chrysopelea_Sacred_Attack05_Bullet - [N/A] 3994716847
+ 42610031 : Chrysopelea_Sacred_SacredEnergy_Detect - [N/A] 1576521079
+ 42610032 : Chrysopelea_Sacred_SacredEnergy_Accum - [N/A] 1749515879
+ 42610033 : Chrysopelea_Sacred_Attack05_WindBlade - [N/A] 2250065735
+ 42610034 : Chrysopelea_Sacred_SacredEnergy_Bullet_ToMonster - [N/A] 3603489927
+ 42610035 : Chrysopelea_Sacred_Attack02_WindBlade02 - [N/A] 475343279
+ 42610036 : Chrysopelea_Sacred_Attack02_WindBlade03 - [N/A] 3164834151
  42611001 : Fungus_Raptor_01_ShootAttackBullet - [N/A] 1247474583
  42611002 : Fungus_Raptor_01_PowerAttackBullet - [N/A] 1981485391
  42611003 : Fungus_Raptor_01_SummonAttackBullet - [N/A] 3692441343
@@ -1432,6 +1497,17 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  42611016 : Fungus_Amanita_Du_Anudatta_Water_HeavyShootBulletDecay - [N/A] 1382661615
  42611017 : Fungus_Raptor_01_SummonAttackBullet_OnGround - [N/A] 1912276719
  42611018 : Fungus_Un_Delta_Grass_BulletDecayedRaptorSummon - [N/A] 1152419447
+ 42613001 : Bullet_Sandworm_Stage01_ShootAttackBullet - [N/A] 2932985583
+ 42613002 : Bullet_Sandworm_Stage02_TailVerticalShootAttack_BulletOnGround - [N/A] 1481911263
+ 42613003 : Monster_Sandworm_Stage02_FlyingAttackBall - [N/A] 2615035231
+ 42613004 : Bullet_Sandworm_Stage02_FlyingAttackBullet - [N/A] 3970307391
+ 42613005 : Bullet_Sandworm_Stage02_DrillRushAttackBullet - [N/A] 3607401655
+ 42613006 : Bullet_Sandworm_Stage02_UnderGroundMoveTrail_Bullet - [N/A] 1325797263
+ 42613007 : Monster_Sandworm_Stage02_FlyingAttackBall02 - [N/A] 2062639847
+ 42613008 : Monster_Sandworm_Stage02_FlyingAttackBall03 - [N/A] 2977250319
+ 42613009 : Monster_Sandworm_Stage02_FlyingAttackBall04 - [N/A] 242312639
+ 42613010 : Monster_Sandworm_Stage02_FlyingAttackBall05 - [N/A] 2026021447
+ 42613011 : Monster_Sandworm_Stage02_FlyingAttackBall06 - [N/A] 3250352215
  42690001 : DendroTornado_Hunting - [N/A] 1490735319
  42802001 : Boar_RushAtk - [N/A] 3897733399
  42802002 : Boar_BigSnowBall - [N/A] 946776663
@@ -1439,6 +1515,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  42802004 : Boar_SnowDrop - [N/A] 2073418471
  42802005 : Boar_03_RushAtk - [N/A] 3801980575
  42805001 : Boltbug_Scarab_Ball - [N/A] 1464668799
+ 42806001 : Chrysopelea_Attack01_Bullet - [N/A] 2582222311
  42901001 : Dvalin_Trigger01 - [N/A] 2857760847
  42901002 : Dvalin_AirFlowGlobal01 - [N/A] 878162351
  42901003 : Dvalin_WindRing01 - [N/A] 3054154647
@@ -1461,7 +1538,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  42901029 : Dvalin_S04_Platform01 - [N/A] 753154527
  42901041 : Dvalin_S04_AbyssTrigger - [N/A] 1169221039
  42901042 : Dvalin_S01_WindSlime - [N/A] 2927902063
- 42901043 : Dvalin_S01_FireAbyss - [N/A] 904992831
+ 42901043 : Dvalin_S01_FireAbyss - [N/A] 1636076615
  42901044 : Dvalin_S01_FireAbyss_Cyclone - [N/A] 48205711
  42901045 : Dvalin_S01_FireAbyss_Totem - [N/A] 2034797783
  42901046 : Dvalin_S01_Missile_01 - [N/A] 2551641095
@@ -1775,6 +1852,15 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  42907910 : Gagana_EnergyCube_Small - [N/A] 4263390975
  42907911 : Gagana_EnergyCubeSpecial - [N/A] 3132457399
  42907912 : Gagana_AutoShootBullet_Powerful - [N/A] 2271855919
+ 43805001 : Partner_Animal_Electrohercules_JumpAttack - [N/A] 1817545303
+ 43805002 : Partner_Animal_Electrohercules_JumpAttack_CriticalTrigger - [N/A] 688400959
+ 43805003 : Animal_Electrohercules_RangedAttack01_Attack - [N/A] 3968051159
+ 43805004 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 2126377159
+ 43805005 : Bullet_Animal_Electrohercules_ElectricBall_OnGround - [N/A] 789377079
+ 43805006 : Bullet_Animal_Electrohercules_ElectricBall_Kicked - [N/A] 3009696383
+ 43805007 : Animal_Electrohercules_MeleeAttack01_Attack - [N/A] 3225701015
+ 43805008 : Animal_Electrohercules_06_CameraTarget - [N/A] 1933183503
+ 43805009 : Partner_Animal_Electrohercules_JumpBack - [N/A] 628752167
  44000001 : SkillObj_LevelEntity_TowerBuff_SprintAreaAttack - [N/A] 2478743371
  44000002 : SkillObj_GlidingChallenge_AirDash_Forward - [N/A] 4055901779
  44000003 : SkillObj_GlidingChallenge_AirDash_Upward1 - [N/A] 4039659491
@@ -1999,8 +2085,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  44000547 :  - [N/A] 1160347275
  44000548 :  - [N/A] 1443849811
  44000549 : CoinCollect_WindField - [N/A] 1061538187
+ 44000551 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainChooseMonster - [N/A] 1424403123
+ 44000552 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainExplodeCreatorV3.4 - [N/A] 3771975235
+ 44000553 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainMasterExplodeV3.4 - [N/A] 102652931
  45001001 : Skiff_Normal_01 - [N/A] 1971263784
  45001002 : Skiff_Normal_Beidou - [N/A] 4127622224
+ 45001003 : Skiff_Normal_LanV3BoatGame - [N/A] 1002409352
  49001001 : GeneralSkill_IceDamage_Prison_Center - [N/A] 3689397839
  49001002 : GeneralSkill_WindDamage_Vortex_Center - [N/A] 3989476855
  49001003 : GeneralSkill_RockDamage_LowWave_Emitter - [N/A] 1638573951
@@ -2022,6 +2112,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  49001020 : MonsterAffix_Drop_Rock_CenterGadget - [N/A] 2838867671
  49001021 : MonsterAffix_Drop_Rock_Bullet_Stage1 - [N/A] 2780804615
  49001022 : MonsterAffix_Drop_Rock_Bullet_Stage2 - [N/A] 3950134471
+ 49001023 : MonsterAffix_Activity_Deathrattle_Gadget_DoomLogic - [N/A] 1656916927
  50004001 : MonEquip_WoodenClub_01 - [N/A] 2276690274
  50004002 : MonEquip_Shield_01 - [N/A] 385102474
  50004003 : MonEquip_WoodenClub_Fire_01 - [N/A] 2366820018
@@ -2158,6 +2249,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  50011509 : Weapon_Sword_Metal - [N/A] 2049132762
  50011510 : Weapon_Sword_Metal - [N/A] 1767000186
  50011511 : Weapon_Sword_Metal - [N/A] 678116498
+ 50011512 : Weapon_Sword_Metal - [N/A] 2148878538
  50012101 : Weapon_Claymore_Metal - [N/A] 3190308418
  50012201 : Weapon_Claymore_Metal - [N/A] 3652942962
  50012301 : Weapon_Claymore_Metal - [N/A] 2236465170
@@ -2338,6 +2430,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70120007 : SceneObj_Resident_DungeonEntry_Temp_3d - [N/A] 2071956017
  70120008 : SceneObj_Resident_DungeonEntry_MengDe03 - [N/A] 2185414225
  70120009 : SceneObj_Resident_DungeonEntry_MakotoTorii - [N/A] 2887094801
+ 70120011 : SceneObj_Resident_DungeonEntry_Desert01 - [N/A] 3773079265
  70130001 : Windmill - [N/A] 1253491753
  70130002 : Windmill - [N/A] 138536801
  70130003 : Windmill - [N/A] 1190443273
@@ -2477,6 +2570,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70217018 : SceneObj_Chest_Relic02 - [N/A] 4118874809
  70217019 : SceneObj_Chest_Relic02 - [N/A] 249981361
  70217020 : SceneObj_Area_Xm_Property_Prop_SumeruCrudeChest_01 - [N/A] 3499701441
+ 70217021 : SceneObj_Area_Xm_Property_Prop_Qzft_Chest_01 - [N/A] 1255863673
  70220001 : SceneObj_Environment_GrassMaterial_LeaveStacks - [N/A] 2131907393
  70220002 : SceneObj_Environment_GrassMaterial_LeafBlanket - [N/A] 3400770321
  70220003 : SceneObj_Environment_WoodenMaterial_BrambleWall01 - [N/A] 940992233
@@ -3167,8 +3261,10 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70290432 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2610296801
  70290433 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2293893953
  70290434 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Slot_01 - [N/A] 2074184041
+ 70290435 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_01 - [N/A] 2036496833
  70290436 : SceneObj_Area_Xm_Property_Prop_RootPot_01 - [N/A] 763381017
  70290437 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruBubble_01 - [N/A] 2077054049
+ 70290438 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Bullet_01 - [N/A] 2755426545
  70290439 :  - [N/A] 529036153
  70290440 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part_NoDither - [N/A] 2255502849
  70290441 : SceneObj_Area_Xm_Property_Prop_WoodAranaraStage_Part - [N/A] 3174113273
@@ -3183,6 +3279,17 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70290450 : SceneObj_Area_Common_Property_Prop_Excavate_01 - [N/A] 631751737
  70290451 : SceneObj_Area_Xm_Property_Prop_SeelieFarAway_01 - [N/A] 2563897945
  70290452 : SceneObj_Area_Common_Property_Prop_ExplorationRing_01 - [N/A] 158715585
+ 70290453 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_01 - [N/A] 988585289
+ 70290454 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeI_02 - [N/A] 1189602505
+ 70290455 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3116403553
+ 70290456 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_01 - [N/A] 3434048849
+ 70290457 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_01 - [N/A] 1679508649
+ 70290458 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Balance_01 - [N/A] 2251884753
+ 70290459 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_Transparency_01 - [N/A] 1446169785
+ 70290460 : SceneObj_Area_Desert_Property_Ani_Prop_SandContainer_DeadZone_01 - [N/A] 1166772305
+ 70290461 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_02 - [N/A] 2342499809
+ 70290462 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_01 - [N/A] 4207694721
+ 70290463 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 713757273
  70290464 :  - [N/A] 1503227049
  70290465 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_01 - [N/A] 3551710265
  70290466 : SceneObj_Level_Xm_Property_Prop_TransparentBrick_02 - [N/A] 241714481
@@ -3314,7 +3421,55 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70290597 : SceneObj_Area_Xm_Property_Water_CaveNoRPR120 - [N/A] 1115917249
  70290598 : SceneObj_Gear_Platform_WaterPlatform - [N/A] 2712802545
  70290599 : SceneObj_Area_Xm_Property_Prop_ChorusMusicGadget - [N/A] 2147750849
+ 70290600 : SceneObj_Area_Xm_Property_Ani_Prop_SpiritEnergyGear_01 - [N/A] 2049723257
+ 70290601 : SceneObj_Area_Xm_Property_Prop_SandTornado_01 - [N/A] 41434961
+ 70290602 : SceneObj_Area_Xm_Property_Prop_SandTornado_02 - [N/A] 1326509065
+ 70290603 : SceneObj_Area_Xm_Property_Prop_Lzsg_01 - [N/A] 3240334449
+ 70290604 : SceneObj_Area_Xm_Property_Prop_Hssz_01 - [N/A] 3745118673
+ 70290605 : SceneObj_Area_Xm_Property_Prop_Lzpb_01 - [N/A] 2274278689
+ 70290606 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_01 - [N/A] 2157025297
+ 70290607 : SceneObj_Area_Xm_Property_Ani_Flower_Sjfw_02 - [N/A] 2214960881
  70290608 : SceneObj_Activity_Brick_Breaker - [N/A] 2580652217
+ 70290609 : SceneObj_Area_Xm_Property_Prop_OasisController_01 - [N/A] 78050633
+ 70290610 : SceneObj_Area_Common_Property_Ani_Prop_PipeGear_01 - [N/A] 828154569
+ 70290611 : SceneObj_Area_Common_Property_Ani_Prop_BrokenGear_01 - [N/A] 4140570817
+ 70290612 : SceneObj_Area_Common_Property_Ani_Prop_MaranaGear_01 - [N/A] 1410562897
+ 70290613 : SceneObj_Area_Xm_Property_Prop_SandFall_01 - [N/A] 50458873
+ 70290614 : SceneObj_Area_Xm_Property_Ani_Prop_SandContainerWall_01 - [N/A] 1421177553
+ 70290615 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 4252347825
+ 70290616 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 2510245593
+ 70290617 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 529665777
+ 70290618 : SceneObj_Area_Xm_Property_Ani_Prop_WitheredPlants_01 - [N/A] 1767819281
+ 70290619 : SceneObj_Area_Xm_Property_Ani_Prop_ChangeableStone_01 - [N/A] 829317745
+ 70290620 : SceneObj_Area_Common_Property_Prop_LaserWall_01 - [N/A] 18549409
+ 70290621 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3734889289
+ 70290622 : SceneObj_Area_Xm_Property_Ani_Prop_BrokenSlabStone_05 - [N/A] 339468329
+ 70290623 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 409823921
+ 70290624 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Normal_01 - [N/A] 1815794993
+ 70290625 : SceneObj_Area_Xm_Property_Ani_Prop_SandwormStone_Hard_01 - [N/A] 3883894849
+ 70290626 : SceneObj_Area_Xm_Property_Prop_SandFall_02 - [N/A] 744073057
+ 70290627 : SceneObj_Area_Desert_Property_Ani_Prop_SandPipe_Indicator_01 - [N/A] 3822609169
+ 70290628 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Direct_01 - [N/A] 2685721425
+ 70290629 : SceneObj_Area_Xm_Property_Prop_Cwcfz_01 - [N/A] 1953317377
+ 70290630 : SceneObj_Area_Xm_Property_Ani_Prop_SandCarrier_01 - [N/A] 3215638145
+ 70290631 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_Movable - [N/A] 2768729457
+ 70290632 : SceneObj_Area_Xm_Property_Ani_Build_JamshidCup_01_NoMove - [N/A] 2386538745
+ 70290633 : SceneObj_Area_Xm_Property_Prop_Cwcfz_02 - [N/A] 1988180561
+ 70290634 : SceneObj_Area_Xm_Property_Prop_Cwcfz_03 - [N/A] 1969550393
+ 70290635 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 2518409809
+ 70290636 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 1779814105
+ 70290637 : SceneObj_Area_Common_Property_Prop_JamshidBedrock_01 - [N/A] 3807423753
+ 70290638 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_01 - [N/A] 2076167945
+ 70290639 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_01 - [N/A] 2773464097
+ 70290640 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_01 - [N/A] 3034438033
+ 70290641 : SceneObj_Desert_DeshretObelisk - [N/A] 1879846817
+ 70290642 : SceneObj_Desert_DeshretObelisk - [N/A] 4276804769
+ 70290643 : SceneObj_Desert_DeshretObelisk - [N/A] 2083341033
+ 70290644 : SceneObj_Desert_DeshretObelisk - [N/A] 3302552593
+ 70290645 : SceneObj_Desert_DeshretObelisk - [N/A] 364667705
+ 70290646 : SceneObj_Desert_DeshretObelisk - [N/A] 3624640993
+ 70290647 : SceneObj_Desert_DeshretObelisk - [N/A] 858805217
+ 70290648 : SceneObj_Desert_DeshretObelisk - [N/A] 3056909833
  70290650 : SceneObj_Level_Common_Property_Prop_CallEntity_01 - [N/A] 1160269489
  70290651 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_01 - [N/A] 4182368257
  70290652 : SceneObj_Stages_Property_Prop_SBDungeonAirWall_02 - [N/A] 4018773201
@@ -3332,6 +3487,40 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70290664 : Quest_VoidSearching_Target - [N/A] 3397138529
  70290665 : BrickBreaker_Env_Candle - [N/A] 3199094937
  70290666 : SceneObj__BrickBreaker_LampController_01 - [N/A] 1541852665
+ 70290670 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 2065884305
+ 70290671 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_01 - [N/A] 3621829921
+ 70290672 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_01 - [N/A] 3666126313
+ 70290673 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_02 - [N/A] 3199666065
+ 70290674 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3967556113
+ 70290675 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 4176026001
+ 70290676 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1021316729
+ 70290677 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3698166481
+ 70290678 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1061070529
+ 70290679 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 1472762657
+ 70290680 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 577811889
+ 70290681 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 2579409233
+ 70290682 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Transparent - [N/A] 3336319465
+ 70290683 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 1663416393
+ 70290684 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3562583497
+ 70290685 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2803790033
+ 70290686 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2806710817
+ 70290687 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 2528805641
+ 70290688 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3311007569
+ 70290689 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3226777585
+ 70290690 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3352686545
+ 70290691 : SceneObj_Area_Common_Property_Prop_JamshidSlabstone_Opaque - [N/A] 3605855513
+ 70290692 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_01 - [N/A] 1512358633
+ 70290693 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Hint - [N/A] 1994277409
+ 70290694 : SceneObj_Area_Xm_Property_Ani_Prop_WindBallProp_Bullet_02 - [N/A] 3258169521
+ 70290695 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment - [N/A] 1832319705
+ 70290696 : SceneObj_Area_Xm_Property_Ani_Prop_Djinn_Fragment_Controller - [N/A] 3695160057
+ 70290697 : SceneObj_Area_Xm_Property_Prop_Cwfs_01 - [N/A] 3679600321
+ 70290698 : SceneObj_Area_Xm_Property_Prop_Cwfs_02 - [N/A] 2406359121
+ 70290699 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 3428859385
+ 70290700 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_01 - [N/A] 1730450033
+ 70290701 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_02 - [N/A] 1868891241
+ 70290702 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_03 - [N/A] 749032825
+ 70290703 : SceneObj_Area_Xm_Property_Ani_Prop_Tysq_04 - [N/A] 1081186537
  70290704 : SceneObj_Activity_Brick_Breaker_Boss_Samurai - [N/A] 4141117945
  70290705 : SceneObj_Activity_Brick_Breaker_Boss_MirrorGirl - [N/A] 1843539049
  70290706 : SceneObj_Activity_Brick_Breaker_Boss_Elec_Mage - [N/A] 3437297697
@@ -3379,17 +3568,108 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70290753 :  - [N/A] 1622761993
  70290754 : SceneObj_Area_Dq_Property_Ani_Prop_AkebiaGroup_01 - [N/A] 706612529
  70290755 : SceneObj_Area_Dq_Property_Ani_Prop_Catstatue_01 - [N/A] 1353183857
+ 70290756 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_01 - [N/A] 3910653121
+ 70290757 : SceneObj_Area_Xm_Property_Ani_Prop_Byqb_02 - [N/A] 1436925217
+ 70290758 : SceneObj_Area_Xm_Property_Prop_Lzsg_02 - [N/A] 2514548601
+ 70290759 : SceneObj_AnimalObj_Ani_Level_Pigeon_Beak_01 - [N/A] 3662799673
+ 70290760 : SceneObj_AnimalObj_Ani_Level_Crane_Lbis_01 - [N/A] 82317961
+ 70290761 : SceneObj_AnimalObj_Ani_Level_Apsva_01 - [N/A] 375359489
+ 70290762 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Platform_01 - [N/A] 421179601
+ 70290763 : SceneObj_Area_Xm_Property_Prop_Cwfsgd_01 - [N/A] 495312385
+ 70290764 : SceneObj_Area_Desert_Property_Ani_Prop_SandWorm_Attack_01 - [N/A] 2912098969
+ 70290765 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Board - [N/A] 1571075993
+ 70290766 : SceneObj_Area_Desert_Property_Ani_Prop_SandPool_Nozzole_01 - [N/A] 1933523545
+ 70290767 : SceneObj_Area_Xm_Property_Prop_ChessClockworkGiving_01 - [N/A] 963474121
+ 70290768 : SceneObj_Area_Xm_Property_Prop_ChessEmptyGiving_01 - [N/A] 2832043705
+ 70290769 : SceneObj_Area_Xm_Property_Ani_Prop_JamshidCupGear_01 - [N/A] 1587810321
+ 70290770 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_01 - [N/A] 2301408537
+ 70290772 : SceneObj_Area_Dq_Property_Prop_ElectroherculesBattlefield_01 - [N/A] 566775753
+ 70290773 : SceneObj_Area_Dq_Property_Ani_Prop_ElectroherculesBattlePosterBoard_01 - [N/A] 974868377
+ 70290777 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBall_01 - [N/A] 116298593
+ 70290778 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoin_01 - [N/A] 1873600001
+ 70290779 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCoinLarge_01 - [N/A] 1015078889
+ 70290780 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBoundary_01 - [N/A] 2255335753
+ 70290781 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPMaelstrom_01 - [N/A] 2856177153
+ 70290782 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_01 - [N/A] 1583439265
+ 70290783 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPAirdrop_01 - [N/A] 3375289777
+ 70290784 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoin_01 - [N/A] 4070373073
+ 70290785 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBomb_01 - [N/A] 2271280649
+ 70290786 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodenBox_01 - [N/A] 4271170785
+ 70290787 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPNightLamp_01 - [N/A] 2036980585
+ 70290788 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropLamp_01 - [N/A] 606742473
+ 70290789 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1368822425
+ 70290790 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 1950693041
+ 70290791 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleLamp_01 - [N/A] 4014783241
+ 70290792 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPPuzzleFirework_01 - [N/A] 818296505
+ 70290793 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPGhostMark_01 - [N/A] 1838099145
+ 70290794 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPTransporter_02 - [N/A] 3043482305
+ 70290795 : SceneObj_Level_Common_Property_Ani_Prop_DoorLocker_01 - [N/A] 4192419281
+ 70290796 : SceneObj_Level_Common_Property_Ani_Prop_TransparentElevator_01 - [N/A] 4179799089
+ 70290797 : SceneObj_Level_Common_Property_Ani_Prop_Door_Blocker_01 - [N/A] 993553561
+ 70290798 : SceneObj_Level_Common_Property_Ani_Prop_DoorKeycard_01 - [N/A] 1956293185
+ 70290799 :  - [N/A] 1782289217
+ 70290800 :  - [N/A] 2763753593
+ 70290819 :  - [N/A] 2673719841
+ 70290820 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_01 - [N/A] 4131157633
+ 70290821 : SceneObj_Area_Xm_Property_Prop_Szqparc_01 - [N/A] 4002794665
+ 70290822 : SceneObj_Area_Xm_Property_Prop_Szqpcwl_01 - [N/A] 1835805609
+ 70290823 : SceneObj_Area_Xm_Property_Prop_Szqpcwzb_01 - [N/A] 1158346377
+ 70290824 : SceneObj_Area_Xm_Property_Prop_Szqpcwzx_01 - [N/A] 2306618513
+ 70290825 : SceneObj_Area_Xm_Property_Prop_Szqpjrc_01 - [N/A] 3976695529
+ 70290826 : SceneObj_Area_Xm_Property_Prop_Szqplsyj_01 - [N/A] 856255729
+ 70290827 : SceneObj_Area_Xm_Property_Prop_Szqptyc_01 - [N/A] 3062240561
+ 70290828 : SceneObj_Area_Xm_Property_Prop_Szqpxst_01 - [N/A] 516606289
+ 70290829 : SceneObj_Area_Xm_Property_Prop_Qzft_01 - [N/A] 1971884617
+ 70290830 : SceneObj_Area_Xm_Property_Prop_Szqpdz_01 - [N/A] 3199107193
+ 70290831 : SceneObj_Area_Xm_Property_Prop_Szqpdz_02 - [N/A] 613322265
  70290832 : SceneObj_Level_Xm_Property_Ani_Prop_InformationPiece_01 - [N/A] 1830205377
  70290833 : SceneObj_Level_Xm_Property_Prop_ScaramouchePortal_01 - [N/A] 2987652529
  70290834 : SceneObj_Area_Xm_Property_Ani_Build_BazarDoor_01 - [N/A] 941331121
+ 70290860 : SceneObj_Area_Xm_Property_Prop_CollapseTerrian_02 - [N/A] 2251160953
+ 70290861 : SceneObj_Area_Common_Property_Prop_LaserWall_02 - [N/A] 308414369
+ 70290862 : SceneObj_Area_Xm_Property_Ani_Build_JYQB_01 - [N/A] 1454494345
+ 70290863 : SceneObj_Area_Xm_Property_Ani_Stone_SHSQ_01 - [N/A] 1185067017
+ 70290864 : SceneObj_Area_Xm_Property_Ecloth_Dujinposun_01 - [N/A] 157865001
+ 70290865 : SceneObj_Area_Xm_Property_Prop_LaserGear_01 - [N/A] 3300277345
+ 70290866 : SceneObj_Area_Xm_Property_Prop_LaserGear_02 - [N/A] 2574218145
+ 70290867 : SceneObj_Area_Xm_Property_Prop_LaserGear_03 - [N/A] 2327111601
  70290868 : Sanbin_Music - [N/A] 2459687353
  70290869 :  - [N/A] 3064282769
  70290870 : SceneObj_Area_Dq_Property_Ani_Prop_Scarecrow_03 - [N/A] 4260314561
  70290871 : SceneObj_Area_Xm_Property_Ani_Prop_TrainerCompetitionBead_02 - [N/A] 182187985
  70290872 :  - [N/A] 3557107129
  70290873 :  - [N/A] 203217313
+ 70290881 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_NoFunction - [N/A] 2335447033
+ 70290882 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Move_02 - [N/A] 1545799841
+ 70290884 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Attack_02 - [N/A] 3775078857
  70290885 : SceneObj_Activity_Brick_Breaker_Preloader - [N/A] 3592606657
+ 70290889 :  - [N/A] 2330750329
+ 70290890 :  - [N/A] 2561942945
+ 70290891 :  - [N/A] 3625638817
+ 70290892 : SceneObj_Area_Xm_Property_Prop_ReadingSlabStone_01 - [N/A] 2829260473
+ 70290893 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_01 - [N/A] 3785512081
+ 70290894 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_02 - [N/A] 993246521
+ 70290895 : SceneObj_Area_Xm_Property_Prop_Barrierofsand_03 - [N/A] 3732501441
+ 70290896 :  - [N/A] 2506758329
+ 70290897 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_02 - [N/A] 2916990417
+ 70290898 : SceneObj_Area_Xm_Property_Ani_Flower_Lzsz_03 - [N/A] 3872647737
+ 70290899 : SceneObj_Area_Xm_Property_Prop_ScarletKing_Airwall_01 - [N/A] 2000506001
+ 70290900 :  - [N/A] 3602909649
+ 70290901 : SceneObj_Area_Xm_Property_Ani_Prop_CWHX_02 - [N/A] 2738632729
+ 70290902 : SceneObj_Area_Xm_Property_Prop_Hssz_02 - [N/A] 55393673
+ 70290903 : SceneObj_Area_Xm_Property_Prop_Lzpb_02 - [N/A] 3018163905
+ 70290904 : SceneObj_Area_Xm_Property_Prop_JamshidCup_Airwall_01 - [N/A] 136141633
+ 70290905 : SceneObj_Area_Xm_Property_Ani_Prop_TransparentWall_01 - [N/A] 3239300161
+ 70290906 : SceneObj_Area_Xm_Property_Prop_MoveSand_03 - [N/A] 3172474817
+ 70290907 : SceneObj_Area_Xm_Property_Ani_Prop_Monitor_Laser_03 - [N/A] 1279688073
+ 70290908 : SceneObj_Area_Common_Property_Prop_LaserWall_03 - [N/A] 2020225473
  70290909 : SceneObj_Indoor_Common_Property_Ani_Prop_Teathingsindoor_03 - [N/A] 1362053921
+ 70290922 : SceneObj_Area_Xm_Property_Prop_LaserGear_04 - [N/A] 3460494409
+ 70291001 : SceneObj_Area_Desert_Property_Ani_Prop_PipeConnector_TypeL_03 - [N/A] 1447249545
+ 70291002 : SceneObj_Gear_Other_InvisibleUploader04 - [N/A] 2095888905
+ 70291003 : SceneObj_Area_Xm_Property_Prop_CenterTorAirWall - [N/A] 988895089
+ 70291004 :  - [N/A] 671624161
+ 70291005 : SceneObj_Area_Xm_Property_Prop_SandwormChallengeAirwall - [N/A] 1258112281
  70300001 : SceneObj_Gather_Default_Gather - [N/A] 2463077793
  70300002 : SceneObj_Gather_Default_Gather - [N/A] 435938641
  70300003 : SceneObj_Quest_Flying_Get_Coin_Effect - [N/A] 1909103967
@@ -5573,6 +5853,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70540046 : SceneObj_Gather_Small - [N/A] 1580873673
  70540047 : SceneObj_Gather_DatePlam - [N/A] 1381569401
  70540048 :  - [N/A] 388710929
+ 70540049 : SceneObj_Gather_Small - [N/A] 2589556881
  70560001 : SceneObj_Gather_Small - [N/A] 1155995105
  70560002 : SceneObj_Gather_Small_Ore - [N/A] 2803859553
  70560003 : SceneObj_Gather_Small_Ore - [N/A] 1202487865
@@ -5651,6 +5932,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70590070 : SceneObj_Area_Hd_Property_Prop_PaperStar_03 - [N/A] 80470761
  70590071 : SceneObj_Level_Common_Property_Prop_CityRotateAixs_02 - [N/A] 1671906865
  70590072 : SceneObj_Common_CityRotateAixs - [N/A] 2121690545
+ 70590073 : SceneObj_Gather_Small - [N/A] 1168502889
  70600001 :  - [N/A] 4043639353
  70600002 :  - [N/A] 1991417585
  70600003 :  - [N/A] 1523077529
@@ -6656,6 +6938,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70710889 :  - [N/A] 1176318735
  70710890 : SceneObj_Quest_ElementBreath_Electric_Element - [N/A] 3969268143
  70710891 :  - [N/A] 1681877263
+ 70710892 : SceneObj_Quest_AchivementInvestigation - [N/A] 1738903079
+ 70710893 : SceneObj_Quest_AchivementInvestigation - [N/A] 2092769335
+ 70710894 : SceneObj_Quest_AchivementInvestigation - [N/A] 780413271
  70710895 :  - [N/A] 1907407839
  70710896 :  - [N/A] 1294335647
  70710908 :  - [N/A] 780216575
@@ -6664,6 +6949,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70710911 :  - [N/A] 2167946623
  70710912 :  - [N/A] 1374780487
  70710913 : SearchPoint - [N/A] 142390399
+ 70710914 :  - [N/A] 3252891423
+ 70710915 :  - [N/A] 2481710271
+ 70710916 :  - [N/A] 4132842759
+ 70710917 :  - [N/A] 1247294631
+ 70710918 :  - [N/A] 520979471
  70710919 :  - [N/A] 2270250551
  70710920 :  - [N/A] 2047865855
  70710921 :  - [N/A] 2284767495
@@ -6672,13 +6962,27 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70710924 :  - [N/A] 3206899887
  70710925 :  - [N/A] 2352741247
  70710926 :  - [N/A] 2460280967
+ 70710927 : SceneObj_Quest_AchivementInvestigation - [N/A] 824323791
  70710928 :  - [N/A] 3631908879
  70710929 :  - [N/A] 969754951
+ 70710930 :  - [N/A] 438293127
+ 70710931 :  - [N/A] 3655199319
+ 70710932 :  - [N/A] 3675843807
+ 70710933 :  - [N/A] 2105317511
+ 70710934 :  - [N/A] 1156205239
+ 70710935 :  - [N/A] 168294031
+ 70710936 :  - [N/A] 1739784919
+ 70710937 :  - [N/A] 3068865303
  70710938 :  - [N/A] 3920354559
+ 70710939 :  - [N/A] 488885071
  70710940 :  - [N/A] 388520151
  70710941 :  - [N/A] 2363334071
  70710953 : SceneObj_Quest_Interact_Point_07 - [N/A] 2407080071
  70710962 : SceneObj_Quest_OniBull - [N/A] 4090643455
+ 70710973 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 3013658623
+ 70710974 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 1551449919
+ 70710975 : SceneObj_Quest_Interact_Point_03_NoInteraction - [N/A] 2083509431
+ 70710981 :  - [N/A] 497156767
  70720214 : SceneObj_Gear_Platform_FireSeelie - [N/A] 700269681
  70720215 : SceneObj_Area_Common_Property_Prop_FireSeeliaLamp_01 - [N/A] 3100115025
  70720216 : FireElfTrack - [N/A] 880334585
@@ -7007,6 +7311,27 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70800441 :  - [N/A] 631449489
  70800442 :  - [N/A] 646587945
  70800443 :  - [N/A] 606302529
+ 70800444 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_01 - [N/A] 3932973265
+ 70800445 : SceneObj_Area_Ly_Property_Ani_Prop_BounceBall_02 - [N/A] 3794137025
+ 70800446 : SceneObj_Level_Common_Property_Ani_Prop_ActivityTeamChainOperator_01 - [N/A] 1986253921
+ 70800447 : SceneObj_Area_Common_Property_Ani_Prop_Confetti_Balloon_01 - [N/A] 362013905
+ 70800448 : SceneObj_Area_Xm_Property_Ani_Prop_SumeruOpenWorldPlatform_01 - [N/A] 702704337
+ 70800449 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_01 - [N/A] 908786097
+ 70800450 : SceneObj_Area_Ly_Property_Ani_Prop_ShadowScreen_01 - [N/A] 3396030433
+ 70800451 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_01 - [N/A] 1475809809
+ 70800452 : SceneObj_Area_Xm_Property_Ani_Prop_VoidProjector_01 - [N/A] 699273961
+ 70800453 : SceneObj_Area_Ljxs_Property_Prop_HeroTreasure_02 - [N/A] 407816561
+ 70800454 : SceneObj_Area_Common_Property_Ani_Prop_ParkourSKill_Orb_02 - [N/A] 4216218921
+ 70800455 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPCamera_01 - [N/A] 3044675081
+ 70800456 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPBomb_01 - [N/A] 3199149169
+ 70800457 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPSwirl_01 - [N/A] 2486123929
+ 70800458 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPWoodfence_01 - [N/A] 3142808417
+ 70800459 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropCoinWarning_01 - [N/A] 195920961
+ 70800460 : SceneObj_Area_Ly_Property_Ani_Prop_ShipPVPDropBombWarning_01 - [N/A] 3452714417
+ 70800461 :  - [N/A] 2039290481
+ 70800462 :  - [N/A] 450272193
+ 70800463 :  - [N/A] 3369323937
+ 70800464 : SceneObj_Area_Ly_Property_Ani_Prop_Fireworks_Challenge_02 - [N/A] 3713189969
  70800606 :  - [N/A] 3682329881
  70800607 :  - [N/A] 2482289473
  70800608 :  - [N/A] 167831129
@@ -7454,8 +7779,16 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  70950160 : AuthTest02 - [N/A] 663172785
  70950161 : SceneObj_Gear_MushRoom_Catch - [N/A] 1796075385
  70950162 :  - [N/A] 2320574633
+ 70950163 : SceneObj_Stages_Property_Prop_UnstableSprayDungeonAirWall_01 - [N/A] 1062739665
  70950164 :  - [N/A] 4005710289
+ 70950165 : SceneObj_Gear_Fungus_Tower_Water - [N/A] 3258235065
+ 70950166 : SceneObj_Gear_Fungus_Tower_Fire - [N/A] 360753353
+ 70950167 : SceneObj_Gear_Fungus_Tower_Ice - [N/A] 2575487569
+ 70950168 : SceneObj_Gear_Fungus_Tower_Wind - [N/A] 3783300113
+ 70950169 : SceneObj_Gear_Fungus_Tower_Electric - [N/A] 3750317545
  70950170 :  - [N/A] 1504874193
+ 70950171 :  - [N/A] 3077198361
+ 70950177 :  - [N/A] 3897053113
  71000004 : SceneObj_Amber_RockAmber - [N/A] 2485577729
  71000005 : SceneObj_Task_Rock_Pierce - [N/A] 2140993833
  71000006 : SceneObj_Task_Rock_Pierce - [N/A] 901713497
@@ -7502,7 +7835,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  71700040 : SceneObj_Gather_Default_Gather - [N/A] 3560208711
  71700041 :  - [N/A] 3950935687
  71700042 : SceneObj_Gather_Default_Gather - [N/A] 323372687
- 71700043 : SceneObj_Gather_Default_Gather - [N/A] 1211019199
+ 71700043 : SceneObj_Gather_Default_Gather - [N/A] 901760187
  71700044 : SceneObj_Gather_Default_Gather - [N/A] 625468279
  71700045 : SceneObj_Gather_Default_Gather - [N/A] 1682840319
  71700046 : SceneObj_Gather_Default_Gather - [N/A] 1897303103
@@ -7994,6 +8327,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  71700533 : SearchPoint - [N/A] 1182362455
  71700534 :  - [N/A] 1826784983
  71700535 : SceneObj_Gather_Default_Gather - [N/A] 3763672775
+ 71700536 : SceneObj_Gather_Default_Gather - [N/A] 3835825727
  71700537 : SceneObj_Environment_Obelisk01 - [N/A] 3874829191
  71700538 : SceneObj_Environment_Obelisk02 - [N/A] 2015357591
  71700539 : SceneObj_Environment_Obelisk03 - [N/A] 3119143583
@@ -8012,13 +8346,76 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  71700552 :  - [N/A] 2523597903
  71700553 :  - [N/A] 3869879999
  71700554 : Nahida_Quest_Hitbox_02 - [N/A] 202070175
+ 71700555 : SceneObj_Environment_Bulletin14 - [N/A] 1441876823
+ 71700556 : SceneObj_Environment_Bulletin13 - [N/A] 3536146543
+ 71700557 : SceneObj_Environment_Bulletin12 - [N/A] 1475692095
+ 71700558 : SceneObj_Environment_Bulletin11 - [N/A] 2961980335
+ 71700559 : SceneObj_Environment_Bulletin10 - [N/A] 886816615
+ 71700560 : SceneObj_Environment_Bulletin9 - [N/A] 2920796151
+ 71700561 : SceneObj_Environment_Secret_letter01 - [N/A] 1878976943
  71700562 : SceneObj_Level_Common_Property_Prop_Worldtreegate_01 - [N/A] 3799131767
  71700563 : SceneObj_Area_Xm_Property_Prop_MemoryInterface_01 - [N/A] 3529432279
  71700564 :  - [N/A] 937193167
  71700565 : SceneObj_Level_Common_Property_Ani_Prop_Memorypiece_01 - [N/A] 534626895
  71700566 : SceneObj_Quest_Hdj_FireworkLauncher_01 - [N/A] 1331020143
+ 71700567 :  - [N/A] 19555559
+ 71700568 : SceneObj_Environment_Bulletin15 - [N/A] 3507925799
+ 71700569 : SceneObj_Environment_Bulletin16 - [N/A] 2872563743
+ 71700570 : SceneObj_Environment_Bulletin17 - [N/A] 166606919
+ 71700571 : SceneObj_Environment_Bulletin18 - [N/A] 899554975
+ 71700572 : SceneObj_Environment_Bulletin19 - [N/A] 3977871391
+ 71700573 : SceneObj_Environment_Bulletin20 - [N/A] 744843375
+ 71700574 : SceneObj_Environment_Bulletin21 - [N/A] 2613345079
+ 71700575 : SceneObj_Environment_Bulletin22 - [N/A] 3075106991
+ 71700576 : SceneObj_Environment_Bulletin23 - [N/A] 808435919
+ 71700577 : SceneObj_Environment_Bulletin24 - [N/A] 3452389415
+ 71700578 : SceneObj_Environment_Bulletin25 - [N/A] 1324277319
+ 71700579 : SceneObj_Environment_Bulletin26 - [N/A] 1686395023
+ 71700580 : SceneObj_Environment_Bulletin27 - [N/A] 2910681255
+ 71700581 : SceneObj_Environment_Bulletin28 - [N/A] 209489335
+ 71700582 : SceneObj_Environment_Bulletin29 - [N/A] 1230168871
+ 71700583 : SceneObj_Environment_Bulletin30 - [N/A] 2048216551
+ 71700584 : SceneObj_Environment_Bulletin31 - [N/A] 686354935
+ 71700585 : SceneObj_Environment_Bulletin32 - [N/A] 2036636215
+ 71700586 : SceneObj_Environment_Bulletin33 - [N/A] 2378404583
+ 71700587 : SceneObj_Environment_Bulletin34 - [N/A] 1442908399
+ 71700588 : SceneObj_Environment_Bulletin35 - [N/A] 280066079
+ 71700589 : SceneObj_Environment_Bulletin36 - [N/A] 598662767
+ 71700590 : SceneObj_Environment_Bulletin37 - [N/A] 554201255
+ 71700591 : SceneObj_Environment_Bulletin38 - [N/A] 680850319
+ 71700592 : SceneObj_Environment_Bulletin39 - [N/A] 3466151359
+ 71700593 : SceneObj_Environment_Bulletin40 - [N/A] 74773375
+ 71700594 : SceneObj_Environment_Bulletin41 - [N/A] 3643259735
+ 71700595 : SceneObj_Environment_Bulletin42 - [N/A] 2825451471
+ 71700596 : SceneObj_Environment_Bulletin43 - [N/A] 3664471575
+ 71700597 : SceneObj_Environment_Bulletin44 - [N/A] 123280319
+ 71700598 : SceneObj_Environment_Bulletin45 - [N/A] 1545371135
+ 71700599 : SceneObj_Environment_Bulletin46 - [N/A] 2075308375
+ 71700600 : SceneObj_Environment_Bulletin47 - [N/A] 296683287
  71700601 : SceneObj_Quest_SpecialDisappear_01 - [N/A] 2734585703
+ 71700602 : SceneObj_Environment_Obelisk011 - [N/A] 1091054103
+ 71700603 : SceneObj_Environment_Obelisk012 - [N/A] 2542275471
+ 71700604 : SceneObj_Environment_Obelisk013 - [N/A] 466975391
+ 71700605 : SceneObj_Environment_Obelisk014 - [N/A] 636087703
+ 71700606 : SceneObj_Environment_Obelisk015 - [N/A] 4260185879
+ 71700607 : SceneObj_Environment_Obelisk016 - [N/A] 2362402303
+ 71700608 : SceneObj_Environment_Obelisk017 - [N/A] 1976124887
+ 71700609 : SceneObj_Environment_Obelisk018 - [N/A] 465514831
  71700610 : SceneObj_Quest_Oldmemoryshield_01 - [N/A] 1893535255
+ 71700611 :  - [N/A] 3864370255
+ 71700612 :  - [N/A] 3163176215
+ 71700613 : SceneObj_Environment_Bulletin48 - [N/A] 3760480527
+ 71700614 : SceneObj_Environment_Bulletin49 - [N/A] 1326518607
+ 71700615 : SceneObj_Environment_Bulletin50 - [N/A] 202779519
+ 71700616 : SceneObj_Environment_Bulletin51 - [N/A] 3315865431
+ 71700617 : SceneObj_Environment_Bulletin52 - [N/A] 3687612527
+ 71700618 : SceneObj_Environment_Bulletin53 - [N/A] 4193800599
+ 71700619 : SceneObj_Environment_Bulletin54 - [N/A] 823363959
+ 71700620 : SceneObj_Environment_Bulletin55 - [N/A] 1103687415
+ 71700621 : SceneObj_Environment_Bulletin56 - [N/A] 452609343
+ 71700622 : SceneObj_Environment_Bulletin57 - [N/A] 2823890575
+ 71700623 : SceneObj_Environment_Bulletin58 - [N/A] 1891116159
+ 71700641 :  - [N/A] 3946621759
  72000001 : SceneObj_Monster_Eldritch_Tentacle_PA - [N/A] 1757493721
  72000002 : SceneObj_Monster_Eldritch_Tentacle_PB - [N/A] 3578727505
  72000003 : SceneObj_Monster_Eldritch_Tentacle_PC - [N/A] 3981382369
@@ -8390,6 +8787,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77104050 :  - [N/A] 3094375328
  77104051 :  - [N/A] 1343262880
  77104052 :  - [N/A] 3574160280
+ 77104053 :  - [N/A] 3795679784
+ 77104054 :  - [N/A] 876221064
+ 77104055 :  - [N/A] 4212064976
  77105001 :  - [N/A] 3485751656
  77105002 :  - [N/A] 1472766168
  77105003 :  - [N/A] 2206130568
@@ -8401,6 +8801,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77105009 :  - [N/A] 16284976
  77105010 :  - [N/A] 1706871936
  77105011 :  - [N/A] 477183760
+ 77105012 :  - [N/A] 2500393944
  77108001 :  - [N/A] 2266381520
  77108002 :  - [N/A] 1929928056
  77108003 :  - [N/A] 3054820440
@@ -8427,6 +8828,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77108024 :  - [N/A] 3031564432
  77108025 :  - [N/A] 3267282984
  77108026 :  - [N/A] 1847797128
+ 77108027 :  - [N/A] 495153384
+ 77108028 :  - [N/A] 1246212024
+ 77108029 :  - [N/A] 2469330496
  77109001 :  - [N/A] 798556888
  77109002 :  - [N/A] 3659840272
  77109003 :  - [N/A] 366764720
@@ -8461,6 +8865,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77110027 :  - [N/A] 3214101888
  77110028 :  - [N/A] 3906403312
  77110029 :  - [N/A] 2446238600
+ 77110030 :  - [N/A] 1869262568
+ 77110031 :  - [N/A] 4090145368
  77111001 :  - [N/A] 2256116496
  77111002 :  - [N/A] 1975461568
  77111003 :  - [N/A] 3406130712
@@ -8470,6 +8876,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77111007 :  - [N/A] 3716526392
  77111008 :  - [N/A] 1711744224
  77111009 :  - [N/A] 2682289512
+ 77111010 :  - [N/A] 2815547960
  77112001 :  - [N/A] 3160712096
  77112002 :  - [N/A] 2498256864
  77112003 :  - [N/A] 1382129296
@@ -8499,6 +8906,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77112027 :  - [N/A] 2361951000
  77112028 :  - [N/A] 707043656
  77112029 :  - [N/A] 2514012088
+ 77112030 :  - [N/A] 3449637320
  77115001 :  - [N/A] 158953176
  77115002 :  - [N/A] 1940050656
  77115003 :  - [N/A] 170974208
@@ -8536,6 +8944,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77115035 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_SumeruStove_01 - [N/A] 3883540800
  77115036 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_01 - [N/A] 1258995064
  77115037 : SceneObj_Homeworld_Interior_Xm_Thing_Prop_BarbecueOven_02 - [N/A] 3519428888
+ 77115038 :  - [N/A] 3541934328
+ 77115039 :  - [N/A] 710696400
+ 77115040 :  - [N/A] 788315152
  77190001 : SceneObj_Homeworld_Interior_Common_Decoration_TestPainting_01 - [N/A] 1283794648
  77200001 :  - [N/A] 3538751048
  77200002 :  - [N/A] 413522952
@@ -8720,6 +9131,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77200181 :  - [N/A] 1364960616
  77200182 :  - [N/A] 2900333000
  77200183 :  - [N/A] 1123266112
+ 77200184 :  - [N/A] 3154946776
+ 77200185 :  - [N/A] 1302261768
+ 77200186 :  - [N/A] 2894679976
+ 77200187 :  - [N/A] 4166033664
+ 77200188 :  - [N/A] 695294824
  77203001 :  - [N/A] 2280998064
  77203002 : SceneObj_Homeworld_Standard_Forging - [N/A] 3742314960
  77203003 :  - [N/A] 813933432
@@ -8842,6 +9258,23 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77204108 :  - [N/A] 3642961904
  77204109 :  - [N/A] 4220523384
  77204110 :  - [N/A] 868443832
+ 77204112 :  - [N/A] 358432200
+ 77204113 :  - [N/A] 3678145832
+ 77204114 :  - [N/A] 1683232408
+ 77204115 :  - [N/A] 1978006288
+ 77204116 :  - [N/A] 968122808
+ 77204117 :  - [N/A] 2786078376
+ 77204118 :  - [N/A] 279737200
+ 77204119 :  - [N/A] 1620500128
+ 77204120 :  - [N/A] 2421025728
+ 77204121 :  - [N/A] 74558600
+ 77204122 :  - [N/A] 1957110904
+ 77204123 :  - [N/A] 1945688928
+ 77204124 :  - [N/A] 2620113752
+ 77204125 :  - [N/A] 2129844984
+ 77204126 :  - [N/A] 2044718688
+ 77204127 :  - [N/A] 3387967640
+ 77204128 : SceneObj_Homeworld_Exterior_Xm_Decoration_Prop_Smhuopen_01 - [N/A] 1791728264
  77205001 :  - [N/A] 2955098952
  77205002 :  - [N/A] 2620876744
  77205003 :  - [N/A] 3428034016
@@ -8891,6 +9324,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77208023 :  - [N/A] 1534713336
  77208024 :  - [N/A] 1262870744
  77208025 :  - [N/A] 1663148112
+ 77208026 :  - [N/A] 2525886104
+ 77208027 :  - [N/A] 2509260976
+ 77208028 :  - [N/A] 1492169160
  77210001 :  - [N/A] 2847554728
  77213001 :  - [N/A] 1652471176
  77213002 :  - [N/A] 4355656
@@ -9007,6 +9443,14 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77213113 :  - [N/A] 3080244064
  77213114 :  - [N/A] 3650489240
  77213115 :  - [N/A] 3707736288
+ 77213116 :  - [N/A] 1745596776
+ 77213117 :  - [N/A] 1221829160
+ 77213118 :  - [N/A] 3219107176
+ 77213119 :  - [N/A] 370244816
+ 77213120 :  - [N/A] 2696872992
+ 77213121 :  - [N/A] 2290389424
+ 77213122 :  - [N/A] 1722188024
+ 77213123 :  - [N/A] 1678362968
  77214001 :  - [N/A] 204668312
  77214002 :  - [N/A] 1223454080
  77214003 :  - [N/A] 2630076072
@@ -9105,6 +9549,10 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  77215071 : SceneObj_Homeworld_Exterior_Common_Decoration_Prop_WoodAranaraBody - [N/A] 2301662240
  77215072 : SceneObj_Homeworld_Exterior_Xm_Thing_Prop_Claypot_01 - [N/A] 2262767336
  77215073 :  - [N/A] 25869504
+ 77215074 :  - [N/A] 1823232128
+ 77215075 :  - [N/A] 2958027960
+ 77215076 :  - [N/A] 3776964728
+ 77215077 :  - [N/A] 2499651336
  77216001 :  - [N/A] 1178267624
  77216002 :  - [N/A] 74296056
  77216003 :  - [N/A] 2492338736
@@ -9452,6 +9900,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 420000022 : ActivityAbility_HideSeek_Investigate_Bullet_Short - [N/A] 249212301
 420000023 : ActivityAbility_HideSeek_Investigate_Bullet_Long - [N/A] 3514114301
 420000024 : Activity_Gadget_CatchMushroomMonster_Aim_Driver - [N/A] 856686709
+420000025 : LanV3Race_Rush_Bullet - [N/A] 4206644109
+420000026 : ActivityAbility_SkillObj_Skiff_Vortex - [N/A] 667407821
+420000027 : ActivityAbility_SkillObj_Skiff_Mire - [N/A] 2479125677
+420000028 : ActivityAbility_Avatar_Blocking_Blade_V2 - [N/A] 121823421
+420000029 : ActivityAbility_Avatar_Blocking_Blade_Burst - [N/A] 1033111477
+420000030 : SkillObj_Skiff_SprintTrigger_LanV3 - [N/A] 2996961293
 420001000 : Activity_Endora - [N/A] 781761405
 420001001 : Activity_Endora_Bubble_Bullet_01 - [N/A] 550764733
 420001002 : Activity_Endora_Bubble_Bullet_01_Short - [N/A] 2055909461
@@ -9524,6 +9978,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 10000074 : Layla
 10000075 : Nomade
 10000076 : Faruzan
+10000077 : Yaoyao
+10000078 : Alhaitham
 11000008 : Test d'équipe nº4
 11000009 : Test de scène
 11000010 : Modèle nu nº1
@@ -9533,7 +9989,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 11000018 : Test de modèle femme adulte
 11000019 : Test de modèle fille
 11000025 : Akuliya
-11000026 : Yaoyao
+11000026 : Yaoyao (test)
 11000027 : Test de modèle fille - Machine nº2
 11000028 : Fille Boîte blanche
 11000030 : Jeune fille avec épée à deux mains
@@ -9609,6 +10065,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
     152 : Médaille mycophile
     153 : Phénocristal brisé
     155 : Coupon du test de bravoure
+    156 : Fièvre festive
     201 : Primo-gemme
     202 : Mora
     203 : Cristal primaire
@@ -9700,6 +10157,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
    1074 : Layla
    1075 : Nomade
    1076 : Faruzan
+   1077 : Yaoyao
+   1078 : Alhaitham
    1102 : Stella Fortuna de Kamisato Ayaka.
    1103 : Stella Fortuna de Jean
    1105 : Stella Fortuna de Voyageur
@@ -9762,6 +10221,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
    1174 : Stella Fortuna de Layla
    1175 : Stella Fortuna du Nomade
    1176 : Stella Fortuna de Faruzan
+   1177 : Stella Fortuna de Yaoyao
+   1178 : Stella Fortuna d'Alhaitham
    1201 : Pass de bataille « Gnostique » - Ébauche
    1202 : Faveur de l'astre de la nuit - Nouvelle lune
    1301 : Plume d'appellation
@@ -9856,6 +10317,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   11509 : Reflet de tranche-brume
   11510 : Lune ondulante de Futsu
   11511 : Clé de Khaj-Nisut
+  11512 : Lumière d'incision foliaire
   12101 : Épée d'entraînement
   12201 : Lame du mercenaire
   12301 : Ombre ferreuse
@@ -9996,8 +10458,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   20413 : Lampe des perdus
   20422 : Érudit des lianes
   20423 : Érudit des lianes
-  20432 : Couronne de lauriers
-  20433 : Couronne de lauriers
+  20432 : Couronne de laurier
+  20433 : Couronne de laurier
   20442 : Voyageur du labyrinthe
   20443 : Voyageur du labyrinthe
   20452 : Période de perspicacité
@@ -10006,8 +10468,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   20514 : Lampe des perdus
   20523 : Érudit des lianes
   20524 : Érudit des lianes
-  20533 : Couronne de lauriers
-  20534 : Couronne de lauriers
+  20533 : Couronne de laurier
+  20534 : Couronne de laurier
   20543 : Voyageur du labyrinthe
   20544 : Voyageur du labyrinthe
   20553 : Période de perspicacité
@@ -10051,6 +10513,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   23316 : [CHS] - 物理抗性
   23317 : [CHS] - 伤害增加
   23318 : [CHS] - 伤害减免
+  23329 : [CHS] - 暴击率
+  23330 : [CHS] - 精通
   23331 : 负防御
   23332 : 负精通
   23334 : [CHS] - 测试之沙2
@@ -10342,12 +10806,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   23620 : Symbole de félicitation
   23621 : Lampe des perdus
   23622 : Érudit des lianes
-  23623 : Couronne de lauriers
+  23623 : Couronne de laurier
   23624 : Voyageur du labyrinthe
   23625 : Période de perspicacité
   23626 : Lampe des perdus
   23627 : Érudit des lianes
-  23628 : Couronne de lauriers
+  23628 : Couronne de laurier
   23629 : Voyageur du labyrinthe
   23630 : Période de perspicacité
   23631 : Festin final de miel
@@ -13810,6 +14274,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  100094 : Viande congelée
  100095 : Anguille
  100096 : Haricot glabre
+ 100097 : Viande mystérieuse
  100101 : Paquet de documents de Jean
  100102 : L'Échappée Belle
  100103 : Partition incomplète (Partie 1)
@@ -14675,6 +15140,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101219 : Rose sumérienne
  101220 : Quandong
  101221 : Noix d'ajilenakh
+ 101222 : Pupe graisseuse des sables
  101225 : Scarabée
  101226 : Champitoile activé
  101227 : Champitoile calciné
@@ -15782,6 +16248,15 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  108477 : Samoussas (délicieux)
  108478 : Charbon d'ajilenakh traditionnel
  108479 : Chazuke authentique
+ 108480 : Ragoût de Sabz (suspect)
+ 108481 : Ragoût de Sabz
+ 108482 : Ragoût de Sabz (délicieux)
+ 108483 : Boulettes aux épices (suspectes)
+ 108484 : Boulettes aux épices
+ 108485 : Boulettes aux épices (délicieuses)
+ 108486 : Circonstance idéale
+ 108487 : Plat maison de Qingce
+ 108488 : Viande séchée de crocodile
  109000 : Ingrédient
  109101 : Recette : Brochette de poulet et de champignons
  109102 : Recette : Toast du pêcheur
@@ -15918,6 +16393,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  109516 : Recette : Jus de fruits du festival
  109517 : Recette : Crème à la rose
  109518 : Recette : Samoussas
+ 109519 : Recette : Ragoût de Sabz
+ 109520 : Recette : Boulettes aux épices
  110000 : Produit synthétisé
  110001 : Farine
  110002 : Crème
@@ -16028,6 +16505,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  112071 : Prisme endommagé
  112072 : Prisme trouble
  112073 : Prisme radieux
+ 112074 : Coque desséchée
+ 112075 : Coque robuste
+ 112076 : Coque marquée
  113001 : Graine d'ouragan
  113002 : Prisme d'éclair
  113003 : Plume de Stormterror
@@ -16071,6 +16551,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  113041 : Fils de marionnette
  113042 : Miroir de mushin
  113043 : Cloche de daka
+ 113044 : Pseudo-étamines
  114001 : Tuile cassée de Décabarian
  114002 : Mur abattu de Décabarian
  114003 : Fragment dispersé de Décabarian
@@ -16251,6 +16732,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  120061 : Soupe de pois-menthe de Nermin
  120062 : [CHS] - （test）内尔敏做的香水
  120063 : Étoile du futur
+ 120064 : Condensateur de transformation d'énergie
  120065 : Colis de Raef
  120066 : Épices de Nermin
  120067 : Pierre-clé I
@@ -16271,6 +16753,34 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  120082 : Bon de commande de Shevirme
  120083 : Bon de commande de Quqing
  120084 : Bon de commande de Guanchui
+ 120085 : [CHS] - （test）鳄鱼肉干（废弃）
+ 120086 : Bac des âmes
+ 120087 : Khaj-Nisut
+ 120088 : Fort frontalier
+ 120089 : Pilier du roi Deshret
+ 120090 : [CHS] - （test）居尔城棋子
+ 120091 : Temple de Gurabad
+ 120092 : Composant d'activation : Mausolée du roi Deshret
+ 120093 : Composant d'activation : Calice du roi Deshret
+ 120094 : Composant d'activation : Bac des âmes
+ 120095 : Composant d'activation : Khaj-Nisut
+ 120096 : Composant d'activation : Fort frontalier
+ 120097 : Composant d'activation : Pilier du roi Deshret
+ 120098 : [CHS] - （test）居尔城发条
+ 120099 : Composant d'activation : Temple de Gurabad
+ 120100 : Souvenirs de l'Oasis éternelle - 1
+ 120101 : Souvenirs de l'Oasis éternelle - 2
+ 120102 : Souvenirs de l'Oasis éternelle - 3
+ 120103 : Plume de Tadhla
+ 120104 : Clé de la base des Fatui
+ 120105 : Sceau sacré : Précipice
+ 120106 : Sceau sacré : Grande porte
+ 120107 : Stèle mystérieuse (1)
+ 120108 : Stèle mystérieuse (2)
+ 120109 : Stèle mystérieuse (3)
+ 120110 : Stèle mystérieuse (4)
+ 120111 : Stèle mystérieuse (5)
+ 120112 : Stèle mystérieuse (6)
  120113 : Lettre d'introduction de Cyno
  120114 : Carte ancienne
  120115 : Brochure d'enchère
@@ -16282,6 +16792,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  120121 : Reçu de Jut
  120122 : Reçu de Jahangir
  120123 : Kit de voyage en désert, édition limitée
+ 120124 : Pousse de bambou naissante
  120125 : [CHS] - （test）赛芭的蔷薇
  120126 : Courte lettre
  120127 : Brindille d'argent
@@ -16299,6 +16810,16 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  120139 : Note de Zandik
  120140 : Journal de quelqu'un
  120141 : Registre en lambeaux
+ 120142 : Document de retrait interne
+ 120143 : Test préliminaire sur sujet expérimental
+ 120144 : Notification de transfert
+ 120145 : Journal des éclaireurs I
+ 120146 : Journal des éclaireurs II
+ 120147 : Journal des éclaireurs III
+ 120148 : Journal des éclaireurs IV
+ 120149 : Journal des éclaireurs V
+ 120150 : Journal des éclaireurs VI
+ 120151 : Note sur un échange de marchandises
  120152 : Annonce d'événement
  120153 : Notes d'Haniyyah (1)
  120154 : Notes d'Haniyyah (2)
@@ -16314,10 +16835,82 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  120164 : « L'île aux nuages sombres »
  120165 : « Brève analyse des possibles événements d'importance historique dans la région inazumienne de Tatarasuna »
  120166 : « L'île aux nuages sombres »
+ 120167 : [CHS] - (test)棋子流沙遗迹
+ 120168 : [CHS] - (test)棋子赤王之心
+ 120169 : [CHS] - (test)棋子显圣厅
+ 120170 : [CHS] - (test)棋子太阳船
+ 120171 : [CHS] - (test)棋子阿如村
+ 120172 : [CHS] - (test)棋子发条赤王之杯
+ 120173 : [CHS] - (test)棋子发条赤王陵
+ 120174 : [CHS] - (test)棋子发条流沙遗迹
+ 120175 : [CHS] - (test)棋子发条赤王之心
+ 120176 : [CHS] - (test)棋子发条显圣厅
+ 120177 : [CHS] - (test)棋子发条太阳船
+ 120178 : [CHS] - (test)棋子发条阿如村
  120179 : Boîte pleine de terre du pays
  120180 : Contenu déchiffré
  120181 : Lettre de Xudong
+ 120182 : Chroniques de Gurabad I
+ 120183 : Chroniques de Gurabad II
+ 120184 : Chroniques de Gurabad III
+ 120185 : Chroniques de Gurabad IV
+ 120186 : Chroniques de Gurabad V
+ 120187 : Stèle endommagée
+ 120188 : Chroniques du Mont Damavand I
+ 120189 : Chroniques du Mont Damavand II
+ 120190 : Chroniques du Mont Damavand III
+ 120191 : Enseignements du masque de cuivre I
+ 120192 : Enseignements du masque de cuivre II
+ 120193 : Enseignements du masque de cuivre III
+ 120194 : Chroniques des anciennes oasis (1)
+ 120195 : Chroniques des anciennes oasis (2)
+ 120196 : Chroniques des anciennes oasis (3)
+ 120197 : Chroniques des anciennes oasis (4)
+ 120198 : Chroniques des anciennes oasis (5)
+ 120199 : Chroniques des anciennes oasis (6)
+ 120200 : Stèle de conscription
+ 120201 : Plume de Vautour rouge
+ 120202 : Dard de Scorpion
+ 120203 : Corne de Serpent volant
+ 120204 : Rapport du capitaine Zoya Snezhevna I
+ 120205 : Rapport du capitaine Zoya Snezhevna II
+ 120206 : Rapport du capitaine Zoya Snezhevna III
+ 120207 : Registre endommagé I
+ 120208 : Registre endommagé II
+ 120209 : Registre avec l'emblème des Tanit
+ 120210 : Lettre des Fatui
+ 120211 : Une lettre abandonnée
+ 120212 : Note de Zandik
+ 120213 : Contrat avec le sceau de l'Académie
+ 120214 : Croquis restauré du système d'alimentation d'une énorme machine
+ 120215 : Lettre secrète pour Aderfi
  120216 : Fragments d'arme
+ 120217 : Coupon pour ramen d'origine inconnue
+ 120218 : Note soignée
+ 120219 : Lettre de Jeht
+ 120220 : Notes d'Ufairah
+ 120221 : Vieille clé en pierre
+ 120226 : Inscription vaguement lisible
+ 120227 : Inscription vaguement lisible
+ 120228 : Inscription vaguement lisible
+ 120229 : Inscription vaguement lisible
+ 120230 : Inscription vaguement lisible
+ 120231 : Inscription vaguement lisible
+ 120232 : Inscription vaguement lisible
+ 120233 : Inscription vaguement lisible
+ 120235 : Liste de noms froissée
+ 120236 : Inventaire de l'entrepôt
+ 120237 : Chroniques des anciennes oasis (7)
+ 120238 : Chroniques des anciennes oasis (8)
+ 120239 : Chroniques des anciennes oasis (9)
+ 120240 : Chroniques des anciennes oasis (10)
+ 120241 : Tablette de conduite des employeurs
+ 120242 : Contrat avec le sceau de l'Académie
+ 120243 : Contrat avec le sceau de l'Académie
+ 120248 : Lettre du marchand de clan
+ 120249 : Note de Jeht
+ 120250 : Soupe piquante de porc aux pousses de bambou
+ 120251 : #Ticket d'entrée « La voie du guerrier{NON_BREAK_SPACE}»
  130001 : Graine de fleur de soie
  130002 : Graine de fleur sucrante
  130003 : Graine de cécilia
@@ -16383,93 +16976,99 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  140008 : Ailes du tempestrier
  140009 : Ailes de brillance galactique
  140010 : Ailes de la forêt
- 141001 : Gyrocristal radiant 1
- 141002 : Gyrocristal radiant 2
- 141003 : Gyrocristal radiant 3
- 141004 : Gyrocristal radiant 4
- 141005 : Gyrocristal radiant 5
- 141006 : Gyrocristal radiant 6
- 141007 : Gyrocristal radiant 7
- 141008 : Gyrocristal radiant 8
- 141009 : Gyrocristal radiant 9
- 141010 : Gyrocristal radiant 10
- 141011 : Gyrocristal radiant 11
- 141012 : Gyrocristal radiant 12
- 141013 : Gyrocristal radiant 13
- 141014 : Gyrocristal radiant 14
- 141015 : Gyrocristal radiant 15
- 141016 : Gyrocristal radiant 16
- 141017 : Gyrocristal radiant 17
- 141018 : Gyrocristal radiant 18
- 141019 : Gyrocristal radiant 19
- 141020 : Gyrocristal radiant 20
- 141021 : Gyrocristal radiant 21
- 141022 : Gyrocristal radiant 22
- 141023 : Gyrocristal radiant 23
- 141024 : Gyrocristal radiant 24
- 141025 : Gyrocristal radiant 25
- 141026 : Gyrocristal radiant 26
- 141027 : Gyrocristal radiant 27
- 141028 : Gyrocristal radiant 28
- 141029 : Gyrocristal radiant 29
- 141030 : Gyrocristal radiant 30
- 141031 : Gyrocristal radiant 31
- 141032 : Gyrocristal radiant 32
- 141033 : Gyrocristal radiant 33
- 141034 : Gyrocristal radiant 34
- 141035 : Gyrocristal radiant 35
- 141036 : Gyrocristal radiant 36
- 141037 : Gyrocristal radiant 37
- 141038 : Gyrocristal radiant 38
- 141039 : Gyrocristal radiant 39
- 141040 : Gyrocristal radiant 40
- 141041 : Gyrocristal radiant 41
- 141042 : Gyrocristal radiant 42
- 141043 : Gyrocristal radiant 43
- 141044 : Gyrocristal radiant 44
- 141045 : Gyrocristal radiant 45
- 141046 : Gyrocristal radiant 46
- 141047 : Gyrocristal radiant 47
- 141048 : Gyrocristal radiant 48
- 141049 : Gyrocristal radiant 49
- 141050 : Gyrocristal radiant 50
- 141051 : Gyrocristal radiant 51
- 141052 : Gyrocristal radiant 52
- 141053 : Gyrocristal radiant 53
- 141054 : Gyrocristal radiant 54
- 141055 : Gyrocristal radiant 55
- 141056 : Gyrocristal radiant 56
- 141057 : Gyrocristal radiant 57
- 141058 : Gyrocristal radiant 58
- 141059 : Gyrocristal radiant 59
- 141060 : Gyrocristal radiant 60
- 141061 : Gyrocristal radiant 61
- 141062 : Gyrocristal radiant 62
- 141063 : Gyrocristal radiant 63
- 141064 : Gyrocristal radiant 64
- 141065 : Gyrocristal radiant 65
- 141066 : Gyrocristal radiant 66
- 141067 : Gyrocristal radiant 67
- 141068 : Gyrocristal radiant 68
- 141069 : Gyrocristal radiant 69
- 141070 : Gyrocristal radiant 70
- 141071 : Gyrocristal radiant 71
- 141072 : Gyrocristal radiant 72
- 141073 : Gyrocristal radiant 73
- 141074 : Gyrocristal radiant 74
- 141075 : Gyrocristal radiant 75
- 141076 : Gyrocristal radiant 76
- 141077 : Gyrocristal radiant 77
- 141078 : Gyrocristal radiant 78
- 141079 : Gyrocristal radiant 79
- 141080 : Gyrocristal radiant 80
- 141081 : Gyrocristal radiant 81
- 141082 : Gyrocristal radiant 82
- 141083 : Gyrocristal radiant 83
- 141084 : Gyrocristal radiant 84
- 141085 : Gyrocristal radiant 85
- 141086 : Gyrocristal radiant 86
- 141087 : Gyrocristal radiant 87
+ 141001 : Gyrocristal radiant 1 - Dawn Winery Theme
+ 141002 : Gyrocristal radiant 2 - A Sweet Smile
+ 141003 : Gyrocristal radiant 3 - Lone Sojourner
+ 141004 : Gyrocristal radiant 4 - A Day in Mondstadt
+ 141005 : Gyrocristal radiant 5 - The Edge of the Prairie
+ 141006 : Gyrocristal radiant 6 - A Tale of Two Dragons
+ 141007 : Gyrocristal radiant 7 - Happy Journey
+ 141008 : Gyrocristal radiant 8 - Legend of the Wind
+ 141009 : Gyrocristal radiant 9 - Bustling Afternoon in Mondstadt
+ 141010 : Gyrocristal radiant 10 - Dusk in Mondstadt
+ 141011 : Gyrocristal radiant 11 - Mondstadt Starlit
+ 141012 : Gyrocristal radiant 12 - Moonlight in Mondstadt
+ 141013 : Gyrocristal radiant 13 - Another Day in Mondstadt
+ 141014 : Gyrocristal radiant 14 - Windborne Hymn
+ 141015 : Gyrocristal radiant 15 - Knights of Favonius
+ 141016 : Gyrocristal radiant 16 - Angel's Share
+ 141017 : Gyrocristal radiant 17 - A Happy Day
+ 141018 : Gyrocristal radiant 18 - Tender Strength
+ 141019 : Gyrocristal radiant 19 - Before Dawn, at the Winery
+ 141020 : Gyrocristal radiant 20 - Whispering Plain
+ 141021 : Gyrocristal radiant 21 - A New Day With Hope
+ 141022 : Gyrocristal radiant 22 - Eternal Anamnesis
+ 141023 : Gyrocristal radiant 23 - Journey of Hope
+ 141024 : Gyrocristal radiant 24 - Sun Rises in Liyue
+ 141025 : Gyrocristal radiant 25 - Good Night, Liyue
+ 141026 : Gyrocristal radiant 26 - Call It a Day in Liyue
+ 141027 : Gyrocristal radiant 27 - Clear Sky Over Liyue
+ 141028 : Gyrocristal radiant 28 - Cozy Leisure Time
+ 141029 : Gyrocristal radiant 29 - Winding River
+ 141030 : Gyrocristal radiant 30 - Mild Waves
+ 141031 : Gyrocristal radiant 31 - Rhythm Amidst the Reeds
+ 141032 : Gyrocristal radiant 32 - Flows of Jade-Like Water
+ 141033 : Gyrocristal radiant 33 - Flow of Mildness
+ 141034 : Gyrocristal radiant 34 - Vague Whispers
+ 141035 : Gyrocristal radiant 35 - Legends Swept Away
+ 141036 : Gyrocristal radiant 36 - Plain of Nostalgia
+ 141037 : Gyrocristal radiant 37 - Rhythms From the Conch
+ 141038 : Gyrocristal radiant 38 - Peaceful Hike
+ 141039 : Gyrocristal radiant 39 - The Fading Stories
+ 141040 : Gyrocristal radiant 40 - Above the Sea of Clouds
+ 141041 : Gyrocristal radiant 41 - Rainbow at Summit
+ 141042 : Gyrocristal radiant 42 - Red Leaf on the Chessboard
+ 141043 : Gyrocristal radiant 43 - Slumbering Lore
+ 141044 : Gyrocristal radiant 44 - Lost Expectation
+ 141045 : Gyrocristal radiant 45 - The Realm Within
+ 141046 : Gyrocristal radiant 46 - Sojourner's Sweet Dream
+ 141047 : Gyrocristal radiant 47 - Miko's Night
+ 141048 : Gyrocristal radiant 48 - Streets of Elegance
+ 141049 : Gyrocristal radiant 49 - The Land of Her Serenity
+ 141050 : Gyrocristal radiant 50 - The Mysterious Islands
+ 141051 : Gyrocristal radiant 51 - Everlasting Devotion
+ 141052 : Gyrocristal radiant 52 - Kitsune's Mask
+ 141053 : Gyrocristal radiant 53 - Hanachirusato
+ 141054 : Gyrocristal radiant 54 - Time to Say Farewell
+ 141055 : Gyrocristal radiant 55 - Flickering Sakura
+ 141056 : Gyrocristal radiant 56 - Murmuring Creek
+ 141057 : Gyrocristal radiant 57 - Scarred Island
+ 141058 : Gyrocristal radiant 58 - Silent Testimony
+ 141059 : Gyrocristal radiant 59 - Island of Hanabi
+ 141060 : Gyrocristal radiant 60 - Preparation of Matsuri
+ 141061 : Gyrocristal radiant 61 - Illuminated Coral Palace
+ 141062 : Gyrocristal radiant 62 - A Tranquil Town
+ 141063 : Gyrocristal radiant 63 - In a Harmonious Atmosphere
+ 141064 : Gyrocristal radiant 64 - Island of Crystal and Pearl
+ 141065 : Gyrocristal radiant 65 - Misty Truth
+ 141066 : Gyrocristal radiant 66 - Sorrows of Strays
+ 141067 : Gyrocristal radiant 67 - Ruu's Melody
+ 141068 : Gyrocristal radiant 68 - Roaming in Silence
+ 141069 : Gyrocristal radiant 69 - Echoes of Solitude
+ 141070 : Gyrocristal radiant 70 - Dirge of the Soundless
+ 141071 : Gyrocristal radiant 71 - Nothing but Ivy
+ 141072 : Gyrocristal radiant 72 - Forgotten Epic
+ 141073 : Gyrocristal radiant 73 - Beyond Klesha
+ 141074 : Gyrocristal radiant 74 - Melody of Hidden Seeds
+ 141075 : Gyrocristal radiant 75 - Varuna's Mercy
+ 141076 : Gyrocristal radiant 76 - Vestige of Dahri
+ 141077 : Gyrocristal radiant 77 - Chatter Between Roots
+ 141078 : Gyrocristal radiant 78 - Whirling of Leaves and Petals
+ 141079 : Gyrocristal radiant 79 - Hustle and Bustle of Ormos
+ 141080 : Gyrocristal radiant 80 - Halcyon Times
+ 141081 : Gyrocristal radiant 81 - A Puff of Cool Breeze
+ 141082 : Gyrocristal radiant 82 - On the Barren Sands
+ 141083 : Gyrocristal radiant 83 - Arid Canyon
+ 141084 : Gyrocristal radiant 84 - Settlement for Exiles
+ 141085 : Gyrocristal radiant 85 - Ruins of Scorching Might
+ 141086 : Gyrocristal radiant 86 - Eye of Deshret
+ 141087 : Gyrocristal radiant 87 - Emerald in the Desert
+ 141088 : Gyrocristal radiant 88 - Gyrocristal radiant 88
+ 141089 : Gyrocristal radiant 89 - Gyrocristal radiant 89
+ 141090 : Gyrocristal radiant 90 - Gyrocristal radiant 90
+ 141091 : Gyrocristal radiant 91 - Gyrocristal radiant 91
+ 141092 : Gyrocristal radiant 92 - Gyrocristal radiant 92
+ 141093 : Gyrocristal radiant 93 - Gyrocristal radiant 93
  200001 : Cellulose de lanterne
  200002 : Matériau pour mèche
  200003 : Fragment de plaustrite
@@ -16697,6 +17296,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  210144 : Faruzan - Secret scellé
  210145 : Succès - Invocateur
  210146 : PB - Rivières stellaires
+ 210147 : Alhaitham - Érudition
+ 210148 : Yaoyao - Yuegui
+ 210149 : Célébration - Nuage lenticulaire
+ 210150 : PB - Rime
+ 210151 : Succès - Tempête de sable
  220001 : Pierre de résonance Anémoculus
  220002 : Pierre de résonance Géoculus
  220003 : Détecteur de trésors Géo
@@ -16765,6 +17369,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  220069 : Stèle des sables écarlates
  220070 : « Daguerréotype pétillant »
  220071 : Kusava
+ 220072 : Lampe magique de Liloupar
  220073 : Orbe de sagesse
  220074 : Appareil turquoise de Souffle-Nuages
  220075 : Boussole sauvage
@@ -16814,6 +17419,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  223010 : Détermination inflexible
  223011 : Pleins feux sur le festival
  223012 : Banquet de Wanmin
+ 223013 : Entre les lancers exquis de dés
+ 223014 : Gentil assistant du général d'Inuzaka
+ 223015 : Bannière dans les roulements de tambour
+ 223016 : Conseil efficace contre le vin
+ 223017 : Fongus originaire de la forêt tropicale
+ 223018 : Petit Yuegui obligeant
  330000 : Ganyu
  330001 : Kaeya
  330002 : Chongyun
@@ -16841,6 +17452,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  330025 : Barbara
  330026 : Suivante miroir
  330027 : Champieffroi panaché
+ 330032 : Klee
+ 330034 : Beidou
  330500 : Cœur indivisible
  330501 : Épée de la cruauté
  330502 : Respiration stable
@@ -16868,6 +17481,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  330525 : Splendide saison
  330526 : Prison de miroir
  330527 : Spores proliférantes
+ 330530 : Cadeau explosif
+ 330531 : Tempête de coups de tonnerre
  331000 : Guide de magie
  331001 : Mémoires de rituels
  331002 : Atlas de la Voûte d'Azur
@@ -16987,6 +17602,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  334025 : Barbara
  334026 : Suivante miroir
  334027 : Champieffroi panaché
+ 334028 : Beidou
+ 334029 : Klee
  334500 : Cœur indivisible
  334501 : Épée de la cruauté
  334502 : Respiration stable
@@ -17014,6 +17631,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  334525 : Splendide saison
  334526 : Prison de miroir
  334527 : Spores proliférantes
+ 334528 : Tempête de coups de tonnerre
+ 334529 : Cadeau explosif
  335000 : Guide de magie
  335001 : Mémoires de rituels
  335002 : Atlas de la Voûte d'Azur
@@ -17142,6 +17761,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  340007 : #Éclaireuse 100{NON_BREAK_SPACE}%
  340008 : Pacte des étoiles et de la lune
  340009 : Dévote non-conformiste
+ 340010 : Missive de floraison printanière
+ 340011 : Sobriquet à l'ombre
  350001 : Campement d'aventurier
  350002 : « Vie au poste-frontière »
  350003 : « Plantes et pierres »
@@ -17257,6 +17878,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  360422 : Lumière immersive
  360423 : Illumination pérenne
  360424 : Illumination florissante
+ 360425 : « Entre les collines au clair de lune »
+ 360426 : « Lumière fluctuante »
+ 360427 : « Lumière engourdissante »
  360504 : Illumination efflorescente
  361101 : Comptoir avec abattant en bouleau du nord
  361102 : Étagère ouverte en épicéa
@@ -17268,6 +17892,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  361108 : Bureau du désert « Hospitalité »
  361109 : Étagère « Polyvalence » en bois d'épiphanie
  361110 : Table de chevet « Vivifiance » en bois radiant
+ 361111 : Armoire à trois tiroirs en bois de tamaris Athel
+ 361112 : Étagère de poterie en bois de tamaris Athel
  361201 : Bibliothèque à deux étages
  361202 : Bibliothèque raffinée en bois d'exquisetier
  361203 : Bibliothèque basique en bois d'exquisetier
@@ -17325,6 +17951,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  362110 : Chaise « Contre-assaut » en bois de karmaphalien
  362111 : « Satisfaction de la soif rassasiée »
  362112 : Chaise à dossier de feuille en bois d'épiphanie
+ 362113 : Siège de luxe sophistiqué
  362201 : Cheminée en pierre du nord
  362202 : Paravent pliant en pin « Voiles ondulantes »
  362203 : Paravent en bois solide « Brume matinale à Jueyun »
@@ -17362,6 +17989,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  362236 : Arôme de barbecue à haute température
  362237 : Parfum de rôti à feu doux
  362238 : « Agrégation de l'habitant des bois »
+ 362239 : Vase teinté « Sable fondu »
  362301 : Tapis de Mondstadt « Ardeur pourpre »
  362302 : Tapis de Mondstadt « Recherche infatigable »
  362303 : Tapis d'auberge « Loin du foyer »
@@ -17371,6 +17999,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  362307 : Tapisserie fauve inspirante
  362308 : « Solennité brûlée par le cagnard »
  362309 : Oliveraie
+ 362310 : Pureté des germes de blé
  363101 : Lanterne constamment allumée
  363102 : Lampadaire en bois d'haréna du Pavillon Liuli
  363103 : Lanterne Tianyuan « Lueur parfumée »
@@ -17380,6 +18009,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  363107 : Lampe du désert « Lueur »
  363108 : Illumination joyeuse
  363109 : « Lumière du pays de la sagesse »
+ 363110 : Chandelle du veilleur de nuit
+ 363111 : Chandelle d'écoute
+ 363112 : Lampe double en fer
  363201 : Composition florale « Tranquillité céleste »
  363202 : Plante en pot « Brise cristalline »
  363203 : Composition florale « Aurore florissante »
@@ -17428,6 +18060,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  363338 : « Au milieu des arômes amers »
  363339 : #« Ingéniosité de l'habitant des bois{NON_BREAK_SPACE}»
  363340 : « Brillance de l'habitant des bois »
+ 363341 : Vase teinté « Germe »
+ 363342 : Bouteille polyvalente en étoile
+ 363501 : « Réalisation du pays de la sagesse »
+ 363502 : « Parfum réparateur »
+ 363504 : « L'art de retenir l'eau »
  364101 : Tableau de paysage « Maison de campagne »
  364102 : Tableau de paysage « Nuages au loin »
  364103 : Tableau de paysage « Falaise inconnue »
@@ -17454,6 +18091,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  364214 : #Tenture murale du désert «{NON_BREAK_SPACE}Coucher de soleil »
  364215 : #Tenture murale du désert «{NON_BREAK_SPACE}Plumes enflammées »
  364216 : « Considérations du brigadier forestier »
+ 364217 : Bouclier de combat en bois de tamaris Athel
  364301 : Porte en cèdre parfumé
  364302 : Porte en épicéa de l'Ordre de Favonius
  364303 : Porte de domaine en bois d'érable
@@ -17548,6 +18186,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  368159 : Layla
  368160 : #{REALNAME[ID(1)|HOSTONLY(true)]}
  368161 : Faruzan
+ 368162 : Yaoyao
+ 368163 : Alhaitham
  369101 : Chat aux yeux de jade
  369102 : Chien du grand nord
  369103 : Sanglier des forêts
@@ -17661,6 +18301,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  370319 : « Maintenance du pêcheur »
  370320 : Étal d'épicerie en bois radiant
  370321 : Chariot à kebab en bois radiant
+ 370322 : Abondance d'air vif
+ 370323 : Délibération des choix
  370401 : Avant-poste Brutocollinus
  370402 : Hutte Brutocollinus prestigieuse
  370501 : « Nuages à l'est de Bishui »
@@ -17743,6 +18385,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  370730 : #« Contraste de la cité de la sagesse{NON_BREAK_SPACE}»
  370731 : « Paix de la cité de la sagesse »
  370732 : « Commission de la cité de la sagesse »
+ 370733 : #« Tissu protecteur des bêtes marines{NON_BREAK_SPACE}»
+ 370734 : Nuit de sérénité dans la brise de sable
  371101 : Fontaine à fleurs et oiseaux
  371102 : Tour de garde Brutocollinus en spirale
  371103 : Abri Brutocollinus en paille
@@ -17765,6 +18409,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  371125 : Cabane du désert « Repos »
  371126 : Brume fraîche du théâtre
  371127 : « Clarté du pays de la sagesse »
+ 371129 : Élévateur type III du Port Ormos
+ 371130 : Chariot longue distance en bois composite
+ 371131 : Chariot de transfert en bois composite
+ 371132 : Chariot de montagnes à trois roues
+ 371133 : Statue du Dieu de la cuisine
  371201 : Portail des Adeptes
  371202 : Portail de cour principale en bouleau
  371203 : Fin de clôture de cour sculptée
@@ -17886,6 +18535,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  372339 : Bois flâneur verdoyant
  372340 : Mibois de verdite
  372341 : Aubébois de verdite
+ 372342 : « Branches d'hibiscus isolées »
  372401 : Étagère à légumes en cèdre parfumé
  372402 : Haie en fleurs
  372403 : Haie de jardin ordinaire
@@ -17959,6 +18609,13 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  372472 : Catalyseur enflammé
  372473 : Médium de prolongation
  372474 : Teinture d'équilibrage
+ 372475 : « Paisible hibiscus violet »
+ 372476 : Fontaine des sables brûlants
+ 372477 : Réflexion du coucher du soleil
+ 372478 : Parapluie de gouttes de rosée
+ 372479 : « Abondance au bord de l'eau »
+ 372480 : Parapluie de refuge
+ 372481 : « Une douceur différente »
  372501 : Champ « Plantation de jade »
  372502 : Champ « Glèbe luxuriant »
  372503 : Champ « Zone humide »
@@ -18017,6 +18674,15 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  373145 : « Effort du pêcheur »
  373146 : « Clémence du pêcheur »
  373147 : Goût de la chaleur
+ 373148 : Tour de potier en bois radiant
+ 373149 : « Fer, sable, trésor »
+ 373150 : « Fer, sang, armure brisée »
+ 373151 : « Fer, eau, vapeur »
+ 373152 : Rangement pour produits liquides en bois de karmaphalien
+ 373153 : « Corde, plume, trajectoire »
+ 373154 : Ingéniosité du butineur forestier
+ 373155 : « Ça pourrait marcher ! »
+ 373156 : « Coloration et précipitation »
  373201 : Plante en pot « Immensité verdoyante »
  373202 : Jardinière à réservoir d'eau
  373203 : Tonneau en bois pour la terre
@@ -18094,6 +18760,14 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  373363 : « Voix douce »
  373364 : Panneau d'affichage triple en bois de karmaphalien
  373365 : « Ombre du goûter »
+ 373366 : Paravent propice « Brume sur les montagnes »
+ 373367 : Paravent propice « Plumes contre vagues »
+ 373368 : Paravent propice « Instruments au loin »
+ 373369 : #Paravent propice « Chansons d'antan{NON_BREAK_SPACE}»
+ 373370 : Paravent propice « Nuages sur les pics »
+ 373371 : Paravent propice « Paroles du lointain »
+ 373372 : « Trompette et bois de chauffage »
+ 373373 : Prototype d'aranara
  373401 : Lampadaire en fer forgé
  373402 : Lampadaire en pin
  373403 : Lampadaire chasse-monstre « Illumination totale »
@@ -18392,6 +19066,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  380414 : Lustre « Illumination » en bois d'érable
  380415 : Bougie fleurie « Pureté du lotus »
  380416 : Lumière arc-en-ciel « Célébration matinale »
+ 380417 : « Infinité de demeures éclairant la lune »
  380418 : Lampe de maçonnerie « Chandelle des profondeurs »
  380419 : Étreinte du sommeil rosé
  380420 : Éclat de la goutte de verdure
@@ -18399,6 +19074,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  380422 : Lumière immersive
  380423 : Illumination pérenne
  380424 : Illumination florissante
+ 380426 : « Lumière fluctuante »
+ 380427 : « Lumière engourdissante »
  380504 : Illumination efflorescente
  381101 : Comptoir avec abattant en bouleau du nord
  381102 : Étagère ouverte en épicéa
@@ -18410,6 +19087,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  381108 : Bureau du désert « Hospitalité »
  381109 : Étagère « Polyvalence » en bois d'épiphanie
  381110 : Table de chevet « Vivifiance » en bois radiant
+ 381111 : Armoire à trois tiroirs en bois de tamaris Athel
+ 381112 : Étagère de poterie en bois de tamaris Athel
  381201 : Bibliothèque à deux étages
  381202 : Bibliothèque raffinée en bois d'exquisetier
  381203 : Bibliothèque basique en bois d'exquisetier
@@ -18500,6 +19179,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  382236 : Arôme de barbecue à haute température
  382237 : Parfum de rôti à feu doux
  382238 : « Agrégation de l'habitant des bois »
+ 382239 : Vase teinté « Sable fondu »
  382301 : Tapis de Mondstadt « Ardeur pourpre »
  382302 : Tapis de Mondstadt « Recherche infatigable »
  382303 : Tapis d'auberge « Loin du foyer »
@@ -18509,6 +19189,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  382307 : Tapisserie fauve inspirante
  382308 : « Solennité brûlée par le cagnard »
  382309 : Oliveraie
+ 382310 : Pureté des germes de blé
  383101 : Lanterne constamment allumée
  383102 : Lampadaire en bois d'haréna du Pavillon Liuli
  383103 : Lanterne Tianyuan « Lueur parfumée »
@@ -18517,6 +19198,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  383107 : Lampe du désert « Lueur »
  383108 : Illumination joyeuse
  383109 : « Lumière du pays de la sagesse »
+ 383110 : Chandelle du veilleur de nuit
+ 383111 : Chandelle d'écoute
+ 383112 : Lampe double en fer
  383201 : Composition florale « Tranquillité céleste »
  383202 : Plante en pot « Brise cristalline »
  383203 : Composition florale « Aurore florissante »
@@ -18554,6 +19238,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  383338 : « Au milieu des arômes amers »
  383339 : #« Ingéniosité de l'habitant des bois{NON_BREAK_SPACE}»
  383340 : « Brillance de l'habitant des bois »
+ 383341 : Vase teinté « Germe »
+ 383342 : Bouteille polyvalente en étoile
+ 383501 : « Réalisation du pays de la sagesse »
+ 383502 : « Parfum réparateur »
+ 383504 : « L'art de retenir l'eau »
  384101 : Tableau de paysage « Maison de campagne »
  384102 : Tableau de paysage « Nuages au loin »
  384103 : Tableau de paysage « Falaise inconnue »
@@ -18579,6 +19268,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  384214 : #Tenture murale du désert «{NON_BREAK_SPACE}Coucher de soleil »
  384215 : #Tenture murale du désert «{NON_BREAK_SPACE}Plumes enflammées »
  384216 : « Considérations du brigadier forestier »
+ 384217 : Bouclier de combat en bois de tamaris Athel
  384501 : « Moment suspendu »
  390101 : Cabane en paille
  390102 : Entrepôt ouvert en paille
@@ -18625,6 +19315,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  390319 : « Maintenance du pêcheur »
  390320 : Étal d'épicerie en bois radiant
  390321 : Chariot à kebab en bois radiant
+ 390322 : Abondance d'air vif
+ 390323 : Délibération des choix
  390401 : Avant-poste Brutocollinus
  390402 : Hutte Brutocollinus prestigieuse
  390501 : « Nuages à l'est de Bishui »
@@ -18703,6 +19395,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  390730 : #« Contraste de la cité de la sagesse{NON_BREAK_SPACE}»
  390731 : « Paix de la cité de la sagesse »
  390732 : « Commission de la cité de la sagesse »
+ 390733 : #« Tissu protecteur des bêtes marines{NON_BREAK_SPACE}»
+ 390734 : Nuit de sérénité dans la brise de sable
  391101 : Fontaine à fleurs et oiseaux
  391102 : Tour de garde Brutocollinus en spirale
  391103 : Abri Brutocollinus en paille
@@ -18725,6 +19419,10 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  391125 : Cabane du désert « Repos »
  391126 : Brume fraîche du théâtre
  391127 : « Clarté du pays de la sagesse »
+ 391129 : Élévateur type III du Port Ormos
+ 391130 : Chariot longue distance en bois composite
+ 391131 : Chariot de transfert en bois composite
+ 391132 : Chariot de montagnes à trois roues
  391201 : Portail des Adeptes
  391202 : Portail de cour principale en bouleau
  391203 : Fin de clôture de cour sculptée
@@ -18808,6 +19506,15 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  393144 : « Promotion du pêcheur »
  393145 : « Effort du pêcheur »
  393146 : « Clémence du pêcheur »
+ 393148 : Tour de potier en bois radiant
+ 393149 : « Fer, sable, trésor »
+ 393150 : « Fer, sang, armure brisée »
+ 393151 : « Fer, eau, vapeur »
+ 393152 : Rangement pour produits liquides en bois de karmaphalien
+ 393153 : « Corde, plume, trajectoire »
+ 393154 : Ingéniosité du butineur forestier
+ 393155 : « Ça pourrait marcher ! »
+ 393156 : « Coloration et précipitation »
  393201 : Plante en pot « Immensité verdoyante »
  393202 : Jardinière à réservoir d'eau
  393203 : Tonneau en bois pour la terre
@@ -18867,6 +19574,13 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  393363 : « Voix douce »
  393364 : Panneau d'affichage triple en bois de karmaphalien
  393365 : « Ombre du goûter »
+ 393366 : Paravent propice « Brume sur les montagnes »
+ 393367 : Paravent propice « Plumes contre vagues »
+ 393368 : Paravent propice « Instruments au loin »
+ 393369 : #Paravent propice « Chansons d'antan{NON_BREAK_SPACE}»
+ 393370 : Paravent propice « Nuages sur les pics »
+ 393371 : Paravent propice « Paroles du lointain »
+ 393372 : « Trompette et bois de chauffage »
  393401 : Lampadaire en fer forgé
  393402 : Lampadaire en pin
  393403 : Lampadaire chasse-monstre « Illumination totale »
@@ -19175,6 +19889,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 24040201 : Monolith_Ordinator_02 - [N/A] 285953129
 24040301 : Monolith_Ordinator_03 - [N/A] 3626535649
 24050101 : Monolith_Starchild - [N/A] 2629579681
+24990101 : Monster_Alternate_01 - [N/A] 3880332545
 25010101 : Thoarder_Male_NoWeapon_01 - Liuliu
 25010102 : Thoarder_Male_Standard_NoWeapon_01_02 - Homme mystérieux
 25010103 : Thoarder_Male_Standard_NoWeapon_01_03 - [N/A] 4074487073
@@ -19216,6 +19931,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 25050402 : AahigaruTaisho_Male_01_02 - [N/A] 220906409
 25050501 : Aahigaru_Male_02 - Partisan de Sangonomiya
 25050502 : Aahigaru_Male_02_02 - (test)心海个人线反抗军足轻
+25050503 : Aahigaru_Male_03 - [N/A] 3723952969
 25060101 : Thoarder_MuscleMan_NoWeapon_01 - [N/A] 3034153769
 25060102 : Thoarder_MuscleMan_NoWeapon_01_02 - [N/A] 2830824473
 25070101 : Thoarder_MuscleMan_Hammer_01 - [N/A] 2923584017
@@ -19229,16 +19945,19 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 25080402 : Samurai_Hatamoto_02 - [N/A] 193563705
 25080403 : Samurai_Hatamoto_03 - [N/A] 1581579825
 25080404 : Samurai_Hatamoto_03 - [N/A] 400320561
+25080405 : Samurai_Hatamoto_04 - [N/A] 147737673
 25090101 : Samurai_Ningyo_01 - Général fantoche
 25090102 : Samurai_Ningyo_02 - Général fantoche - Clone de vent
 25090103 : Samurai_Ningyo_03 - Général fantoche - Clone de glace
 25090104 : Samurai_Ningyo_04 - Général fantoche - Clone masqué
+25090105 : Samurai_Ningyo_05 - [N/A] 1156820393
 25090201 : Samurai_Ningyo_02 - Général fantoche - Clone de vent (avec icône)
 25090301 : Samurai_Ningyo_03 - Général fantoche - Clone de glace (avec icône)
 25090401 : Samurai_Ningyo_04 - Général fantoche - Clone masqué (avec icône)
 25100101 : Samurai_Kairagi_01 - Oni des mers - Électro
 25100102 : Samurai_Kairagi_05 - [N/A] 280790529
 25100201 : Samurai_Kairagi_02 - Oni des mers - Pyro
+25100202 : Samurai_Kairagi_07 - [N/A] 1073373889
 25100301 : Samurai_Kairagi_03 - Oni des mers - Fantôme Électro
 25100302 : Samurai_Kairagi_06 - [N/A] 1381328249
 25100401 : Samurai_Kairagi_04 - Oni des mers - Fantôme Pyro
@@ -19246,6 +19965,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 25110102 : Gator_Eremite_Rock_02 - [N/A] 2361510321
 25110201 : Vulture_Eremite_Wind_01 - [N/A] 3397827697
 25110202 : Vulture_Eremite_Wind_02 - [N/A] 1458817257
+25110301 : Scorpion_Eremite_Fire_01 - [N/A] 3602103257
+25110401 : Chrysopelea_Eremite_Grass_01 - [N/A] 3779411305
 25210101 : Eremite_Female_Hatchet_01 - [N/A] 593962337
 25210102 : Eremite_Female_Hatchet_02 - [N/A] 655804089
 25210103 : Eremite_Female_Hatchet_03 - [N/A] 3189818729
@@ -19254,6 +19975,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 25210106 : EremiteElite_Female_Hatchet_03 - [N/A] 660925665
 25210107 : Eremite_Female_Hatchet_04 - [N/A] 2260729353
 25210108 : Eremite_Female_Hatchet_05 - [N/A] 1446861633
+25210109 : NPC_Quest_Female_Standard_Nailan_20933 - [N/A] 2358839953
 25210201 : Eremite_Male_Standard_Crossbow_01 - [N/A] 1998919569
 25210202 : Eremite_Male_Standard_Crossbow_02 - [N/A] 2119181617
 25210203 : Eremite_Male_Standard_Crossbow_03 - [N/A] 3425185161
@@ -19263,6 +19985,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 25210207 : Eremite_Male_Standard_Crossbow_04 - [N/A] 1636753185
 25210208 : NPC_Quest_Male_Standard_Eremite_01 - [N/A] 2050456833
 25210209 : NPC_Quest_Male_Standard_Eremite_02 - [N/A] 3171996801
+25210210 : NPC_Sumeru_Male_Standard_Aderfi_4293 - [N/A] 2723889409
+25210211 : NPC_Quest_Male_Standard_Assassin02_20940 - [N/A] 3153927337
 25210301 : Eremite_Male_Standard_Pole_01 - [N/A] 4008986473
 25210302 : Eremite_Male_Standard_Pole_02 - [N/A] 2939413633
 25210303 : Eremite_Male_Standard_Pole_03 - [N/A] 2517557169
@@ -19270,6 +19994,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 25210305 : EremiteElite_Male_Standard_Pole_02 - [N/A] 1664946217
 25210306 : EremiteElite_Male_Standard_Pole_03 - [N/A] 696066441
 25210307 : Eremite_Male_Standard_Pole_01 - [N/A] 2671081977
+25210308 : NPC_Sumeru_Male_Standard_Warden03_4298 - [N/A] 2403836809
+25210309 : NPC_Sumeru_Male_Standard_Warden04_4299 - [N/A] 191969201
 25210401 : Eremite_MuscleMan_Gloves_01 - [N/A] 998410809
 25210402 : Eremite_MuscleMan_Gloves_02 - [N/A] 839477089
 25210403 : Eremite_MuscleMan_Gloves_03 - [N/A] 2628038825
@@ -19277,6 +20003,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 25210405 : EremiteElite_MuscleMan_Gloves_02 - [N/A] 4366953
 25210406 : EremiteElite_MuscleMan_Gloves_03 - [N/A] 1385944497
 25210407 : NPC_Quest_MuscleMan_Standard_Eremite_01 - [N/A] 3844535385
+25210408 : NPC_Quest_MuscleMan_Standard_Assassin01_20913 - [N/A] 2083537065
 25210501 : Eremite_MuscleMan_Simitar_01 - [N/A] 914092905
 25210502 : Eremite_MuscleMan_Simitar_02 - [N/A] 3484979137
 25210503 : Eremite_MuscleMan_Simitar_03 - [N/A] 2747515289
@@ -19284,14 +20011,23 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 25210505 : EremiteElite_MuscleMan_Simitar_02 - [N/A] 4251715865
 25210506 : EremiteElite_MuscleMan_Simitar_03 - [N/A] 124112617
 25210507 : Eremite_MuscleMan_Simitar_04 - [N/A] 1714026825
+25210508 : NPC_Sumeru_MuscleMan_Standard_Yuften_4294 - [N/A] 2949828257
 25210601 : Eremite_Male_Standard_NoWeapon_01 - [N/A] 3480498409
 25210602 : Eremite_Male_Standard_NoWeapon_02 - [N/A] 1531750897
 25310101 : Eremite_Female_Slim_PushDagger_01 - [N/A] 2984077569
+25310102 : Eremite_Female_Slim_PushDagger_02 - [N/A] 1936242505
 25310201 : Eremite_Male_Standard_Glaive_01 - [N/A] 3154173257
 25310202 : Eremite_Male_Standard_Glaive_02 - [N/A] 3503187145
 25310301 : Eremite_Male_Standard_Polearm_01 - [N/A] 863506833
 25410101 : Eremite_Male_Strong_Katar_01 - [N/A] 1317576089
+25410102 : Eremite_Male_Strong_Katar_02 - [N/A] 3519774769
+25410103 : Eremite_Male_Strong_Katar_03 - [N/A] 2559377073
 25410201 : Eremite_Female_Standard_Longbow_01 - [N/A] 1223193297
+25410202 : Eremite_Female_Standard_Longbow_02 - [N/A] 3954073513
+25410301 : Eremite_Female_Standard_Oracle_01 - [N/A] 230400289
+25410302 : Eremite_Female_Standard_Oracle_02 - [N/A] 3319063017
+25410303 : Eremite_Female_Standard_Oracle_03 - [N/A] 1427419849
+25410401 : Eremite_Female_Standard_Dancer_01 - [N/A] 4046454873
 26010101 : Mimik_Ice - Fleur mensongère Cryo
 26010102 : Mimik_Ice_Activity - Fleur mensongère Cryo (Événement Dosgradon)
 26010103 : Mimik_Fel - Fleur mensongère Cryo géante (Événement Dosgradon 2.3)
@@ -19356,11 +20092,15 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 26091001 : Fungus_Deux_Delta_Electric_01 - [N/A] 1409125529
 26091090 : Fungus_Deux_Delta_Electric_Enemy - [N/A] 2977465545
 26091091 : Fungus_Deux_Delta_Electric_01_Capture - [N/A] 2399196673
+26100301 : Vulture_Sacred_Fire_01 - [N/A] 2824755009
+26100401 : Scorpion_Sacred_Electric_01 - [N/A] 2220913313
+26100501 : Chrysopelea_Sacred_Wind_01 - [N/A] 1264292481
 26110101 : Fungus_Raptor - [N/A] 4290207929
 26120101 : Fungus_Amanita_Unu_Anudatta_Grass_01 - [N/A] 198051785
 26120201 : Fungus_Amanita_Unu_Svarita_Ices_01 - [N/A] 2368019041
 26120301 : Fungus_Amanita_Du_Anudatta_Water_01 - [N/A] 3299184601
 26120401 : Fungus_Amanita_Du_Udatta_Rock_01 - [N/A] 4098645257
+26130101 : Sandworm - [N/A] 2117237033
 28010101 : Crab_01 - Crabe doré
 28010102 : Crab_02 - Crabe du soleil
 28010103 : Crab_03 - Crabe des océans
@@ -19443,6 +20183,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 28020901 : Inu_Shihandai_01 - Chien samouraï (Patrouille)
 28020902 : Inu_Shihandai_02 - Chien samouraï (Combat)
 28020903 : Inu_Shihandai_03 - [N/A] 467002241
+28020904 : Inu_Shihandai_04 - [N/A] 1992703905
 28030101 : Crane_01 - Héron azur
 28030102 : Crane_02 - Ibis violet
 28030103 : Crane_01 - [N/A] 434877481
@@ -19534,6 +20275,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 28050223 : Thoarder_Weasel_03 - [N/A] 4261963577
 28050301 : Boltbug_Lightbug_01 - [N/A] 868485513
 28050401 : Boltbug_Scarab_01 - [N/A] 2466918521
+28050501 : Electrohercules_01 - [N/A] 3014312137
+28050502 : Electrohercules_02 - [N/A] 765439209
+28050503 : Electrohercules_03 - [N/A] 3141479769
+28050504 : Electrohercules_04 - [N/A] 2949221961
+28050505 : Electrohercules_05 - [N/A] 2453680657
+28050506 : Electrohercules_06 - [N/A] 992130697
 28060101 : Gator_01 - [N/A] 128716817
 28060102 : Gator_Strong_01 - [N/A] 2866718929
 28060103 : Gator_01 - [N/A] 1328271489
@@ -19577,6 +20324,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 28061301 : Megamoth_Jungle_06 - [N/A] 3469996769
 28061401 : Megamoth_Jungle_07 - [N/A] 2330015681
 28061402 : Megamoth_Jungle_08 - [N/A] 3443985385
+28061501 : Chrysopelea_01 - [N/A] 447726457
+28061502 : Chrysopelea_01 - [N/A] 3984456185
 28210101 : Homeworld_Crab_01 - Crabe doré domestique
 28210102 : Homeworld_Crab_02 - Crabe du soleil domestique
 28210103 : Homeworld_Crab_03 - Crabe des océans domestique
@@ -19715,6 +20464,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 35210501 : Partner_Eremite_MuscleMan_Simitar_01 - [N/A] 4181653881
 35310101 : Partner_Eremite_Female_Slim_PushDagger_01 - [N/A] 800547617
 35310301 : Partner_Eremite_Male_Standard_Polearm_01 - [N/A] 2724426105
+35410101 : Partner_Eremite_Male_Strong_Katar_01 - [N/A] 843060329
+35410201 : Partner_Eremite_Female_Standard_Longbow_01 - [N/A] 2996340361
 36090190 : Partner_Fumgus_Un_Gamma_Water - [N/A] 4291858465
 36090290 : Partner_Fumgus_Un_Delta_Grass - [N/A] 2928415473
 36090390 : Partner_Fumgus_Un_Delta_Wind - [N/A] 3044810417
@@ -19725,6 +20476,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 36090890 : Partner_Fumgus_Deux_Epsilon_Wind - [N/A] 864320241
 36090990 : Partner_Fumgus_Deux_Beta_Rock - [N/A] 3379305585
 36091090 : Partner_Fumgus_Deux_Delta_Electric - [N/A] 1780358665
+38050590 : Partner_Animal_Electrohercules_01 - [N/A] 2442210649
 
 
 // Scenes
@@ -19787,6 +20539,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  1076 : IndoorScene_Md_CattailTavern
  1077 : IndoorScene_Xm_Chunzhangjia
  1078 : IndoorScene_Xm_Zls
+ 1079 : IndoorScene_Xm_Alhouse
  2001 : Homeworld_Exterior_Above
  2002 : Homeworld_Exterior_Karst
  2003 : Homeworld_Exterior_Uncharted
@@ -19898,6 +20651,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 20170 : Level_ScaramoucheFactory
 20171 : Level_ScaramoucheBoss
 20172 : Level_Consciousness
+20173 : Level_Xm_Alhaitham_01
 30001 : LevelTest_CurseMaze
 30100 : Level_Tower_Morning_01
 30101 : Level_Tower_Morning_01
@@ -20064,6 +20818,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 33744 : Level_Tower_Universe_01
 33745 : Level_Tower_Moon_01
 33746 : Level_Tower_Universe_01
+33747 : Level_Tower_Moon_01
+33748 : Level_Tower_Universe_01
 34100 : Level_Tower_Morning_01
 34101 : Level_Tower_01_Water
 34102 : Level_Tower_01_Open
@@ -20119,6 +20875,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 34744 : Level_Tower_Universe_01
 34745 : Level_Tower_Moon_01
 34746 : Level_Tower_Universe_01
+34747 : Level_Tower_Moon_01
+34748 : Level_Tower_Universe_01
 35100 : Level_Tower_Morning_01
 35101 : Level_Tower_Morning_01
 35102 : Level_Tower_Morning_01
@@ -20174,6 +20932,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 35744 : Level_Tower_Universe_01
 35745 : Level_Tower_Moon_01
 35746 : Level_Tower_Universe_01
+35747 : Level_Tower_Moon_01
+35748 : Level_Tower_Universe_01
 35800 : Level_CycleDungeon_WindFlower
 35801 : Level_ContestBattle01
 35802 : Level_ContestBattle01
@@ -20226,6 +20986,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 35870 : Level_BrickBreaker01
 35871 : Level_BrickBreaker01
 35872 : Level_BrickBreaker01
+35880 : Level_XM_BigLeaf
+35881 : Level_XM_BigLeaf
+35882 : Level_XM_BigLeaf
+35883 : Level_XM_BigLeaf
+35884 : Level_XM_BigLeaf
 40001 : Level_UCDungeon02
 40002 : Level_UCDungeon01
 40003 : Level_UCDungeon01
@@ -20287,6 +21052,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 40060 : Level_ActivityBoss01_Wind
 40061 : Level_ActivityBoss01_Wind
 40062 : Level_ActivityBoss01_Wind
+40063 : Level_Smr_LostCity
+40064 : Level_Smr_LostCity
 40100 : Level_CycleDungeon01_Fire
 40101 : Level_CycleDungeon01_Fire
 40102 : Level_CycleDungeon01_Fire
@@ -20450,6 +21217,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 41058 : Level_Tower_01_Open
 41059 : Level_Tower_01_Open
 41060 : Level_Tower_01_Open
+41061 : Level_Tower_01_Open
+41062 : Level_Tower_01_Open
 42001 : Level_PFDungeon02_Active01
 42002 : Level_PFDungeon02_Active02
 42003 : Level_PFDungeon02_Active07
@@ -20565,6 +21334,13 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 47205 : Level_Smr_LostCity
 47206 : Level_Smr_LostCity
 47207 : Level_Smr_LostCity
+47301 : Level_ContestBattle01
+47302 : Level_ContestBattle01
+47303 : Level_ContestBattle01
+47304 : Level_ContestBattle01
+47305 : Level_ContestBattle01
+47306 : Level_ContestBattle01
+47307 : Level_ContestBattle01
 50002 : TestLevel_Cold_LYX
 50003 : TestLevel_Battle_CLX
 50004 : Level_PowerCharge_Test
@@ -20667,7 +21443,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 51007 : BigWorld_LevelStreaming
 51008 : Level_Carnival
 51009 : Level_SmrDungeon_BigTree
+51010 : TestLevel_TestBox_LCM
 51011 : TestLevel_WhiteBox_Xm_04
+51013 : Level_Xm_Alhaitham_01
 51015 : Level_TestLevel_Pacman_Sll
 51019 : TestLevel_WhiteBox_Xm_05
 79999 : GcgCardTest
@@ -23245,7 +24023,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1200107 : Connais tes ennemis - Écoutez discrètement la conservation du Notable Maocai avec les Fatui.
 1200108 : Connais tes ennemis - Informez Xingqiu du plan du notable Maocai.
 1200201 : Mauvais présages - Amenez la lettre à la Guilde des marchands de Feiyun.
-1200202 : Mauvais présages - [EN] - Enter the Feiyun Commerce Guild
+1200202 : Mauvais présages - Entrez dans le Pavillon Liuli.
 1200203 : Mauvais présages - Parlez au domestique de la Guilde des marchands de Feiyun.
 1200204 : Mauvais présages - Achetez les cœurs de lapis.
 1200205 : Mauvais présages - Achetez les cœurs de lapis.
@@ -23261,7 +24039,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1200215 : Mauvais présages - Terminez vos achats.
 1200219 : Mauvais présages - Trouvez le Cœur de lapis grâce à votre vue élémentaire
 1200220 : Mauvais présages - Trouvez le Cœur de lapis grâce à votre vue élémentaire
-1200221 : Mauvais présages - [CHS] - (test)与「飞云商会」的家丁对话$HIDDEN
+1200221 : Mauvais présages - Parlez au serviteur.
 1200222 : Mauvais présages - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200223 : Mauvais présages - [CHS] - (test)任务隔离，防止回滚$HIDDEN
 1200303 : Gloire et richesse importent peu - Rendez-vous à l'entrepôt de la Guilde des marchands de Feiyun.
@@ -24478,11 +25256,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1911703 : Ninken près du rivage - Observez les réactions du ninken.
 1911704 : Ninken près du rivage - Rendez-vous à la Commission culturelle pour vous renseigner sur le maître du ninken.
 1911705 : Ninken près du rivage - Tenez compagnie au ninken avec Thomas.
-1911801 : Babioles et bibelots pour chiens et chats - Prenez les chats et les chiens errants en photo sous différents angles. (0/2)
+1911801 : Babioles et bibelots pour chiens et chats - Prenez les chats et les chiens errants en photo sous différents angles (0/2).
 1911802 : Babioles et bibelots pour chiens et chats - Habillez les chats et les chiens errants de pulls avec Thomas.
 1911803 : Babioles et bibelots pour chiens et chats - Attendez le lendemain (08 h 00 - 24 h 00).
 1911804 : Babioles et bibelots pour chiens et chats - Parlez à Thomas.
-1911805 : Babioles et bibelots pour chiens et chats - Prenez les chats et les chiens errants en photo sous différents angles. (1/2)
+1911805 : Babioles et bibelots pour chiens et chats - Prenez les chats et les chiens errants en photo sous différents angles (1/2).
 1911806 : Babioles et bibelots pour chiens et chats - [CHS] - （test）攻击猫狗失败$HIDDEN
 1911901 : Un voyage pour deux à Ritou - Rendez-vous à Ritou pour parler à Thomas.
 1911902 : Un voyage pour deux à Ritou - Promenez-vous dans les rues avec Thomas.
@@ -27049,7 +27827,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4005801 : Le palais sombre, teint de noir - Attendez le lendemain (12 h 00 - 14 h 00).
 4005802 : Le palais sombre, teint de noir - Rendez-vous à la Place des Cinq Kasen.
 4005803 : Le palais sombre, teint de noir - Parlez à Kazuha.
-4005804 : Le palais sombre, teint de noir - Rendez-vous au Domaine Kamisato
+4005804 : Le palais sombre, teint de noir - Rendez-vous au Domaine Kamisato.
 4005805 : Le palais sombre, teint de noir - Parlez à Ayaka.
 4005806 : Le palais sombre, teint de noir - Rendez-vous au QG de la Commission administrative.
 4005807 : Le palais sombre, teint de noir - Parlez à Kujou Sara.
@@ -27375,14 +28153,14 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4111106 : Astres inconnus - Examinez les victimes à proximité (0/3)
 4111107 : Astres inconnus - Allez retrouver Alan dans la montagne.
 4111108 : Astres inconnus - [CHS] - (test)与菲谢尔对话（删除）$HIDDEN
-4111109 : Astres inconnus - Ramassez les météorites dans la montagne. (0/2)
-4111110 : Astres inconnus - Ramassez les météorites dans la montagne. (1/2)
+4111109 : Astres inconnus - Ramassez les météorites dans la montagne (0/2).
+4111110 : Astres inconnus - Ramassez les météorites dans la montagne (1/2).
 4111111 : Astres inconnus - [CHS] - (test)清理小陨石（删除）$HIDDEN
 4111112 : Astres inconnus - [CHS] - (test)清理风啸山坡的陨石(删除)$HIDDEN
 4111113 : Astres inconnus - [CHS] - (test)保护我的保（删除）$HIDDEN
 4111114 : Astres inconnus - Allez voir l'état des victimes à Deauclaire.
-4111115 : Astres inconnus - Examinez les victimes à proximité. (1/3)
-4111116 : Astres inconnus - Examinez les victimes à proximité. (2/3)
+4111115 : Astres inconnus - Examinez les victimes à proximité (1/3).
+4111116 : Astres inconnus - Examinez les victimes à proximité (2/3).
 4111117 : Astres inconnus - [CHS] - (test)与伤员对话（隐藏）$HIDDEN
 4111118 : Astres inconnus - [CHS] - (test)与菲谢尔对话（隐藏）$HIDDEN
 4111200 : Les choses s'aggravent - Discutez de la situation de Deauclaire avec Draff.
@@ -27400,9 +28178,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4111212 : Les choses s'aggravent - Renseignez-vous auprès de Catherine à Mondstadt.
 4111213 : Les choses s'aggravent - [CHS] - (test)与莫娜对话$HIDDEN
 4111214 : Les choses s'aggravent - Rendez-vous à la Porte de Pierre.
-4111215 : Les choses s'aggravent - Interrogez les gens des environs. (0/3)
-4111216 : Les choses s'aggravent - Interrogez les gens des environs. (1/3)
-4111217 : Les choses s'aggravent - Interrogez les gens des environs. (2/3)
+4111215 : Les choses s'aggravent - Interrogez les gens des environs (0/3).
+4111216 : Les choses s'aggravent - Interrogez les gens des environs (1/3).
+4111217 : Les choses s'aggravent - Interrogez les gens des environs (2/3).
 4111218 : Les choses s'aggravent - Sauvez l'employé encerclé par les monstres.
 4111219 : Les choses s'aggravent - Interrogez Huai'an sur Fritz.
 4111220 : Les choses s'aggravent - Retrouvez le livreur du Domaine de l'Aurore.
@@ -27425,8 +28203,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4111310 : Ce que les cieux cachent, l'eau révèle - Faites votre rapport à Jinglun.
 4111311 : Ce que les cieux cachent, l'eau révèle - Apportez 1 portion de délices rustiques de Qingce pour Gao le Sixième.
 4111312 : Ce que les cieux cachent, l'eau révèle - Examinez les victimes à proximité (0/3)
-4111313 : Ce que les cieux cachent, l'eau révèle - Examinez les victimes à proximité. (1/3)
-4111314 : Ce que les cieux cachent, l'eau révèle - Examinez les victimes à proximité. (2/3)
+4111313 : Ce que les cieux cachent, l'eau révèle - Examinez les victimes à proximité (1/3).
+4111314 : Ce que les cieux cachent, l'eau révèle - Examinez les victimes à proximité (2/3).
 4111315 : Ce que les cieux cachent, l'eau révèle - [CHS] - (test)交付完成后的对话$HIDDEN
 4111316 : Ce que les cieux cachent, l'eau révèle - [CHS] - (test)保护我的传送$HIDDEN
 4111317 : Ce que les cieux cachent, l'eau révèle - Rendez-vous à l'endroit où la météorite géante s'est écrasée.
@@ -27848,13 +28626,13 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4133204 : Client repu, client heureux - [CHS] - (test)送外卖倒计时$HIDDEN
 4133205 : Client repu, client heureux - [CHS] - (test)玩家选错扣三丝$HIDDEN
 4133206 : Client repu, client heureux - [CHS] - (test)玩家选错来来菜$HIDDEN
-4133207 : Client repu, client heureux - Renseignez-vous les préférences culinaires de chacun. (2/3)
+4133207 : Client repu, client heureux - Renseignez-vous les préférences culinaires de chacun (2/3).
 4133208 : Client repu, client heureux - [CHS] - (test)玩家选错水煮黑背鲈$HIDDEN
 4133209 : Client repu, client heureux - [CHS] - (test)玩家选错水晶虾$HIDDEN
-4133210 : Client repu, client heureux - Renseignez-vous les préférences culinaires de chacun. (0/3)
+4133210 : Client repu, client heureux - Renseignez-vous les préférences culinaires de chacun (0/3).
 4133211 : Client repu, client heureux - [CHS] - (test)玩家选错北地苹果焖肉$HIDDEN
 4133212 : Client repu, client heureux - [CHS] - (test)玩家选错香嫩椒椒鸡$HIDDEN
-4133213 : Client repu, client heureux - Renseignez-vous les préférences culinaires de chacun. (1/3)
+4133213 : Client repu, client heureux - Renseignez-vous les préférences culinaires de chacun (1/3).
 4133214 : Client repu, client heureux - Faites votre rapport au chef Mao.
 4133215 : Client repu, client heureux - Remettez une lanterne céleste au chef Mao.
 4133216 : Client repu, client heureux - Parlez au chef Mao.
@@ -28780,7 +29558,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 7082402 : Grand ménage - Suivez Adeline à l'intérieur du Domaine de l'Aurore.
 7082403 : Grand ménage - Nettoyez toutes les taches.
 7082404 : Grand ménage - Parlez à Adeline.
-7082501 : Après-crise - [CHS] - 与霍夫曼对话$HIDDEN
+7082501 : Après-crise - Parlez à Hoffman.
 7082502 : Après-crise - Allez inspecter les environs et détruisez tous les obstacles.
 7082503 : Après-crise - Éliminez tous les monstres et détruisez tous les obstacles.
 7082504 : Après-crise - Allez inspecter les environs et détruisez tous les obstacles.
